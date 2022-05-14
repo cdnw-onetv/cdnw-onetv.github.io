@@ -89,7 +89,7 @@
       "localImageResource": "voa_persian",
       "url": "https://voa-ingest.akamaized.net/dash/live/2033877-b/tvmc07/manifest.mpd",
       "backupUrl": "https://voa-ingest.akamaized.net/dash/live/2033877/tvmc07/manifest.mpd",
-      "url2": "https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0240_av-p.m3u8?sd=10&rebase=on"
+      "url2": "https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0240_av-p.m3u8?sd=10&rebase=on&mp3=mp3"
     },
     {
       "id": "4",
