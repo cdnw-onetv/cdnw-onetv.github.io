@@ -856,6 +856,16 @@
       "url": "https://server12.ikomg.live/hls/kurd.m3u8"
     },
     {
+      "id": "325",
+      "title": "Afarin Kids",
+      "title_b_fa": "ئافەرین",
+      "description": "Kids",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "afarin_kids",
+      "url": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8"
+    },
+    {
       "id": "316",
       "title": "Kurdmax (Kurmanci) ",
       "title_b_fa": "کوردماکس (کرمانجی)",
@@ -939,7 +949,8 @@
       "country_code": "US",
       "language_code": "ku",
       "localImageResource": "voa_kurdi",
-      "url": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8"
+      "url2": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8",
+      "url": "https://voa-ingest.akamaized.net/dash/live/2035123/154_224L/manifest.mpd"
     },
     {
       "id": "314",
@@ -958,7 +969,8 @@
       "country_code": "IQ",
       "language_code": "ar",
       "localImageResource": "zagros_tv",
-      "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
+      "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
+      "backupId": "4315"
     }
   ],
   "turkish_tv": [
@@ -3848,6 +3860,18 @@
       "channelName": "GaliKurdistan",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/geli-kurdistan-tv.html"
+    },
+    {
+      "id": "4315",
+      "title": "Zagros (Backup)",
+      "title_b_fa": "زاگرس",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ar",
+      "localImageResource": "zagros_tv",
+      "channelName": "ZagrosTv",
+      "serverName": "EmbeddedWebView",
+      "url": "https://ku.karwan.tv/zagros-tv.html"
     },
     {
       "id": "4119",
