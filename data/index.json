@@ -89,7 +89,7 @@
       "localImageResource": "voa_persian",
       "url": "https://voa-ingest.akamaized.net/dash/live/2033877-b/tvmc07/manifest.mpd",
       "backupUrl": "https://voa-ingest.akamaized.net/dash/live/2033877/tvmc07/manifest.mpd",
-      "url2": "https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0240_av-p.m3u8?sd=10&rebase=on&mp3=mp3"
+      "url2": "https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0240_av-p.m3u8?sd=10&rebase=on"
     },
     {
       "id": "4",
@@ -950,7 +950,7 @@
       "language_code": "ku",
       "localImageResource": "voa_kurdi",
       "url2": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8",
-      "url": "https://voa-ingest.akamaized.net/dash/live/2035123/154_224L/manifest.mpd"
+      "url": "https://voa-ingest.akamaized.net/dash/live/2035123/154_224L/manifest.mpd?mp3=mp3"
     },
     {
       "id": "314",
