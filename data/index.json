@@ -3864,7 +3864,7 @@
     {
       "id": "4315",
       "title": "Zagros (Backup)",
-      "title_b_fa": "زاگرس",
+      "title_b_fa": "زاگرس (جایگزین)",
       "description": "General",
       "country_code": "IQ",
       "language_code": "ar",
@@ -3875,9 +3875,9 @@
     },
     {
       "id": "4119",
-      "title": "MBC 2",
-      "title_b_fa": "ام بی سی ۲",
-      "title_b_ar": "ام بی سی ۲",
+      "title": "MBC 2 (Backup)",
+      "title_b_fa": "ام بی سی ۲ (جایگزین)",
+      "title_b_ar": "ام بی سی ۲ (احتياطي)",
       "description": "Movies",
       "language_code": "ar",
       "localImageResource": "mbc_2",
@@ -3888,16 +3888,16 @@
     },
     {
       "id": "4121",
-      "title": "MBC 4",
-      "title_b_fa": "ام بی سی ۴",
-      "title_b_ar": "ام بی سی ۴",
+      "title": "MBC 4 (Backup)",
+      "title_b_fa": "ام بی سی ۴ (جایگزین)",
+      "title_b_ar": "ام بی سی ۴ (احتياطي)",
       "description": "Movies",
       "language_code": "ar",
       "localImageResource": "mbc_4",
       "serverName": "EmbeddedWebView",
       "channelName": "mbc_4",
       "url": "https://www.aflam4you.net/watch/mbc-4-live-shahid-mbc4-ramadan-online-tv_71.html",
-      "url2": "http://www.teledunet.com/?channel=1135"
+      "backupUrl": "http://www.teledunet.com/?channel=1135"
     },
     {
       "id": "513",
