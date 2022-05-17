@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "2"
+      "description": "4"
     },
     {
       "id": "2001",
@@ -76,7 +76,7 @@
       "language_code": "fa",
       "favorite": "Yes",
       "localImageResource": "iran_international",
-      "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8",
+      "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
       "backupUrl": "https://live.playstop.me/1816184091/chunklist_b341000.m3u8"
     },
     {
