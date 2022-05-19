@@ -1425,6 +1425,18 @@
       "url": "https://canlitv.com/player/index.php?id=837"
     },
     {
+      "id": "690",
+      "title": "DMAX TV",
+      "title_b_fa": "دی مکس تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/d_max_tv.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/d_max_tv.png",
+      "streamingUrlReferer": "https://www.ecanlitvizle.live/",
+      "url": "https://dogus-live.daioncdn.net/dmax/playlist.m3u8"
+    },
+    {
       "id": "632",
       "title": "Fenerbahce TV",
       "title_b_fa": "فنرباغچه تی وی",
@@ -1578,8 +1590,8 @@
       "description": "News",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource2": "bloomberg_ht_tv",
       "localImageResource": "https://cdnw-onetv.github.io/logo/bloomberg_ht_tv.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/bloomberg_ht_tv.png",
       "channelName": "bloomberg_ht_tv",
       "serverName": "EmbeddedWebView",
       "url": "https://canlitv.center/bloomberg-ht-izle",
@@ -1593,8 +1605,8 @@
       "description": "News",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource2": "tv_100_turkey_tv",
       "localImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
       "url": "https://www.youtube.com/embed/8jEXHzMTR7s?autoplay=1&controls=0"
     },
     {
@@ -1604,8 +1616,8 @@
       "description": "News",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource2": "haber_global_tv",
       "localImageResource": "https://cdnw-onetv.github.io/logo/haber_global_tv.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/haber_global_tv.png",
       "channelName": "haber_global_tv",
       "serverName": "Embedded",
       "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
