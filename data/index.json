@@ -4269,7 +4269,8 @@
       "localImageResource": "user_channel_9",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium60/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium60/chunks.m3u8"
     },
     {
       "id": "6010",
@@ -4278,7 +4279,8 @@
       "localImageResource": "user_channel_10",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium61/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium61/chunks.m3u8"
     },
     {
       "id": "6011",
@@ -4287,7 +4289,8 @@
       "localImageResource": "user_channel_11",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium91/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium91/chunks.m3u8"
     },
     {
       "id": "6012",
@@ -4296,7 +4299,8 @@
       "localImageResource": "user_channel_12",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium92/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium92/chunks.m3u8"
     },
     {
       "id": "6013",
@@ -4305,7 +4309,8 @@
       "localImageResource": "user_channel_13",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium93/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium93/chunks.m3u8"
     },
     {
       "id": "6014",
@@ -4314,7 +4319,8 @@
       "localImageResource": "user_channel_14",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium62/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium62/chunks.m3u8"
     },
     {
       "id": "6015",
@@ -4323,7 +4329,8 @@
       "localImageResource": "user_channel_15",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium63/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium63/chunks.m3u8"
     },
     {
       "id": "6016",
@@ -4332,7 +4339,8 @@
       "localImageResource": "user_channel_16",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium64/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium64/chunks.m3u8"
     },
     {
       "id": "6017",
@@ -4341,7 +4349,8 @@
       "localImageResource": "user_channel_17",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium111/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium111/chunks.m3u8"
     },
     {
       "id": "6018",
@@ -4350,7 +4359,8 @@
       "localImageResource": "user_channel_18",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium112/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium112/chunks.m3u8"
     },
     {
       "id": "6019",
@@ -4359,7 +4369,8 @@
       "localImageResource": "user_channel_19",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium115/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium115/chunks.m3u8"
     },
     {
       "id": "6020",
@@ -4369,7 +4380,8 @@
       "channelName": "",
       "serverName": "",
       "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://www.webcsn.ru.com/cdn/premium98/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium98/chunks.m3u8"
     },
     {
       "id": "6021",
@@ -4378,7 +4390,8 @@
       "localImageResource": "user_channel_21",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium99/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium99/chunks.m3u8"
     },
     {
       "id": "6022",
@@ -4387,7 +4400,8 @@
       "localImageResource": "user_channel_22",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium100/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium100/chunks.m3u8"
     },
     {
       "id": "6023",
