@@ -1297,6 +1297,17 @@
       "url": "https://www.dreamturk.com.tr/actions/content/media/566ab958980ea810b4658d96"
     },
     {
+      "id": "696",
+      "title": "Power Turk TV",
+      "title_b_fa": "پاور ترک تی وی",
+      "description": "Music",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/power_turk_tv.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/power_turk_tv.png",
+      "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8"
+    },
+    {
       "id": "616",
       "title": "NR1 TV",
       "title_b_fa": "نامبر وان تی وی",
@@ -1425,6 +1436,19 @@
       "url": "https://canlitv.com/player/index.php?id=837"
     },
     {
+      "id": "691",
+      "title": "Bizimev TV",
+      "title_b_fa": "بیزیمو تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/bizimev_tv.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/bizimev_tv.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "bizimev_tv",
+      "url": "https://canlitv.center/bizimev-tv"
+    },
+    {
       "id": "690",
       "title": "DMAX TV",
       "title_b_fa": "دی مکس تی وی",
@@ -1435,6 +1459,64 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/d_max_tv.png",
       "streamingUrlReferer": "https://www.ecanlitvizle.live/",
       "url": "https://dogus-live.daioncdn.net/dmax/playlist.m3u8"
+    },
+    {
+      "id": "692",
+      "title": "TLC TV",
+      "title_b_fa": "تی ال سی تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/tlc_tv.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tlc_tv.png",
+      "serverName": "Embedded",
+      "channelName": "tlc_turkey_tv",
+      "streamingUrlReferer": "https://www.ecanlitvizle.live/tlc-tv-canli/",
+      "url": "https://www.ecanlitvizle.live/embed.php?kanal=tlc-tv-canli"
+    },
+    {
+      "id": "693",
+      "title": "TV 4",
+      "title_b_fa": "تی وی ۴",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/tv4_turkey.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv4_turkey.png",
+      "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
+    },
+    {
+      "id": "694",
+      "title": "TBMM TV",
+      "title_b_fa": "تی بی ام ام تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/tbmm_tv.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tbmm_tv.png",
+      "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
+    },
+    {
+      "id": "695",
+      "title": "CINE 5 TV",
+      "title_b_fa": "سی آی ان ۵ تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/cine5_tv.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/cine5_tv.png",
+      "url": "https://host.onlineradyotv.net:8081/cine5/index.m3u8"
+    },
+    {
+      "id": "697",
+      "title": "EM TV",
+      "title_b_fa": "ای ام تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/em_tv.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/em_tv.png",
+      "url": "http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8"
     },
     {
       "id": "632",
