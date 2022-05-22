@@ -1436,6 +1436,17 @@
       "url": "https://canlitv.com/player/index.php?id=837"
     },
     {
+      "id": "636",
+      "title": "TV 8,5",
+      "title_b_fa": "تی وی ۸,۵",
+      "description": "General",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/tv8_5_turkish.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv8_5_turkish.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "tv8_5_turkish",
+      "url": "https://canlitv.center/tv8-5"
+    },
+    {
       "id": "691",
       "title": "Bizimev TV",
       "title_b_fa": "بیزیمو تی وی",
@@ -4072,16 +4083,6 @@
     }
   ],
   "others_tv": [
-    {
-      "id": "636",
-      "title": "TV 8,5",
-      "title_b_fa": "تی وی ۸",
-      "description": "General",
-      "localImageResource": "tv8_turkish",
-      "serverName": "Embedded",
-      "channelName": "tv8_turkish",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=tv-8-5-canli-19&yayin=1"
-    },
     {
       "id": "62222",
       "title": "IRIB UHD",
