@@ -1108,7 +1108,7 @@
     {
       "id": "621",
       "title": "A Spor",
-      "title_b_fa": "ای سپوژ",
+      "title_b_fa": "ای اسپور",
       "description": "Sports",
       "country_code": "TR",
       "language_code": "tr",
@@ -1120,23 +1120,27 @@
     },
     {
       "id": "624",
-      "title": "TRT Spor 1",
-      "title_b_fa": "تی آر تی سپوژ ۱",
+      "title": "TRT  Spor",
+      "title_b_fa": "تی آر تی اسپور",
       "description": "Sports",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "trt_sport_1",
-      "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
+      "localImageResource": "https://cdnw-onetv.github.io/logo/trt_sport.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport.png",
+      "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+      "backupId": "4624"
     },
     {
       "id": "625",
-      "title": "TRT Spor 2",
-      "title_b_fa": "تی آر تی سپوژ ۲",
+      "title": "TRT  Spor Yildiz",
+      "title_b_fa": "تی آر تی اسپور یلدیز",
       "description": "Sports",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "trt_sport_2",
-      "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
+      "localImageResource": "https://cdnw-onetv.github.io/logo/trt_sport_yildiz.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport_yildiz.png",
+      "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+      "backupId": "4625"
     },
     {
       "id": "629",
@@ -4019,6 +4023,31 @@
       "channelName": "ZagrosTv",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/zagros-tv.html"
+    },
+    {
+      "id": "4624",
+      "title": "TRT Spor (Backup)",
+      "title_b_fa": "تی آر تی اسپور (جایگزین)",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/trt_sport.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport.png",
+      "channelName": "trt_sport_1",
+      "serverName": "Embedded",
+      "streamingUrlReferer": "https://www.ecanlitvizle.live/trt-spor-canli-hd-izle/",
+      "url": "https://www.ecanlitvizle.live/embed.php?kanal=trt-spor-canli-hd-izle"
+    },
+    {
+      "id": "4625",
+      "title": "TRT Spor Yildiz (Backup)",
+      "title_b_fa": "تی آر تی اسپور یلدیز (جایگزین)",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/trt_sport_yildiz.png",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport_yildiz.png",
+      "channelName": "trt_sport_2",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.canlitv.vin/trt-spor-yildiz"
     },
     {
       "id": "4119",
