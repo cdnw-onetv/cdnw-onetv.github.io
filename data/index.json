@@ -1387,7 +1387,7 @@
       "language_code": "tr",
       "localImageResource": "kral_tv",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Z8-NunA-0aM",
-      "backupUrl": "https://www.youtube.com/watch?v=Z8-NunA-0aM&theme=dark&mode=theater&modestbranding=1&controls=0"
+      "backupUrl1": "https://www.youtube.com/watch?v=Z8-NunA-0aM&theme=dark&mode=theater&modestbranding=1&controls=0"
     },
     {
       "id": "664",
@@ -1398,7 +1398,7 @@
       "language_code": "tr",
       "localImageResource": "kral_pop_tv",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GuFTuKoXepw",
-      "backupUrl": "https://www.youtube.com/watch?v=GuFTuKoXepw&theme=dark&mode=theater"
+      "backupUrl1": "https://www.youtube.com/watch?v=GuFTuKoXepw&theme=dark&mode=theater"
     },
     {
       "id": "652",
