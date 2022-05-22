@@ -1440,6 +1440,8 @@
       "title": "TV 8,5",
       "title_b_fa": "تی وی ۸,۵",
       "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
       "localImageResource": "https://cdnw-onetv.github.io/logo/tv8_5_turkish.png",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv8_5_turkish.png",
       "serverName": "EmbeddedWebView",
