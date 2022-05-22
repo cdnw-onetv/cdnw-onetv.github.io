@@ -1423,19 +1423,6 @@
       "url": "https://www.teve2.com.tr/canli-yayin"
     },
     {
-      "id": "660",
-      "title": "Cem TV",
-      "title_b_fa": "جم تی وی",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "cem_tv",
-      "serverName": "Embedded",
-      "channelName": "cem_tv",
-      "streamingUrlReferer": "https://canlitv.com/tele1-tv",
-      "url": "https://canlitv.com/player/index.php?id=837"
-    },
-    {
       "id": "636",
       "title": "TV 8,5",
       "title_b_fa": "تی وی ۸,۵",
@@ -1447,6 +1434,19 @@
       "serverName": "EmbeddedWebView",
       "channelName": "tv8_5_turkish",
       "url": "https://canlitv.center/tv8-5"
+    },
+    {
+      "id": "660",
+      "title": "Cem TV",
+      "title_b_fa": "جم تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "cem_tv",
+      "serverName": "Embedded",
+      "channelName": "cem_tv",
+      "streamingUrlReferer": "https://canlitv.com/tele1-tv",
+      "url": "https://canlitv.com/player/index.php?id=837"
     },
     {
       "id": "691",
