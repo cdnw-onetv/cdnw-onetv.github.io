@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "4"
+      "description": "6"
     },
     {
       "id": "2001",
@@ -18,7 +18,7 @@
     {
       "id": "2003",
       "title": "download_url",
-      "description": "https://cdnw-onetv.github.io/data/index.json"
+      "description": "https://cdnw-onetv.github.io/index.json"
     },
     {
       "id": "2004",
@@ -1108,7 +1108,7 @@
     {
       "id": "621",
       "title": "A Spor",
-      "title_b_fa": "ای سپوژ",
+      "title_b_fa": "ای اسپور",
       "description": "Sports",
       "country_code": "TR",
       "language_code": "tr",
@@ -1120,23 +1120,27 @@
     },
     {
       "id": "624",
-      "title": "TRT Spor 1",
-      "title_b_fa": "تی آر تی سپوژ ۱",
+      "title": "TRT Spor",
+      "title_b_fa": "تی آر تی اسپور",
       "description": "Sports",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "trt_sport_1",
-      "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
+      "localImageResource": "trt_sport",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport.png",
+      "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+      "backupId": "4624"
     },
     {
       "id": "625",
-      "title": "TRT Spor 2",
-      "title_b_fa": "تی آر تی سپوژ ۲",
+      "title": "TRT Spor Yildiz",
+      "title_b_fa": "تی آر تی اسپور یلدیز",
       "description": "Sports",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "trt_sport_2",
-      "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
+      "localImageResource": "trt_sport_yildiz",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport_yildiz.png",
+      "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+      "backupId": "4625"
     },
     {
       "id": "629",
@@ -1297,6 +1301,17 @@
       "url": "https://www.dreamturk.com.tr/actions/content/media/566ab958980ea810b4658d96"
     },
     {
+      "id": "696",
+      "title": "Power Turk TV",
+      "title_b_fa": "پاور ترک تی وی",
+      "description": "Music",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "power_turk_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/power_turk_tv.png",
+      "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8"
+    },
+    {
       "id": "616",
       "title": "NR1 TV",
       "title_b_fa": "نامبر وان تی وی",
@@ -1376,7 +1391,7 @@
       "language_code": "tr",
       "localImageResource": "kral_tv",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Z8-NunA-0aM",
-      "backupUrl": "https://www.youtube.com/watch?v=Z8-NunA-0aM&theme=dark&mode=theater&modestbranding=1&controls=0"
+      "backupUrl1": "https://www.youtube.com/watch?v=Z8-NunA-0aM&theme=dark&mode=theater&modestbranding=1&controls=0"
     },
     {
       "id": "664",
@@ -1387,7 +1402,7 @@
       "language_code": "tr",
       "localImageResource": "kral_pop_tv",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GuFTuKoXepw",
-      "backupUrl": "https://www.youtube.com/watch?v=GuFTuKoXepw&theme=dark&mode=theater"
+      "backupUrl1": "https://www.youtube.com/watch?v=GuFTuKoXepw&theme=dark&mode=theater"
     },
     {
       "id": "652",
@@ -1412,6 +1427,19 @@
       "url": "https://www.teve2.com.tr/canli-yayin"
     },
     {
+      "id": "636",
+      "title": "TV 8,5",
+      "title_b_fa": "تی وی ۸,۵",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "tv8_5_turkish",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv8_5_turkish.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "tv8_5_turkish",
+      "url": "https://canlitv.center/tv8-5"
+    },
+    {
       "id": "660",
       "title": "Cem TV",
       "title_b_fa": "جم تی وی",
@@ -1423,6 +1451,89 @@
       "channelName": "cem_tv",
       "streamingUrlReferer": "https://canlitv.com/tele1-tv",
       "url": "https://canlitv.com/player/index.php?id=837"
+    },
+    {
+      "id": "691",
+      "title": "Bizimev TV",
+      "title_b_fa": "بیزیمو تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "bizimev_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/bizimev_tv.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "bizimev_tv",
+      "url": "https://canlitv.center/bizimev-tv"
+    },
+    {
+      "id": "690",
+      "title": "DMAX TV",
+      "title_b_fa": "دی مکس تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "d_max_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/d_max_tv.png",
+      "streamingUrlReferer": "https://www.ecanlitvizle.live/",
+      "url": "https://dogus-live.daioncdn.net/dmax/playlist.m3u8"
+    },
+    {
+      "id": "692",
+      "title": "TLC TV",
+      "title_b_fa": "تی ال سی تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "tlc_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tlc_tv.png",
+      "serverName": "Embedded",
+      "channelName": "tlc_turkey_tv",
+      "streamingUrlReferer": "https://www.ecanlitvizle.live/tlc-tv-canli/",
+      "url": "https://www.ecanlitvizle.live/embed.php?kanal=tlc-tv-canli"
+    },
+    {
+      "id": "693",
+      "title": "TV 4",
+      "title_b_fa": "تی وی ۴",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "tv4_turkey",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv4_turkey.png",
+      "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
+    },
+    {
+      "id": "694",
+      "title": "TBMM TV",
+      "title_b_fa": "تی بی ام ام تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "tbmm_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tbmm_tv.png",
+      "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
+    },
+    {
+      "id": "695",
+      "title": "CINE 5 TV",
+      "title_b_fa": "سی آی ان ۵ تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "cine5_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/cine5_tv.png",
+      "url": "https://host.onlineradyotv.net:8081/cine5/index.m3u8"
+    },
+    {
+      "id": "697",
+      "title": "EM TV",
+      "title_b_fa": "ای ام تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "em_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/em_tv.png",
+      "url": "http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8"
     },
     {
       "id": "632",
@@ -1578,7 +1689,7 @@
       "description": "News",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "https://cdnw-onetv.github.io/logo/bloomberg_ht_tv.png",
+      "localImageResource": "bloomberg_ht_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bloomberg_ht_tv.png",
       "channelName": "bloomberg_ht_tv",
       "serverName": "EmbeddedWebView",
@@ -1593,7 +1704,7 @@
       "description": "News",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
+      "localImageResource": "tv_100_turkey_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
       "url": "https://www.youtube.com/embed/8jEXHzMTR7s?autoplay=1&controls=0"
     },
@@ -1604,7 +1715,7 @@
       "description": "News",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "https://cdnw-onetv.github.io/logo/haber_global_tv.png",
+      "localImageResource": "haber_global_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/haber_global_tv.png",
       "channelName": "haber_global_tv",
       "serverName": "Embedded",
@@ -3522,6 +3633,27 @@
       "backupUrl": "http://live-hls-web-aje.getaj.net/AJE/01.m3u8"
     },
     {
+      "id": "517",
+      "title": "TVO Kids",
+      "title_b_fa": "تی وی او کیدز",
+      "description": "Kids",
+      "country_code": "CA",
+      "language_code": "en",
+      "localImageResource": "tvo_kids",
+      "url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8"
+    },
+    {
+      "id": "518",
+      "title": "PBS Kids",
+      "title_b_fa": "پی بی اس کیدز",
+      "description": "Kids",
+      "country_code": "US",
+      "language_code": "en",
+      "localImageResource": "pbs_kids",
+      "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8",
+      "backupUrl": "https://livestream.pbskids.org/out/v1/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd"
+    },
+    {
       "id": "516",
       "title": "Beautiful Places On Earth",
       "title_b_fa": "مکانهای دیدنی زمین",
@@ -3914,6 +4046,31 @@
       "url": "https://ku.karwan.tv/zagros-tv.html"
     },
     {
+      "id": "4624",
+      "title": "TRT Spor (Backup)",
+      "title_b_fa": "تی آر تی اسپور (جایگزین)",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "trt_sport",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport.png",
+      "channelName": "trt_sport_1",
+      "serverName": "Embedded",
+      "streamingUrlReferer": "https://www.ecanlitvizle.live/trt-spor-canli-hd-izle/",
+      "url": "https://www.ecanlitvizle.live/embed.php?kanal=trt-spor-canli-hd-izle"
+    },
+    {
+      "id": "4625",
+      "title": "TRT Spor Yildiz (Backup)",
+      "title_b_fa": "تی آر تی اسپور یلدیز (جایگزین)",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "trt_sport_yildiz",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport_yildiz.png",
+      "channelName": "trt_sport_2",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.canlitv.vin/trt-spor-yildiz"
+    },
+    {
       "id": "4119",
       "title": "MBC 2 (Backup)",
       "title_b_fa": "ام بی سی ۲ (جایگزین)",
@@ -3978,16 +4135,6 @@
     }
   ],
   "others_tv": [
-    {
-      "id": "636",
-      "title": "TV 8,5",
-      "title_b_fa": "تی وی ۸",
-      "description": "General",
-      "localImageResource": "tv8_turkish",
-      "serverName": "Embedded",
-      "channelName": "tv8_turkish",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=tv-8-5-canli-19&yayin=1"
-    },
     {
       "id": "62222",
       "title": "IRIB UHD",
@@ -4175,7 +4322,8 @@
       "localImageResource": "user_channel_9",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium60/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium60/chunks.m3u8"
     },
     {
       "id": "6010",
@@ -4184,7 +4332,8 @@
       "localImageResource": "user_channel_10",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium61/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium61/chunks.m3u8"
     },
     {
       "id": "6011",
@@ -4193,7 +4342,8 @@
       "localImageResource": "user_channel_11",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium91/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium91/chunks.m3u8"
     },
     {
       "id": "6012",
@@ -4202,7 +4352,8 @@
       "localImageResource": "user_channel_12",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium92/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium92/chunks.m3u8"
     },
     {
       "id": "6013",
@@ -4211,7 +4362,8 @@
       "localImageResource": "user_channel_13",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium93/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium93/chunks.m3u8"
     },
     {
       "id": "6014",
@@ -4220,7 +4372,8 @@
       "localImageResource": "user_channel_14",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium62/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium62/chunks.m3u8"
     },
     {
       "id": "6015",
@@ -4229,7 +4382,8 @@
       "localImageResource": "user_channel_15",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium63/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium63/chunks.m3u8"
     },
     {
       "id": "6016",
@@ -4238,7 +4392,8 @@
       "localImageResource": "user_channel_16",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium64/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium64/chunks.m3u8"
     },
     {
       "id": "6017",
@@ -4247,7 +4402,8 @@
       "localImageResource": "user_channel_17",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium111/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium111/chunks.m3u8"
     },
     {
       "id": "6018",
@@ -4256,7 +4412,8 @@
       "localImageResource": "user_channel_18",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium112/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium112/chunks.m3u8"
     },
     {
       "id": "6019",
@@ -4265,7 +4422,8 @@
       "localImageResource": "user_channel_19",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium115/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium115/chunks.m3u8"
     },
     {
       "id": "6020",
@@ -4275,7 +4433,8 @@
       "channelName": "",
       "serverName": "",
       "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://www.webcsn.ru.com/cdn/premium98/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium98/chunks.m3u8"
     },
     {
       "id": "6021",
@@ -4284,7 +4443,8 @@
       "localImageResource": "user_channel_21",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium99/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium99/chunks.m3u8"
     },
     {
       "id": "6022",
@@ -4293,7 +4453,8 @@
       "localImageResource": "user_channel_22",
       "channelName": "",
       "serverName": "",
-      "url": "https://www.webcsn.ru.com/cdn/premium100/chunks.m3u8"
+      "streamingUrlReferer": "https://player.licenses4.me/",
+      "url": "https://www.olacast.live/cdn/premium100/chunks.m3u8"
     },
     {
       "id": "6023",
