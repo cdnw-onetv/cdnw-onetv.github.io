@@ -13,7 +13,7 @@
     {
       "id": "2002",
       "title": "update_interval",
-      "description": "1"
+      "description": "24"
     },
     {
       "id": "2003",
@@ -2705,7 +2705,7 @@
       "channelName": "tv3",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
       "url": "https://sepehr.irib.ir/live",
-      "backupUrl": "http://184.145.4.117:62648/hls/test.m3u8"
+      "backupUrl": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8"
     },
     {
       "id": "1023",
@@ -3941,16 +3941,6 @@
     }
   ],
   "backup_tv": [
-    {
-      "id": "202899",
-      "title": "IRIB 3 (OneTV Backup)",
-      "title_b_fa": "شبکه ۳ (جایگزین وان تی وی)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_3",
-      "url": "http://184.145.4.117:62648/hls/test.m3u8"
-    },
     {
       "id": "2028",
       "title": "IRIB 3 (Backup 1)",
