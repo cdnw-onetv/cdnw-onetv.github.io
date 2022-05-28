@@ -2705,7 +2705,7 @@
       "channelName": "tv3",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
       "url": "https://sepehr.irib.ir/live",
-      "backupUrl": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8"
+      "backupUrl": "http://184.145.4.117:62648/hls/test.m3u8"
     },
     {
       "id": "1023",
