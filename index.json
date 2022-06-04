@@ -1847,7 +1847,19 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "vuslat_tv",
-      "url": "http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8"
+      "url": "http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8",
+      "backupUrl": "https://waw1.artiyerelmedya.net/vuslattv/bant1/playlist.m3u8"
+    },
+    {
+      "id": "701",
+      "title": "Malatya Vuslat TV",
+      "title_b_fa": "وصلت تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "malatya_vuslat_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/malatya_vuslat_tv.png",
+      "url": "https://waw1.artiyerelmedya.net/vuslattv/bant1/playlist.m3u8"
     },
     {
       "id": "647",
@@ -2068,7 +2080,10 @@
       "title_b_fa": "ینتراز تی وی",
       "description": "General",
       "localImageResource": "interaz_tv",
-      "url": "http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8"
+      "channelName": "interaz_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.com/inter-az",
+      "backupId": "4682"
     },
     {
       "id": "626",
@@ -2102,7 +2117,9 @@
       "description": "General",
       "localImageResource": "naxivan_tv",
       "streamingUrlReferer": "http://canli.naxcivantv.az/",
-      "url": "http://canli.naxcivantv.az/media/20220507/index.m3u8"
+      "channelName": "naxivan_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "http://canli.naxcivantv.az/"
     },
     {
       "id": "685",
@@ -2455,7 +2472,8 @@
       "localImageResource": "aljadeed_tv",
       "channelName": "aljadeed_tv",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/newtv.php"
+      "url": "http://www.elahmad.com/tv/newtv.php",
+      "backupId": "41156"
     },
     {
       "id": "1157",
@@ -4111,7 +4129,7 @@
       "language_code": "tr",
       "localImageResource": "a_tv",
       "serverName": "Embedded",
-      "channelName": "a_tv_backup",
+      "channelName": "a_tv",
       "streamingUrlReferer": "https://www.ecanlitvizle.live/atv-tv-canli-hd-izle-10/",
       "url": "https://www.ecanlitvizle.live/embed.php?kanal=atv-tv-canli-hd-izle-10"
     },
@@ -4123,7 +4141,7 @@
       "language_code": "tr",
       "localImageResource": "trt_sport",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport.png",
-      "channelName": "trt_sport_1",
+      "channelName": "trt_sport",
       "serverName": "Embedded",
       "streamingUrlReferer": "https://www.ecanlitvizle.live/trt-spor-canli-hd-izle/",
       "url": "https://www.ecanlitvizle.live/embed.php?kanal=trt-spor-canli-hd-izle"
@@ -4136,7 +4154,7 @@
       "language_code": "tr",
       "localImageResource": "trt_sport_yildiz",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport_yildiz.png",
-      "channelName": "trt_sport_2",
+      "channelName": "trt_sport_yildiz",
       "serverName": "EmbeddedWebView",
       "url": "https://www.canlitv.vin/trt-spor-yildiz"
     },
@@ -4152,6 +4170,16 @@
       "serverName": "EmbeddedWebView",
       "channelName": "tv8_5_turkish",
       "url": "https://canlitv.center/tv8-5"
+    },
+    {
+      "id": "4682",
+      "title": "Interaz TV (Backup)",
+      "country_code": "AZ",
+      "language_code": "az",
+      "title_b_fa": "ینتراز تی وی",
+      "description": "General",
+      "localImageResource": "interaz_tv",
+      "url": "http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8"
     },
     {
       "id": "4119",
@@ -4178,6 +4206,19 @@
       "channelName": "mbc_4",
       "url": "https://www.aflam4you.net/watch/mbc-4-live-shahid-mbc4-ramadan-online-tv_71.html",
       "backupUrl": "http://www.teledunet.com/?channel=1135"
+    },
+    {
+      "id": "41156",
+      "title": "Aljadeed TV (Backup)",
+      "title_b_fa": "الجديد تی وی (جایگزین)",
+      "title_b_ar": "الجديد تی وی (احتياطي)",
+      "description": "News",
+      "country_code": "LB",
+      "language_code": "ar",
+      "localImageResource": "aljadeed_tv",
+      "channelName": "aljadeed_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "http://azrotv.com/iphone/arabic/ch3/aljadeed.php"
     },
     {
       "id": "513",
