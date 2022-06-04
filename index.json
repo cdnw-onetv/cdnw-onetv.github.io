@@ -946,7 +946,7 @@
     {
       "id": "326",
       "title": "Zarok TV",
-      "title_b_fa": "زاروک",
+      "title_b_fa": "زاروک تی وی",
       "description": "Kids",
       "country_code": "TR",
       "language_code": "ku",
@@ -4147,7 +4147,7 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "tv8_5_turkish",
+      "localImageResource": "tv8_5_turkish_backup",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv8_5_turkish.png",
       "serverName": "EmbeddedWebView",
       "channelName": "tv8_5_turkish",
