@@ -932,7 +932,8 @@
       "language_code": "ku",
       "localImageResource": "denge_zelal_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/denge_zelal_tv.png",
-      "url": "https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8"
+      "url": "https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8",
+      "backupUrl": "http://dengezelaltv65.ozelip.com:26516/denge/denge/playlist.m3u8"
     },
     {
       "id": "322",
