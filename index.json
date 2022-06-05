@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "6"
+      "description": "7"
     },
     {
       "id": "2001",
@@ -4664,6 +4664,16 @@
     }
   ],
   "settings": [
+    {
+      "id": "2203",
+      "title": "Guide",
+      "title_b_fa": "راهنما",
+      "title_b_ku": "ڕێنوێنی",
+      "title_b_tr": "Kılavuz",
+      "title_b_ar": "إرشاد",
+      "localImageResource": "setting_guide",
+      "description": ""
+    },
     {
       "id": "2200",
       "title": "Zoom",
