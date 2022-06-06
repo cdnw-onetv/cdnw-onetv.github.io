@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "6"
+      "description": "7"
     },
     {
       "id": "2001",
@@ -684,6 +684,34 @@
       "localImageResource": "aio_sport",
       "streamingUrlReferer": "https://www.aionet.ir/",
       "url": "https://aio.arvanlive.com/hls/aiosport/aiosport.m3u8"
+    },
+    {
+      "id": "70",
+      "title": "Lenz Sport Plus",
+      "title_b_fa": "لنز اسپرت پلاس",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "lenz_sport",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_sport.png",
+      "streamingUrlReferer": "http://lenzsport.ir/",
+      "channelName": "lenz_sport",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.lenz.ir/live-free/LENZ_SPORT_PLUS?pk_campaign=premier_league&pk_kwd=20211228&pk_source=bulk&pk_medium=SMS&pk_content=southampton_tottenham&utm_source=IrCell&utm_campaign=southamptontottenham&utm_medium=Bulk"
+    },
+    {
+      "id": "62",
+      "title": "Lenz Sport",
+      "title_b_fa": "لنز اسپرت",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "lenz_sport",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_sport.png",
+      "streamingUrlReferer": "http://lenzsport.ir/",
+      "channelName": "lenz_sport_plus",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.lenz.ir/live-free/LENZ_SPORT?pk_campaign=premier_league&pk_kwd=20211228&pk_source=bulk&pk_medium=SMS&pk_content=southampton_tottenham&utm_source=IrCell&utm_campaign=southamptontottenham&utm_medium=Bulk"
     },
     {
       "id": "200",
@@ -4664,6 +4692,16 @@
     }
   ],
   "settings": [
+    {
+      "id": "2203",
+      "title": "Guide",
+      "title_b_fa": "راهنما",
+      "title_b_ku": "ڕێنوێنی",
+      "title_b_tr": "Kılavuz",
+      "title_b_ar": "إرشاد",
+      "localImageResource": "setting_guide",
+      "description": ""
+    },
     {
       "id": "2200",
       "title": "Zoom",
