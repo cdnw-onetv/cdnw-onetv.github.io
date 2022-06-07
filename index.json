@@ -177,7 +177,7 @@
       "language_code": "fa",
       "localImageResource": "radio_javan",
       "url": "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8",
-      "backupUrl": "http://184.144.131.38:60006/live/smil:rjtv.smil/playlist.m3u8"
+      "backupUrl": "http://184.144.131.38:60006/live/smil:rjtv.smil/chunklist_w1403401978_b746000.m3u8"
     },
     {
       "id": "7",
@@ -237,7 +237,7 @@
       "language_code": "fa",
       "localImageResource": "tapesh",
       "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8",
-      "backupUrl": "http://184.144.131.38:60015/tapesh/playlist.m3u8",
+      "backupUrl": "http://184.144.131.38:60015/tapesh/playlist1/index.m3u8",
       "backupUrl1": "http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8"
     },
     {
