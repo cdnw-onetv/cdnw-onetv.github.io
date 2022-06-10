@@ -4195,10 +4195,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "a_tv",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "a_tv",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/atv-tv-canli-hd-izle-10/",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=atv-tv-canli-hd-izle-10"
+      "url": "https://www.ecanlitvizle.live/atv-tv-canli-hd-izle-10/"
     },
     {
       "id": "4624",
