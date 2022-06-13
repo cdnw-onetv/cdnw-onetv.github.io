@@ -880,7 +880,31 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "tishk_tv",
-      "url": "https://server11.ikomg.live/hls/tishk.m3u8"
+      "url": "https://tishk-tv.ikoflix.com/hls/tishk-tv.m3u8"
+    },
+    {
+      "id": "329",
+      "title": "Speda TV",
+      "title_b_fa": "سپێده تی وی",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "speda_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/speda_tv.png",
+      "url": "http://cdn.dwasat.com:1935/live/speda084k/playlist.m3u8"
+    },
+    {
+      "id": "330",
+      "title": "NET TV",
+      "title_b_fa": "نت تی وی",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "net_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/net_tv.png",
+      "channelName": "net_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "https://ku.karwan.tv/net-tv.html"
     },
     {
       "id": "310",
@@ -933,7 +957,8 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurd_channel",
-      "url": "https://server12.ikomg.live/hls/kurd.m3u8"
+      "url": "https://server12.ikomg.live/hls/kurd.m3u8",
+      "backupId": "4313"
     },
     {
       "id": "325",
@@ -944,6 +969,17 @@
       "language_code": "ku",
       "localImageResource": "afarin_kids",
       "url": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8"
+    },
+    {
+      "id": "328",
+      "title": "Kurdistan 24",
+      "title_b_fa": "کوردستان ۲۴",
+      "description": "News",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "kurdistan_24",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/kurdistan_24.png",
+      "url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8"
     },
     {
       "id": "316",
@@ -4188,6 +4224,18 @@
       "channelName": "GaliKurdistan",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/geli-kurdistan-tv.html"
+    },
+    {
+      "id": "4313",
+      "title": "Kurd Channel",
+      "title_b_fa": "کورد کاناڵ",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "kurd_channel",
+      "channelName": "kurd_channel",
+      "serverName": "EmbeddedWebView",
+      "url": "https://ku.karwan.tv/kurd-channel.html"
     },
     {
       "id": "4315",
