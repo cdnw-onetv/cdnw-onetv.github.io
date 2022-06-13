@@ -855,6 +855,7 @@
       "id": "308",
       "title": "NRT",
       "title_b_fa": "ان آر تی",
+      "title_b_ku": "ئێن ئاڕ تی",
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
@@ -969,6 +970,20 @@
       "language_code": "ku",
       "localImageResource": "afarin_kids",
       "url": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8"
+    },
+    {
+      "id": "331",
+      "title": "NRT 3 Kids",
+      "title_b_fa": "ان آر تی ۳",
+      "title_b_ku": "ئێن ئاڕ تی ۳",
+      "description": "Kids",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "nrt_3_kids",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/nrt_3_kids.png",
+      "channelName": "nrt_3_kids",
+      "serverName": "EmbeddedWebView",
+      "url": "https://ku.karwan.tv/nrt-3-kids.html"
     },
     {
       "id": "328",
