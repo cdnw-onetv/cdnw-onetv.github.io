@@ -892,6 +892,19 @@
       "url": "https://muzkurd.com/sterktv/sterk/playlist.m3u8"
     },
     {
+      "id": "327",
+      "title": "Korek TV",
+      "title_b_fa": "کورک",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "korek_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/korek_tv.png",
+      "channelName": "korek_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "https://ku.karwan.tv/korek-tv.html"
+    },
+    {
       "id": "311",
       "title": "Kurdistan TV",
       "title_b_fa": "کوردستان تی وی",
