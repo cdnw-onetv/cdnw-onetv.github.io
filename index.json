@@ -815,7 +815,7 @@
       "language_code": "ku",
       "favorite": "Yes",
       "localImageResource": "kurdmax_tv",
-      "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:myStream_all/playlist.m3u8?wowzacaptionlanguages=fra",
+      "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/_definst_/KurdmaxBadine0!/playlist.m3u8",
       "backupId": "4303"
     },
     {
@@ -1004,7 +1004,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_tv",
-      "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:myStream2_all/playlist.m3u8?wowzacaptionlanguages=fra",
+      "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/_definst_/KurdmaxS0rani!/playlist.m3u8",
       "backupUrl": "http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/playlist.m3u8",
       "backupId": "4303"
     },
@@ -3137,7 +3137,7 @@
       "id": "1056",
       "title": "Omid",
       "title_b_fa": "امید",
-      "description": "General",
+      "description": "Kids",
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_omid",
@@ -3254,7 +3254,7 @@
       "id": "1031",
       "title": "Nava",
       "title_b_fa": "نوا",
-      "description": "General",
+      "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_nava",
