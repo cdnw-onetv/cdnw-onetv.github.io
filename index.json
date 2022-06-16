@@ -213,7 +213,7 @@
       "language_code": "fa",
       "localImageResource": "farsi_tv",
       "url": "https://live.farsitv.de/live/stream.m3u8",
-      "backupUrl": "http://184.144.131.38:60075/live/stream.m3u8"
+      "backupUrl": "http://184.144.131.38:60075/live/stream_480p/index.m3u8"
 
     },
     {
