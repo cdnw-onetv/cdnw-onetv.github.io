@@ -692,6 +692,17 @@
       "url": "http://51.210.199.52/hls/stream.m3u8"
     },
     {
+      "id": "79",
+      "title": "Prima TV",
+      "title_b_fa": "پریما تی وی",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "prima_tv_persian",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/prima_tv_persian.png",
+      "url": "http://51.210.199.40/hls/stream.m3u8"
+    },
+    {
       "id": "68",
       "title": "SL 1",
       "title_b_fa": "اس ال یک",
