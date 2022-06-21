@@ -39,6 +39,11 @@
       "id": "2007",
       "title": "iptv_download_url",
       "description": "https://iptv-org.github.io/iptv/index.m3u"
+    },
+    {
+      "id": "2008",
+      "title": "app_version_code",
+      "description": ""
     }
   ],
   "persian_tv": [
