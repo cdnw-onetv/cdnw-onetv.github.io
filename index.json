@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "9"
+      "description": "10"
     },
     {
       "id": "2001",
@@ -4778,6 +4778,19 @@
       "title_b_tr": "düzenle",
       "title_b_ar": "تحرير",
       "localImageResource": "setting_add",
+      "description": ""
+    }
+  ],
+  "edit_list": [
+    {
+      "id": "2105",
+      "title": "List Settings",
+      "title_b_fa": "تنظیمات لیست",
+      "title_b_ku": "ڕێکخستنەکانی لیست",
+      "title_b_tr": "Liste Ayarları",
+      "title_b_ar": "إعدادات القائمة",
+      "localImageResource": "setting_list",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_list.png",
       "description": ""
     }
   ],
