@@ -1231,7 +1231,8 @@
       "localImageResource": "tv8_turkish",
       "serverName": "Embedded",
       "channelName": "tv8_turkish",
-      "url": "https://www.tv8.com.tr/canli-yayin"
+      "url": "https://www.tv8.com.tr/canli-yayin",
+      "backupId": "4635"
     },
     {
       "id": "615",
@@ -4291,6 +4292,19 @@
       "serverName": "EmbeddedWebView",
       "channelName": "a_tv",
       "url": "https://www.ecanlitvizle.live/atv-tv-canli-hd-izle-10/"
+    },
+    {
+      "id": "4635",
+      "title": "TV 8 (Backup)",
+      "title_b_fa": "تی وی ۸ (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "tv8_turkish",
+      "serverName": "Embedded",
+      "channelName": "tv8_turkish",
+      "streamingUrlReferer": "https://www.ecanlitvizle.live/tv-8-canli-yayin-izle-15/",
+      "url": "https://www.ecanlitvizle.live/embed.php?kanal=tv-8-canli-yayin-izle-15"
     },
     {
       "id": "4624",
