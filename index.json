@@ -39,6 +39,11 @@
       "id": "2007",
       "title": "iptv_download_url",
       "description": "https://iptv-org.github.io/iptv/index.m3u"
+    },
+    {
+      "id": "2008",
+      "title": "app_version_code",
+      "description": ""
     }
   ],
   "persian_tv": [
@@ -850,7 +855,7 @@
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
       "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
-      "backupUrl": "https://www.youtube.com/embed/2fqESBMePCk?autoplay=1&controls=0",
+      "backupUrl": "https://www.youtube.com/embed/1UImY5HXPl8?autoplay=1&controls=0",
       "backupId": "4305"
     },
     {
