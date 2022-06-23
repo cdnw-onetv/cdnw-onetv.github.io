@@ -760,7 +760,9 @@
       "localImageResource": "aio_network",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
       "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://aio.arvanvod.com/w7vrJwWZno/VKdZRmE5b1/h_,144_200,240_400,360_800,480_1500,720_2500,1080_4500,k.mp4.list/master.m3u8"
+      "channelName": "aio_toon",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aionet.ir/channel/100024"
     },
     {
       "id": "82",
@@ -772,7 +774,9 @@
       "localImageResource": "aio_network",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
       "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://aio.arvanvod.com/w7vrJwWZno/VZgm0Ky09Q/h_,144_200,240_400,360_800,480_1500,720_2500,1080_3498,k.mp4.list/master.m3u8"
+      "channelName": "aio_film",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aionet.ir/channel/100025"
     },
     {
       "id": "83",
