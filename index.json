@@ -739,6 +739,78 @@
       "url": "https://aio.arvanlive.com/hls/aiosport/aiosport.m3u8"
     },
     {
+      "id": "80",
+      "title": "Aio Jahanbin",
+      "title_b_fa": "آیو جهان بین",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "aio_network",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://aio.arvanlive.com/hls/jahanb/jahanb.m3u8"
+    },
+    {
+      "id": "81",
+      "title": "Aio Toon",
+      "title_b_fa": "آیوتون",
+      "description": "Kids",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "aio_network",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://aio.arvanvod.com/w7vrJwWZno/VKdZRmE5b1/h_,144_200,240_400,360_800,480_1500,720_2500,1080_4500,k.mp4.list/master.m3u8"
+    },
+    {
+      "id": "82",
+      "title": "Aio Film",
+      "title_b_fa": "آیو فیلم",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "aio_network",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://aio.arvanvod.com/w7vrJwWZno/VZgm0Ky09Q/h_,144_200,240_400,360_800,480_1500,720_2500,1080_3498,k.mp4.list/master.m3u8"
+    },
+    {
+      "id": "83",
+      "title": "Aio Dorfa",
+      "title_b_fa": "آیو درفا",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "aio_dorfa",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_dorfa.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://aio.arvanlive.com/hls/dorfa/dorfa.m3u8"
+    },
+    {
+      "id": "84",
+      "title": "Aio Arpa",
+      "title_b_fa": "آیو آرپا",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "aio_arpa",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_arpa.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://aio.arvanlive.com/hls/arpa/arpa.m3u8"
+    },
+    {
+      "id": "85",
+      "title": "Aio Economy",
+      "title_b_fa": "آیو آرپا",
+      "description": "Economy",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "aio_network",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://aio.arvanlive.com/hls/iraneconomy/iraneconomy.m3u8"
+    },
+    {
       "id": "200",
       "title": "Radio Hamrah",
       "title_b_fa": "رادیو همراه",
