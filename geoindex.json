@@ -739,30 +739,44 @@
       "url": "https://aio.arvanlive.com/hls/aiosport/aiosport.m3u8"
     },
     {
-      "id": "80",
-      "title": "Aio Jahanbin",
-      "title_b_fa": "آیو جهان بین",
-      "description": "General",
+      "id": "70",
+      "title": "Lenz Sport Plus",
+      "title_b_fa": "لنز اسپرت پلاس",
+      "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "localImageResource": "aio_network",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://aio.arvanlive.com/hls/jahanb/jahanb.m3u8"
+      "localImageResource": "lenz_sport",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_sport.png",
+      "streamingUrlReferer": "http://lenzsport.ir/",
+      "channelName": "lenz_sport",
+      "url": "http://5.123.1.8:80/wh7f454c46tw698503064_282586153/PLTV/88888888/224/3221226614/index.m3u8?tenantId=9805"
     },
     {
-      "id": "81",
-      "title": "Aio Toon",
-      "title_b_fa": "آیوتون",
-      "description": "Kids",
+      "id": "62",
+      "title": "Lenz Sport",
+      "title_b_fa": "لنز اسپرت",
+      "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "localImageResource": "aio_network",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "channelName": "aio_toon",
+      "localImageResource": "lenz_sport",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_sport.png",
+      "streamingUrlReferer": "http://lenzsport.ir/",
+      "channelName": "lenz_sport_plus",
+      "url": "http://5.123.1.8:80/wh7f454c46tw4248776526_-1196073838/PLTV/88888888/224/3221226611/index.m3u8"
+    },
+    {
+      "id": "86",
+      "title": "Lenz Film",
+      "title_b_fa": "لنز فیلم",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "lenz_film",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_film.png",
+      "streamingUrlReferer": "http://lenzsport.ir/",
+      "channelName": "lenz_film",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aionet.ir/channel/100024"
+      "url": "https://world.gap.im/g/live-tv/lenz-film"
     },
     {
       "id": "82",
@@ -777,6 +791,20 @@
       "channelName": "aio_film",
       "serverName": "EmbeddedWebView",
       "url": "https://www.aionet.ir/channel/100025"
+    },
+    {
+      "id": "81",
+      "title": "Aio Toon",
+      "title_b_fa": "آیوتون",
+      "description": "Kids",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "aio_network",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "channelName": "aio_toon",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aionet.ir/channel/100024"
     },
     {
       "id": "83",
@@ -813,6 +841,18 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
       "streamingUrlReferer": "https://www.aionet.ir/",
       "url": "https://aio.arvanlive.com/hls/iraneconomy/iraneconomy.m3u8"
+    },
+    {
+      "id": "80",
+      "title": "Aio Jahanbin",
+      "title_b_fa": "آیو جهان بین",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "aio_network",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://aio.arvanlive.com/hls/jahanb/jahanb.m3u8"
     },
     {
       "id": "200",
@@ -4851,34 +4891,6 @@
       "channelName": "idman_tv",
       "serverName": "EmbeddedWebView",
       "url": "https://tr.canlitv.services/idman-tv-izle"
-    },
-    {
-      "id": "70",
-      "title": "Lenz Sport Plus",
-      "title_b_fa": "لنز اسپرت پلاس",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "lenz_sport",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_sport.png",
-      "streamingUrlReferer": "http://lenzsport.ir/",
-      "channelName": "lenz_sport",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.lenz.ir/live-free/LENZ_SPORT_PLUS?pk_campaign=premier_league&pk_kwd=20211228&pk_source=bulk&pk_medium=SMS&pk_content=southampton_tottenham&utm_source=IrCell&utm_campaign=southamptontottenham&utm_medium=Bulk"
-    },
-    {
-      "id": "62",
-      "title": "Lenz Sport",
-      "title_b_fa": "لنز اسپرت",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "lenz_sport",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_sport.png",
-      "streamingUrlReferer": "http://lenzsport.ir/",
-      "channelName": "lenz_sport_plus",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.lenz.ir/live-free/LENZ_SPORT?pk_campaign=premier_league&pk_kwd=20211228&pk_source=bulk&pk_medium=SMS&pk_content=southampton_tottenham&utm_source=IrCell&utm_campaign=southamptontottenham&utm_medium=Bulk"
     }
   ],
   "user_defined_tv": [
