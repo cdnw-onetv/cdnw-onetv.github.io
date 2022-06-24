@@ -4167,6 +4167,18 @@
       "url": "https://ustv247.tv/fox-sports-2/"
     },
     {
+      "id": "512",
+      "title": "CBS News",
+      "title_b_fa": "سی بی اس نیوز",
+      "description": "News",
+      "country_code": "US",
+      "language_code": "en",
+      "localImageResource": "cbs_news",
+      "channelName": "cbs_news",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.cbsnews.com/live/"
+    },
+    {
       "id": "516",
       "title": "Beautiful Places On Earth",
       "title_b_fa": "مکانهای دیدنی زمین",
