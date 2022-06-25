@@ -1913,11 +1913,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "ntv_turk",
-      "serverName": "Embedded",
       "channelName": "ntv_turk",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/ntv-canli-full-hd-izle",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=ntv-canli-full-hd-izle",
-      "backupUrl": "https://www.youtube.com/watch?v=XEJM4Hcgd3M&theme=dark"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/XEJM4Hcgd3M",
+      "backupId": "4655"
     },
     {
       "id": "661",
@@ -4711,6 +4709,20 @@
       "channelName": "tv_100_turkey_tv",
       "serverName": "EmbeddedWebView",
       "url": "https://canlitv.com/tv-100"
+    },
+    {
+      "id": "4655",
+      "title": "NTV (Backup)",
+      "title_b_fa": "ان تی وی (جایگزین)",
+      "description": "News",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "ntv_turk",
+      "serverName": "Embedded",
+      "channelName": "ntv_turk",
+      "streamingUrlReferer": "https://www.ecanlitvizle.live/ntv-canli-full-hd-izle",
+      "url": "https://www.ecanlitvizle.live/embed.php?kanal=ntv-canli-full-hd-izle",
+      "backupUrl": "https://www.youtube.com/watch?v=XEJM4Hcgd3M&theme=dark"
     },
     {
       "id": "4682",
