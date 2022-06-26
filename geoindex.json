@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "11"
+      "description": "12"
     },
     {
       "id": "2001",
@@ -943,7 +943,6 @@
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
       "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
-      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/2fqESBMePCk",
       "backupId": "4305"
     },
     {
@@ -1283,7 +1282,8 @@
       "localImageResource": "showtv",
       "serverName": "Embedded",
       "channelName": "showtv",
-      "url": "https://m.showtv.com.tr/canli-yayin"
+      "url": "https://m.showtv.com.tr/canli-yayin",
+      "backupId": "4603"
     },
     {
       "id": "604",
@@ -1295,7 +1295,8 @@
       "localImageResource": "showmax",
       "serverName": "Embedded",
       "channelName": "showmax",
-      "url": "http://showmax.com.tr/canliyayin"
+      "url": "http://showmax.com.tr/canliyayin",
+      "backupId": "4604"
     },
     {
       "id": "605",
@@ -1307,7 +1308,8 @@
       "localImageResource": "showturk",
       "serverName": "Embedded",
       "channelName": "showturk",
-      "url": "https://www.showturk.com.tr/canliyayin"
+      "url": "https://www.showturk.com.tr/canliyayin",
+      "backupId": "4605"
     },
     {
       "id": "635",
@@ -1415,7 +1417,8 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "cnn_turk",
-      "url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8"
+      "url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8",
+      "backupId": "4639"
     },
     {
       "id": "653",
@@ -1458,6 +1461,17 @@
       "language_code": "tr",
       "localImageResource": "trt_1",
       "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+    },
+    {
+      "id": "703",
+      "title": "TRT 2",
+      "title_b_fa": "تی آر تی دو",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "trt_2",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_2.png",
+      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
     },
     {
       "id": "610",
@@ -1887,10 +1901,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "ulke_tv",
-      "serverName": "Embedded",
+      "serverName": "YouTubeHls",
       "channelName": "Ulke",
-      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
-      "url": "https://www.dailymotion.com/player/metadata/video/x7yb4xm?embedder=https%3A%2F%2Fwww.ulketv.com.tr%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ubJ4mou0LvY",
+      "backupId": "4630"
     },
     {
       "id": "659",
@@ -1959,9 +1973,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "tgrt_haber",
-      "serverName": "Embedded",
+      "serverName": "YouTubeHls",
       "channelName": "tgrt_haber",
-      "url": "https://www.tgrthaber.com.tr/canli"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/_wP7c4RDxSQ",
+      "backupId": "4640"
     },
     {
       "id": "643",
@@ -1983,10 +1998,9 @@
       "localImageResource": "bloomberg_ht_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bloomberg_ht_tv.png",
       "channelName": "bloomberg_ht_tv",
-      "serverName": "EmbeddedWebView",
-      "url": "https://canlitv.center/bloomberg-ht-izle",
-      "url2": "https://www.youtube.com/embed/HdXEeVeNdVg?autoplay=1&controls=0",
-      "backupUrl": "https://www.youtube.com/watch?v=HdXEeVeNdVg&theme=dark&mode=theater"
+      "serverName": "YouTubeHls",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HdXEeVeNdVg",
+      "backupId": "4687"
     },
     {
       "id": "688",
@@ -2380,7 +2394,7 @@
       "channelName": "real_tv_az",
       "serverName": "EmbeddedWebView",
       "url": "https://canlitvizle.com/real-tv-az",
-      "backupUrl": "https://www.youtube.com/watch?v=RLqXabqah4M?autoplay=1&controls=0"
+      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/RLqXabqah4M"
     },
     {
       "id": "686",
@@ -4108,7 +4122,7 @@
       "language_code": "en",
       "localImageResource": "tvo_kids",
       "url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8",
-      "backupUrl": "https://www.youtube.com/embed/TMkC_Ed9SBg?autoplay=1&controls=0"
+      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/nIhbO89W1GE"
     },
     {
       "id": "518",
@@ -4218,13 +4232,40 @@
       "url": "https://www.cbsnews.com/live/"
     },
     {
+      "id": "515",
+      "title": "Top Songs 2022",
+      "title_b_fa": "آهنگ های برتر ۲۰۲۲",
+      "description": "Music",
+      "language_code": "en",
+      "localImageResource": "music_logo",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/fY_pTiAr6Wk"
+    },
+    {
       "id": "516",
       "title": "Beautiful Places On Earth",
       "title_b_fa": "مکانهای دیدنی زمین",
       "description": "Music",
       "language_code": "en",
       "localImageResource": "music_logo",
-      "url": "https://www.youtube.com/embed/_-WWwNt8AzU?autoplay=1&controls=0"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/_-WWwNt8AzU"
+    },
+    {
+      "id": "514",
+      "title": "Music Mix 1",
+      "title_b_fa": "آهنگ",
+      "description": "Music",
+      "language_code": "en",
+      "localImageResource": "music_logo",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvbKGLFg-bgjWvAglehxOFw/live"
+    },
+    {
+      "id": "525",
+      "title": "Music Mix 2",
+      "title_b_fa": "آهنگ",
+      "description": "Music",
+      "language_code": "en",
+      "localImageResource": "music_logo",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RbJg7YLqJk8"
     }
   ],
   "afghan_tv": [
@@ -4581,9 +4622,7 @@
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
       "channelName": "kurdmaxMusic",
-      "serverName": "EmbeddedWebView",
-      "url": "https://ku.karwan.tv/kurdmax-music.html",
-      "backupUrl": "https://www.youtube.com/embed/FJlWd-ZtCak?autoplay=1&controls=0"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live"
     },
     {
       "id": "4312",
@@ -4622,6 +4661,18 @@
       "url": "https://ku.karwan.tv/zagros-tv.html"
     },
     {
+      "id": "44622",
+      "title": "ATV (Backup with ads)",
+      "title_b_fa": "ای تی وی (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "a_tv",
+      "serverName": "YouTubeHls",
+      "channelName": "a_tv",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/9m9ZTVfVTJA"
+    },
+    {
       "id": "4622",
       "title": "ATV (Backup)",
       "title_b_fa": "ای تی وی (جایگزین)",
@@ -4632,6 +4683,45 @@
       "serverName": "EmbeddedWebView",
       "channelName": "a_tv",
       "url": "https://www.ecanlitvizle.live/atv-tv-canli-hd-izle-10/"
+    },
+    {
+      "id": "4603",
+      "title": "Show TV (Backup)",
+      "title_b_fa": "شو تی وی (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "showtv",
+      "serverName": "YouTubeHls",
+      "channelName": "showtv",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/J6-RNNwh30g",
+      "backupId": "4603"
+    },
+    {
+      "id": "4604",
+      "title": "Show Max (Backup)",
+      "title_b_fa": "شو ماکس (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "showmax",
+      "serverName": "YouTubeHls",
+      "channelName": "showmax",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/LJlSaLrll1s",
+      "backupId": "4604"
+    },
+    {
+      "id": "4605",
+      "title": "Show Turk (Backup)",
+      "title_b_fa": "شو ترک (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "showturk",
+      "serverName": "YouTubeHls",
+      "channelName": "showturk",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IRJHF-tK58k",
+      "backupId": "4605"
     },
     {
       "id": "4635",
@@ -4672,6 +4762,17 @@
       "url": "https://www.canlitv.vin/trt-spor-yildiz"
     },
     {
+      "id": "639",
+      "title": "CNN Turk (backcup)",
+      "title_b_fa": "سی ان ان  ترک (جایگزین)",
+      "description": "News",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "cnn_turk",
+      "serverName": "YouTubeHls",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/X_EWYemclKA"
+    },
+    {
       "id": "4636",
       "title": "TV 8,5 (Backup)",
       "title_b_fa": "تی وی ۸,۵",
@@ -4698,6 +4799,31 @@
       "url": "https://canlitv.com/tlc"
     },
     {
+      "id": "4640",
+      "title": "TGRT Haber (Backup)",
+      "title_b_fa": "تی جی آر تی خبر (جایگزین)",
+      "description": "News",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "tgrt_haber",
+      "serverName": "Embedded",
+      "channelName": "tgrt_haber",
+      "url": "https://www.tgrthaber.com.tr/canli"
+    },
+    {
+      "id": "4687",
+      "title": "Bloomberg HT TV (Backup)",
+      "title_b_fa": "بلومبرگ اچ تی تی وی (جایگزین)",
+      "description": "News",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "bloomberg_ht_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/bloomberg_ht_tv.png",
+      "channelName": "bloomberg_ht_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.center/bloomberg-ht-izle"
+    },
+    {
       "id": "4688",
       "title": "TV 100 (Backup)",
       "title_b_fa": "تی وی ۱۰۰ (جایگزین)",
@@ -4711,6 +4837,19 @@
       "url": "https://canlitv.com/tv-100"
     },
     {
+      "id": "4630",
+      "title": "Ulke TV (Backup)",
+      "title_b_fa": "اولکه تی وی (جایگزین)",
+      "description": "News",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "ulke_tv",
+      "serverName": "Embedded",
+      "channelName": "Ulke",
+      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
+      "url": "https://www.dailymotion.com/player/metadata/video/x7yb4xm?embedder=https%3A%2F%2Fwww.ulketv.com.tr%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3"
+    },
+    {
       "id": "4655",
       "title": "NTV (Backup)",
       "title_b_fa": "ان تی وی (جایگزین)",
@@ -4721,8 +4860,7 @@
       "serverName": "Embedded",
       "channelName": "ntv_turk",
       "streamingUrlReferer": "https://www.ecanlitvizle.live/ntv-canli-full-hd-izle",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=ntv-canli-full-hd-izle",
-      "backupUrl": "https://www.youtube.com/watch?v=XEJM4Hcgd3M&theme=dark"
+      "url": "https://www.ecanlitvizle.live/embed.php?kanal=ntv-canli-full-hd-izle"
     },
     {
       "id": "4682",
@@ -4772,33 +4910,6 @@
       "channelName": "aljadeed_tv",
       "serverName": "EmbeddedWebView",
       "url": "http://azrotv.com/iphone/arabic/ch3/aljadeed.php"
-    },
-    {
-      "id": "513",
-      "title": "Good Life Radio",
-      "title_b_fa": "یوتیوب رادیو زندگی خوب",
-      "description": "Music",
-      "language_code": "en",
-      "localImageResource": "music_logo",
-      "url": "https://www.youtube.com/embed/36YnV9STBqc?autoplay=1&controls=0"
-    },
-    {
-      "id": "514",
-      "title": "Top Songs 2022 (1)",
-      "title_b_fa": "آهنگ های برتر ۲۰۲۲ (۱)",
-      "description": "Music",
-      "language_code": "en",
-      "localImageResource": "music_logo",
-      "url": "https://www.youtube.com/embed/TpKsuC9R1RM?autoplay=1&controls=0"
-    },
-    {
-      "id": "515",
-      "title": "Top Songs 2022 (2)",
-      "title_b_fa": "آهنگ های برتر ۲۰۲۲ (۲)",
-      "description": "Music",
-      "language_code": "eb",
-      "localImageResource": "music_logo",
-      "url": "https://www.youtube.com/embed/fY_pTiAr6Wk?autoplay=1&controls=0"
     },
     {
       "id": "72",
