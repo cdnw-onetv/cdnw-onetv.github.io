@@ -942,8 +942,9 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
-      "url": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
-      "backupId": "4305"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
+      "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
+      "backupId2": "4305"
     },
     {
       "id": "306",
