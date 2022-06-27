@@ -1349,6 +1349,30 @@
       "url": "https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8"
     },
     {
+      "id": "704",
+      "title": "ATV (Backup with ads)",
+      "title_b_fa": "ای تی وی (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "a_tv",
+      "serverName": "YouTubeHls",
+      "channelName": "a_tv",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/9m9ZTVfVTJA",
+      "backupId": "4622"
+    },
+    {
+      "id": "705",
+      "title": "Fox (TGRT) (Backup with ads)",
+      "title_b_fa": "فاکس",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "fox_turkey",
+      "channelName": "fox_turkey",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live"
+    },
+    {
       "id": "628",
       "title": "A2 TV",
       "title_b_fa": "ای تو تی وی",
@@ -4659,18 +4683,6 @@
       "channelName": "ZagrosTv",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/zagros-tv.html"
-    },
-    {
-      "id": "44622",
-      "title": "ATV (Backup with ads)",
-      "title_b_fa": "ای تی وی (جایگزین)",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "a_tv",
-      "serverName": "YouTubeHls",
-      "channelName": "a_tv",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/9m9ZTVfVTJA"
     },
     {
       "id": "4622",
