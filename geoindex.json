@@ -4020,7 +4020,8 @@
       "language_code": "en",
       "geo_restrictions": "CA",
       "localImageResource": "cbc_toronto",
-      "url": "https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8"
+      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master1.m3u8",
+      "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master4.m3u8"
     },
     {
       "id": "501",
@@ -4031,7 +4032,8 @@
       "language_code": "en",
       "geo_restrictions": "CA",
       "localImageResource": "cbc_vancouver",
-      "url": "https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8"
+      "url": "https://cbcrclive-tor.akamaized.net/hls/live/2040313/geo_allow_global/ES_REGIONS_1/master_2000.m3u8",
+      "backupUrl": "https://cbcrclive-tor.akamaized.net/hls/live/2040313/geo_allow_global/ES_REGIONS_1/master_400.m3u8"
     },
     {
       "id": "502",
@@ -4042,7 +4044,8 @@
       "language_code": "en",
       "geo_restrictions": "CA",
       "localImageResource": "cbc_montreal",
-      "url": "https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8"
+      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8",
+      "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master4.m3u8"
     },
     {
       "id": "503",
@@ -4076,7 +4079,7 @@
       "country_code": "CA",
       "language_code": "en",
       "localImageResource": "cbc_radio_toronto",
-      "url": "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/index_96_a-p.m3u8?sd=10&rebase=on&mp3=mp3"
+      "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8?mp3=mp3"
     },
     {
       "id": "506",
@@ -4086,7 +4089,7 @@
       "country_code": "CA",
       "language_code": "en",
       "localImageResource": "cbc_radio_music",
-      "url": "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_TOR@382863/index_96_a-p.m3u8?sd=10&rebase=on&mp3=mp3"
+      "url": "https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8?mp3=mp3"
     },
     {
       "id": "507",
