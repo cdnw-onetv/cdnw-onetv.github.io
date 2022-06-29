@@ -2992,6 +2992,20 @@
       "url": "https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8"
     },
     {
+      "id": "1168",
+      "title": "Al Shahed TV",
+      "title_b_fa": "شاهد تی وی",
+      "title_b_ar": "الشاهد تی وی",
+      "description": "General",
+      "country_code": "KW",
+      "language_code": "ar",
+      "localImageResource": "alshahed_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/alshahed_tv.png",
+      "channelName": "alshahed_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=alshahed_tv"
+    },
+    {
       "id": "1131",
       "title": "Abu Dhabi TV",
       "title_b_fa": "ابوظبی",
