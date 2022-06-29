@@ -4018,7 +4018,6 @@
       "description": "General",
       "country_code": "CA",
       "language_code": "en",
-      "geo_restrictions": "CA",
       "localImageResource": "cbc_toronto",
       "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master1.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master4.m3u8"
@@ -4030,7 +4029,6 @@
       "description": "General",
       "country_code": "CA",
       "language_code": "en",
-      "geo_restrictions": "CA",
       "localImageResource": "cbc_vancouver",
       "url": "https://cbcrclive-tor.akamaized.net/hls/live/2040313/geo_allow_global/ES_REGIONS_1/master_2000.m3u8",
       "backupUrl": "https://cbcrclive-tor.akamaized.net/hls/live/2040313/geo_allow_global/ES_REGIONS_1/master_400.m3u8"
@@ -4042,7 +4040,6 @@
       "description": "General",
       "country_code": "CA",
       "language_code": "en",
-      "geo_restrictions": "CA",
       "localImageResource": "cbc_montreal",
       "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master4.m3u8"
