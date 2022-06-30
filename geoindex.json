@@ -4044,8 +4044,8 @@
       "country_code": "CA",
       "language_code": "en",
       "localImageResource": "cbc_vancouver",
-      "url": "https://cbcrclive-tor.akamaized.net/hls/live/2040313/geo_allow_global/ES_REGIONS_1/master_2000.m3u8",
-      "backupUrl": "https://cbcrclive-tor.akamaized.net/hls/live/2040313/geo_allow_global/ES_REGIONS_1/master_400.m3u8"
+      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master1.m3u8",
+      "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master4.m3u8"
     },
     {
       "id": "502",
