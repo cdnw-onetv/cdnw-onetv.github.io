@@ -4735,7 +4735,7 @@
       "localImageResource": "showtv",
       "serverName": "YouTubeHls",
       "channelName": "showtv",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/J6-RNNwh30g"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UC9JMe_We017gYrRc7kZHgmg/live"
     },
     {
       "id": "4604",
@@ -4747,7 +4747,7 @@
       "localImageResource": "showmax",
       "serverName": "YouTubeHls",
       "channelName": "showmax",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/LJlSaLrll1s"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/MrpMPNW9cx8"
     },
     {
       "id": "4605",
@@ -4759,7 +4759,7 @@
       "localImageResource": "showturk",
       "serverName": "YouTubeHls",
       "channelName": "showturk",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IRJHF-tK58k"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/0a1B2FIJ268"
     },
     {
       "id": "4635",
