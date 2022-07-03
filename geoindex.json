@@ -945,7 +945,7 @@
       "localImageResource": "kurdmax_music",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
-      "backupId2": "4305"
+      "backupId": "4305"
     },
     {
       "id": "306",
@@ -4669,14 +4669,15 @@
     },
     {
       "id": "4305",
-      "title": "Kurdmax Music (Backup)",
-      "title_b_fa": "کوردماکس موزیک (جایگزین)",
+      "title": "Kurdmax Music (Repeat)",
+      "title_b_fa": "کوردماکس موزیک (تکرار)",
       "description": "Music",
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
       "channelName": "kurdmaxMusic",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live"
+      "url": "http://184.144.110.243:60101/hls/kurdmaxmusic.m3u8",
+      "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live"
     },
     {
       "id": "4312",
