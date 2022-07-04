@@ -2931,7 +2931,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/lbc_tv.png",
       "channelName": "lbc_tv_lebanon",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/watchtv.php?id=lbc"
+      "url": "http://www.elahmad.com/tv/lbc.php"
     },
     {
       "id": "1171",
@@ -2959,7 +2959,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/otv_lebanon.png",
       "channelName": "otv_lebanon",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/otv_lb.php"
+      "url": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=otv_lb1"
     },
     {
       "id": "1112",
