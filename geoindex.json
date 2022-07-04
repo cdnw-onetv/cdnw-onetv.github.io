@@ -2889,6 +2889,7 @@
       "localImageResource": "mtv_lebanon",
       "channelName": "mtv_lebanon",
       "serverName": "EmbeddedWebView",
+      "url2": "http://www.elahmad.com/tv/watchtv.php?id=mtv_lebanon",
       "url": "http://www.elahmad.com/tv/watchtv.php?id=mtvlebanon"
     },
     {
@@ -2917,6 +2918,48 @@
       "channelName": "future_tv_lebanon",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/futurelive.php"
+    },
+    {
+      "id": "1170",
+      "title": "LBC TV",
+      "title_b_fa": "ال بی سی تی وی",
+      "title_b_ar": "ال بي سي تی وی",
+      "description": "General",
+      "country_code": "LB",
+      "language_code": "ar",
+      "localImageResource": "lbc_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lbc_tv.png",
+      "channelName": "lbc_tv_lebanon",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/lbc.php"
+    },
+    {
+      "id": "1171",
+      "title": "LB2 TV",
+      "title_b_fa": "ال بی ۲  تی وی",
+      "title_b_ar": "ال بي ۲  تی وی",
+      "description": "General",
+      "country_code": "LB",
+      "language_code": "ar",
+      "localImageResource": "lb2_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lb2_tv.png",
+      "channelName": "lb2_tv_lebanon",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=lb2"
+    },
+    {
+      "id": "1172",
+      "title": "OTV Lebanon",
+      "title_b_fa": "او تی وی لبنان",
+      "title_b_ar": "أو تي في لبنان",
+      "description": "General",
+      "country_code": "LB",
+      "language_code": "ar",
+      "localImageResource": "otv_lebanon",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/otv_lebanon.png",
+      "channelName": "otv_lebanon",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/otv_lb.php"
     },
     {
       "id": "1112",
