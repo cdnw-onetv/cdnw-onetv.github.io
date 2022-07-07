@@ -231,7 +231,6 @@
       "localImageResource": "parnian_tv",
       "url": "https://live2.parnian.tv/hls/live/play.m3u8",
       "backupUrl": "http://184.144.110.243:60077/hls/live/play.m3u8"
-
     },
     {
       "id": "15",
@@ -242,9 +241,8 @@
       "language_code": "fa",
       "localImageResource": "tapesh",
       "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8",
-      "backupUrl": "http://184.144.110.243:60015/tapesh/playlist1/index.m3u8",
-      "backupUrl1": "http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8",
-      "backupId": "4415"
+      "backupUrl": "http://174.91.135.2:60015/tapesh/playlist1/index.m3u8",
+      "backupUrl1": "http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8"
     },
     {
       "id": "18",
@@ -1932,7 +1930,7 @@
       "localImageResource": "ulke_tv",
       "serverName": "YouTubeHls",
       "channelName": "Ulke",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ubJ4mou0LvY",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ZJwUhmGXw3w",
       "backupId": "4630"
     },
     {
@@ -2004,7 +2002,7 @@
       "localImageResource": "tgrt_haber",
       "serverName": "YouTubeHls",
       "channelName": "tgrt_haber",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/_wP7c4RDxSQ",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live",
       "backupId": "4640"
     },
     {
@@ -4636,16 +4634,6 @@
     }
   ],
   "backup_tv": [
-    {
-      "id": "4415",
-      "title": "Tapesh TV (Backup)",
-      "title_b_fa": "تپش (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "tapesh",
-      "url": "http://184.104.200.40:7777/TAPESH_HD/TAPESH_High.m3u8?user=sgls540839&session=42565006466964bf8187a19a124af8a1be03b0067b0e2c13070d14685e928412140b148cb6ec0d91&hlsid=HTTP_ID_10"
-    },
     {
       "id": "2028",
       "title": "IRIB 3 (Backup 1)",
