@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "15"
+      "description": "16"
     },
     {
       "id": "2001",
@@ -1262,7 +1262,8 @@
       "language_code": "tr",
       "favorite": "Yes",
       "localImageResource": "startv",
-      "url": "https://tv.ensonhaber.com/tv/tr/startv/index.m3u8"
+      "url": "https://tv.ensonhaber.com/tv/tr/startv/index.m3u8",
+      "backupId": "4600"
     },
     {
       "id": "602",
@@ -4785,6 +4786,19 @@
       "channelName": "fox_turkey_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://tr.canlitv.services/fox-tv-1/1"
+    },
+    {
+      "id": "4600",
+      "title": "Star TV (Backup)",
+      "title_b_fa": "ستار تی وی (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "startv",
+      "serverName": "Embedded",
+      "channelName": "startv",
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/star-tv-canli-izle-10/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=star-tv-canli-izle-10"
     },
     {
       "id": "4603",
