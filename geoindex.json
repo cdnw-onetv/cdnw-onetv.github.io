@@ -1349,7 +1349,8 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kanal_7",
-      "url": "https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8"
+      "url": "https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8",
+      "backupId": "4649"
     },
     {
       "id": "704",
@@ -4848,6 +4849,18 @@
       "channelName": "tv8_turkish",
       "streamingUrlReferer": "https://www.ecanlitvizle.live/tv-8-canli-yayin-izle-15/",
       "url": "https://www.ecanlitvizle.live/embed.php?kanal=tv-8-canli-yayin-izle-15"
+    },
+    {
+      "id": "4649",
+      "title": "Kanal 7 (Backup)",
+      "title_b_fa": "کانال ۷ (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "kanal_7",
+      "channelName": "kanal_7",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.canlitv.vin/kanal-7-hd-canli-izle"
     },
     {
       "id": "4624",
