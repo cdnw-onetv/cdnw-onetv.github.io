@@ -1759,7 +1759,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv8_5_turkish.png",
       "serverName": "EmbeddedWebView",
       "channelName": "tv8_5_turkish",
-      "url": "https://www.canli.co/tv-8-5/",
+      "url": "https://canlitv.com/canli-tv8-5",
       "backupId": "4636"
     },
     {
@@ -1823,8 +1823,8 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tlc_tv.png",
       "serverName": "Embedded",
       "channelName": "tlc_turkey_tv",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/tlc-tv-canli/",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=tlc-tv-canli",
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/tlc-tv-canli/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=tlc-tv-canli",
       "backupId": "4692"
     },
     {
@@ -1932,7 +1932,7 @@
       "localImageResource": "ulke_tv",
       "serverName": "YouTubeHls",
       "channelName": "Ulke",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ZJwUhmGXw3w",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCi65FGbYYj-OzJm2luB_fNQ/live",
       "backupId": "4630"
     },
     {
@@ -2221,8 +2221,10 @@
       "description": "General",
       "localImageResource": "arb_tv",
       "channelName": "arb_tv_az",
-      "serverName": "EmbeddedWebView",
-      "url": "https://canlitv.com/arb-tv"
+      "serverName": "Embedded",
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/arb-az-canli/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=arb-az-canli",
+      "backupId": "4669"
     },
     {
       "id": "670",
@@ -2244,8 +2246,9 @@
       "localImageResource": "arb_gunes_tv",
       "channelName": "arb-gunes",
       "serverName": "Embedded",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/arb-gunes/",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=arb-gunes"
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/arb-gunes/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=arb-gunes",
+      "backupUrl": "http://149.255.152.199/arbgunes.m3u8"
     },
     {
       "id": "672",
@@ -2256,9 +2259,7 @@
       "description": "General",
       "localImageResource": "arb_kepez_tv",
       "channelName": "arb-kepez",
-      "serverName": "Embedded",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/arb-gunes/",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=arb-kepez-az"
+      "url": "http://85.132.81.184:8080/arbkepez/live/index.m3u8"
     },
     {
       "id": "673",
@@ -2280,8 +2281,8 @@
       "localImageResource": "az_tv",
       "channelName": "az_tv_az",
       "serverName": "Embedded",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/az-tv-azerbaycan-tv-izle/",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=az-tv-azerbaycan-tv-izle"
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/az-tv-azerbaycan-tv-izle/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=az-tv-azerbaycan-tv-izle"
     },
     {
       "id": "675",
@@ -2325,8 +2326,8 @@
       "localImageResource": "el_tv_az",
       "channelName": "el-tv-az",
       "serverName": "Embedded",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/el-tv-az-canli/",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=el-tv-az-canli"
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/el-tv-az-canli/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=el-tv-az-canli"
     },
     {
       "id": "679",
@@ -2348,8 +2349,8 @@
       "localImageResource": "ictimai_tv",
       "channelName": "iktimai_tv",
       "serverName": "Embedded",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/ictimai-tv-canli-izle/",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=ictimai-tv-canli-izle"
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/ictimai-tv-canli-izle/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=ictimai-tv-canli-izle"
     },
     {
       "id": "681",
@@ -2385,8 +2386,8 @@
       "localImageResource": "medeniyet_tv",
       "serverName": "Embedded",
       "channelName": "medeniyet_tv",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/medeniyet-tv-az/",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=medeniyet-tv-az"
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/medeniyet-tv-az/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=medeniyet-tv-az"
     },
     {
       "id": "683",
@@ -4773,7 +4774,7 @@
       "localImageResource": "a_tv",
       "serverName": "EmbeddedWebView",
       "channelName": "a_tv",
-      "url": "https://www.ecanlitvizle.live/atv-tv-canli-hd-izle-10/"
+      "url": "https://ecanlitvizle.sitecozum.net/atv-tv-canli-hd-izle-10/"
     },
     {
       "id": "4601",
@@ -4846,8 +4847,8 @@
       "localImageResource": "tv8_turkish",
       "serverName": "Embedded",
       "channelName": "tv8_turkish",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/tv-8-canli-yayin-izle-15/",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=tv-8-canli-yayin-izle-15"
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/tv-8-canli-yayin-izle-15/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=tv-8-canli-yayin-izle-15"
     },
     {
       "id": "4649",
@@ -4871,8 +4872,8 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport.png",
       "channelName": "trt_sport",
       "serverName": "Embedded",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/trt-spor-canli-hd-izle/",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=trt-spor-canli-hd-izle"
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/trt-spor-canli-hd-izle/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=trt-spor-canli-hd-izle"
     },
     {
       "id": "4625",
@@ -4984,8 +4985,20 @@
       "localImageResource": "ntv_turk",
       "serverName": "Embedded",
       "channelName": "ntv_turk",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/ntv-canli-full-hd-izle",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=ntv-canli-full-hd-izle"
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/ntv-canli-full-hd-izle",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=ntv-canli-full-hd-izle"
+    },
+    {
+      "id": "4669",
+      "title": "ARB TV (Backup)",
+      "title_b_fa": "ای آر بی تی وی (جایگزین)",
+      "country_code": "AZ",
+      "language_code": "az",
+      "description": "General",
+      "localImageResource": "arb_tv",
+      "channelName": "arb_tv_az",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.com/arb-tv"
     },
     {
       "id": "4682",
