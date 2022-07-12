@@ -2221,9 +2221,8 @@
       "description": "General",
       "localImageResource": "arb_tv",
       "channelName": "arb_tv_az",
-      "serverName": "Embedded",
-      "streamingUrlReferer": "https://www.ecanlitvizle.live/arb-az-canli/",
-      "url": "https://www.ecanlitvizle.live/embed.php?kanal=arb-az-canli"
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.com/arb-tv"
     },
     {
       "id": "670",
