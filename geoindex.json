@@ -1309,7 +1309,8 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kanal_d",
-      "url": "https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8?live=true&app=com.kanald&min=0&max=1250"
+      "url": "https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8?live=true&app=com.kanald&min=0&max=1250",
+      "backupId": "4602"
     },
     {
       "id": "603",
@@ -4898,6 +4899,19 @@
       "serverName": "YouTubeHls",
       "channelName": "showturk",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/0a1B2FIJ268"
+    },
+    {
+      "id": "4602",
+      "title": "Kanal D (Backup)",
+      "title_b_fa": "کانال د (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "kanal_d",
+      "channelName": "kanal_d",
+      "serverName": "Embedded",
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/kanal-d-canli-izle-hd/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=kanal-d-canli-izle-hd"
     },
     {
       "id": "4635",
