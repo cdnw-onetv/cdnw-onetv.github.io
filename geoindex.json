@@ -97,8 +97,7 @@
       "localImageResource": "voa_persian",
       "url": "https://voa-ingest.akamaized.net/dash/live/2033877-b/tvmc07/manifest.mpd",
       "backupUrl": "http://184.144.110.243:60029/dash/live/2033877-b/tvmc07/manifest.mpd",
-      "backupUrl2": "https://voa-ingest.akamaized.net/dash/live/2033877/tvmc07/manifest.mpd",
-      "url2": "https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0240_av-p.m3u8?sd=10&rebase=on"
+      "backupId": "4429"
     },
     {
       "id": "4",
@@ -4650,6 +4649,17 @@
   ],
   "backup_tv": [
     {
+      "id": "4429",
+      "title": "VOA Persian (Backup)",
+      "title_b_fa": "صدای امریکا (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "voa_persian",
+      "url": "https://voa-ingest.akamaized.net/dash/live/2033877/tvmc07/manifest.mpd",
+      "backupUrl": "http://184.144.110.243:60029/dash/live/2033877/tvmc07/manifest.mpd"
+    },
+    {
       "id": "16",
       "title": "Tapesh 2",
       "title_b_fa": "تپش دو",
@@ -4658,7 +4668,33 @@
       "language_code": "fa",
       "localImageResource": "tapesh_2",
       "url": "http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60016/live/tapesh-live-stream/index.m3u8"
+      "backupUrl": "http://184.144.110.243:60016/live/tapesh-live-stream/index.m3u8",
+      "backupId": "4416"
+    },
+    {
+      "id": "87",
+      "title": "Tapesh 2 Movies",
+      "title_b_fa": "تپش دو موویز",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "tapesh_2_movies",
+      "channelName": "tapesh_2_movies",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tapesh_2_movies.png",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=T2Movies"
+    },
+    {
+      "id": "4416",
+      "title": "Tapesh 2 (Backup)",
+      "title_b_fa": "تپش دو (جایگزین)",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "tapesh_2",
+      "channelName": "tapesh_2",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=T2International"
     },
     {
       "id": "42",
