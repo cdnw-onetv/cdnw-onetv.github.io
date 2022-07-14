@@ -168,7 +168,17 @@
       "localImageResource": "ebc_music",
       "url": "https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8",
       "backupUrl": "http://184.144.110.243:60017/EBC1/EBC1/playlist.m3u8"
-
+    },
+    {
+      "id": "8417",
+      "title": "EBC Music (Proxy)",
+      "title_b_fa": "ای بی سی موزیک (پروکسی)",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "IR",
+      "localImageResource": "ebc_music",
+      "url": "http://184.144.110.243:60017/EBC1/EBC1/playlist.m3u8"
     },
     {
       "id": "6",
