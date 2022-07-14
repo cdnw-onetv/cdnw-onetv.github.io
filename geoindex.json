@@ -4649,6 +4649,27 @@
   ],
   "backup_tv": [
     {
+      "id": "4442",
+      "title": "BBC Persian (Backup)",
+      "title_b_fa": "بی بی سی فارسی (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "bbc_persian",
+      "url": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8\""
+    },
+    {
+      "id": "4443",
+      "title": "Iran International (Backup)",
+      "title_b_fa": "ایران اینترنشنال (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "favorite": "Yes",
+      "localImageResource": "iran_international",
+      "url": "http://184.144.110.243:60003/LS-63503-4/chunklist_b806000.m3u8"
+    },
+    {
       "id": "4429",
       "title": "VOA Persian (Backup)",
       "title_b_fa": "صدای امریکا (جایگزین)",
