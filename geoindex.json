@@ -1962,9 +1962,8 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "istanbul_tv",
-      "serverName": "Embedded",
       "channelName": "istanbul_tv",
-      "streamingUrlPattern":"http:([^\\\"\\']*?).m3u8(.*?)[\\\"\\']",
+      "serverName": "EmbeddedWebView",
       "url": "http://stream.flexmmp.com:81/msyapi.php"
     },
     {
