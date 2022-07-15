@@ -3297,9 +3297,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_1",
+      "serverName": "Sepehr",
       "channelName": "tv1",
-      "url": "https://cdnw.telewebion.com/tv1/live/playlist.m3u8",
-      "backupId": "41020"
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/tv1/live/playlist.m3u8"
     },
     {
       "id": "1021",
@@ -3309,8 +3312,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_2",
-      "url": "https://cdnw.telewebion.com/tv2/live/playlist.m3u8",
-      "backupId": "41021"
+      "serverName": "Sepehr",
+      "channelName": "tv2",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/tv2/live/playlist.m3u8"
     },
     {
       "id": "1022",
@@ -3320,8 +3327,13 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_3",
-      "url": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8",
-      "backupId": "41022"
+      "serverName": "Sepehr",
+      "channelName": "tv3",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8",
+      "backupId": "2023"
     },
     {
       "id": "1023",
@@ -3331,8 +3343,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_4",
-      "url": "https://cdnw.telewebion.com/tv4/live/playlist.m3u8",
-      "backupId": "41023"
+      "serverName": "Sepehr",
+      "channelName": "tv4",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/tv4/live/playlist.m3u8"
     },
     {
       "id": "1024",
@@ -3342,8 +3358,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_5",
-      "url": "https://cdnw.telewebion.com/tehran/live/playlist.m3u8",
-      "backupId": "41024"
+      "serverName": "Sepehr",
+      "channelName": "tv5",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/tehran/live/playlist.m3u8"
     },
     {
       "id": "1025",
@@ -3353,8 +3373,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_khabar",
-      "url": "https://cdnw.telewebion.com/irinn/live/playlist.m3u8",
-      "backupId": "41025"
+      "serverName": "Sepehr",
+      "channelName": "irinn",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/irinn/live/playlist.m3u8"
     },
     {
       "id": "1026",
@@ -3365,8 +3389,12 @@
       "language_code": "fa",
       "favorite": "Yes",
       "localImageResource": "irib_varzesh",
-      "url": "https://cdnw.telewebion.com/varzesh/live/playlist.m3u8",
-      "backupId": "41026"
+      "serverName": "Sepehr",
+      "channelName": "Varzesh",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/varzesh/live/playlist.m3u8"
     },
     {
       "id": "1027",
@@ -3376,8 +3404,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_tamasha",
-      "url": "https://cdnw.telewebion.com/hdtest/live/playlist.m3u8",
-      "backupId": "41027"
+      "serverName": "Sepehr",
+      "channelName": "tamasha",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/hdtest/live/playlist.m3u8"
     },
     {
       "id": "1028",
@@ -3387,8 +3419,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_nasim",
-      "url": "https://cdnw.telewebion.com/nasim/live/playlist.m3u8",
-      "backupId": "41028"
+      "serverName": "Sepehr",
+      "channelName": "Nasim",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/nasim/live/playlist.m3u8"
     },
     {
       "id": "1050",
@@ -3398,8 +3434,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_amouzesh",
-      "url": "https://cdnw.telewebion.com/amouzesh/live/playlist.m3u8",
-      "backupId": "41050"
+      "serverName": "Sepehr",
+      "channelName": "amouzesh",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/amouzesh/live/playlist.m3u8"
     },
     {
       "id": "1051",
@@ -3409,8 +3449,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_ifilmfa",
-      "url": "https://cdnw.telewebion.com/ifilm/live/playlist.m3u8",
-      "backupId": "41051"
+      "serverName": "Sepehr",
+      "channelName": "ifilmfa",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/ifilm/live/playlist.m3u8"
     },
     {
       "id": "1094",
@@ -3423,6 +3467,7 @@
       "serverName": "Sepehr",
       "channelName": "ifilmen",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3436,6 +3481,7 @@
       "serverName": "Sepehr",
       "channelName": "ifilmdari",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3449,6 +3495,7 @@
       "serverName": "Sepehr",
       "channelName": "filmarabic",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3459,8 +3506,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_irankala",
-      "url": "https://cdnw.telewebion.com/irankala/live/playlist.m3u8",
-      "backupId": "41052"
+      "serverName": "Sepehr",
+      "channelName": "irankala",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/irankala/live/playlist.m3u8"
     },
     {
       "id": "1053",
@@ -3470,8 +3521,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_mostanad",
-      "url": "https://cdnw.telewebion.com/mostanad/live/playlist.m3u8",
-      "backupId": "41053"
+      "serverName": "Sepehr",
+      "channelName": "mostanad",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/mostanad/live/playlist.m3u8"
     },
     {
       "id": "1054",
@@ -3481,8 +3536,12 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_namayesh",
-      "url": "https://cdnw.telewebion.com/namayesh/live/playlist.m3u8",
-      "backupId": "41054"
+      "serverName": "Sepehr",
+      "channelName": "namayesh",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live",
+      "backupUrl": "https://cdnw.telewebion.com/namayesh/live/playlist.m3u8"
     },
     {
       "id": "1032",
@@ -3493,8 +3552,11 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_quran",
-      "url": "https://cdnw.telewebion.com/quran/live/playlist.m3u8",
-      "backupId": "41032"
+      "serverName": "Sepehr",
+      "channelName": "quran",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live"
     },
     {
       "id": "1055",
@@ -3504,8 +3566,11 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_ofogh",
-      "url": "https://cdnw.telewebion.com/ofogh/live/playlist.m3u8",
-      "backupId": "41055"
+      "serverName": "Sepehr",
+      "channelName": "ofogh",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live"
     },
     {
       "id": "1056",
@@ -3515,8 +3580,11 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_omid",
-      "url": "https://cdnw.telewebion.com/omid/live/playlist.m3u8",
-      "backupId": "41056"
+      "serverName": "Sepehr",
+      "channelName": "omid",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live"
     },
     {
       "id": "1057",
@@ -3526,8 +3594,11 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_pouya",
-      "url": "https://cdnw.telewebion.com/pooya/live/playlist.m3u8",
-      "backupId": "41057"
+      "serverName": "Sepehr",
+      "channelName": "pouya",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live"
     },
     {
       "id": "1058",
@@ -3537,8 +3608,11 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_salamat",
-      "url": "https://cdnw.telewebion.com/salamat/live/playlist.m3u8",
-      "backupId": "41058"
+      "serverName": "Sepehr",
+      "channelName": "salamat",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live"
     },
     {
       "id": "1059",
@@ -3548,8 +3622,11 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_shoma",
-      "url": "https://cdnw.telewebion.com/shoma/live/playlist.m3u8",
-      "backupId": "41059"
+      "serverName": "Sepehr",
+      "channelName": "shoma",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live"
     },
     {
       "id": "1060",
@@ -3559,8 +3636,11 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_sepehr",
-      "url": "https://cdnw.telewebion.com/sepehr/live/playlist.m3u8",
-      "backupId": "41060"
+      "serverName": "Sepehr",
+      "channelName": "sepehr",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
+      "url": "https://sepehr.irib.ir/live"
     },
     {
       "id": "1097",
@@ -3585,6 +3665,7 @@
       "serverName": "Sepehr",
       "channelName": "ara",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3598,6 +3679,7 @@
       "serverName": "Sepehr",
       "channelName": "jam",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/jam/live/playlist.m3u8"
     },
@@ -3612,6 +3694,7 @@
       "serverName": "Sepehr",
       "channelName": "nama",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3625,6 +3708,7 @@
       "serverName": "Sepehr",
       "channelName": "nava",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3638,6 +3722,7 @@
       "serverName": "Sepehr",
       "channelName": "abadan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3651,6 +3736,7 @@
       "serverName": "Sepehr",
       "channelName": "aflak",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3664,6 +3750,7 @@
       "serverName": "Sepehr",
       "channelName": "aftab",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3677,6 +3764,7 @@
       "serverName": "Sepehr",
       "channelName": "azarbayjan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3690,6 +3778,7 @@
       "serverName": "Sepehr",
       "channelName": "alborz",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3703,6 +3792,7 @@
       "serverName": "Sepehr",
       "channelName": "baran",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3716,6 +3806,7 @@
       "serverName": "Sepehr",
       "channelName": "bushehr",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3729,6 +3820,7 @@
       "serverName": "Sepehr",
       "channelName": "dena",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3742,6 +3834,7 @@
       "serverName": "Sepehr",
       "channelName": "esfahan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3755,6 +3848,7 @@
       "serverName": "Sepehr",
       "channelName": "eshragh",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3768,6 +3862,7 @@
       "serverName": "Sepehr",
       "channelName": "fars",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3781,6 +3876,7 @@
       "serverName": "Sepehr",
       "channelName": "golestan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3794,6 +3890,7 @@
       "serverName": "Sepehr",
       "channelName": "hamedan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3807,6 +3904,7 @@
       "serverName": "Sepehr",
       "channelName": "hamoon",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3820,6 +3918,7 @@
       "serverName": "Sepehr",
       "channelName": "ilam",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3833,6 +3932,7 @@
       "serverName": "Sepehr",
       "channelName": "jahanbin",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3846,6 +3946,7 @@
       "serverName": "Sepehr",
       "channelName": "kerman",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3859,6 +3960,7 @@
       "serverName": "Sepehr",
       "channelName": "kermanshah",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3872,6 +3974,7 @@
       "serverName": "Sepehr",
       "channelName": "khalijefars",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3885,6 +3988,7 @@
       "serverName": "Sepehr",
       "channelName": "khorasanjonoobi",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3898,6 +4002,7 @@
       "serverName": "Sepehr",
       "channelName": "khorasanrazavi",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3911,6 +4016,7 @@
       "serverName": "Sepehr",
       "channelName": "khorasanshomali",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3924,6 +4030,7 @@
       "serverName": "Sepehr",
       "channelName": "khoozestan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3937,6 +4044,7 @@
       "serverName": "Sepehr",
       "channelName": "kish",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3950,6 +4058,7 @@
       "serverName": "Sepehr",
       "channelName": "kordestan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3963,6 +4072,7 @@
       "serverName": "Sepehr",
       "channelName": "mahabad",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3976,6 +4086,7 @@
       "serverName": "Sepehr",
       "channelName": "mazandaran",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -3989,6 +4100,7 @@
       "serverName": "Sepehr",
       "channelName": "noor",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4002,6 +4114,7 @@
       "serverName": "Sepehr",
       "channelName": "qazvin",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4015,6 +4128,7 @@
       "serverName": "Sepehr",
       "channelName": "sabalan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4028,6 +4142,7 @@
       "serverName": "Sepehr",
       "channelName": "sahand",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4041,6 +4156,7 @@
       "serverName": "Sepehr",
       "channelName": "semnan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4054,6 +4170,7 @@
       "serverName": "Sepehr",
       "channelName": "taban",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     }
   ],
@@ -4704,10 +4821,9 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_1",
-      "serverName": "Sepehr",
       "channelName": "tv1",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/tv1/live/playlist.m3u8"
     },
     {
       "id": "41021",
@@ -4717,10 +4833,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_2",
-      "serverName": "Sepehr",
-      "channelName": "tv2",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/tv2/live/playlist.m3u8"
     },
     {
       "id": "41022",
@@ -4730,11 +4844,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_3",
-      "serverName": "Sepehr",
-      "channelName": "tv3",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live",
-      "backupId": "2023"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8"
     },
     {
       "id": "41023",
@@ -4744,10 +4855,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_4",
-      "serverName": "Sepehr",
-      "channelName": "tv4",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/tv4/live/playlist.m3u8"
     },
     {
       "id": "41024",
@@ -4757,10 +4866,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_5",
-      "serverName": "Sepehr",
-      "channelName": "tv5",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/tehran/live/playlist.m3u8"
     },
     {
       "id": "41025",
@@ -4770,10 +4877,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_khabar",
-      "serverName": "Sepehr",
-      "channelName": "irinn",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/irinn/live/playlist.m3u8"
     },
     {
       "id": "41026",
@@ -4782,12 +4887,10 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
+      "favorite": "Yes",
       "localImageResource": "irib_varzesh",
-      "serverName": "Sepehr",
-      "channelName": "Varzesh",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live",
-      "backupId": "2027"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/varzesh/live/playlist.m3u8"
     },
     {
       "id": "41027",
@@ -4797,10 +4900,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_tamasha",
-      "serverName": "Sepehr",
-      "channelName": "tamasha",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/hdtest/live/playlist.m3u8"
     },
     {
       "id": "41028",
@@ -4810,10 +4911,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_nasim",
-      "serverName": "Sepehr",
-      "channelName": "Nasim",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/nasim/live/playlist.m3u8"
     },
     {
       "id": "41050",
@@ -4823,10 +4922,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_amouzesh",
-      "serverName": "Sepehr",
-      "channelName": "amouzesh",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/amouzesh/live/playlist.m3u8"
     },
     {
       "id": "41051",
@@ -4836,49 +4933,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_ifilmfa",
-      "serverName": "Sepehr",
-      "channelName": "ifilmfa",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
-    },
-    {
-      "id": "41094",
-      "title": "Ifilm English",
-      "title_b_fa": "آی فیلم انگلیسی",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "en",
-      "localImageResource": "irib_ifilmen",
-      "serverName": "Sepehr",
-      "channelName": "ifilmen",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
-    },
-    {
-      "id": "41095",
-      "title": "Ifilm Dari",
-      "title_b_fa": "آی فیلم دری",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_ifilmdari",
-      "serverName": "Sepehr",
-      "channelName": "ifilmdari",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
-    },
-    {
-      "id": "41096",
-      "title": "Ifilm Arabic",
-      "title_b_fa": "آی فیلم عربی",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "ar",
-      "localImageResource": "irib_ifilmarabic",
-      "serverName": "Sepehr",
-      "channelName": "filmarabic",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/ifilm/live/playlist.m3u8"
     },
     {
       "id": "41052",
@@ -4888,23 +4944,19 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_irankala",
-      "serverName": "Sepehr",
-      "channelName": "irankala",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/irankala/live/playlist.m3u8"
     },
     {
-      "id": "41053",
+      "id": "1053",
       "title": "Mostanad",
       "title_b_fa": "مستند",
       "description": "Documentary",
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_mostanad",
-      "serverName": "Sepehr",
-      "channelName": "mostanad",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/mostanad/live/playlist.m3u8"
     },
     {
       "id": "41054",
@@ -4914,10 +4966,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_namayesh",
-      "serverName": "Sepehr",
-      "channelName": "namayesh",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/namayesh/live/playlist.m3u8"
     },
     {
       "id": "41032",
@@ -4928,10 +4978,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_quran",
-      "serverName": "Sepehr",
-      "channelName": "quran",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/quran/live/playlist.m3u8"
     },
     {
       "id": "41055",
@@ -4941,10 +4989,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_ofogh",
-      "serverName": "Sepehr",
-      "channelName": "ofogh",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/ofogh/live/playlist.m3u8"
     },
     {
       "id": "41056",
@@ -4954,10 +5000,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_omid",
-      "serverName": "Sepehr",
-      "channelName": "omid",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/omid/live/playlist.m3u8"
     },
     {
       "id": "41057",
@@ -4967,10 +5011,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_pouya",
-      "serverName": "Sepehr",
-      "channelName": "pouya",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/pooya/live/playlist.m3u8"
     },
     {
       "id": "41058",
@@ -4980,10 +5022,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_salamat",
-      "serverName": "Sepehr",
-      "channelName": "salamat",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/salamat/live/playlist.m3u8"
     },
     {
       "id": "41059",
@@ -4993,23 +5033,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_shoma",
-      "serverName": "Sepehr",
-      "channelName": "shoma",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
-    },
-    {
-      "id": "41060",
-      "title": "Sepehr",
-      "title_b_fa": "سپهر",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_sepehr",
-      "serverName": "Sepehr",
-      "channelName": "sepehr",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "url": "https://sepehr.irib.ir/live"
+      "httpTimeout": "500",
+      "url": "https://cdnw.telewebion.com/shoma/live/playlist.m3u8"
     },
     {
       "id": "2023",
@@ -5451,6 +5476,9 @@
       "localImageResource": "tm_tv",
       "url": "http://51.210.227.151/hls/stream.m3u8"
     }
+  ],
+  "irib_telwebion_tv": [
+
   ],
   "others_tv": [
     {
