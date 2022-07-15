@@ -192,17 +192,6 @@
       "backupUrl": "http://184.144.110.243:60006/live/smil:rjtv.smil/chunklist_w1403401978_b746000.m3u8"
     },
     {
-      "id": "8446",
-      "title": "RadioJavan (Proxy)",
-      "title_b_fa": "رادیو جوان (پروکسی)",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "IR",
-      "localImageResource": "radio_javan",
-      "url": "http://184.144.110.243:60006/live/smil:rjtv.smil/chunklist_w1403401978_b746000.m3u8"
-    },
-    {
       "id": "7",
       "title": "MBC Persia",
       "title_b_fa": "ام بی سی پرشیا",
@@ -1317,7 +1306,11 @@
       "language_code": "tr",
       "favorite": "Yes",
       "localImageResource": "startv",
-      "url": "https://tv.ensonhaber.com/tv/tr/startv/index.m3u8",
+      "channelName": "star_tv",
+      "serverName": "Embedded",
+      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
+      "url": "https://www.dailymotion.com/player/metadata/video/x729whv?embedder=https%3A%2F%2Fwww.startv.com.tr%2Fcanli-yayin&referer=&GK_PV5_PHOTON=1&geo=1&player-id=x8rd3&dmTs=470429&is_native_app=0&dmV1st=A0DAFF33BD326715D3A9C3E993DA395F",
+      "backupUrl": "https://tv.ensonhaber.com/tv/tr/startv/index.m3u8",
       "backupId": "4600"
     },
     {
@@ -1328,6 +1321,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kanal_d",
+      "httpTimeout": "1000",
       "url": "https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8?live=true&app=com.kanald&min=0&max=1250",
       "backupId": "4602"
     },
@@ -1434,6 +1428,19 @@
       "channelName": "fox_turkey",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live",
       "backupId": "4601"
+    },
+    {
+      "id": "4602",
+      "title": "Kanal D (Backup)",
+      "title_b_fa": "کانال د (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "kanal_d",
+      "channelName": "kanal_d",
+      "serverName": "Embedded",
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/kanal-d-canli-izle-hd/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=kanal-d-canli-izle-hd"
     },
     {
       "id": "628",
@@ -5240,19 +5247,6 @@
       "serverName": "YouTubeHls",
       "channelName": "showturk",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/0a1B2FIJ268"
-    },
-    {
-      "id": "4602",
-      "title": "Kanal D (Backup)",
-      "title_b_fa": "کانال د (جایگزین)",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "kanal_d",
-      "channelName": "kanal_d",
-      "serverName": "Embedded",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/kanal-d-canli-izle-hd/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=kanal-d-canli-izle-hd"
     },
     {
       "id": "4635",
