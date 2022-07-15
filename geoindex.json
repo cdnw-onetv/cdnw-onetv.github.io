@@ -192,17 +192,6 @@
       "backupUrl": "http://184.144.110.243:60006/live/smil:rjtv.smil/chunklist_w1403401978_b746000.m3u8"
     },
     {
-      "id": "8446",
-      "title": "RadioJavan (Proxy)",
-      "title_b_fa": "رادیو جوان (پروکسی)",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "IR",
-      "localImageResource": "radio_javan",
-      "url": "http://184.144.110.243:60006/live/smil:rjtv.smil/chunklist_w1403401978_b746000.m3u8"
-    },
-    {
       "id": "7",
       "title": "MBC Persia",
       "title_b_fa": "ام بی سی پرشیا",
