@@ -1221,13 +1221,23 @@
       "id": "319",
       "title": "Denge Zelal",
       "title_b_fa": "دنگ زلال",
-      "description": "Music",
+      "description": "General",
       "country_code": "TR",
       "language_code": "ku",
       "localImageResource": "denge_zelal_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/denge_zelal_tv.png",
-      "url": "https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8",
-      "backupUrl": "http://dengezelaltv65.ozelip.com:26516/denge/denge/playlist.m3u8"
+      "url": "https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8"
+    },
+    {
+      "id": "335",
+      "title": "Sumbul TV",
+      "title_b_fa": "سومبل",
+      "description": "Music",
+      "country_code": "TR",
+      "language_code": "ku",
+      "localImageResource": "sumbul_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sumbul_tv.png",
+      "url": "http://dengezelaltv65.ozelip.com:26516/denge/denge/playlist.m3u8"
     },
     {
       "id": "322",
