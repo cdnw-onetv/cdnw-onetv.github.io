@@ -44,6 +44,21 @@
       "id": "2008",
       "title": "app_version_code",
       "description": ""
+    },
+    {
+      "id": "2000",
+      "title": "sepehr_preload_channels",
+      "description": "1022,1020,1026"
+    },
+    {
+      "id": "2010",
+      "title": "embedded_preload_channels",
+      "description": ""
+    },
+    {
+      "id": "2011",
+      "title": "proxy_address",
+      "description": "http://192.168.2.92:20199/api?url="
     }
   ],
   "persian_tv": [
@@ -806,6 +821,7 @@
       "localImageResource": "aio_network",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
       "streamingUrlReferer": "https://www.aionet.ir/",
+      "streamingUrlExpireTime": "20",
       "channelName": "aio_film",
       "serverName": "EmbeddedWebView",
       "url": "https://www.aionet.ir/channel/100025"
@@ -820,6 +836,7 @@
       "localImageResource": "aio_network",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
       "streamingUrlReferer": "https://www.aionet.ir/",
+      "streamingUrlExpireTime": "20",
       "channelName": "aio_toon",
       "serverName": "EmbeddedWebView",
       "url": "https://www.aionet.ir/channel/100024"
@@ -2202,8 +2219,8 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kanal_avrupa",
-      "serverName": "EmbeddedWebView",
-      "url": "https://www.canlitvizle.life/kanal-avrupa"
+      "url": "http://51.15.2.151/hls/kanalavrupa.m3u8",
+      "backupId": "4665"
     },
     {
       "id": "646",
@@ -2955,6 +2972,20 @@
       "url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8"
     },
     {
+      "id": "1175",
+      "title": "Syrian News",
+      "title_b_fa": "اخبار سوریه",
+      "title_b_ar": "الاخبارية السورية",
+      "description": "Music",
+      "country_code": "SY",
+      "language_code": "ar",
+      "localImageResource": "syrian_news",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/syrian_news.png",
+      "channelName": "syrian_news",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/alikhbariya-syria.php"
+    },
+    {
       "id": "1155",
       "title": "MTV Lebanon",
       "title_b_fa": "ام تی وی لبنان",
@@ -3075,6 +3106,30 @@
       "language_code": "ar",
       "localImageResource": "arabica_tv",
       "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
+    },
+    {
+      "id": "1173",
+      "title": "Sham FM",
+      "title_b_fa": "شام اف ام",
+      "title_b_ar": "شام إف إم",
+      "description": "Music",
+      "country_code": "SY",
+      "language_code": "ar",
+      "localImageResource": "sham_fm",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sham_fm.png",
+      "url": "http://radioshamfm.grtvstream.com:8400/stream?type=mp3"
+    },
+    {
+      "id": "1174",
+      "title": "Sham FM Plus",
+      "title_b_fa": "شام اف ام پلاس",
+      "title_b_ar": "شام إف إم بلس",
+      "description": "Music",
+      "country_code": "SY",
+      "language_code": "ar",
+      "localImageResource": "sham_fm_plus",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sham_fm_plus.png",
+      "url": "http://radioshamfm.grtvstream.com:8022/stream?type=mp3"
     },
     {
       "id": "1114",
@@ -4816,7 +4871,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "tapesh_2",
-      "channelName": "tapesh_2",
+      "channelName": "tapesh_2_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=T2International"
     },
@@ -4966,7 +5021,7 @@
       "url": "https://cdnw.telewebion.com/irankala/live/playlist.m3u8"
     },
     {
-      "id": "1053",
+      "id": "41053",
       "title": "Mostanad",
       "title_b_fa": "مستند",
       "description": "Documentary",
@@ -5084,7 +5139,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdsat_tv",
-      "channelName": "kurdsat",
+      "channelName": "kurdsat_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/kurdsat-tv.html"
     },
@@ -5096,7 +5151,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_tv",
-      "channelName": "kurdmax",
+      "channelName": "kurdmax_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/kurdmax-tv.html"
     },
@@ -5108,7 +5163,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_show_tv",
-      "channelName": "kurdmaxShow",
+      "channelName": "kurdmaxShow_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/kurdmax-show-tv.html"
     },
@@ -5120,7 +5175,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
-      "channelName": "kurdmaxMusic",
+      "channelName": "kurdmaxMusic_backup",
       "url": "http://184.144.110.243:60102/kurdmaxmusic.mp4",
       "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live"
     },
@@ -5132,7 +5187,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "gali_kurdistan",
-      "channelName": "GaliKurdistan",
+      "channelName": "GaliKurdistan_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/geli-kurdistan-tv.html"
     },
@@ -5144,7 +5199,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurd_channel",
-      "channelName": "kurd_channel",
+      "channelName": "kurd_channel_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/kurd-channel.html"
     },
@@ -5157,7 +5212,7 @@
       "language_code": "ku",
       "localImageResource": "jin_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/jin_tv.png",
-      "channelName": "jin_tv",
+      "channelName": "jin_tv_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=JinTV"
     },
@@ -5170,7 +5225,7 @@
       "language_code": "ku",
       "localImageResource": "ronahi_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/ronahi_tv.png",
-      "channelName": "ronahi_tv",
+      "channelName": "ronahi_tv_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.elahmad.com/tv/iran-tv-online.php?id=Ronahi"
     },
@@ -5182,7 +5237,7 @@
       "country_code": "IQ",
       "language_code": "ar",
       "localImageResource": "zagros_tv",
-      "channelName": "ZagrosTv",
+      "channelName": "ZagrosTv_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/zagros-tv.html"
     },
@@ -5195,7 +5250,7 @@
       "language_code": "tr",
       "localImageResource": "a_tv",
       "serverName": "EmbeddedWebView",
-      "channelName": "a_tv",
+      "channelName": "a_tv_backup",
       "url": "https://ecanlitvizle.sitecozum.net/atv-tv-canli-hd-izle-10/"
     },
     {
@@ -5219,7 +5274,7 @@
       "language_code": "tr",
       "localImageResource": "startv",
       "serverName": "Embedded",
-      "channelName": "startv",
+      "channelName": "startv_backup",
       "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/star-tv-canli-izle-10/",
       "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=star-tv-canli-izle-10"
     },
@@ -5232,7 +5287,7 @@
       "language_code": "tr",
       "localImageResource": "showtv",
       "serverName": "YouTubeHls",
-      "channelName": "showtv",
+      "channelName": "showtv_backup",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9JMe_We017gYrRc7kZHgmg/live"
     },
     {
@@ -5244,7 +5299,7 @@
       "language_code": "tr",
       "localImageResource": "showmax",
       "serverName": "YouTubeHls",
-      "channelName": "showmax",
+      "channelName": "showmax_backup",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/MrpMPNW9cx8"
     },
     {
@@ -5256,7 +5311,7 @@
       "language_code": "tr",
       "localImageResource": "showturk",
       "serverName": "YouTubeHls",
-      "channelName": "showturk",
+      "channelName": "showturk_backup",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/0a1B2FIJ268"
     },
     {
@@ -5268,7 +5323,7 @@
       "language_code": "tr",
       "localImageResource": "tv8_turkish",
       "serverName": "Embedded",
-      "channelName": "tv8_turkish",
+      "channelName": "tv8_turkish_backup",
       "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/tv-8-canli-yayin-izle-15/",
       "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=tv-8-canli-yayin-izle-15"
     },
@@ -5280,7 +5335,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kanal_7",
-      "channelName": "kanal_7",
+      "channelName": "kanal_7_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://www.canlitv.vin/kanal-7-hd-canli-izle"
     },
@@ -5292,7 +5347,7 @@
       "language_code": "tr",
       "localImageResource": "trt_sport",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport.png",
-      "channelName": "trt_sport",
+      "channelName": "trt_sport_backup",
       "serverName": "Embedded",
       "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/trt-spor-canli-hd-izle/",
       "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=trt-spor-canli-hd-izle"
@@ -5305,7 +5360,7 @@
       "language_code": "tr",
       "localImageResource": "trt_sport_yildiz",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport_yildiz.png",
-      "channelName": "trt_sport_yildiz",
+      "channelName": "trt_sport_yildiz_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://www.canlitv.vin/trt-spor-yildiz"
     },
@@ -5330,7 +5385,7 @@
       "localImageResource": "tv8_5_turkish_backup",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv8_5_turkish.png",
       "serverName": "EmbeddedWebView",
-      "channelName": "tv8_5_turkish",
+      "channelName": "tv8_5_turkish_backup",
       "url": "https://canlitv.center/tv8-5"
     },
     {
@@ -5343,7 +5398,7 @@
       "localImageResource": "tlc_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tlc_tv.png",
       "serverName": "EmbeddedWebView",
-      "channelName": "tlc_turkey_tv",
+      "channelName": "tlc_turkey_tv_backup",
       "url": "https://canlitv.com/tlc"
     },
     {
@@ -5355,7 +5410,7 @@
       "language_code": "tr",
       "localImageResource": "tgrt_haber",
       "serverName": "Embedded",
-      "channelName": "tgrt_haber",
+      "channelName": "tgrt_haber_backup",
       "url": "https://www.tgrthaber.com.tr/canli"
     },
     {
@@ -5367,7 +5422,7 @@
       "language_code": "tr",
       "localImageResource": "bloomberg_ht_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bloomberg_ht_tv.png",
-      "channelName": "bloomberg_ht_tv",
+      "channelName": "bloomberg_ht_tv_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://canlitv.center/bloomberg-ht-izle"
     },
@@ -5380,7 +5435,7 @@
       "language_code": "tr",
       "localImageResource": "tv_100_turkey_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
-      "channelName": "tv_100_turkey_tv",
+      "channelName": "tv_100_turkey_tv_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://canlitv.com/tv-100"
     },
@@ -5393,7 +5448,7 @@
       "language_code": "tr",
       "localImageResource": "ulke_tv",
       "serverName": "Embedded",
-      "channelName": "Ulke",
+      "channelName": "Ulke_backup",
       "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
       "url": "https://www.dailymotion.com/player/metadata/video/x7yb4xm?embedder=https%3A%2F%2Fwww.ulketv.com.tr%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3"
     },
@@ -5406,9 +5461,21 @@
       "language_code": "tr",
       "localImageResource": "ntv_turk",
       "serverName": "Embedded",
-      "channelName": "ntv_turk",
+      "channelName": "ntv_turk_backup",
       "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/ntv-canli-full-hd-izle",
       "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=ntv-canli-full-hd-izle"
+    },
+    {
+      "id": "4665",
+      "title": "Kanal Avrupa TV (Backup)",
+      "title_b_fa": "اروپا تی تی وی (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "kanal_avrupa",
+      "channelName": "kanal_avrupa",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.canlitvizle.life/kanal-avrupa"
     },
     {
       "id": "4669",
@@ -5418,7 +5485,7 @@
       "language_code": "az",
       "description": "General",
       "localImageResource": "arb_tv",
-      "channelName": "arb_tv_az",
+      "channelName": "arb_tv_az_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://canlitv.com/arb-tv"
     },
@@ -5441,7 +5508,7 @@
       "language_code": "ar",
       "localImageResource": "mbc_2",
       "serverName": "EmbeddedWebView",
-      "channelName": "mbc_2",
+      "channelName": "mbc_2_backup",
       "url": "https://www.aflam4you.net/watch/mbc-2-shahid-movies-ramadan-online-tv_6.html",
       "url2": "http://www.teledunet.com/?channel=1133"
     },
@@ -5454,7 +5521,7 @@
       "language_code": "ar",
       "localImageResource": "mbc_4",
       "serverName": "EmbeddedWebView",
-      "channelName": "mbc_4",
+      "channelName": "mbc_4_backup",
       "url": "https://www.aflam4you.net/watch/mbc-4-live-shahid-mbc4-ramadan-online-tv_71.html",
       "backupUrl": "http://www.teledunet.com/?channel=1135"
     },
@@ -5467,7 +5534,7 @@
       "country_code": "LB",
       "language_code": "ar",
       "localImageResource": "aljadeed_tv",
-      "channelName": "aljadeed_tv",
+      "channelName": "aljadeed_tv_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://azrotv.com/iphone/arabic/ch3/aljadeed.php"
     },
