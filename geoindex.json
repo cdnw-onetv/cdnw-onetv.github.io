@@ -3118,7 +3118,7 @@
       "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
     },
     {
-      "id": "1176",
+      "id": "1173",
       "title": "Sham FM TV",
       "title_b_fa": "شام اف ام تی وی",
       "title_b_ar": "شام إف إم تی وی",
@@ -3127,19 +3127,12 @@
       "language_code": "ar",
       "localImageResource": "sham_fm",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/sham_fm.png",
-      "url": "<iframe width=\"100%\" height=\"100%\" src=\"https://ok.ru/videoembed/1366902775399?nochat=1&autoplay=1\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen></iframe>"
-    },
-    {
-      "id": "1173",
-      "title": "Sham FM",
-      "title_b_fa": "شام اف ام",
-      "title_b_ar": "شام إف إم",
-      "description": "Music",
-      "country_code": "SY",
-      "language_code": "ar",
-      "localImageResource": "sham_fm",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sham_fm.png",
-      "url": "http://radioshamfm.grtvstream.com:8400/stream?type=mp3"
+      "channelName": "sham_fm_tv",
+      "serverName": "Embedded",
+      "streamingUrlPattern": "https:([^\"\\';]*?)/sig/([^\"\\';]*?)video.m3u8[0-9a-zA-Z\\?]",
+      "url": "https://ok.ru/live/1366902775399",
+      "backupUrl": "http://radioshamfm.grtvstream.com:8400/stream?type=mp3",
+      "url2": "<iframe width=\"100%\" height=\"100%\" src=\"https://ok.ru/videoembed/1366902775399?nochat=1&autoplay=1\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen></iframe>"
     },
     {
       "id": "1174",
