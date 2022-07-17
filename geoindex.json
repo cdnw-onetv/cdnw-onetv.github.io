@@ -3118,6 +3118,18 @@
       "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
     },
     {
+      "id": "1176",
+      "title": "Sham FM TV",
+      "title_b_fa": "شام اف ام تی وی",
+      "title_b_ar": "شام إف إم تی وی",
+      "description": "Music",
+      "country_code": "SY",
+      "language_code": "ar",
+      "localImageResource": "sham_fm",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sham_fm.png",
+      "url": "<iframe width=\"100%\" height=\"100%\" src=\"https://ok.ru/videoembed/1366902775399?nochat=1&autoplay=1\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen></iframe>"
+    },
+    {
       "id": "1173",
       "title": "Sham FM",
       "title_b_fa": "شام اف ام",
