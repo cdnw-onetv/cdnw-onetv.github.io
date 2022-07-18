@@ -2072,8 +2072,7 @@
       "localImageResource": "tele_1_tv",
       "channelName": "tele_1_tv",
       "streamingUrlReferer": "https://canlitv.com/tele1-tv",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/n7nY9ooEJ-8",
-      "backupUrl1": "https://www.youtube.com/embed/n7nY9ooEJ-8?autoplay=1&controls=0"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live"
     },
     {
       "id": "655",
@@ -2084,7 +2083,7 @@
       "language_code": "tr",
       "localImageResource": "ntv_turk",
       "channelName": "ntv_turk",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/XEJM4Hcgd3M",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9TDTjbOjFB9jADmPhSAPsw/live",
       "backupId": "4655"
     },
     {
@@ -2108,8 +2107,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "krt_tv",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/GhN1hxpCsT0",
-      "backupUrl": "https://www.youtube.com/embed/GhN1hxpCsT0?autoplay=1&controls=0"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCT1QJrOPtGWYyWkXry8uT4w/live"
     },
     {
       "id": "638",
@@ -2167,7 +2165,7 @@
       "language_code": "tr",
       "localImageResource": "tv_100_turkey_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/8jEXHzMTR7s",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCndsdUW_oPLqpQJY9J8oIRg/live",
       "backupUrl": "https://www.youtube.com/embed/8jEXHzMTR7s?autoplay=1&controls=0"
     },
     {
