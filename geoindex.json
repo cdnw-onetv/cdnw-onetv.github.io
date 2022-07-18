@@ -4899,22 +4899,6 @@
       "backupUrl": "https://cdnw.telewebion.com/tv2/live/playlist.m3u8"
     },
     {
-      "id": "41022",
-      "title": "IRIB 3 (Backup)",
-      "title_b_fa": "شبکه سه (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_3",
-      "serverName": "Sepehr",
-      "channelName": "tv3",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
-      "url": "https://sepehr.irib.ir/live",
-      "backupUrl": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8",
-      "backupId": "2023"
-    },
-    {
       "id": "41023",
       "title": "IRIB 4 (Backup)",
       "title_b_fa": "شبکه چهار (جایگزین)",
@@ -4958,21 +4942,6 @@
       "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/irinn/live/playlist.m3u8"
-    },
-    {
-      "id": "41026",
-      "title": "Varzesh (Backup)",
-      "title_b_fa": "ورزش (جایگزین)",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_varzesh",
-      "serverName": "Sepehr",
-      "channelName": "Varzesh",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
-      "url": "https://sepehr.irib.ir/live",
-      "backupUrl": "https://cdnw.telewebion.com/varzesh/live/playlist.m3u8"
     },
     {
       "id": "41027",
