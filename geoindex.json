@@ -2435,14 +2435,14 @@
     },
     {
       "id": "676",
-      "title": "CBC Sport AZ",
+      "title": "CBC  Sport AZ",
       "country_code": "AZ",
       "language_code": "az",
       "title_b_fa": "سی بی سی اسپرت",
       "description": "Sport",
       "localImageResource": "cbc_sport_az_tv",
       "streamingUrlReferer": "http://www.cbcsport.az/",
-      "url": "http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/playlist.m3u8"
+      "url": "https://s31795.cdn.ngenix.net/s31795-media-origin/lvs/cbcsport/tracks-v1a1/mono.m3u8"
     },
     {
       "id": "677",
