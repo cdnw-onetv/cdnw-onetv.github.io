@@ -82,6 +82,7 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "favorite": "Yes",
       "localImageResource": "bbc_persian",
       "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
@@ -96,7 +97,8 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "IR",
+      "geo_restrictions": "@IR",
+      "favorite": "Yes",
       "localImageResource": "bbc_persian",
       "url": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8"
     },
@@ -107,6 +109,7 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "favorite": "Yes",
       "localImageResource": "iran_international",
       "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
@@ -120,7 +123,8 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "IR",
+      "geo_restrictions": "@IR",
+      "favorite": "Yes",
       "localImageResource": "iran_international",
       "url": "http://184.144.110.243:60003/LS-63503-4/chunklist_b806000.m3u8"
     },
@@ -171,7 +175,6 @@
       "localImageResource": "avang",
       "url": "http://51.210.227.149/hls/stream.m3u8",
       "backupUrl": "http://184.144.110.243:60044/hls/stream.m3u8"
-
     },
     {
       "id": "17",
@@ -180,6 +183,7 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "ebc_music",
       "url": "https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8",
       "backupUrl": "http://184.144.110.243:60017/EBC1/EBC1/playlist.m3u8"
@@ -191,7 +195,7 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "IR",
+      "geo_restrictions": "@IR",
       "localImageResource": "ebc_music",
       "url": "http://184.144.110.243:60017/EBC1/EBC1/playlist.m3u8"
     },
@@ -202,6 +206,7 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "radio_javan",
       "url": "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8",
       "backupUrl": "http://184.144.110.243:60006/live/smil:rjtv.smil/chunklist_w1403401978_b746000.m3u8"
@@ -213,7 +218,7 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "IR",
+      "geo_restrictions": "@IR",
       "localImageResource": "radio_javan",
       "url": "http://184.144.110.243:60006/live/smil:rjtv.smil/chunklist_w1403401978_b746000.m3u8"
     },
@@ -228,7 +233,6 @@
       "localImageResource": "mbc_persia",
       "url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
       "backupUrl": "http://184.144.110.243:60007/out/v1/bdc7cd0d990e4c54808632a52c396946/index_7.m3u8"
-
     },
     {
       "id": "43",
@@ -240,7 +244,6 @@
       "localImageResource": "four_u",
       "url": "http://51.210.227.153/hls/stream.m3u8",
       "backupUrl": "http://184.144.110.243:60043/hls/stream.m3u8"
-
     },
     {
       "id": "75",
@@ -252,7 +255,6 @@
       "localImageResource": "farsi_tv",
       "url": "https://live.farsitv.de/live/stream.m3u8",
       "backupUrl": "http://184.144.110.243:60075/live/stream_480p/index.m3u8"
-
     },
     {
       "id": "77",
@@ -272,10 +274,22 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "tapesh",
       "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8",
       "backupUrl": "http://184.144.110.243:60015/tapesh/playlist1/index.m3u8",
       "backupUrl1": "http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8"
+    },
+    {
+      "id": "8415",
+      "title": "Tapesh TV (Proxy)",
+      "title_b_fa": "تپش (پروکسی)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "tapesh",
+      "url": "http://184.144.110.243:60015/tapesh/playlist1/index.m3u8"
     },
     {
       "id": "18",
