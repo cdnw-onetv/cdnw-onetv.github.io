@@ -626,6 +626,17 @@
       "backupUrl": "http://184.144.110.243:60008/live/gembollywood/index.m3u8"
     },
     {
+      "id": "8053",
+      "title": "Gem Bollywood (Proxy)",
+      "title_b_fa": "جم بالیوود (پروکسی)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "IR",
+      "localImageResource": "gem_bollywood",
+      "url": "http://184.144.110.243:60008/live/gembollywood/index.m3u8"
+    },
+    {
       "id": "54",
       "title": "Gem Crypto",
       "title_b_fa": "جم کریپتو",
