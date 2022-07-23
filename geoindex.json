@@ -420,6 +420,17 @@
       "url": "http://51.254.225.26/hls/stream.m3u8"
     },
     {
+      "id": "91",
+      "title": "Didar TV",
+      "title_b_fa": "دیدار",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "didar_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/didar_tv.png",
+      "url": "http://51.210.227.132/hls/stream.m3u8"
+    },
+    {
       "id": "64",
       "title": "Omid Iran",
       "title_b_fa": "امید ایران",
@@ -647,6 +658,17 @@
       "url": "http://51.210.199.21/hls/stream.m3u8"
     },
     {
+      "id": "88",
+      "title": "Persiana HD",
+      "title_b_fa": "پرشیانا اچ دی",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "persiana_hd",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_hd.png",
+      "url": "http://51.210.227.147/hls/stream.m3u8"
+    },
+    {
       "id": "22",
       "title": "Persiana Music",
       "title_b_fa": "پرشیانا موزیک",
@@ -667,24 +689,26 @@
       "url": "http://51.210.199.58/hls/stream.m3u8"
     },
     {
-      "id": "24",
-      "title": "Persiana Comedy",
-      "title_b_fa": "پرشیانا کمدی",
-      "description": "Comedy",
+      "id": "90",
+      "title": "Persiana Nostalgia",
+      "title_b_fa": "پرشیانا نوستالژی",
+      "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "localImageResource": "persiana_comedy",
-      "url": "http://51.210.199.27/hls/stream.m3u8"
+      "localImageResource": "persiana_nostalgia",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_nostalgia.png",
+      "url": "http://51.210.199.58/hls/stream.m3u8"
     },
     {
-      "id": "25",
-      "title": "Persiana Family",
-      "title_b_fa": "پرشیانا فامیلی",
+      "id": "89",
+      "title": "Persiana Cinema",
+      "title_b_fa": "پرشیانا سینما",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
-      "localImageResource": "persiana_family",
-      "url": "http://51.210.199.19/hls/stream.m3u8"
+      "localImageResource": "persiana_cinema",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_cinema.png",
+      "url": "http://51.210.199.15/hls/stream.m3u8"
     },
     {
       "id": "26",
@@ -697,6 +721,36 @@
       "url": "http://51.210.199.22/hls/stream.m3u8"
     },
     {
+      "id": "25",
+      "title": "Persiana Family",
+      "title_b_fa": "پرشیانا فامیلی",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "persiana_family",
+      "url": "http://51.210.199.19/hls/stream.m3u8"
+    },
+    {
+      "id": "24",
+      "title": "Persiana Comedy",
+      "title_b_fa": "پرشیانا کمدی",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "persiana_comedy",
+      "url": "http://51.210.199.27/hls/stream.m3u8"
+    },
+    {
+      "id": "28",
+      "title": "Persiana Korea",
+      "title_b_fa": "پرشیانا کره",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "persiana_korea",
+      "url": "http://51.210.199.14/hls/stream.m3u8"
+    },
+    {
       "id": "78",
       "title": "Persiana Junior",
       "title_b_fa": "پرشیانا جونیور",
@@ -705,16 +759,6 @@
       "language_code": "fa",
       "localImageResource": "persiana_junior",
       "url": "http://51.210.199.18/hls/stream.m3u8"
-    },
-    {
-      "id": "28",
-      "title": "Persiana Korea",
-      "title_b_fa": "پرشیانا کره",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "persiana_korea",
-      "url": "http://51.210.199.14/hls/stream.m3u8"
     },
     {
       "id": "56",
@@ -3446,6 +3490,7 @@
       "title": "IRIB 3",
       "title_b_fa": "شبکه سه",
       "description": "General",
+      "tags": "Sport",
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_3",
@@ -3458,6 +3503,7 @@
       "title": "IRIB 3 (Backup)",
       "title_b_fa": "شبکه سه (جایگزین)",
       "description": "General",
+      "tags": "Sport",
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_3",
@@ -6331,6 +6377,19 @@
       "title_b_tr": "Kılavuz",
       "title_b_ar": "إرشاد",
       "localImageResource": "setting_guide",
+      "description": ""
+    }
+  ],
+  "grid_view": [
+    {
+      "id": "2105",
+      "title": "Grid View",
+      "title_b_fa": "نمای شبکه ای",
+      "title_b_ku": "بینینی تۆڕ",
+      "title_b_tr": "Kılavuz Görünümü",
+      "title_b_ar": "عرض الشبكة",
+      "localImageResource": "grid_view",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/grid_view.png",
       "description": ""
     }
   ],
