@@ -1157,9 +1157,11 @@
       "language_code": "ku",
       "localImageResource": "korek_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/korek_tv.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "korek_tv",
       "serverName": "EmbeddedWebView",
-      "url": "https://ku.karwan.tv/korek-tv.html"
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=KorekTV"
     },
     {
       "id": "311",
