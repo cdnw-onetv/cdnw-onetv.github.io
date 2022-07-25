@@ -5793,7 +5793,9 @@
       "localImageResource": "mbc_2",
       "serverName": "EmbeddedWebView",
       "channelName": "mbc_2_backup",
-      "url": "https://www.aflam4you.net/watch/mbc-2-shahid-movies-ramadan-online-tv_6.html",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
+      "url": "http://www.elahmad.com/tv/watchtv.php?id=mbc2tv",
       "url2": "http://www.teledunet.com/?channel=1133"
     },
     {
@@ -5806,7 +5808,9 @@
       "localImageResource": "mbc_4",
       "serverName": "EmbeddedWebView",
       "channelName": "mbc_4_backup",
-      "url": "https://www.aflam4you.net/watch/mbc-4-live-shahid-mbc4-ramadan-online-tv_71.html",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
+      "url": "http://www.elahmad.com/tv/watchtv.php?id=mbc_4",
       "backupUrl": "http://www.teledunet.com/?channel=1135"
     },
     {
