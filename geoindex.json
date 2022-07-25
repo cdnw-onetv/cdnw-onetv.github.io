@@ -71,6 +71,7 @@
       "language_code": "fa",
       "favorite": "Yes",
       "localImageResource": "manoto",
+      "localImageResourceNightMode": "manoto_night_mode",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
       "streamingUrlReferer": "https://www.manototv.com/",
       "backupUrl": "http://184.144.110.243:60001/live_500.m3u8"
@@ -85,6 +86,7 @@
       "geo_restrictions": "!IR",
       "favorite": "Yes",
       "localImageResource": "bbc_persian",
+      "localImageResourceNightMode": "bbc_persian_night_mode",
       "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "backupUrl": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8",
       "backupUrl2": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8",
@@ -100,6 +102,7 @@
       "geo_restrictions": "@IR",
       "favorite": "Yes",
       "localImageResource": "bbc_persian",
+      "localImageResourceNightMode": "bbc_persian_night_mode",
       "url": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8"
     },
     {
@@ -332,6 +335,8 @@
       "language_code": "fa",
       "geo_restrictions": "!IR",
       "localImageResource": "tapesh_2",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "tapesh_2_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=T2International"
@@ -842,6 +847,8 @@
       "localImageResource": "tapesh_2_movies",
       "channelName": "tapesh_2_movies",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tapesh_2_movies.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=T2Movies"
     },
@@ -1378,7 +1385,7 @@
       "description": "General",
       "language_code": "ku",
       "localImageResource": "cihan_tv",
-      "url": "http://cdn.liveshell.net:1935/live/cihann/playlist.m3u8"
+      "url": "http://cdn.dwasat.com:1935/live/cihann/playlist.m3u8"
     },
     {
       "id": "315",
@@ -3075,6 +3082,8 @@
       "language_code": "ar",
       "localImageResource": "syrian_news",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/syrian_news.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "syrian_news",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/alikhbariya-syria.php"
@@ -3089,6 +3098,8 @@
       "language_code": "ar",
       "geo_restrictions": "IR,IQ,CA,SA,QA,KW,AE,YE,BH,SY,EG",
       "localImageResource": "mtv_lebanon",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "mtv_lebanon",
       "serverName": "EmbeddedWebView",
       "url2": "http://www.elahmad.com/tv/watchtv.php?id=mtv_lebanon",
@@ -3104,6 +3115,8 @@
       "language_code": "ar",
       "geo_restrictions": "IR,IQ,CA,SA,QA,KW,AE,YE,BH,SY,EG",
       "localImageResource": "aljadeed_tv",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "aljadeed_tv",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/newtv.php",
@@ -3119,6 +3132,8 @@
       "language_code": "ar",
       "geo_restrictions": "IR,IQ,CA,SA,QA,KW,AE,YE,BH,SY,EG",
       "localImageResource": "future_tv",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "future_tv_lebanon",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/futurelive.php"
@@ -3134,6 +3149,8 @@
       "geo_restrictions": "IR,IQ,CA,SA,QA,KW,AE,YE,BH,SY,EG",
       "localImageResource": "lbc_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/lbc_tv.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "lbc_tv_lebanon",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/lbc.php"
@@ -3149,6 +3166,8 @@
       "geo_restrictions": "IR,IQ,CA,SA,QA,KW,AE,YE,BH,SY,EG",
       "localImageResource": "lb2_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/lb2_tv.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "lb2_tv_lebanon",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=lb2"
@@ -3163,6 +3182,8 @@
       "language_code": "ar",
       "localImageResource": "otv_lebanon",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/otv_lebanon.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "otv_lebanon",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=otv_lb1"
@@ -3280,6 +3301,8 @@
       "language_code": "ar",
       "localImageResource": "alshahed_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/alshahed_tv.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "alshahed_tv",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=alshahed_tv"
@@ -4344,6 +4367,7 @@
       "country_code": "CA",
       "language_code": "en",
       "localImageResource": "cbc_toronto",
+      "localImageResourceNightMode": "cbc_toronto_night_mode",
       "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master1.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master4.m3u8"
     },
@@ -4355,6 +4379,7 @@
       "country_code": "CA",
       "language_code": "en",
       "localImageResource": "cbc_vancouver",
+      "localImageResourceNightMode": "cbc_vancouver_night_mode",
       "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master1.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master4.m3u8"
     },
@@ -4366,6 +4391,7 @@
       "country_code": "CA",
       "language_code": "en",
       "localImageResource": "cbc_montreal",
+      "localImageResourceNightMode": "cbc_montreal_night_mode",
       "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master4.m3u8"
     },
@@ -4379,6 +4405,7 @@
       "serverName": "GlobalNews",
       "channelName": "cQOVg6jKSvusQAfYpTrUoQ",
       "localImageResource": "global_news_national",
+      "localImageResourceNightMode": "global_news_national_night_mode",
       "url": "https://dai.google.com/linear/hls/pa/event"
     },
     {
@@ -4391,6 +4418,7 @@
       "serverName": "GlobalNews",
       "channelName": "BblZeSsBRSSCtvkKRZ8XJQ",
       "localImageResource": "global_news_toronto",
+      "localImageResourceNightMode": "global_news_toronto_night_mode",
       "url": "https://dai.google.com/linear/hls/pa/event"
     },
     {
@@ -4401,6 +4429,7 @@
       "country_code": "CA",
       "language_code": "en",
       "localImageResource": "cbc_radio_toronto",
+      "localImageResourceNightMode": "cbc_radio_toronto_night_mode",
       "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8?mp3=mp3"
     },
     {
@@ -4421,6 +4450,7 @@
       "country_code": "CA",
       "language_code": "en",
       "localImageResource": "chfi_radio_toronto",
+      "localImageResourceNightMode": "chfi_radio_toronto_night_mode",
       "url": "https://rogers-hls.leanstream.co/rogers/tor981.stream/48k/playlist.m3u8?listeningSessionID=61f8a40205db277e_1379452_0MG7vAgO_NjYuNTUuOTMuMTE2OjgwMDA!_00000004xoa&downloadSessionID=0&environment=web&args=web_01&mp3=mp3"
     },
     {
@@ -4431,6 +4461,7 @@
       "country_code": "US",
       "language_code": "en",
       "localImageResource": "bloomberg",
+      "localImageResourceNightMode": "bloomberg_night_mode",
       "url": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8"
     },
     {
@@ -4477,7 +4508,7 @@
       "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/nIhbO89W1GE"
     },
     {
-      "id": "518",
+      "id": "525",
       "title": "PBS Kids",
       "title_b_fa": "پی بی اس کیدز",
       "description": "Kids",
@@ -4486,6 +4517,18 @@
       "localImageResource": "pbs_kids",
       "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8",
       "backupUrl": "https://livestream.pbskids.org/out/v1/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd"
+    },
+    {
+      "id": "527",
+      "title": "Bein Sports Extra",
+      "title_b_fa": "بین اسپورت اکسترا",
+      "title_b_ar": "بین سبورت اکسترا",
+      "description": "Sports",
+      "country_code": "QA",
+      "language_code": "en",
+      "localImageResource": "bein_sports_extra",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_extra.png",
+      "url": "https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8"
     },
     {
       "id": "519",
@@ -4579,6 +4622,7 @@
       "country_code": "US",
       "language_code": "en",
       "localImageResource": "cbs_news",
+      "localImageResourceNightMode": "cbs_news_night_mode",
       "channelName": "cbs_news",
       "serverName": "EmbeddedWebView",
       "url": "https://www.cbsnews.com/live/"
@@ -4590,7 +4634,8 @@
       "description": "Music",
       "language_code": "en",
       "localImageResource": "music_logo",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/fY_pTiAr6Wk"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WFF1eRTJOYw",
+      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9qr4fem8L5HEx0IDoktEpw/live"
     },
     {
       "id": "516",
@@ -4611,7 +4656,7 @@
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvbKGLFg-bgjWvAglehxOFw/live"
     },
     {
-      "id": "525",
+      "id": "526",
       "title": "Music Mix 2",
       "title_b_fa": "آهنگ",
       "description": "Music",
@@ -5425,6 +5470,8 @@
       "language_code": "ku",
       "localImageResource": "jin_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/jin_tv.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "jin_tv_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=JinTV"
@@ -5438,6 +5485,8 @@
       "language_code": "ku",
       "localImageResource": "ronahi_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/ronahi_tv.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "ronahi_tv_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.elahmad.com/tv/iran-tv-online.php?id=Ronahi"
