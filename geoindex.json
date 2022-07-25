@@ -3095,21 +3095,6 @@
       "url": "http://www.elahmad.com/tv/watchtv.php?id=mtvlebanon"
     },
     {
-      "id": "1156",
-      "title": "Aljadeed TV",
-      "title_b_fa": "الجديد تی وی",
-      "title_b_ar": "الجديد تی وی",
-      "description": "News",
-      "country_code": "LB",
-      "language_code": "ar",
-      "geo_restrictions": "IR,IQ,CA,SA,QA,KW,AE,YE,BH,SY,EG",
-      "localImageResource": "aljadeed_tv",
-      "channelName": "aljadeed_tv",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/newtv.php",
-      "backupId": "41156"
-    },
-    {
       "id": "1157",
       "title": "Future TV",
       "title_b_fa": "المستقبل تی وی",
