@@ -5409,9 +5409,11 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_tv",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "kurdmax_backup",
       "serverName": "EmbeddedWebView",
-      "url": "https://ku.karwan.tv/kurdmax-tv.html"
+      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdMax"
     },
     {
       "id": "4304",
@@ -5421,9 +5423,11 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_show_tv",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "kurdmaxShow_backup",
       "serverName": "EmbeddedWebView",
-      "url": "https://ku.karwan.tv/kurdmax-show-tv.html"
+      "url": "https://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdmaxShow"
     },
     {
       "id": "4305",
