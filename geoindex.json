@@ -6488,17 +6488,6 @@
       "description": ""
     },
     {
-      "id": "2204",
-      "title": "View",
-      "title_b_fa": "نمای شبکه ای",
-      "title_b_ku": "بینینی تۆڕ",
-      "title_b_tr": "Kılavuz Görünümü",
-      "title_b_ar": "عرض الشبكة",
-      "localImageResource": "grid_view_setting",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/grid_view_setting.png",
-      "description": ""
-    },
-    {
       "id": "2201",
       "title": "Language",
       "title_b_fa": "زبان",
