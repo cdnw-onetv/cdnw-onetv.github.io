@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "18"
+      "description": "20"
     },
     {
       "id": "2001",
@@ -23,7 +23,7 @@
     {
       "id": "2004",
       "title": "iptv_version",
-      "description": "2"
+      "description": "4"
     },
     {
       "id": "2005",
@@ -38,7 +38,7 @@
     {
       "id": "2007",
       "title": "iptv_download_url",
-      "description": "https://iptv-org.github.io/iptv/index.m3u"
+      "description": "https://cdnw-onetv.github.io/iptv/index.m3u"
     },
     {
       "id": "2008",
@@ -86,7 +86,7 @@
       "geo_restrictions": "!IR",
       "favorite": "Yes",
       "localImageResource": "bbc_persian",
-      "localImageResourceNightMode": "bbc_persian_night_mode",
+      "localImageResourceNightMode": "bbc_persian_night_mode_test",
       "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "backupUrl": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8",
       "backupUrl2": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8",
@@ -281,7 +281,8 @@
       "localImageResource": "tapesh",
       "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8",
       "backupUrl": "http://184.144.110.243:60015/tapesh/playlist1/index.m3u8",
-      "backupUrl1": "http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8"
+      "backupUrl1": "http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8",
+      "backupId": "4015"
     },
     {
       "id": "8415",
@@ -494,6 +495,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_tv",
+      "localImageResourceNightMode": "gem_tv_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gem/index.m3u8",
       "src_website": "http://jawaltv.com/"
@@ -506,6 +508,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_film",
+      "localImageResourceNightMode": "gem_film_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gemfilm/index.m3u8"
     },
@@ -517,6 +520,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_series",
+      "localImageResourceNightMode": "gem_series_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gemseries/index.m3u8"
     },
@@ -539,6 +543,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_classic",
+      "localImageResourceNightMode": "gem_classic_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gemclassic/index.m3u8"
     },
@@ -550,6 +555,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_drama",
+      "localImageResourceNightMode": "gem_drama_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gemdrama/index.m3u8"
     },
@@ -561,6 +567,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_junior",
+      "localImageResourceNightMode": "gem_junior_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gemjunior/index.m3u8"
     },
@@ -572,6 +579,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_kids",
+      "localImageResourceNightMode": "gem_kids_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gemkids/index.m3u8"
     },
@@ -583,6 +591,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_food",
+      "localImageResourceNightMode": "gem_food_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gemfood/index.m3u8"
     },
@@ -594,6 +603,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_life",
+      "localImageResourceNightMode": "gem_life_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gemlife/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gemlife/index.m3u8"
     },
@@ -605,6 +615,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_maxx",
+      "localImageResourceNightMode": "gem_maxx_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gemmaxx/index.m3u8"
     },
@@ -616,6 +627,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_river",
+      "localImageResourceNightMode": "gem_river_night_mode",
       "url": "https://stream-live.gemonline.tv/live/river/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/river/index.m3u8"
     },
@@ -627,6 +639,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_rubix",
+      "localImageResourceNightMode": "gem_rubix_night_mode",
       "url": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/rubix/index.m3u8"
     },
@@ -638,6 +651,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_travel",
+      "localImageResourceNightMode": "gem_travel_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gemtravel/index.m3u8"
     },
@@ -649,6 +663,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_bollywood",
+      "localImageResourceNightMode": "gem_bollywood_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gembollywood/index.m3u8"
     },
@@ -660,6 +675,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "gem_crypto",
+      "localImageResourceNightMode": "gem_crypto_night_mode",
       "url": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
       "backupUrl": "http://184.144.110.243:60008/live/gemcrypto/index.m3u8"
     },
@@ -1081,6 +1097,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
       "backupId": "4305"
@@ -1279,6 +1296,7 @@
       "language_code": "ku",
       "localImageResource": "ronahi_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/ronahi_tv.png",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRFsdjLlRXEiC62lUNtlGQg/live",
       "backupId": "4332"
     },
@@ -1303,6 +1321,7 @@
       "language_code": "ku",
       "localImageResource": "medya_haber_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/medya_haber_tv.png",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGLJKPv82FfPQQ-2Wk8EK7w/live",
       "backupUrl": "https://muzkurd.com/Medya/live15/playlist.m3u8"
     },
@@ -1558,6 +1577,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "a_tv",
+      "streamingUrlExpireTime": "200",
       "serverName": "YouTubeHls",
       "channelName": "a_tv",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
@@ -1572,6 +1592,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "fox_turkey",
+      "streamingUrlExpireTime": "200",
       "channelName": "fox_turkey",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live",
       "backupId": "4601"
@@ -1925,6 +1946,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kral_tv",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Z8-NunA-0aM",
       "backupUrl1": "https://www.youtube.com/watch?v=Z8-NunA-0aM&theme=dark&mode=theater&modestbranding=1&controls=0"
     },
@@ -1936,6 +1958,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kral_pop_tv",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GuFTuKoXepw",
       "backupUrl1": "https://www.youtube.com/watch?v=GuFTuKoXepw&theme=dark&mode=theater"
     },
@@ -2144,6 +2167,7 @@
       "localImageResource": "ulke_tv",
       "serverName": "YouTubeHls",
       "channelName": "Ulke",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCi65FGbYYj-OzJm2luB_fNQ/live",
       "backupId": "4630"
     },
@@ -2157,6 +2181,7 @@
       "localImageResource": "tele_1_tv",
       "channelName": "tele_1_tv",
       "streamingUrlReferer": "https://canlitv.com/tele1-tv",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live"
     },
     {
@@ -2168,6 +2193,7 @@
       "language_code": "tr",
       "localImageResource": "ntv_turk",
       "channelName": "ntv_turk",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9TDTjbOjFB9jADmPhSAPsw/live",
       "backupId": "4655"
     },
@@ -2192,6 +2218,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "krt_tv",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCT1QJrOPtGWYyWkXry8uT4w/live"
     },
     {
@@ -2214,6 +2241,7 @@
       "localImageResource": "tgrt_haber",
       "serverName": "YouTubeHls",
       "channelName": "tgrt_haber",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live",
       "backupId": "4640"
     },
@@ -2238,6 +2266,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bloomberg_ht_tv.png",
       "channelName": "bloomberg_ht_tv",
       "serverName": "YouTubeHls",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HdXEeVeNdVg",
       "backupId": "4687"
     },
@@ -2250,6 +2279,7 @@
       "language_code": "tr",
       "localImageResource": "tv_100_turkey_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCndsdUW_oPLqpQJY9J8oIRg/live",
       "backupUrl": "https://www.youtube.com/embed/8jEXHzMTR7s?autoplay=1&controls=0"
     },
@@ -2632,6 +2662,7 @@
       "localImageResource": "real_tv_az",
       "channelName": "real_tv_az",
       "serverName": "EmbeddedWebView",
+      "streamingUrlExpireTime": "200",
       "url": "https://canlitvizle.com/real-tv-az",
       "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/RLqXabqah4M"
     },
@@ -3588,6 +3619,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_khabar",
+      "localImageResourceNightMode": "irib_khabar_night_mode",
       "httpTimeout": "500",
       "url": "https://cdnw.telewebion.com/irinn/live/playlist.m3u8",
       "backupId": "41025"
@@ -3601,6 +3633,7 @@
       "language_code": "fa",
       "favorite": "Yes",
       "localImageResource": "irib_varzesh",
+      "localImageResourceNightMode": "irib_varzesh_night_mode",
       "httpTimeout": "500",
       "url": "https://cdnw.telewebion.com/varzesh/live/playlist.m3u8",
       "backupId": "41026"
@@ -3613,6 +3646,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_varzesh",
+      "localImageResourceNightMode": "irib_varzesh_night_mode",
       "serverName": "Sepehr",
       "channelName": "Varzesh",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
@@ -3653,6 +3687,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_amouzesh",
+      "localImageResourceNightMode": "irib_amouzesh_night_mode",
       "httpTimeout": "500",
       "url": "https://cdnw.telewebion.com/amouzesh/live/playlist.m3u8",
       "backupId": "41050"
@@ -4521,6 +4556,7 @@
       "country_code": "CA",
       "language_code": "en",
       "localImageResource": "tvo_kids",
+      "streamingUrlExpireTime": "200",
       "url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8",
       "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/nIhbO89W1GE"
     },
@@ -4651,6 +4687,7 @@
       "description": "Music",
       "language_code": "en",
       "localImageResource": "music_logo",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WFF1eRTJOYw",
       "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9qr4fem8L5HEx0IDoktEpw/live"
     },
@@ -4661,6 +4698,7 @@
       "description": "Music",
       "language_code": "en",
       "localImageResource": "music_logo",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/_-WWwNt8AzU"
     },
     {
@@ -4670,6 +4708,7 @@
       "description": "Music",
       "language_code": "en",
       "localImageResource": "music_logo",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvbKGLFg-bgjWvAglehxOFw/live"
     },
     {
@@ -4679,6 +4718,7 @@
       "description": "Music",
       "language_code": "en",
       "localImageResource": "music_logo",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RbJg7YLqJk8"
     }
   ],
@@ -4995,6 +5035,20 @@
       "backupUrl": "http://184.144.110.243:60042/hls/caltextv.m3u8"
     },
     {
+      "id": "4015",
+      "title": "Tapesh TV (Backup)",
+      "title_b_fa": "تپش (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "tapesh",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
+      "channelName": "tapesh_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=TAPESH"
+    },
+    {
       "id": "41020",
       "title": "IRIB 1 (Backup)",
       "title_b_fa": "شبکه یک (جایگزین)",
@@ -5062,6 +5116,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_khabar",
+      "localImageResourceNightMode": "irib_khabar_night_mode",
       "serverName": "Sepehr",
       "channelName": "irinn",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
@@ -5107,6 +5162,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_amouzesh",
+      "localImageResourceNightMode": "irib_amouzesh_night_mode",
       "serverName": "Sepehr",
       "channelName": "amouzesh",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
@@ -5447,6 +5503,19 @@
       "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdmaxShow"
     },
     {
+      "id": "8304",
+      "title": "Kurdmax Show (Backup 2)",
+      "title_b_fa": "کوردماکس شو (جایگزین ۲)",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "kurdmax_show_tv",
+      "streamingUrlUserAgent": "",
+      "channelName": "kurdmaxShow_backup2",
+      "serverName": "EmbeddedWebView",
+      "url": "http://ku.karwan.tv/kurdmax-show-tv.html"
+    },
+    {
       "id": "4305",
       "title": "Kurdmax Music (Repeat)",
       "title_b_fa": "کوردماکس موزیک (تکرار)",
@@ -5466,18 +5535,18 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "gali_kurdistan",
+      "streamingUrkUserAgent": "",
       "channelName": "GaliKurdistan_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/geli-kurdistan-tv.html"
     },
     {
       "id": "4313",
-      "title": "Kurd Channel",
-      "title_b_fa": "کورد کاناڵ",
-      "description": "General",
+      "title": "Kurd Channel (Backup)",
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurd_channel",
+      "streamingUrkUserAgent": "",
       "channelName": "kurd_channel_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/kurd-channel.html"
@@ -5506,10 +5575,9 @@
       "language_code": "ku",
       "localImageResource": "ronahi_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/ronahi_tv.png",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "ronahi_tv_backup",
       "serverName": "EmbeddedWebView",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.elahmad.com/tv/iran-tv-online.php?id=Ronahi"
     },
     {
@@ -5520,6 +5588,7 @@
       "country_code": "IQ",
       "language_code": "ar",
       "localImageResource": "zagros_tv",
+      "streamingUrkUserAgent": "",
       "channelName": "ZagrosTv_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/zagros-tv.html"
@@ -5571,6 +5640,7 @@
       "localImageResource": "showtv",
       "serverName": "YouTubeHls",
       "channelName": "showtv_backup",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9JMe_We017gYrRc7kZHgmg/live"
     },
     {
@@ -5583,6 +5653,7 @@
       "localImageResource": "showmax",
       "serverName": "YouTubeHls",
       "channelName": "showmax_backup",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/MrpMPNW9cx8"
     },
     {
@@ -5595,6 +5666,7 @@
       "localImageResource": "showturk",
       "serverName": "YouTubeHls",
       "channelName": "showturk_backup",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/0a1B2FIJ268"
     },
     {
@@ -5656,6 +5728,7 @@
       "language_code": "tr",
       "localImageResource": "cnn_turk",
       "serverName": "YouTubeHls",
+      "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/X_EWYemclKA"
     },
     {
@@ -6401,9 +6474,10 @@
       "title": "Edit",
       "title_b_fa": "ویرایش",
       "title_b_ku": "بژاردن",
-      "title_b_tr": "düzenle",
+      "title_b_tr": "Düzenle",
       "title_b_ar": "تحرير",
       "localImageResource": "setting_add",
+      "localImageResourceNightMode": "setting_add_night_mode",
       "description": ""
     }
   ],
@@ -6416,6 +6490,7 @@
       "title_b_tr": "Liste Ayarları",
       "title_b_ar": "إعدادات القائمة",
       "localImageResource": "setting_list",
+      "localImageResourceNightMode": "setting_list_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_list.png",
       "description": ""
     }
@@ -6429,6 +6504,7 @@
       "title_b_tr": "Hepsini Göster",
       "title_b_ar": "عرض الكل",
       "localImageResource": "setting_expand_list",
+      "localImageResourceNightMode": "setting_expand_list_night_mode",
       "description": ""
     }
   ],
@@ -6453,6 +6529,7 @@
       "title_b_tr": "Ekle",
       "title_b_ar": "يضيف",
       "localImageResource": "setting_add",
+      "localImageResourceNightMode": "setting_add_night_mode",
       "description": ""
     }
   ],
@@ -6465,6 +6542,7 @@
       "title_b_tr": "Kılavuz",
       "title_b_ar": "إرشاد",
       "localImageResource": "setting_guide",
+      "localImageResourceNightMode": "setting_guide_night_mode",
       "description": ""
     }
   ],
@@ -6476,8 +6554,9 @@
       "title_b_ku": "بینینی تۆڕ",
       "title_b_tr": "Kılavuz Görünümü",
       "title_b_ar": "عرض الشبكة",
-      "localImageResource": "grid_view_7",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/grid_view_setting.png",
+      "localImageResource": "grid_view_light_black",
+      "localImageResourceNightMode": "grid_view_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/grid_view.png",
       "description": ""
     }
   ],
@@ -6490,6 +6569,7 @@
       "title_b_tr": "Kılavuz",
       "title_b_ar": "إرشاد",
       "localImageResource": "setting_guide",
+      "localImageResourceNightMode": "setting_guide_night_mode",
       "description": ""
     },
     {
@@ -6499,7 +6579,20 @@
       "title_b_ku": "زووم",
       "title_b_tr": "Yakınlaştırma",
       "title_b_ar": "تكبير",
-      "localImageResource": "scale_setting",
+      "localImageResource": "setting_scale",
+      "localImageResourceNightMode": "setting_scale_night_mode",
+      "description": ""
+    },
+    {
+      "id": "2204",
+      "title": "Grid View",
+      "title_b_fa": "نمای شبکه ای",
+      "title_b_ku": "بینینی تۆڕ",
+      "title_b_tr": "Kılavuz Görünümü",
+      "title_b_ar": "عرض الشبكة",
+      "localImageResource": "setting_grid_view",
+      "localImageResourceNightMode": "setting_grid_view_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_grid_view.png",
       "description": ""
     },
     {
@@ -6509,7 +6602,8 @@
       "title_b_ku": "زمان",
       "title_b_tr": "Dilim",
       "title_b_ar": "لغة",
-      "localImageResource": "language_setting",
+      "localImageResource": "setting_language",
+      "localImageResourceNightMode": "setting_language_night_mode",
       "description": ""
     },
     {
@@ -6519,7 +6613,9 @@
       "title_b_ku": "زیادکردنی لیستی نوێ",
       "title_b_tr": "Yeni liste",
       "title_b_ar": "قائمة جديدة",
-      "localImageResource": "setting_add",
+      "localImageResource": "setting_add_list",
+      "localImageResourceNightMode": "setting_add_list_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_add_list.png",
       "description": ""
     },
     {
@@ -6529,8 +6625,21 @@
       "title_b_ku": "لیستە بینراوەکان",
       "title_b_tr": "Görünür Listeler",
       "title_b_ar": "القوائم المرئية",
-      "localImageResource": "setting_list",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_list.png",
+      "localImageResource": "setting_visible_lists",
+      "localImageResourceNightMode": "setting_visible_lists_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_visible_lists.png",
+      "description": ""
+    },
+    {
+      "id": "2205",
+      "title": "Night Mode",
+      "title_b_fa": "نمای شبانه",
+      "title_b_ku": "دۆخی شەو",
+      "title_b_tr": "Gece Modu",
+      "title_b_ar": "الوضع الليلي",
+      "localImageResource": "setting_night_mode",
+      "localImageResourceNightMode": "setting_night_mode_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_night_mode.png",
       "description": ""
     }
   ]
