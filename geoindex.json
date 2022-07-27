@@ -4500,7 +4500,8 @@
       "description": "General",
       "country_code": "CA",
       "language_code": "en",
-      "localImageResource": "cbc_radio_toronto",
+      "localImageResource": "cbc_radio_toronto_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_radio_toronto.png",
       "localImageResourceNightMode": "cbc_radio_toronto_night_mode",
       "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8?mp3=mp3"
     },
