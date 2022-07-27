@@ -1252,6 +1252,21 @@
       "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=NRT3Kids"
     },
     {
+      "id": "336",
+      "title": "Waar TV",
+      "title_b_fa": "وار تی وی",
+      "title_b_ku": "وار تیڤی",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "waar_tv",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
+      "channelName": "waar_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=Waar"
+    },
+    {
       "id": "328",
       "title": "Kurdistan 24",
       "title_b_fa": "کوردستان ۲۴",
