@@ -521,6 +521,17 @@
       "backupUrl": "http://184.144.110.243:60008/live/gemseries/index.m3u8"
     },
     {
+      "id": "4010",
+      "title": "Gem Series (Proxy)",
+      "title_b_fa": "(پروکسی) جم سریز",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_series",
+      "url": "http://184.144.110.243:60008/live/gemseries/index.m3u8"
+    },
+    {
       "id": "11",
       "title": "Gem Classic",
       "title_b_fa": "جم کلاسیک",
