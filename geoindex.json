@@ -4418,7 +4418,8 @@
       "description": "General",
       "country_code": "CA",
       "language_code": "en",
-      "localImageResource": "cbc_toronto",
+      "localImageResource": "cbc_toronto_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_toronto.png",
       "localImageResourceNightMode": "cbc_toronto_night_mode",
       "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master1.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master4.m3u8"
@@ -4430,7 +4431,8 @@
       "description": "General",
       "country_code": "CA",
       "language_code": "en",
-      "localImageResource": "cbc_vancouver",
+      "localImageResource": "cbc_vancouver_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_vancouver.png",
       "localImageResourceNightMode": "cbc_vancouver_night_mode",
       "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master1.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master4.m3u8"
@@ -4442,7 +4444,8 @@
       "description": "General",
       "country_code": "CA",
       "language_code": "en",
-      "localImageResource": "cbc_montreal",
+      "localImageResource": "cbc_montreal_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_montreal.png",
       "localImageResourceNightMode": "cbc_montreal_night_mode",
       "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master4.m3u8"
@@ -4456,7 +4459,8 @@
       "language_code": "en",
       "serverName": "GlobalNews",
       "channelName": "cQOVg6jKSvusQAfYpTrUoQ",
-      "localImageResource": "global_news_national",
+      "localImageResource": "global_news_national_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/global_news_national.png",
       "localImageResourceNightMode": "global_news_national_night_mode",
       "url": "https://dai.google.com/linear/hls/pa/event"
     },
@@ -4469,7 +4473,8 @@
       "language_code": "en",
       "serverName": "GlobalNews",
       "channelName": "BblZeSsBRSSCtvkKRZ8XJQ",
-      "localImageResource": "global_news_toronto",
+      "localImageResource": "global_news_toronto_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/global_news_toronto.png",
       "localImageResourceNightMode": "global_news_toronto_night_mode",
       "url": "https://dai.google.com/linear/hls/pa/event"
     },
