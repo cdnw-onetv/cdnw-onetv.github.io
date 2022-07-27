@@ -494,11 +494,23 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gem/index.m3u8",
-      "src_website": "http://jawaltv.com/"
+      "url": "https://stream-live.gemonline.tv/live/gem/index.m3u8"
+    },
+    {
+      "id": "4008",
+      "title": "Gem TV (Proxy)",
+      "favorite": "Yes",
+      "title_b_fa": "جم تی وی (پروکسی)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_tv",
+      "localImageResourceNightMode": "gem_tv_night_mode",
+      "url": "http://184.144.110.243:60008/live/gem/index.m3u8"
     },
     {
       "id": "9",
@@ -507,10 +519,22 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_film",
       "localImageResourceNightMode": "gem_film_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gemfilm/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8"
+    },
+    {
+      "id": "4009",
+      "title": "Gem Film (Proxy)",
+      "title_b_fa": "جم فیلم (پروکسی)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_film",
+      "localImageResourceNightMode": "gem_film_night_mode",
+      "url": "http://184.144.110.243:60008/live/gemfilm/index.m3u8"
     },
     {
       "id": "10",
@@ -519,15 +543,15 @@
       "description": "Series",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gemseries/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gemseries/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemseries/index.m3u8"
     },
     {
       "id": "4010",
       "title": "Gem Series (Proxy)",
-      "title_b_fa": "(پروکسی) جم سریز",
+      "title_b_fa": "جم سریز (پروکسی)",
       "description": "Series",
       "country_code": "IR",
       "language_code": "fa",
@@ -542,10 +566,22 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_classic",
       "localImageResourceNightMode": "gem_classic_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gemclassic/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8"
+    },
+    {
+      "id": "4011",
+      "title": "Gem Classic (Proxy)",
+      "title_b_fa": "جم کلاسیک (پروکسی)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_classic",
+      "localImageResourceNightMode": "gem_classic_night_mode",
+      "url": "http://184.144.110.243:60008/live/gemclassic/index.m3u8"
     },
     {
       "id": "12",
@@ -554,10 +590,22 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_drama",
       "localImageResourceNightMode": "gem_drama_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gemdrama/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8"
+    },
+    {
+      "id": "12",
+      "title": "Gem Drama (Proxy)",
+      "title_b_fa": "جم دراما (پروکسی)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_drama",
+      "localImageResourceNightMode": "gem_drama_night_mode",
+      "url": "http://184.144.110.243:60008/live/gemdrama/index.m3u8"
     },
     {
       "id": "14",
@@ -566,10 +614,22 @@
       "description": "Kids",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_junior",
       "localImageResourceNightMode": "gem_junior_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gemjunior/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8"
+    },
+    {
+      "id": "4014",
+      "title": "Gem Junior (Proxy)",
+      "title_b_fa": "جم جونیور (پروکسی)",
+      "description": "Kids",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_junior",
+      "localImageResourceNightMode": "gem_junior_night_mode",
+      "url": "http://184.144.110.243:60008/live/gemjunior/index.m3u8"
     },
     {
       "id": "46",
@@ -578,10 +638,22 @@
       "description": "Kids",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_kids",
       "localImageResourceNightMode": "gem_kids_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gemkids/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8"
+    },
+    {
+      "id": "4046",
+      "title": "Gem Kids (Proxy)",
+      "title_b_fa": "جم کیدز (پروکسی)",
+      "description": "Kids",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_kids",
+      "localImageResourceNightMode": "gem_kids_night_mode",
+      "url": "http://184.144.110.243:60008/live/gemkids/index.m3u8"
     },
     {
       "id": "47",
@@ -590,10 +662,22 @@
       "description": "Cooking",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_food",
       "localImageResourceNightMode": "gem_food_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gemfood/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8"
+    },
+    {
+      "id": "4047",
+      "title": "Gem Food (Proxy)",
+      "title_b_fa": "جم فود (پروکسی)",
+      "description": "Cooking",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_food",
+      "localImageResourceNightMode": "gem_food_night_mode",
+      "url": "http://184.144.110.243:60008/live/gemfood/index.m3u8"
     },
     {
       "id": "48",
@@ -602,10 +686,22 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_life",
       "localImageResourceNightMode": "gem_life_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gemlife/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gemlife/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemlife/index.m3u8"
+    },
+    {
+      "id": "4048",
+      "title": "Gem Life (Proxy)",
+      "title_b_fa": "جم لایف (پروکسی)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_life",
+      "localImageResourceNightMode": "gem_life_night_mode",
+      "url": "http://184.144.110.243:60008/live/gemlife/index.m3u8"
     },
     {
       "id": "49",
@@ -614,10 +710,22 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_maxx",
       "localImageResourceNightMode": "gem_maxx_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gemmaxx/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8"
+    },
+    {
+      "id": "4049",
+      "title": "Gem Maxx (Proxy)",
+      "title_b_fa": "جم ماکس (پروکسی)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_maxx",
+      "localImageResourceNightMode": "gem_maxx_night_mode",
+      "url": "http://184.144.110.243:60008/live/gemmaxx/index.m3u8"
     },
     {
       "id": "50",
@@ -626,10 +734,22 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_river",
       "localImageResourceNightMode": "gem_river_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/river/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/river/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/river/index.m3u8"
+    },
+    {
+      "id": "4050",
+      "title": "Gem River (Proxy)",
+      "title_b_fa": "جم ریور (پروکسی)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_river",
+      "localImageResourceNightMode": "gem_river_night_mode",
+      "url": "http://184.144.110.243:60008/live/river/index.m3u8"
     },
     {
       "id": "51",
@@ -638,10 +758,22 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_rubix",
       "localImageResourceNightMode": "gem_rubix_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/rubix/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/rubix/index.m3u8"
+    },
+    {
+      "id": "4051",
+      "title": "Gem Rubix (Proxy)",
+      "title_b_fa": "جم روبیکس (پروکسی)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_rubix",
+      "localImageResourceNightMode": "gem_rubix_night_mode",
+      "url": "http://184.144.110.243:60008/live/rubix/index.m3u8"
     },
     {
       "id": "52",
@@ -650,10 +782,22 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_travel",
       "localImageResourceNightMode": "gem_travel_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gemtravel/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8"
+    },
+    {
+      "id": "4052",
+      "title": "Gem Travel (Proxy)",
+      "title_b_fa": "جم تراول (پروکسی)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_travel",
+      "localImageResourceNightMode": "gem_travel_night_mode",
+      "url": "http://184.144.110.243:60008/live/gemtravel/index.m3u8"
     },
     {
       "id": "53",
@@ -662,10 +806,22 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gembollywood/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8"
+    },
+    {
+      "id": "4053",
+      "title": "Gem Bollywood (Proxy)",
+      "title_b_fa": "جم بالیوود (پروکسی)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_bollywood",
+      "localImageResourceNightMode": "gem_bollywood_night_mode",
+      "url": "http://184.144.110.243:60008/live/gembollywood/index.m3u8"
     },
     {
       "id": "54",
@@ -674,10 +830,22 @@
       "description": "Business",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "gem_crypto",
       "localImageResourceNightMode": "gem_crypto_night_mode",
-      "url": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "backupUrl": "http://184.144.110.243:60008/live/gemcrypto/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8"
+    },
+    {
+      "id": "4054",
+      "title": "Gem Crypto (Proxy)",
+      "title_b_fa": "جم کریپتو (پروکسی)",
+      "description": "Business",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_crypto",
+      "localImageResourceNightMode": "gem_crypto_night_mode",
+      "url": "http://184.144.110.243:60008/live/gemcrypto/index.m3u8"
     },
     {
       "id": "21",
