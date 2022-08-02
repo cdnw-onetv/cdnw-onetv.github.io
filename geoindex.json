@@ -2468,19 +2468,6 @@
       "backupUrl": "https://www.youtube.com/embed/8jEXHzMTR7s?autoplay=1&controls=0"
     },
     {
-      "id": "707",
-      "title": "TV 100 Economy",
-      "title_b_fa": "تی وی ۱۰۰ اکونومی",
-      "description": "Economy",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "tv_100_turkey_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
-      "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCndsdUW_oPLqpQJY9J8oIRg/live",
-      "backupUrl": "https://www.youtube.com/embed/8jEXHzMTR7s?autoplay=1&controls=0"
-    },
-    {
       "id": "689",
       "title": "Haber Global TV",
       "title_b_fa": "هبر گلوبال تی وی",
