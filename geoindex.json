@@ -1298,7 +1298,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "ava_tv",
-      "url": "https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8",
+      "url": "https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8",
       "url2": "http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_3310000/chunklist.m3u8"
     },
     {
