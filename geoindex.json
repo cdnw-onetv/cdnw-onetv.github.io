@@ -4614,10 +4614,10 @@
       "description": "General",
       "country_code": "CA",
       "language_code": "en",
-      "localImageResource": "cbc_toronto_1",
+      "localImageResource": "cbc_toronto",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_toronto.png",
       "localImageResourceNightMode": "cbc_toronto_night_mode",
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master1.m3u8",
+      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master4.m3u8"
     },
     {
@@ -4627,10 +4627,10 @@
       "description": "General",
       "country_code": "CA",
       "language_code": "en",
-      "localImageResource": "cbc_vancouver_1",
+      "localImageResource": "cbc_vancouver",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_vancouver.png",
       "localImageResourceNightMode": "cbc_vancouver_night_mode",
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master1.m3u8",
+      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master4.m3u8"
     },
     {
@@ -4640,10 +4640,10 @@
       "description": "General",
       "country_code": "CA",
       "language_code": "en",
-      "localImageResource": "cbc_montreal_1",
+      "localImageResource": "cbc_montreal",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_montreal.png",
       "localImageResourceNightMode": "cbc_montreal_night_mode",
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8",
+      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master4.m3u8"
     },
     {
@@ -4655,7 +4655,7 @@
       "language_code": "en",
       "serverName": "GlobalNews",
       "channelName": "cQOVg6jKSvusQAfYpTrUoQ",
-      "localImageResource": "global_news_national_1",
+      "localImageResource": "global_news_national",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/global_news_national.png",
       "localImageResourceNightMode": "global_news_national_night_mode",
       "url": "https://dai.google.com/linear/hls/pa/event"
@@ -4669,7 +4669,7 @@
       "language_code": "en",
       "serverName": "GlobalNews",
       "channelName": "BblZeSsBRSSCtvkKRZ8XJQ",
-      "localImageResource": "global_news_toronto_1",
+      "localImageResource": "global_news_toronto",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/global_news_toronto.png",
       "localImageResourceNightMode": "global_news_toronto_night_mode",
       "url": "https://dai.google.com/linear/hls/pa/event"
@@ -4681,7 +4681,7 @@
       "description": "General",
       "country_code": "CA",
       "language_code": "en",
-      "localImageResource": "cbc_radio_toronto_1",
+      "localImageResource": "cbc_radio_toronto",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_radio_toronto.png",
       "localImageResourceNightMode": "cbc_radio_toronto_night_mode",
       "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8?mp3=mp3"
@@ -6809,6 +6809,30 @@
       "description": ""
     },
     {
+      "id": "2206",
+      "title": "Themes",
+      "title_b_fa": "تم ها",
+      "title_b_ku": "تەوەرەکان",
+      "title_b_tr": "Temalar",
+      "title_b_ar": "ثيمات",
+      "localImageResource": "setting_theme",
+      "localImageResourceNightMode": "setting_theme_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_theme.png",
+      "description": ""
+    },
+    {
+      "id": "2205",
+      "title": "Night Mode",
+      "title_b_fa": "حالت شب",
+      "title_b_ku": "دۆخی شەو",
+      "title_b_tr": "Gece Modu",
+      "title_b_ar": "الوضع الليلي",
+      "localImageResource": "setting_night_mode",
+      "localImageResourceNightMode": "setting_night_mode_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_night_mode.png",
+      "description": ""
+    },
+    {
       "id": "2202",
       "title": "New List",
       "title_b_fa": "لیست جدید",
@@ -6830,18 +6854,6 @@
       "localImageResource": "setting_visible_lists",
       "localImageResourceNightMode": "setting_visible_lists_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_visible_lists.png",
-      "description": ""
-    },
-    {
-      "id": "2205",
-      "title": "Night Mode",
-      "title_b_fa": "نمای شبانه",
-      "title_b_ku": "دۆخی شەو",
-      "title_b_tr": "Gece Modu",
-      "title_b_ar": "الوضع الليلي",
-      "localImageResource": "setting_night_mode",
-      "localImageResourceNightMode": "setting_night_mode_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_night_mode.png",
       "description": ""
     }
   ]
