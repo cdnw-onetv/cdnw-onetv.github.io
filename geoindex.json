@@ -1886,7 +1886,8 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "flash_tv",
-      "url": "https://www.guventechnology.com:19360/flashtv/flashtv.m3u8"
+      "url": "https://www.guventechnology.com:19360/flashtv/flashtv.m3u8",
+      "backupId": "4623"
     },
     {
       "id": "608",
@@ -5843,7 +5844,7 @@
       "serverName": "YouTubeHls",
       "channelName": "showtv_backup",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9JMe_We017gYrRc7kZHgmg/live"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/UwfIxnYNKlM"
     },
     {
       "id": "4604",
@@ -5856,7 +5857,7 @@
       "serverName": "YouTubeHls",
       "channelName": "showmax_backup",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/MrpMPNW9cx8"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9JMe_We017gYrRc7kZHgmg/live"
     },
     {
       "id": "4605",
@@ -5869,7 +5870,7 @@
       "serverName": "YouTubeHls",
       "channelName": "showturk_backup",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/0a1B2FIJ268"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WqS4qbiqcLw"
     },
     {
       "id": "4635",
@@ -5932,6 +5933,18 @@
       "serverName": "YouTubeHls",
       "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/X_EWYemclKA"
+    },
+    {
+      "id": "4623",
+      "title": "Flash TV (Backup)",
+      "title_b_fa": "فلاش تی وی (جایگزین)",
+      "description": "News",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "flash_tv",
+      "serverName": "EmbeddedWebView",
+      "channelName": "flash_tv",
+      "url": "https://canlitv.com/flash-tv"
     },
     {
       "id": "4614",
