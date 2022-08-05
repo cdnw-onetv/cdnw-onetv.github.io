@@ -1648,22 +1648,6 @@
       "backupId": "4601"
     },
     {
-      "id": "600",
-      "title": "Star TV",
-      "title_b_fa": "ستار تی وی",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "favorite": "Yes",
-      "localImageResource": "startv",
-      "channelName": "star_tv",
-      "serverName": "Embedded",
-      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
-      "url": "https://www.dailymotion.com/player/metadata/video/x729whv?embedder=https%3A%2F%2Fwww.startv.com.tr%2Fcanli-yayin&referer=&GK_PV5_PHOTON=1&geo=1&player-id=x8rd3&dmTs=470429&is_native_app=0&dmV1st=A0DAFF33BD326715D3A9C3E993DA395F",
-      "backupUrl": "https://tv.ensonhaber.com/tv/tr/startv/index.m3u8",
-      "backupId": "4600"
-    },
-    {
       "id": "602",
       "title": "Kanal D",
       "title_b_fa": "کانال د",
@@ -2368,19 +2352,6 @@
       "streamingUrlReferer": "https://canlitv.com/tele1-tv",
       "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live"
-    },
-    {
-      "id": "655",
-      "title": "NTV",
-      "title_b_fa": "ان تی وی",
-      "description": "News",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "ntv_turk",
-      "channelName": "ntv_turk",
-      "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9TDTjbOjFB9jADmPhSAPsw/live",
-      "backupId": "4655"
     },
     {
       "id": "661",
@@ -5835,19 +5806,6 @@
       "url": "https://tr.canlitv.services/fox-tv-1/1"
     },
     {
-      "id": "4600",
-      "title": "Star TV (Backup)",
-      "title_b_fa": "ستار تی وی (جایگزین)",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "startv",
-      "serverName": "Embedded",
-      "channelName": "startv_backup",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/star-tv-canli-izle-10/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=star-tv-canli-izle-10"
-    },
-    {
       "id": "4603",
       "title": "Show TV (Backup)",
       "title_b_fa": "شو تی وی (جایگزین)",
@@ -6050,19 +6008,6 @@
       "url": "https://www.dailymotion.com/player/metadata/video/x7yb4xm?embedder=https%3A%2F%2Fwww.ulketv.com.tr%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3"
     },
     {
-      "id": "4655",
-      "title": "NTV (Backup)",
-      "title_b_fa": "ان تی وی (جایگزین)",
-      "description": "News",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "ntv_turk",
-      "serverName": "Embedded",
-      "channelName": "ntv_turk_backup",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/ntv-canli-full-hd-izle",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=ntv-canli-full-hd-izle"
-    },
-    {
       "id": "4665",
       "title": "Kanal Avrupa TV (Backup)",
       "title_b_fa": "اروپا تی تی وی (جایگزین)",
@@ -6154,6 +6099,61 @@
 
   ],
   "others_tv": [
+    {
+      "id": "600",
+      "title": "Star TV",
+      "title_b_fa": "ستار تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "favorite": "Yes",
+      "localImageResource": "startv",
+      "channelName": "star_tv",
+      "serverName": "Embedded",
+      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
+      "url": "https://www.dailymotion.com/player/metadata/video/x729whv?embedder=https%3A%2F%2Fwww.startv.com.tr%2Fcanli-yayin&referer=&GK_PV5_PHOTON=1&geo=1&player-id=x8rd3&dmTs=470429&is_native_app=0&dmV1st=A0DAFF33BD326715D3A9C3E993DA395F",
+      "backupUrl": "https://tv.ensonhaber.com/tv/tr/startv/index.m3u8",
+      "backupId": "4600"
+    },
+    {
+      "id": "4600",
+      "title": "Star TV (Backup)",
+      "title_b_fa": "ستار تی وی (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "startv",
+      "serverName": "Embedded",
+      "channelName": "startv_backup",
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/star-tv-canli-izle-10/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=star-tv-canli-izle-10"
+    },
+    {
+      "id": "655",
+      "title": "NTV",
+      "title_b_fa": "ان تی وی",
+      "description": "News",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "ntv_turk",
+      "channelName": "ntv_turk",
+      "streamingUrlExpireTime": "200",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9TDTjbOjFB9jADmPhSAPsw/live",
+      "backupId": "4655"
+    },
+    {
+      "id": "4655",
+      "title": "NTV (Backup)",
+      "title_b_fa": "ان تی وی (جایگزین)",
+      "description": "News",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "ntv_turk",
+      "serverName": "Embedded",
+      "channelName": "ntv_turk_backup",
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/ntv-canli-full-hd-izle",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=ntv-canli-full-hd-izle"
+    },
     {
       "id": "62222",
       "title": "IRIB UHD",
