@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "21"
+      "description": "22"
     },
     {
       "id": "2001",
@@ -1592,7 +1592,7 @@
       "title_b_fa": "صدای آمریکا کوردی",
       "title_b_ku": "دەنگی ئەمەریکا کوردی",
       "description": "News",
-      "country_code": "US",
+      "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "voa_kurdi",
       "url2": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8",
@@ -3432,6 +3432,20 @@
       "channelName": "otv_lebanon",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=otv_lb1"
+    },
+    {
+      "id": "1176",
+      "title": "Syria Drama",
+      "title_b_fa": "درام سوریه",
+      "title_b_ar": "سورية دراما",
+      "description": "Series",
+      "country_code": "SY",
+      "language_code": "ar",
+      "localImageResource": "syria_drama",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sham_fm.png",
+      "channelName": "sham_fm_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/arabic-tv-online.php?id=syriadrama"
     },
     {
       "id": "1112",
