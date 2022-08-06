@@ -1003,6 +1003,40 @@
       "url2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/atvweb/d23299de099088e7444868cd0814f1c7.sdp/chunks.m3u8"
     },
     {
+      "id": "92",
+      "title": "Pars TV",
+      "title_b_fa": "پارس تی وی",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "pars_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/pars_tv.png",
+      "url": "https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/playlist.m3u8"
+    },
+    {
+      "id": "93",
+      "title": "Iran-e Farda",
+      "title_b_fa": "ایران فردا",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "iran_e_farda",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_e_farda.png",
+      "url": "http://51.210.199.53/hls/stream.m3u8"
+    },
+    {
+      "id": "94",
+      "title": "Channel One TV",
+      "title_b_fa": "کانال یک",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "channel_one_persian",
+      "channelName": "channel_yek",
+      "serverName": "EmbeddedWebView",
+      "url": "https://ch1.cc/live-tv/"
+    },
+    {
       "id": "63",
       "title": "Royal Time TV",
       "title_b_fa": "رویال تایم",
