@@ -935,6 +935,17 @@
       "url": "http://51.210.199.40/hls/stream.m3u8"
     },
     {
+      "id": "95",
+      "title": "ICC+ TV",
+      "title_b_fa": "آی سی سی پلاس",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "icc_plus_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/icc_plus_tv.png",
+      "url": "http://51.210.227.156/hls/stream.m3u8"
+    },
+    {
       "id": "68",
       "title": "SL 1",
       "title_b_fa": "اس ال یک",
