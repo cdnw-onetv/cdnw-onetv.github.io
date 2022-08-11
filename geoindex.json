@@ -1096,7 +1096,7 @@
       "language_code": "fa",
       "localImageResource": "aio_sport",
       "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://aio.arvanlive.com/hls/aiosport/aiosport.m3u8"
+      "url": "https://live.aionet.ir/hls/aiosport/aiosport.m3u8"
     },
     {
       "id": "70",
@@ -1178,7 +1178,7 @@
       "localImageResource": "aio_dorfa",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_dorfa.png",
       "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://aio.arvanlive.com/hls/dorfa/dorfa.m3u8"
+      "url": "https://live.aionet.ir/hls/dorfa/dorfa.m3u8"
     },
     {
       "id": "84",
@@ -1190,7 +1190,7 @@
       "localImageResource": "aio_arpa",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_arpa.png",
       "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://aio.arvanlive.com/hls/arpa/arpa.m3u8"
+      "url": "https://live.aionet.ir/hls/arpa/arpa.m3u8"
     },
     {
       "id": "85",
@@ -1202,7 +1202,7 @@
       "localImageResource": "aio_network",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
       "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://aio.arvanlive.com/hls/iraneconomy/iraneconomy.m3u8"
+      "url": "https://live.aionet.ir/hls/iraneconomy/iraneconomy.m3u8"
     },
     {
       "id": "80",
@@ -1214,7 +1214,7 @@
       "localImageResource": "aio_network",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
       "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://aio.arvanlive.com/hls/jahanb/jahanb.m3u8"
+      "url": "https://live.aionet.ir/hls/jahanb/jahanb.m3u8"
     },
     {
       "id": "200",
@@ -3756,6 +3756,7 @@
       "id": "1022",
       "title": "IRIB 3",
       "title_b_fa": "شبکه سه",
+      "title_b_tr": "IRIB 3, Sport",
       "description": "General",
       "tags": "Sport",
       "country_code": "IR",
@@ -3769,6 +3770,7 @@
       "id": "41022",
       "title": "IRIB 3 (Backup)",
       "title_b_fa": "شبکه سه (جایگزین)",
+      "title_b_tr": "IRIB 3 (Backup), Sport",
       "description": "General",
       "tags": "Sport",
       "country_code": "IR",
@@ -4600,7 +4602,7 @@
       "url3": "https://fcae1-usea.streaming.media.azure.net/1a81c7d2-2391-4a2a-ae0b-daaf000cf65f/1.ism/QualityLevels(200000)/Manifest(video,format=m3u8-aapl)",
       "url4": "https://videodelivery.net/7c7565e50cf211d09637bc9d24d49020/manifest/video.m3u8",
       "url5": "https://fcae1-usea.streaming.media.azure.net/1a81c7d2-2391-4a2a-ae0b-daaf000cf65f/1.ism/QualityLevels(200000)/Manifest(video,format=m3u8-aapl)",
-      "url6": "https://aio.arvanlive.com/hls/tv3/tv3_360/index.m3u8",
+      "url6": "https://live.aionet.ir/hls/tv3/tv3_360/index.m3u8",
       "url7": "http://srv-stream-1.liv3.ir:1935/live/tv3/playlist.m3u8",
       "url8": "https://liveproxy.splus.ir/tva_IRIB-TV3/index.m3u8"
     }
@@ -5660,12 +5662,14 @@
       "id": "2023",
       "title": "IRIB 3 (Backup 2)",
       "title_b_fa": "شبکه سه (جایگزین ۲)",
+      "title_b_tr": "IRIB 3 (Backup 2), Sport",
       "localImageResource": "irib_3",
       "description": "General",
+      "tags": "Sport",
       "country_code": "IR",
       "language_code": "fa",
       "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://aio.arvanlive.com/hls/tv3/tv3.m3u8"
+      "url": "https://live.aionet.ir/hls/tv3/tv3.m3u8"
     },
     {
       "id": "2027",
@@ -5676,7 +5680,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://aio.arvanlive.com/hls/varzesh/varzesh.m3u8"
+      "url": "https://live.aionet.ir/hls/varzesh/varzesh.m3u8"
     },
     {
       "id": "4302",
