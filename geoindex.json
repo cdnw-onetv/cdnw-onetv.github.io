@@ -95,7 +95,7 @@
     {
       "id": "8442",
       "title": "BBC Persian (Proxy)",
-      "title_b_fa": "بی بی سی فارسی (پروکسی)",
+      "title_b_fa": "بی بی سی فارسی",
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
@@ -122,7 +122,7 @@
     {
       "id": "8443",
       "title": "Iran International (Proxy)",
-      "title_b_fa": "ایران اینترنشنال (پروکسی)",
+      "title_b_fa": "ایران اینترنشنال",
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
@@ -194,7 +194,7 @@
     {
       "id": "8417",
       "title": "EBC Music (Proxy)",
-      "title_b_fa": "ای بی سی موزیک (پروکسی)",
+      "title_b_fa": "ای بی سی موزیک",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
@@ -217,7 +217,7 @@
     {
       "id": "8446",
       "title": "RadioJavan (Proxy)",
-      "title_b_fa": "رادیو جوان (پروکسی)",
+      "title_b_fa": "رادیو جوان",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
@@ -276,7 +276,7 @@
     {
       "id": "8415",
       "title": "Tapesh TV (Proxy)",
-      "title_b_fa": "تپش (پروکسی)",
+      "title_b_fa": "تپش",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -426,7 +426,7 @@
       "id": "4008",
       "title": "Gem TV (Proxy)",
       "favorite": "Yes",
-      "title_b_fa": "جم تی وی (پروکسی)",
+      "title_b_fa": "جم تی وی",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -450,7 +450,7 @@
     {
       "id": "4009",
       "title": "Gem Film (Proxy)",
-      "title_b_fa": "جم فیلم (پروکسی)",
+      "title_b_fa": "جم فیلم",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
@@ -474,7 +474,7 @@
     {
       "id": "4010",
       "title": "Gem Series (Proxy)",
-      "title_b_fa": "جم سریز (پروکسی)",
+      "title_b_fa": "جم سریز",
       "description": "Series",
       "country_code": "IR",
       "language_code": "fa",
@@ -497,7 +497,7 @@
     {
       "id": "4011",
       "title": "Gem Classic (Proxy)",
-      "title_b_fa": "جم کلاسیک (پروکسی)",
+      "title_b_fa": "جم کلاسیک",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
@@ -521,7 +521,7 @@
     {
       "id": "4012",
       "title": "Gem Drama (Proxy)",
-      "title_b_fa": "جم دراما (پروکسی)",
+      "title_b_fa": "جم دراما",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
@@ -545,7 +545,7 @@
     {
       "id": "4014",
       "title": "Gem Junior (Proxy)",
-      "title_b_fa": "جم جونیور (پروکسی)",
+      "title_b_fa": "جم جونیور",
       "description": "Kids",
       "country_code": "IR",
       "language_code": "fa",
@@ -569,7 +569,7 @@
     {
       "id": "4046",
       "title": "Gem Kids (Proxy)",
-      "title_b_fa": "جم کیدز (پروکسی)",
+      "title_b_fa": "جم کیدز",
       "description": "Kids",
       "country_code": "IR",
       "language_code": "fa",
@@ -593,7 +593,7 @@
     {
       "id": "4047",
       "title": "Gem Food (Proxy)",
-      "title_b_fa": "جم فود (پروکسی)",
+      "title_b_fa": "جم فود",
       "description": "Cooking",
       "country_code": "IR",
       "language_code": "fa",
@@ -617,7 +617,7 @@
     {
       "id": "4048",
       "title": "Gem Life (Proxy)",
-      "title_b_fa": "جم لایف (پروکسی)",
+      "title_b_fa": "جم لایف",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -641,7 +641,7 @@
     {
       "id": "4049",
       "title": "Gem Maxx (Proxy)",
-      "title_b_fa": "جم ماکس (پروکسی)",
+      "title_b_fa": "جم ماکس",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -665,7 +665,7 @@
     {
       "id": "4050",
       "title": "Gem River (Proxy)",
-      "title_b_fa": "جم ریور (پروکسی)",
+      "title_b_fa": "جم ریور",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -689,7 +689,7 @@
     {
       "id": "4051",
       "title": "Gem Rubix (Proxy)",
-      "title_b_fa": "جم روبیکس (پروکسی)",
+      "title_b_fa": "جم روبیکس",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -713,7 +713,7 @@
     {
       "id": "4052",
       "title": "Gem Travel (Proxy)",
-      "title_b_fa": "جم تراول (پروکسی)",
+      "title_b_fa": "جم تراول",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -737,7 +737,7 @@
     {
       "id": "4053",
       "title": "Gem Bollywood (Proxy)",
-      "title_b_fa": "جم بالیوود (پروکسی)",
+      "title_b_fa": "جم بالیوود",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
@@ -761,7 +761,7 @@
     {
       "id": "4054",
       "title": "Gem Crypto (Proxy)",
-      "title_b_fa": "جم کریپتو (پروکسی)",
+      "title_b_fa": "جم کریپتو",
       "description": "Business",
       "country_code": "IR",
       "language_code": "fa",
