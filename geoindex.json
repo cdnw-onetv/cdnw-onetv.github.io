@@ -1282,8 +1282,11 @@
       "language_code": "ku",
       "favorite": "Yes",
       "localImageResource": "kurdmax_tv",
-      "url": "https://5aa8c7549bfa9.streamlockX.net/liveTrans/_definst_/KurdmaxBadine0!/playlist.m3u8",
-      "backupId": "4303"
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
+      "channelName": "kurdmax_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdMax"
     },
     {
       "id": "304",
@@ -1293,9 +1296,11 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_show_tv",
-      "url2": "https://5aa8c7549bfa9.streamlockX.net:443/liveTrans/ngrp:myStream2_all/playlist.m3u8?wowzacaptionlanguages=fra",
-      "url": "https://5aa8c7549bfa9.streamlockX.net/liveTrans/ngrp:SHOW1_all/playlist.m3u8?wowzacaptionlanguages=fra",
-      "backupId": "4304"
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
+      "channelName": "kurdmaxShow_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdmaxShow"
     },
     {
       "id": "305",
@@ -5730,11 +5735,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_tv",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
-      "channelName": "kurdmax_backup",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdMax"
+      "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/_definst_/KurdmaxBadine0!/playlist.m3u8"
     },
     {
       "id": "4304",
@@ -5744,11 +5745,8 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_show_tv",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
-      "channelName": "kurdmaxShow_backup",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdmaxShow"
+      "url2": "https://5aa8c7549bfa9.streamlock.net:443/liveTrans/ngrp:myStream2_all/playlist.m3u8?wowzacaptionlanguages=fra",
+      "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW1_all/playlist.m3u8?wowzacaptionlanguages=fra"
     },
     {
       "id": "8304",
