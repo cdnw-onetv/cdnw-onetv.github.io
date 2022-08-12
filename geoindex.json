@@ -1673,7 +1673,7 @@
       "serverName": "YouTubeHls",
       "channelName": "a_tv",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
-      "backupId": "4622"
+      "backupId": "704"
     },
     {
       "id": "601",
@@ -1687,7 +1687,7 @@
       "streamingUrlExpireTime": "200",
       "channelName": "fox_turkey",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live",
-      "backupId": "4601"
+      "backupId": "705"
     },
     {
       "id": "602",
@@ -1779,9 +1779,39 @@
       "backupId": "4649"
     },
     {
+      "id": "704",
+      "title": "ATV (Backup)",
+      "title_b_fa": "ای تی وی",
+      "title_b_tr": "ATV (Yedekleme)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "a_tv",
+      "serverName": "Embedded",
+      "channelName": "a_tv",
+      "streamingUrlReferer": "https://www.atv.com.tr/",
+      "url": "https://securevideotoken.tmgrup.com.tr/webtv/secure?289881&url=https%3A%2F%2Ftrkvz.daioncdn.net%2Fatv%2Fatv.m3u8%3Fce%3D3%26app%3Dd1ce2d40-5256-4550-b02e-e73c185a314e",
+      "backupId": "4622"
+    },
+    {
+      "id": "705",
+      "title": "Fox (TGRT, Backup)",
+      "title_b_fa": "فاکس",
+      "title_b_tr": "FOX (Yedekleme)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "fox_turkey",
+      "serverName": "Embedded",
+      "channelName": "fox_turkey",
+      "url": "https://www.fox.com.tr/canli-yayin",
+      "backupId": "4601"
+    },
+    {
       "id": "4602",
       "title": "Kanal D (Backup)",
       "title_b_fa": "کانال د (جایگزین)",
+      "title_b_tr": "Kanal D (Yedekleme)",
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
@@ -5812,22 +5842,8 @@
       "url": "https://ku.karwan.tv/zagros-tv.html"
     },
     {
-      "id": "704",
-      "title": "ATV",
-      "title_b_fa": "ای تی وی",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "a_tv",
-      "serverName": "Embedded",
-      "channelName": "a_tv",
-      "streamingUrlReferer": "https://www.atv.com.tr/",
-      "url": "https://securevideotoken.tmgrup.com.tr/webtv/secure?289881&url=https%3A%2F%2Ftrkvz.daioncdn.net%2Fatv%2Fatv.m3u8%3Fce%3D3%26app%3Dd1ce2d40-5256-4550-b02e-e73c185a314e",
-      "backupId": "4622"
-    },
-    {
       "id": "4622",
-      "title": "ATV (Backup)",
+      "title": "ATV (Backup 2)",
       "title_b_fa": "ای تی وی (جایگزین)",
       "description": "General",
       "country_code": "TR",
@@ -5838,21 +5854,8 @@
       "url": "https://ecanlitvizle.sitecozum.net/atv-tv-canli-hd-izle-10/"
     },
     {
-      "id": "705",
-      "title": "Fox (TGRT)",
-      "title_b_fa": "فاکس",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "fox_turkey",
-      "serverName": "Embedded",
-      "channelName": "fox_turkey",
-      "url": "https://www.fox.com.tr/canli-yayin",
-      "backupId": "4601"
-    },
-    {
       "id": "4601",
-      "title": "Fox (TGRT) (Backup)",
+      "title": "Fox (TGRT) (Backup 2)",
       "title_b_fa": "فاکس (جایگزین)",
       "description": "General",
       "country_code": "TR",
