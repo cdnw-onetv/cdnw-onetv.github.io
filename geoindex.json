@@ -3781,7 +3781,6 @@
       "streamingUrlReferer": "https://sepehr.irib.ir/",
       "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
-      "backupUrl": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8",
       "backupId": "2023"
     },
     {
@@ -3849,7 +3848,6 @@
       "streamingUrlReferer": "https://sepehr.irib.ir/",
       "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
-      "backupUrl": "https://cdnw.telewebion.com/varzesh/live/playlist.m3u8",
       "backupId": "2027"
     },
     {
