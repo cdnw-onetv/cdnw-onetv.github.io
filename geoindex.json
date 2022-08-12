@@ -1286,7 +1286,8 @@
       "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "kurdmax_backup",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdMax"
+      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdMax",
+      "backupId": "4303"
     },
     {
       "id": "304",
@@ -1300,7 +1301,8 @@
       "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "kurdmaxShow_backup",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdmaxShow"
+      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdmaxShow",
+      "backupId": "4304"
     },
     {
       "id": "305",
