@@ -3762,7 +3762,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_3",
-      "httpTimeout": "500",
+      "httpTimeout": "1000",
       "url": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8",
       "backupId": "41022"
     },
@@ -3830,7 +3830,7 @@
       "favorite": "Yes",
       "localImageResource": "irib_varzesh",
       "localImageResourceNightMode": "irib_varzesh_night_mode",
-      "httpTimeout": "500",
+      "httpTimeout": "1000",
       "url": "https://cdnw.telewebion.com/varzesh/live/playlist.m3u8",
       "backupId": "41026"
     },
