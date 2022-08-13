@@ -5942,9 +5942,8 @@
       "localImageResource": "trt_sport",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport.png",
       "channelName": "trt_sport_backup",
-      "serverName": "Embedded",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/trt-spor-canli-hd-izle/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=trt-spor-canli-hd-izle"
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.center/trt-spor"
     },
     {
       "id": "4625",
