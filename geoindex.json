@@ -3522,6 +3522,35 @@
       "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8"
     },
     {
+      "id": "1173",
+      "title": "Sham FM TV",
+      "title_b_fa": "شام اف ام تی وی",
+      "title_b_ar": "شام إف إم تی وی",
+      "description": "Music",
+      "country_code": "SY",
+      "language_code": "ar",
+      "localImageResource": "sham_fm",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sham_fm.png",
+      "channelName": "sham_fm_tv",
+      "serverName": "Embedded",
+      "streamingUrlPattern": "https:([^\"\\';]*?)/sig/([^\"\\';]*?)video.m3u8[0-9a-zA-Z\\?]",
+      "url": "https://ok.ru/live/1366902775399",
+      "backupUrl": "http://radioshamfm.grtvstream.com:8400/stream?type=mp3",
+      "url2": "<iframe width=\"100%\" height=\"100%\" src=\"https://ok.ru/videoembed/1366902775399?nochat=1&autoplay=1\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen></iframe>"
+    },
+    {
+      "id": "1174",
+      "title": "Sham FM Plus",
+      "title_b_fa": "شام اف ام پلاس",
+      "title_b_ar": "شام إف إم بلس",
+      "description": "Music",
+      "country_code": "SY",
+      "language_code": "ar",
+      "localImageResource": "sham_fm_plus",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sham_fm_plus.png",
+      "url": "http://radioshamfm.grtvstream.com:8022/stream?type=mp3"
+    },
+    {
       "id": "1112",
       "title": "Alaraby 2",
       "title_b_fa": "العربیه ۲",
@@ -3554,35 +3583,6 @@
       "language_code": "ar",
       "localImageResource": "arabica_tv",
       "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
-    },
-    {
-      "id": "1173",
-      "title": "Sham FM TV",
-      "title_b_fa": "شام اف ام تی وی",
-      "title_b_ar": "شام إف إم تی وی",
-      "description": "Music",
-      "country_code": "SY",
-      "language_code": "ar",
-      "localImageResource": "sham_fm",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sham_fm.png",
-      "channelName": "sham_fm_tv",
-      "serverName": "Embedded",
-      "streamingUrlPattern": "https:([^\"\\';]*?)/sig/([^\"\\';]*?)video.m3u8[0-9a-zA-Z\\?]",
-      "url": "https://ok.ru/live/1366902775399",
-      "backupUrl": "http://radioshamfm.grtvstream.com:8400/stream?type=mp3",
-      "url2": "<iframe width=\"100%\" height=\"100%\" src=\"https://ok.ru/videoembed/1366902775399?nochat=1&autoplay=1\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen></iframe>"
-    },
-    {
-      "id": "1174",
-      "title": "Sham FM Plus",
-      "title_b_fa": "شام اف ام پلاس",
-      "title_b_ar": "شام إف إم بلس",
-      "description": "Music",
-      "country_code": "SY",
-      "language_code": "ar",
-      "localImageResource": "sham_fm_plus",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sham_fm_plus.png",
-      "url": "http://radioshamfm.grtvstream.com:8022/stream?type=mp3"
     },
     {
       "id": "1114",
