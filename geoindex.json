@@ -1503,7 +1503,7 @@
       "localImageResource": "kurdmax_tv",
       "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/_definst_/KurdmaxS0rani!/playlist.m3u8",
       "backupUrl": "http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/playlist.m3u8",
-      "backupId": "4303"
+      "backupId": "303"
     },
     {
       "id": "317",
@@ -1516,7 +1516,7 @@
       "url2": "https://5aa8c7549bfa9.streamlock.net:443/liveTrans/ngrp:myStream2_all/playlist.m3u8?wowzacaptionlanguages=fra",
       "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW2_all/playlist.m3u8?wowzacaptionlanguages=fra",
       "backupUrl": "http://31.14.40.139:1935/liveTrans/ngrp:SHOW2_all/playlist.m3u8",
-      "backupId": "4304"
+      "backupId": "304"
     },
     {
       "id": "332",
@@ -2948,13 +2948,15 @@
       "id": "1119",
       "title": "MBC 2",
       "title_b_fa": "ام بی سی ۲",
-      "title_b_ar": "ام بی سی ۲",
       "description": "Movies",
       "language_code": "ar",
       "localImageResource": "mbc_2",
-      "channelName": "mbc2",
-      "url": "http://zinachannels.zinamedia.net/ar-s/mbc-2/index.m3u8",
-      "backupId": "4119"
+      "serverName": "EmbeddedWebView",
+      "channelName": "mbc_2",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
+      "url": "http://www.elahmad.com/tv/watchtv.php?id=mbc2tv",
+      "url2": "http://www.teledunet.com/?channel=1133"
     },
     {
       "id": "1120",
@@ -2970,13 +2972,15 @@
       "id": "1121",
       "title": "MBC 4",
       "title_b_fa": "ام بی سی ۴",
-      "title_b_ar": "ام بی سی ۴",
       "description": "Movies",
       "language_code": "ar",
       "localImageResource": "mbc_4",
-      "url": "http://zinachannels.zinamedia.net/ar-s/mbc-4/tracks-v1a1/mono.m3u8",
-      "backupUrl": "http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8",
-      "backupId": "4121"
+      "serverName": "EmbeddedWebView",
+      "channelName": "mbc_4",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
+      "url": "http://www.elahmad.com/tv/watchtv.php?id=mbc_4",
+      "backupUrl": "http://www.teledunet.com/?channel=1135"
     },
     {
       "id": "1122",
@@ -6100,36 +6104,6 @@
       "description": "General",
       "localImageResource": "interaz_tv",
       "url": "http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8"
-    },
-    {
-      "id": "4119",
-      "title": "MBC 2 (Backup)",
-      "title_b_fa": "ام بی سی ۲ (جایگزین)",
-      "title_b_ar": "ام بی سی ۲ (احتياطي)",
-      "description": "Movies",
-      "language_code": "ar",
-      "localImageResource": "mbc_2",
-      "serverName": "EmbeddedWebView",
-      "channelName": "mbc_2_backup",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
-      "url": "http://www.elahmad.com/tv/watchtv.php?id=mbc2tv",
-      "url2": "http://www.teledunet.com/?channel=1133"
-    },
-    {
-      "id": "4121",
-      "title": "MBC 4 (Backup)",
-      "title_b_fa": "ام بی سی ۴ (جایگزین)",
-      "title_b_ar": "ام بی سی ۴ (احتياطي)",
-      "description": "Movies",
-      "language_code": "ar",
-      "localImageResource": "mbc_4",
-      "serverName": "EmbeddedWebView",
-      "channelName": "mbc_4_backup",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
-      "url": "http://www.elahmad.com/tv/watchtv.php?id=mbc_4",
-      "backupUrl": "http://www.teledunet.com/?channel=1135"
     },
     {
       "id": "41156",
