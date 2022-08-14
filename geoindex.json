@@ -103,7 +103,8 @@
       "favorite": "Yes",
       "localImageResource": "bbc_persian",
       "localImageResourceNightMode": "bbc_persian_night_mode",
-      "url": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
+      "url": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
+      "url2": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
       "backupUrl": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv4/b=281024/a=pa3/b=96000/main.m3u8"
     },
     {
@@ -130,7 +131,7 @@
       "geo_restrictions": "@IR",
       "favorite": "Yes",
       "localImageResource": "iran_international",
-      "url": "http://184.144.110.243:60003/LS-63503-4/chunklist_b806000.m3u8",
+      "url": "http://184.144.110.243:60003/LS-63503-4/index.m3u8",
       "backupUrl": "http://184.144.110.243:60003/LS-63503-4/chunklist_b341000.m3u8"
     },
     {
@@ -152,9 +153,23 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "navahang",
       "url": "http://51.210.227.130/hls/stream.m3u8",
       "backupUrl": "http://184.144.110.243:60004/hls/stream.m3u8",
+      "url2": "http://51.210.227.130/hls/stream.m3u8"
+    },
+    {
+      "id": "4004",
+      "title": "Navahang (Proxy)",
+      "title_b_fa": "نواهنگ",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "navahang",
+      "url": "http://184.144.110.243:60004/hls/stream.m3u8",
+      "backupUrl": "http://51.210.227.130/hls/stream.m3u8",
       "url2": "http://51.210.227.130/hls/stream.m3u8"
     },
     {
