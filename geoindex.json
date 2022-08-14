@@ -5385,17 +5385,6 @@
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=TAPESH"
     },
     {
-      "id": "8053",
-      "title": "Gem Bollywood (Test)",
-      "title_b_fa": "جم بالیوود (تست)",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "gem_bollywood",
-      "localImageResourceNightMode": "gem_bollywood_night_mode",
-      "url": "http://184.144.110.243:60108/live/13/master.m3u8"
-    },
-    {
       "id": "41020",
       "title": "IRIB 1 (Backup)",
       "title_b_fa": "شبکه یک (جایگزین)",
