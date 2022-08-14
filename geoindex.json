@@ -435,8 +435,6 @@
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
       "httpTimeout": "1000",
-      "httpTimeout": "1000",
-      "httpTimeout": "1000",
       "url": "http://184.144.110.243:60008/live/gem/index.m3u8"
     },
     {
