@@ -4772,7 +4772,7 @@
       "localImageResource": "cbc_toronto",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_toronto.png",
       "localImageResourceNightMode": "cbc_toronto_night_mode",
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master.m3u8",
+      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master1.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master4.m3u8"
     },
     {
@@ -4785,7 +4785,7 @@
       "localImageResource": "cbc_vancouver",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_vancouver.png",
       "localImageResourceNightMode": "cbc_vancouver_night_mode",
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master.m3u8",
+      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master1.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master4.m3u8"
     },
     {
@@ -4798,7 +4798,7 @@
       "localImageResource": "cbc_montreal",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_montreal.png",
       "localImageResourceNightMode": "cbc_montreal_night_mode",
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master.m3u8",
+      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master1.m3u8",
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master4.m3u8"
     },
     {
