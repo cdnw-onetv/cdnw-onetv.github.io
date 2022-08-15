@@ -69,12 +69,29 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "favorite": "Yes",
       "localImageResource": "manoto",
       "localImageResourceNightMode": "manoto_night_mode",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
       "streamingUrlReferer": "https://www.manototv.com/",
-      "backupUrl": "http://184.144.110.243:60001/live_500.m3u8"
+      "backupUrl": "http://184.144.110.243:60001/live.m3u8"
+    },
+    {
+      "id": "4001",
+      "title": "Manoto TV (Proxy)",
+      "title_b_fa": "من و تو",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "favorite": "Yes",
+      "localImageResource": "manoto",
+      "localImageResourceNightMode": "manoto_night_mode",
+      "maxBitRate": "700000",
+      "url": "http://184.144.110.243:60001/live.m3u8",
+      "streamingUrlReferer": "https://www.manototv.com/",
+      "backupUrl": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8"
     },
     {
       "id": "2",
@@ -103,6 +120,7 @@
       "favorite": "Yes",
       "localImageResource": "bbc_persian",
       "localImageResourceNightMode": "bbc_persian_night_mode",
+      "maxBitRate": "700000",
       "url": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
       "url2": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
       "backupUrl": "http://184.144.110.243:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv4/b=281024/a=pa3/b=96000/main.m3u8"
@@ -131,6 +149,7 @@
       "geo_restrictions": "@IR",
       "favorite": "Yes",
       "localImageResource": "iran_international",
+      "maxBitRate": "900000",
       "url": "http://184.144.110.243:60003/LS-63503-4/index.m3u8",
       "backupUrl": "http://184.144.110.243:60003/LS-63503-4/chunklist_b341000.m3u8"
     },
@@ -228,7 +247,7 @@
       "geo_restrictions": "!IR",
       "localImageResource": "radio_javan",
       "url": "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8",
-      "backupUrl": "http://184.144.110.243:60006/live/smil:rjtv.smil/chunklist_w1403401978_b746000.m3u8"
+      "backupUrl": "http://184.144.110.243:60006/live/smil:rjtv.smil/playlist.m3u8"
     },
     {
       "id": "8446",
@@ -239,7 +258,8 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "radio_javan",
-      "url": "http://184.144.110.243:60006/live/smil:rjtv.smil/chunklist_w1403401978_b746000.m3u8"
+      "maxBitRate": "800000",
+      "url": "http://184.144.110.243:60006/live/smil:rjtv.smil/playlist.m3u8"
     },
     {
       "id": "7",
