@@ -1171,32 +1171,6 @@
       "url": "https://hls.yourtime.live/hls/stream.m3u8"
     },
     {
-      "id": "36",
-      "title": "Tva Sport 1",
-      "title_b_fa": "تیوا اسپرت یک",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "tva_sport_1",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_sport_1.png",
-      "serverName": "EmbeddedWebView",
-      "channelName": "tva_sport_1",
-      "url": "https://tva.tv/channels/Sport"
-    },
-    {
-      "id": "37",
-      "title": "Tva Sport 2",
-      "title_b_fa": "تیوا اسپرت دو",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "tva_sport_2",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_sport_2.png",
-      "serverName": "EmbeddedWebView",
-      "channelName": "tva_sport_2",
-      "url": "https://tva.tv/channels/sport-2"
-    },
-    {
       "id": "45",
       "title": "Aio Sport",
       "title_b_fa": "آیو اسپرت",
@@ -1232,6 +1206,32 @@
       "streamingUrlReferer": "http://lenzsport.ir/",
       "channelName": "lenz_sport_plus",
       "url": "http://5.123.1.8:80/wh7f454c46tw4248776526_-1196073838/PLTV/88888888/224/3221226611/index.m3u8"
+    },
+    {
+      "id": "36",
+      "title": "Tva Sport 1",
+      "title_b_fa": "تیوا اسپرت یک",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "tva_sport_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_sport_1.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "tva_sport_1",
+      "url": "https://tva.tv/channels/Sport"
+    },
+    {
+      "id": "37",
+      "title": "Tva Sport 2",
+      "title_b_fa": "تیوا اسپرت دو",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "tva_sport_2",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_sport_2.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "tva_sport_2",
+      "url": "https://tva.tv/channels/sport-2"
     },
     {
       "id": "38",
