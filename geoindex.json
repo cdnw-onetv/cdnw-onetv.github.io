@@ -211,7 +211,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "avang",
-      "localImageResourceNightMode": "avang_night_mode",
+      "localImageResourceNightMode22": "avang_night_mode",
       "url": "http://51.210.227.149/hls/stream.m3u8",
       "backupUrl": "http://184.144.110.243:60044/hls/stream.m3u8"
     },
@@ -247,7 +247,7 @@
       "language_code": "fa",
       "geo_restrictions": "!IR",
       "localImageResource": "radio_javan",
-      "localImageResourceNightMode": "radio_javan_night_mode",
+      "localImageResourceNightMode22": "radio_javan_night_mode",
       "url": "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8",
       "backupUrl": "http://184.144.110.243:60006/live/smil:rjtv.smil/playlist.m3u8"
     },
@@ -1342,7 +1342,7 @@
       "language_code": "ku",
       "favorite": "Yes",
       "localImageResource": "rudaw_tv",
-      "localImageResourceNightMode": "rudaw_tv_night_mode",
+      "localImageResourceNightMode22": "rudaw_tv_night_mode",
       "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
     },
     {
