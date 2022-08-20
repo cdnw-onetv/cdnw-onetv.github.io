@@ -4986,7 +4986,7 @@
       "country_code": "QA",
       "language_code": "en",
       "localImageResource": "aljazeera",
-      "url": "http://live-hls-web-aje.getaj.net/AJE/04.m3u8",
+      "url": "http://live-hls-web-aje.getaj.net/AJE/index.m3u8",
       "backupUrl": "http://live-hls-web-aje.getaj.net/AJE/01.m3u8"
     },
     {
