@@ -6024,10 +6024,11 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "gali_kurdistan",
-      "streamingUrkUserAgent": "",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "GaliKurdistan_backup",
       "serverName": "EmbeddedWebView",
-      "url": "https://ku.karwan.tv/geli-kurdistan-tv.html"
+      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=GaliKurdistan"
     },
     {
       "id": "4313",
