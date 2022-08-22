@@ -2779,17 +2779,6 @@
     {
       "id": "646",
       "title": "Vuslat TV",
-      "title_b_fa": "وصلت تی وی",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "vuslat_tv",
-      "url": "http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8",
-      "backupUrl": "https://waw1.artiyerelmedya.net/vuslattv/bant1/playlist.m3u8"
-    },
-    {
-      "id": "701",
-      "title": "Malatya Vuslat TV",
       "title_b_fa": "مالاتیا وصلت تی وی",
       "description": "General",
       "country_code": "TR",
