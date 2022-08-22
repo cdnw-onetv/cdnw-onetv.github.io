@@ -2389,11 +2389,11 @@
       "serverName": "EmbeddedWebView",
       "channelName": "tv8_5_turkish",
       "url": "https://www.tv8bucuk.com/tv8-5-canli-yayin",
-      "backupId": "4636"
+      "backupId": "8636"
     },
     {
       "id": "4636",
-      "title": "TV 8,5 (Backup)",
+      "title": "TV 8,5 (HD)",
       "title_b_fa": "تی وی ۸,۵",
       "description": "General",
       "country_code": "TR",
