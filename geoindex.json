@@ -2388,8 +2388,22 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv8_5_turkish.png",
       "serverName": "EmbeddedWebView",
       "channelName": "tv8_5_turkish",
-      "url": "https://canlitv.com/canli-tv8-5",
+      "url": "https://www.tv8bucuk.com/tv8-5-canli-yayin",
       "backupId": "4636"
+    },
+    {
+      "id": "4636",
+      "title": "TV 8,5 (Backup)",
+      "title_b_fa": "تی وی ۸,۵",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "tv8_5_turkish_b",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv8_5_turkish.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "tv8_5_turkish",
+      "url": "https://canlitv.com/canli-tv8-5",
+      "backupId": "8636"
     },
     {
       "id": "660",
@@ -6232,7 +6246,7 @@
       "url": "https://www.trtizle.com/canli/tv/trt-belgesel"
     },
     {
-      "id": "4636",
+      "id": "8636",
       "title": "TV 8,5 (Backup)",
       "title_b_fa": "تی وی ۸,۵",
       "description": "General",
