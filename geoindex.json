@@ -2122,7 +2122,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "flash_tv",
-      "url": "https://www.guventechnology1.com:19360/flashtv/flashtv.m3u8",
+      "serverName": "EmbeddedWebView",
+      "channelName": "flash_tv",
+      "url": "https://canlitv.com/flash-tv",
       "backupId": "4623"
     },
     {
@@ -6246,9 +6248,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "flash_tv",
-      "serverName": "EmbeddedWebView",
-      "channelName": "flash_tv",
-      "url": "https://canlitv.com/flash-tv"
+      "url": "https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8"
     },
     {
       "id": "4614",
