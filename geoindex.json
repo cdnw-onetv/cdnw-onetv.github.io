@@ -2492,6 +2492,7 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
+      "geo_restrictions": "TR",
       "localImageResource": "tlc_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tlc_tv.png",
       "serverName": "Embedded",
@@ -2506,7 +2507,7 @@
     {
       "id": "4692",
       "title": "TLC TV (HD)",
-      "title_b_fa": "تی ال سی تی وی (جایگزین)",
+      "title_b_fa": "تی ال سی تی وی",
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
