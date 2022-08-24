@@ -2496,9 +2496,25 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tlc_tv.png",
       "serverName": "Embedded",
       "channelName": "tlc_turkey_tv",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/tlc-tv-canli/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=tlc-tv-canli",
+      "streamingUrlReferer2": "https://ecanlitvizle.sitecozum.net/tlc-tv-canli/",
+      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=tlc-tv-canli",
+      "streamingUrlReferer": "https://www.tlctv.com.tr",
+      "streamingUrlOrigin": "https://www.tlctv.com.tr",
+      "url": "https://www.tlctv.com.tr/canli-izle",
       "backupId": "4692"
+    },
+    {
+      "id": "4692",
+      "title": "TLC TV (HD)",
+      "title_b_fa": "تی ال سی تی وی (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "tlc_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tlc_tv.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "tlc_turkey_tv_backup",
+      "url": "https://canlitv.com/tlc"
     },
     {
       "id": "693",
@@ -6274,19 +6290,6 @@
       "serverName": "EmbeddedWebView",
       "channelName": "tv8_5_turkish_backup",
       "url": "https://canlitv.center/tv8-5"
-    },
-    {
-      "id": "4692",
-      "title": "TLC TV (Backup)",
-      "title_b_fa": "تی ال سی تی وی (جایگزین)",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "tlc_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tlc_tv.png",
-      "serverName": "EmbeddedWebView",
-      "channelName": "tlc_turkey_tv_backup",
-      "url": "https://canlitv.com/tlc"
     },
     {
       "id": "4640",
