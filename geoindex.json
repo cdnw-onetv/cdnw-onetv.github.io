@@ -270,7 +270,7 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restriction": "@IR",
+      "geo_restrictions": "@IR",
       "favorite": "Yes",
       "localImageResource": "mbc_persia",
       "url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
@@ -6267,17 +6267,6 @@
       "description": "General",
       "localImageResource": "interaz_tv",
       "url": "http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8"
-    },
-    {
-      "id": "41119",
-      "title": "MBC 2 (Backup)",
-      "title_b_fa": "ام بی سی ۲",
-      "description": "Movies",
-      "language_code": "ar",
-      "localImageResource": "mbc_2",
-      "serverName": "EmbeddedWebView",
-      "channelName": "mbc_2",
-      "url": "https://www.aflam4you.net/mbc-2-shahid-movies-ramadan-tv-live-2022_6.html"
     },
     {
       "id": "41156",
