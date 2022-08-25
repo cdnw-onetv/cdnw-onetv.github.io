@@ -5127,7 +5127,7 @@
       "description": "Sports",
       "country_code": "QA",
       "language_code": "en",
-      "geo_restrictions": "@CA,IR,IQ",
+      "geo_restrictions": "@IR,IQ",
       "localImageResource": "bein_sports_extra",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_extra.png",
       "url": "https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8"
