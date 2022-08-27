@@ -3234,7 +3234,7 @@
       "description": "News",
       "country_code": "QA",
       "language_code": "ar",
-      "geo_restrictions": "",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "aljazeera",
       "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
     },
