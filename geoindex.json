@@ -3221,7 +3221,7 @@
       "description": "News",
       "country_code": "UK",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "bbc_arabic",
       "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
       "backupUrl": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8"
@@ -3234,7 +3234,7 @@
       "description": "News",
       "country_code": "QA",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "",
       "localImageResource": "aljazeera",
       "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
     },
@@ -3246,7 +3246,7 @@
       "description": "News",
       "country_code": "UK",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "description_b_fa": "عمومی",
       "description_b_ku": "گشتی",
       "description_b_tr": "Genel",
@@ -3261,7 +3261,7 @@
       "title_b_ar": "سات-۷ عربي",
       "description": "General",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "sat7_arabic",
       "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist.m3u8"
     },
@@ -3272,7 +3272,7 @@
       "title_b_ar": "سات-۷ عربي",
       "description": "Kids",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "sat7_kids",
       "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8"
     },
@@ -3283,7 +3283,7 @@
       "title_b_ar": "روتانا پلاس",
       "description": "General",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "rotana_plus_tv",
       "url": "https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8"
     },
@@ -3294,7 +3294,7 @@
       "title_b_ar": "روتانا خليجية",
       "description": "General",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "rotana_khalija_tv",
       "url": "https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8"
     },
@@ -3305,7 +3305,7 @@
       "title_b_ar": "روتانا كيدز",
       "description": "Kids",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "rotana_kids_tv",
       "url": "https://edge.taghtia.com/br/rotana-kids.m3u8"
     },
@@ -3316,7 +3316,7 @@
       "title_b_ar": "روتانا سينما",
       "description": "Movies",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "rotana_cinema_1",
       "url": "https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8"
     },
@@ -3327,7 +3327,7 @@
       "title_b_ar": "روتانا سينما ۲",
       "description": "Movies",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "rotana_cinema_1",
       "url": "https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8"
     },
@@ -3338,7 +3338,7 @@
       "title_b_ar": "قناة الريان الفضائية",
       "description": "General",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "alrayyan_tv",
       "url": "https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8"
     },
@@ -3489,7 +3489,7 @@
       "title_b_ar": "الحرة",
       "description": "News",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "alhurra_tv",
       "url": "https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/merge.m3u8"
     },
@@ -3500,7 +3500,7 @@
       "title_b_ar": "الشرق للأخبار",
       "description": "News",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "asharq_news",
       "url": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8"
     },
@@ -3511,7 +3511,7 @@
       "title_b_ar": "العربي أخبار",
       "description": "News",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "alarabye_news",
       "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8"
     },
@@ -3522,7 +3522,7 @@
       "title_b_ar": "تي ار تي عربي",
       "description": "General",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "trt_arabic",
       "url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8"
     },
@@ -3533,7 +3533,7 @@
       "title_b_ar": "الراي",
       "description": "News",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "alray_tv",
       "url": "https://media.streambrothers.com:1936/8724/8724/playlist.m3u8"
     },
@@ -3544,7 +3544,7 @@
       "title_b_ar": "الحدث",
       "description": "News",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "alhadath_tv",
       "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
     },
@@ -3555,7 +3555,7 @@
       "title_b_ar": "قناة المغربية",
       "description": "News",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "almaghribia_tv",
       "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8"
     },
@@ -3566,7 +3566,7 @@
       "title_b_ar": "الشرقية نيوز",
       "description": "News",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "alsharqiya_news",
       "url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8"
     },
@@ -3678,7 +3678,7 @@
       "description": "News",
       "country_code": "SY",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "syrian_news",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/syrian_news.png",
       "streamingUrlReferer": "http://www.elahmad.com",
@@ -3695,7 +3695,7 @@
       "description": "News",
       "country_code": "SY",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "syria_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/syria_tv.png",
       "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8"
@@ -3708,7 +3708,7 @@
       "description": "Series",
       "country_code": "SY",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "syria_drama",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/syria_drama.png",
       "channelName": "sham_fm_tv",
@@ -3723,7 +3723,7 @@
       "description": "General",
       "country_code": "SY",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "sama_tv_syria",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/sama_tv_syria.png",
       "url": "http://157.90.243.220:1935/live/smil:mystream1.smil/playlist.m3u8",
@@ -3737,7 +3737,7 @@
       "description": "General",
       "country_code": "SY",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "lana_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/lana_tv.png",
       "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8"
@@ -3750,7 +3750,7 @@
       "description": "General",
       "country_code": "SY",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "lana_tv_plus",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/lana_tv_plus.png",
       "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8"
@@ -3773,7 +3773,7 @@
       "description": "Music",
       "country_code": "LB",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "mtv_onetv",
       "channelName": "mtv_one_lebanon",
       "serverName": "EmbeddedWebView",
@@ -3798,7 +3798,7 @@
       "description": "Music",
       "country_code": "SY",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "sham_fm",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/sham_fm.png",
       "channelName": "sham_fm_tv",
@@ -3827,7 +3827,7 @@
       "title_b_ar": "العيون",
       "description": "General",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "laayoune_tv",
       "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8"
     },
@@ -3838,7 +3838,7 @@
       "title_b_ar": "تمازيغت",
       "description": "General",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "tamazight_tv",
       "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8"
     },
@@ -3849,7 +3849,7 @@
       "title_b_ar": "الشرق",
       "description": "General",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "elsharq_tv",
       "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8"
     },
@@ -3860,7 +3860,7 @@
       "title_b_ar": "الأحرار",
       "description": "News",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "alahrar_tv",
       "url": "https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8"
     },
@@ -3872,7 +3872,7 @@
       "description": "General",
       "country_code": "KW",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "alshahed_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/alshahed_tv.png",
       "streamingUrlReferer": "http://www.elahmad.com",
@@ -3889,7 +3889,7 @@
       "description": "General",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "abu_dhabi_tv",
       "url": "https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8"
     },
@@ -3901,7 +3901,7 @@
       "description": "General",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "al_emarat_tv",
       "url": "https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8"
     },
@@ -3912,7 +3912,7 @@
       "title_b_ar": "الحرية",
       "description": "General",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK",
       "localImageResource": "alhorreya_tv",
       "url": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8"
     },
@@ -3979,7 +3979,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,AE",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK,AE",
       "localImageResource": "dubai_sport_1",
       "url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/media.m3u8"
     },
@@ -3991,7 +3991,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,AE",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK,AE",
       "localImageResource": "dubai_sport_2",
       "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/media.m3u8"
     },
@@ -4003,7 +4003,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,AE",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK,AE",
       "localImageResource": "dubai_sport_3",
       "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/media.m3u8"
     },
@@ -4015,7 +4015,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,AE",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK,AE",
       "localImageResource": "ad_sport_1",
       "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8"
     },
@@ -4027,7 +4027,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,AE",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK,AE",
       "localImageResource": "ad_sport_2",
       "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8"
     },
@@ -4039,7 +4039,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,AE",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK,AE",
       "localImageResource": "ad_sport_3",
       "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8"
     },
@@ -4051,7 +4051,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,AE",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK,AE",
       "localImageResource": "dubai_racing_tv",
       "url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8"
     },
@@ -4063,7 +4063,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,AE",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,UA,BA,CA,FR,GE,UK,AE",
       "localImageResource": "yas_tv",
       "url": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8"
     }
@@ -5096,7 +5096,7 @@
       "description": "News",
       "country_code": "QA",
       "language_code": "en",
-      "geo_restrictions": "@CA,IR,IQ",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,CA,FR,AU,GE,UK,IT,SW,TR",
       "localImageResource": "aljazeera",
       "url": "http://live-hls-web-aje.getaj.net/AJE/index.m3u8",
       "backupUrl": "http://live-hls-web-aje.getaj.net/AJE/01.m3u8"
@@ -5120,7 +5120,7 @@
       "description": "Kids",
       "country_code": "US",
       "language_code": "en",
-      "geo_restrictions": "@CA,IR,IQ",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,CA,FR,AU,GE,UK,IT,SW,TR",
       "localImageResource": "pbs_kids",
       "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8",
       "backupUrl": "https://livestream.pbskids.org/out/v1/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd"
@@ -5133,7 +5133,7 @@
       "description": "Sports",
       "country_code": "QA",
       "language_code": "en",
-      "geo_restrictions": "@IR,IQ",
+      "geo_restrictions": "@IR,QA,IQ,SA,EG,LB,KW,SY,CA,FR,AU,GE,UK,IT,SW,TR",
       "localImageResource": "bein_sports_extra",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_extra.png",
       "url": "https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8"
