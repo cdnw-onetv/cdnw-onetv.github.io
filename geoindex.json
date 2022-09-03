@@ -4968,7 +4968,7 @@
       "description": "Sports",
       "country_code": "QA",
       "language_code": "en",
-      "geo_restrictions": "IR,IQ",
+      "geo_restrictions": "",
       "localImageResource": "bein_sports_english_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_english_1.png",
       "streamingUrlReferer": "https://player.licenses4.me/",
