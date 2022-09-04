@@ -59,6 +59,21 @@
       "id": "2011",
       "title": "proxy_address",
       "description": "http://192.168.2.92:20104/proxy?url="
+    },
+    {
+      "id": "2012",
+      "title": "stats_report_interval",
+      "description": "5000"
+    },
+    {
+      "id": "2013",
+      "title": "stats_report_min_watch_time",
+      "description": "1000"
+    },
+    {
+      "id": "2014",
+      "title": "stats_report_database_url",
+      "description": "http://192.168.2.92:20104"
     }
   ],
   "persian_tv": [
@@ -104,7 +119,8 @@
       "favorite": "Yes",
       "localImageResource": "bbc_persian",
       "localImageResourceNightMode": "bbc_persian_night_mode_test",
-      "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
+      "url3": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
+      "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "backupUrl": "http://174.92.63.195:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8",
       "backupUrl2": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8",
       "url2": "https://www.youtube.com/embed/TE5d4omulHg"
