@@ -121,7 +121,7 @@
       "localImageResourceNightMode": "bbc_persian_night_mode_test",
       "url3": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
-      "backupUrl": "http://174.92.63.195:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8",
+      "backupUrl": "http://174.92.63.195:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "backupUrl2": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8",
       "url2": "https://www.youtube.com/embed/TE5d4omulHg"
     },
@@ -137,9 +137,9 @@
       "localImageResource": "bbc_persian",
       "localImageResourceNightMode": "bbc_persian_night_mode",
       "maxBitRate": "700000",
-      "url": "http://174.92.63.195:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
+      "url": "http://174.92.63.195:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "url2": "http://174.92.63.195:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
-      "backupUrl": "http://174.92.63.195:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv4/b=281024/a=pa3/b=96000/main.m3u8"
+      "backupUrl": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd"
     },
     {
       "id": "3",
