@@ -504,7 +504,8 @@
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gem/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gem/index.m3u8"
     },
     {
       "id": "4008",
@@ -531,7 +532,8 @@
       "localImageResource": "gem_film",
       "localImageResourceNightMode": "gem_film_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gemfilm/index.m3u8"
     },
     {
       "id": "4009",
@@ -557,7 +559,8 @@
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemseries/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemseries/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gemseries/index.m3u8"
     },
     {
       "id": "4010",
@@ -582,7 +585,8 @@
       "localImageResource": "gem_classic",
       "localImageResourceNightMode": "gem_classic_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gemclassic/index.m3u8"
     },
     {
       "id": "4011",
@@ -608,7 +612,8 @@
       "localImageResource": "gem_drama",
       "localImageResourceNightMode": "gem_drama_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gemdrama/index.m3u8"
     },
     {
       "id": "4012",
@@ -634,7 +639,8 @@
       "localImageResource": "gem_junior",
       "localImageResourceNightMode": "gem_junior_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gemjunior/index.m3u8"
     },
     {
       "id": "4014",
@@ -660,7 +666,8 @@
       "localImageResource": "gem_kids",
       "localImageResourceNightMode": "gem_kids_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gemkids/index.m3u8"
     },
     {
       "id": "4046",
@@ -686,7 +693,8 @@
       "localImageResource": "gem_food",
       "localImageResourceNightMode": "gem_food_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gemfood/index.m3u8"
     },
     {
       "id": "4047",
@@ -712,7 +720,8 @@
       "localImageResource": "gem_life",
       "localImageResourceNightMode": "gem_life_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemlife/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemlife/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gemlife/index.m3u8"
     },
     {
       "id": "4048",
@@ -738,7 +747,8 @@
       "localImageResource": "gem_maxx",
       "localImageResourceNightMode": "gem_maxx_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gemmaxx/index.m3u8"
     },
     {
       "id": "4049",
@@ -764,7 +774,8 @@
       "localImageResource": "gem_river",
       "localImageResourceNightMode": "gem_river_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/river/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/river/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/river/index.m3u8"
     },
     {
       "id": "4050",
@@ -790,7 +801,8 @@
       "localImageResource": "gem_rubix",
       "localImageResourceNightMode": "gem_rubix_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/rubix/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/rubix/index.m3u8"
     },
     {
       "id": "4051",
@@ -816,7 +828,8 @@
       "localImageResource": "gem_travel",
       "localImageResourceNightMode": "gem_travel_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gemtravel/index.m3u8"
     },
     {
       "id": "4052",
@@ -842,7 +855,8 @@
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gembollywood/index.m3u8"
     },
     {
       "id": "4053",
@@ -868,7 +882,8 @@
       "localImageResource": "gem_crypto",
       "localImageResourceNightMode": "gem_crypto_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8"
+      "url": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
+      "backupUrl": "http://174.92.63.195:60008/live/gemcrypto/index.m3u8"
     },
     {
       "id": "4054",
