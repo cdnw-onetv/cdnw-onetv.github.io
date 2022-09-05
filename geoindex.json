@@ -58,7 +58,7 @@
     {
       "id": "2011",
       "title": "proxy_address",
-      "description": "http://192.168.2.92:20104/proxy?url="
+      "description": "http://192.168.2.92:20108/proxy?url="
     },
     {
       "id": "2012",
@@ -72,8 +72,28 @@
     },
     {
       "id": "2014",
-      "title": "stats_report_database_url",
-      "description": "http://192.168.2.92:20104"
+      "title": "stats_report_url",
+      "description": "https://onetv.app:60104"
+    },
+    {
+      "id": "2015",
+      "title": "stats_report_url_local_network",
+      "description": "http://192.168.2.92:20103"
+    },
+    {
+      "id": "2016",
+      "title": "stats_update_interval",
+      "description": "20000"
+    },
+    {
+      "id": "2017",
+      "title": "stats_update_url",
+      "description": "https://onetv.app:60102/stats.json"
+    },
+    {
+      "id": "2018",
+      "title": "stats_update_url_local_network",
+      "description": "http://192.168.2.92:20101/stats.json"
     }
   ],
   "persian_tv": [
@@ -93,7 +113,7 @@
       "backupUrl": "http://174.92.63.195:60001/live.m3u8"
     },
     {
-      "id": "4001",
+      "id": "9001",
       "title": "Manoto TV (Proxy)",
       "title_b_fa": "من و تو",
       "description": "General",
@@ -126,7 +146,7 @@
       "url2": "https://www.youtube.com/embed/TE5d4omulHg"
     },
     {
-      "id": "8442",
+      "id": "9002",
       "title": "BBC Persian (Proxy)",
       "title_b_fa": "بی بی سی فارسی",
       "description": "News",
@@ -135,7 +155,7 @@
       "geo_restrictions": "@IR",
       "favorite": "Yes",
       "localImageResource": "bbc_persian",
-      "localImageResourceNightMode": "bbc_persian_night_mode",
+      "localImageResourceNightMode": "bbc_persian_night_mode_test",
       "maxBitRate": "700000",
       "url": "http://174.92.63.195:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
       "url2": "http://174.92.63.195:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
@@ -156,7 +176,7 @@
       "backupUrl2": "https://live.playstop.me/1816184091/chunklist_b341000.m3u8"
     },
     {
-      "id": "8443",
+      "id": "9003",
       "title": "Iran International (Proxy)",
       "title_b_fa": "ایران اینترنشنال",
       "description": "News",
@@ -195,7 +215,7 @@
       "url2": "http://51.210.227.130/hls/stream.m3u8"
     },
     {
-      "id": "4004",
+      "id": "9004",
       "title": "Navahang (Proxy)",
       "title_b_fa": "نواهنگ",
       "description": "Music",
@@ -244,7 +264,7 @@
       "backupUrl": "http://174.92.63.195:60017/EBC1/EBC1/playlist.m3u8"
     },
     {
-      "id": "8417",
+      "id": "90017",
       "title": "EBC Music (Proxy)",
       "title_b_fa": "ای بی سی موزیک",
       "description": "Music",
@@ -268,7 +288,7 @@
       "backupUrl": "http://174.92.63.195:60006/live/smil:rjtv.smil/playlist.m3u8"
     },
     {
-      "id": "8446",
+      "id": "9006",
       "title": "RadioJavan (Proxy)",
       "title_b_fa": "رادیو جوان",
       "description": "Music",
@@ -293,7 +313,7 @@
       "backupUrl": "http://174.92.63.195:60007/out/v1/bdc7cd0d990e4c54808632a52c396946/index_7.m3u8"
     },
     {
-      "id": "4007",
+      "id": "9007",
       "title": "MBC Persia (Proxy)",
       "title_b_fa": "ام بی سی پرشیا",
       "description": "General",
@@ -343,7 +363,7 @@
       "backupId": "4015"
     },
     {
-      "id": "8415",
+      "id": "90015",
       "title": "Tapesh TV (Proxy)",
       "title_b_fa": "تپش",
       "description": "General",
@@ -367,7 +387,7 @@
       "backupUrl2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8"
     },
     {
-      "id": "4018",
+      "id": "90018",
       "title": "ITN (Proxy)",
       "title_b_fa": "آی تی ان",
       "description": "General",
@@ -508,7 +528,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gem/index.m3u8"
     },
     {
-      "id": "4008",
+      "id": "9008",
       "title": "Gem TV (Proxy)",
       "favorite": "Yes",
       "title_b_fa": "جم تی وی",
@@ -536,7 +556,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gemfilm/index.m3u8"
     },
     {
-      "id": "4009",
+      "id": "9009",
       "title": "Gem Film (Proxy)",
       "title_b_fa": "جم فیلم",
       "description": "Movies",
@@ -563,7 +583,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gemseries/index.m3u8"
     },
     {
-      "id": "4010",
+      "id": "90010",
       "title": "Gem Series (Proxy)",
       "title_b_fa": "جم سریز",
       "description": "Series",
@@ -589,7 +609,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gemclassic/index.m3u8"
     },
     {
-      "id": "4011",
+      "id": "90011",
       "title": "Gem Classic (Proxy)",
       "title_b_fa": "جم کلاسیک",
       "description": "Movies",
@@ -616,7 +636,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gemdrama/index.m3u8"
     },
     {
-      "id": "4012",
+      "id": "90012",
       "title": "Gem Drama (Proxy)",
       "title_b_fa": "جم دراما",
       "description": "Movies",
@@ -643,7 +663,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gemjunior/index.m3u8"
     },
     {
-      "id": "4014",
+      "id": "90014",
       "title": "Gem Junior (Proxy)",
       "title_b_fa": "جم جونیور",
       "description": "Kids",
@@ -670,7 +690,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gemkids/index.m3u8"
     },
     {
-      "id": "4046",
+      "id": "90046",
       "title": "Gem Kids (Proxy)",
       "title_b_fa": "جم کیدز",
       "description": "Kids",
@@ -697,7 +717,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gemfood/index.m3u8"
     },
     {
-      "id": "4047",
+      "id": "90047",
       "title": "Gem Food (Proxy)",
       "title_b_fa": "جم فود",
       "description": "Cooking",
@@ -724,7 +744,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gemlife/index.m3u8"
     },
     {
-      "id": "4048",
+      "id": "90048",
       "title": "Gem Life (Proxy)",
       "title_b_fa": "جم لایف",
       "description": "General",
@@ -751,7 +771,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gemmaxx/index.m3u8"
     },
     {
-      "id": "4049",
+      "id": "90049",
       "title": "Gem Maxx (Proxy)",
       "title_b_fa": "جم ماکس",
       "description": "General",
@@ -778,7 +798,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/river/index.m3u8"
     },
     {
-      "id": "4050",
+      "id": "90050",
       "title": "Gem River (Proxy)",
       "title_b_fa": "جم ریور",
       "description": "General",
@@ -805,7 +825,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/rubix/index.m3u8"
     },
     {
-      "id": "4051",
+      "id": "90051",
       "title": "Gem Rubix (Proxy)",
       "title_b_fa": "جم روبیکس",
       "description": "General",
@@ -832,7 +852,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gemtravel/index.m3u8"
     },
     {
-      "id": "4052",
+      "id": "90052",
       "title": "Gem Travel (Proxy)",
       "title_b_fa": "جم تراول",
       "description": "General",
@@ -859,7 +879,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gembollywood/index.m3u8"
     },
     {
-      "id": "4053",
+      "id": "90053",
       "title": "Gem Bollywood (Proxy)",
       "title_b_fa": "جم بالیوود",
       "description": "Movies",
@@ -886,7 +906,7 @@
       "backupUrl": "http://174.92.63.195:60008/live/gemcrypto/index.m3u8"
     },
     {
-      "id": "4054",
+      "id": "90054",
       "title": "Gem Crypto (Proxy)",
       "title_b_fa": "جم کریپتو",
       "description": "Business",
@@ -1179,7 +1199,7 @@
       "url": "https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/playlist.m3u8"
     },
     {
-      "id": "4092",
+      "id": "90092",
       "title": "Pars TV (Proxy)",
       "title_b_fa": "پارس تی وی",
       "description": "General",
@@ -4964,7 +4984,7 @@
       "localImageResource": "tvo_kids",
       "streamingUrlExpireTime": "200",
       "url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8",
-      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/nIhbO89W1GE"
+      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw/live"
     },
     {
       "id": "525",
@@ -5957,7 +5977,7 @@
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
       "channelName": "kurdmaxMusic_backup",
-      "url": "http://174.92.63.195:60102/kurdmaxmusic.mp4",
+      "url": "http://174.92.63.195:60101/kurdmaxmusic.mp4",
       "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live"
     },
     {
