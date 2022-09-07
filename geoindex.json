@@ -63,17 +63,18 @@
     {
       "id": "2012",
       "title": "stats_report_interval",
-      "description": "5000"
+      "description": "300000"
     },
     {
       "id": "2013",
       "title": "stats_report_min_watch_time",
-      "description": "1000"
+      "description": "20000"
     },
     {
       "id": "2014",
       "title": "stats_report_url",
-      "description": "https://onetv.app:60104"
+      "description": "https://onetv.app:60104",
+      "description1": "http://174.92.63.195:60103"
     },
     {
       "id": "2015",
@@ -83,12 +84,13 @@
     {
       "id": "2016",
       "title": "stats_update_interval",
-      "description": "20000"
+      "description": "180000"
     },
     {
       "id": "2017",
       "title": "stats_update_url",
-      "description": "https://onetv.app:60102/stats.json"
+      "description": "https://onetv.app:60102/stats.json",
+      "description1": "http://174.92.63.195:60101/stats.json"
     },
     {
       "id": "2018",
@@ -3374,61 +3376,6 @@
       "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8"
     },
     {
-      "id": "1150",
-      "title": "Rotana Plus",
-      "title_b_fa": "روتانا پلاس",
-      "title_b_ar": "روتانا پلاس",
-      "description": "General",
-      "language_code": "ar",
-      "geo_restrictions": "!US,IN",
-      "localImageResource": "rotana_plus_tv",
-      "url": "https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8"
-    },
-    {
-      "id": "1151",
-      "title": "Rotana Khalija",
-      "title_b_fa": "روتانا خليجية",
-      "title_b_ar": "روتانا خليجية",
-      "description": "General",
-      "language_code": "ar",
-      "geo_restrictions": "!US,IN",
-      "localImageResource": "rotana_khalija_tv",
-      "url": "https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8"
-    },
-    {
-      "id": "1152",
-      "title": "Rotana Kids",
-      "title_b_fa": "روتانا کودکان",
-      "title_b_ar": "روتانا كيدز",
-      "description": "Kids",
-      "language_code": "ar",
-      "geo_restrictions": "!US,IN",
-      "localImageResource": "rotana_kids_tv",
-      "url": "https://edge.taghtia.com/br/rotana-kids.m3u8"
-    },
-    {
-      "id": "1153",
-      "title": "Rotana Cinema 1",
-      "title_b_fa": "روتانا سينما",
-      "title_b_ar": "روتانا سينما",
-      "description": "Movies",
-      "language_code": "ar",
-      "geo_restrictions": "!US,IN",
-      "localImageResource": "rotana_cinema_1",
-      "url": "https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8"
-    },
-    {
-      "id": "1154",
-      "title": "Rotana Cinema 2",
-      "title_b_fa": "روتانا سينما ۲",
-      "title_b_ar": "روتانا سينما ۲",
-      "description": "Movies",
-      "language_code": "ar",
-      "geo_restrictions": "!US,IN",
-      "localImageResource": "rotana_cinema_1",
-      "url": "https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8"
-    },
-    {
       "id": "1102",
       "title": "Alrayyan TV",
       "title_b_fa": "الرایان",
@@ -3528,22 +3475,6 @@
       "url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8"
     },
     {
-      "id": "1172",
-      "title": "OTV Lebanon",
-      "title_b_fa": "او تی وی لبنان",
-      "title_b_ar": "أو تي في لبنان",
-      "description": "General",
-      "country_code": "LB",
-      "language_code": "ar",
-      "localImageResource": "otv_lebanon",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/otv_lebanon.png",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
-      "channelName": "otv_lebanon",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=otv_lb1"
-    },
-    {
       "id": "1175",
       "title": "Syrian News",
       "title_b_fa": "اخبار سوریه",
@@ -3601,32 +3532,6 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/sama_tv_syria.png",
       "url": "http://157.90.243.220:1935/live/smil:mystream1.smil/playlist.m3u8",
       "backupUrl": "http://157.90.243.220:1935/live/_definst_/smil:mystream1.smil/playlist.m3u8"
-    },
-    {
-      "id": "1179",
-      "title": "Lana TV",
-      "title_b_fa": "لانا تی وی",
-      "title_b_ar": "لانا تی وی",
-      "description": "General",
-      "country_code": "SY",
-      "language_code": "ar",
-      "geo_restrictions": "!US,IN",
-      "localImageResource": "lana_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lana_tv.png",
-      "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8"
-    },
-    {
-      "id": "1180",
-      "title": "Lana TV Plus",
-      "title_b_fa": "لانا تی وی پلاس",
-      "title_b_ar": "لانا تی وی بلس",
-      "description": "General",
-      "country_code": "SY",
-      "language_code": "ar",
-      "geo_restrictions": "!US,IN",
-      "localImageResource": "lana_tv_plus",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lana_tv_plus.png",
-      "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8"
     },
     {
       "id": "1112",
@@ -6609,6 +6514,103 @@
       "channelName": "lb2_tv_lebanon",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=lb2"
+    },
+    {
+      "id": "1150",
+      "title": "Rotana Plus",
+      "title_b_fa": "روتانا پلاس",
+      "title_b_ar": "روتانا پلاس",
+      "description": "General",
+      "language_code": "ar",
+      "geo_restrictions": "!US,IN",
+      "localImageResource": "rotana_plus_tv",
+      "url": "https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8"
+    },
+    {
+      "id": "1151",
+      "title": "Rotana Khalija",
+      "title_b_fa": "روتانا خليجية",
+      "title_b_ar": "روتانا خليجية",
+      "description": "General",
+      "language_code": "ar",
+      "geo_restrictions": "!US,IN",
+      "localImageResource": "rotana_khalija_tv",
+      "url": "https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8"
+    },
+    {
+      "id": "1152",
+      "title": "Rotana Kids",
+      "title_b_fa": "روتانا کودکان",
+      "title_b_ar": "روتانا كيدز",
+      "description": "Kids",
+      "language_code": "ar",
+      "geo_restrictions": "!US,IN",
+      "localImageResource": "rotana_kids_tv",
+      "url": "https://edge.taghtia.com/br/rotana-kids.m3u8"
+    },
+    {
+      "id": "1153",
+      "title": "Rotana Cinema 1",
+      "title_b_fa": "روتانا سينما",
+      "title_b_ar": "روتانا سينما",
+      "description": "Movies",
+      "language_code": "ar",
+      "geo_restrictions": "!US,IN",
+      "localImageResource": "rotana_cinema_1",
+      "url": "https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8"
+    },
+    {
+      "id": "1154",
+      "title": "Rotana Cinema 2",
+      "title_b_fa": "روتانا سينما ۲",
+      "title_b_ar": "روتانا سينما ۲",
+      "description": "Movies",
+      "language_code": "ar",
+      "geo_restrictions": "!US,IN",
+      "localImageResource": "rotana_cinema_1",
+      "url": "https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8"
+    },
+    {
+      "id": "1172",
+      "title": "OTV Lebanon",
+      "title_b_fa": "او تی وی لبنان",
+      "title_b_ar": "أو تي في لبنان",
+      "description": "General",
+      "country_code": "LB",
+      "language_code": "ar",
+      "localImageResource": "otv_lebanon",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/otv_lebanon.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
+      "channelName": "otv_lebanon",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=otv_lb1"
+    },
+    {
+      "id": "1179",
+      "title": "Lana TV",
+      "title_b_fa": "لانا تی وی",
+      "title_b_ar": "لانا تی وی",
+      "description": "General",
+      "country_code": "SY",
+      "language_code": "ar",
+      "geo_restrictions": "!US,IN",
+      "localImageResource": "lana_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lana_tv.png",
+      "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8"
+    },
+    {
+      "id": "1180",
+      "title": "Lana TV Plus",
+      "title_b_fa": "لانا تی وی پلاس",
+      "title_b_ar": "لانا تی وی بلس",
+      "description": "General",
+      "country_code": "SY",
+      "language_code": "ar",
+      "geo_restrictions": "!US,IN",
+      "localImageResource": "lana_tv_plus",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/lana_tv_plus.png",
+      "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8"
     },
     {
       "id": "62222",
