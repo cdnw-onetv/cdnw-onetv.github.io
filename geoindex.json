@@ -7427,18 +7427,6 @@
       "description": ""
     },
     {
-      "id": "2202",
-      "title": "New List",
-      "title_b_fa": "لیست جدید",
-      "title_b_ku": "زیادکردنی لیستی نوێ",
-      "title_b_tr": "Yeni liste",
-      "title_b_ar": "قائمة جديدة",
-      "localImageResource": "setting_add_list",
-      "localImageResourceNightMode": "setting_add_list_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_add_list.png",
-      "description": ""
-    },
-    {
       "id": "2203",
       "title": "Visible Lists",
       "title_b_fa": "لیست های قابل مشاهده",
@@ -7448,6 +7436,18 @@
       "localImageResource": "setting_visible_lists",
       "localImageResourceNightMode": "setting_visible_lists_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_visible_lists.png",
+      "description": ""
+    },
+    {
+      "id": "2202",
+      "title": "New List",
+      "title_b_fa": "لیست جدید",
+      "title_b_ku": "زیادکردنی لیستی نوێ",
+      "title_b_tr": "Yeni liste",
+      "title_b_ar": "قائمة جديدة",
+      "localImageResource": "setting_add_list",
+      "localImageResourceNightMode": "setting_add_list_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_add_list.png",
       "description": ""
     }
   ]
