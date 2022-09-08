@@ -6783,7 +6783,7 @@
       "serverName": "",
       "streamingUrlReferer": "https://eplayer.click/",
       "streamingUrlOrigin": "https://eplayer.click/",
-      "url": "https://webui.vhls.ru.com/lb/premium92/index.m3u8"
+      "url": "https://webui.vhls.ru.com/lb/premium99/index.m3u8"
     },
     {
       "id": "6013",
@@ -6794,7 +6794,7 @@
       "serverName": "",
       "streamingUrlReferer": "https://eplayer.click/",
       "streamingUrlOrigin": "https://eplayer.click/",
-      "url": "https://webui.vhls.ru.com/lb/premium93/index.m3u8"
+      "url": "https://webui.vhls.ru.com/lb/premium100/index.m3u8"
     },
     {
       "id": "6014",
@@ -6838,7 +6838,7 @@
       "serverName": "",
       "streamingUrlReferer": "https://eplayer.click/",
       "streamingUrlOrigin": "https://eplayer.click/",
-      "url": "https://webui.vhls.ru.com/lb/premium111/index.m3u8"
+      "url": "https://webui.vhls.ru.com/lb/premium91/index.m3u8"
     },
     {
       "id": "6018",
@@ -6849,7 +6849,7 @@
       "serverName": "",
       "streamingUrlReferer": "https://eplayer.click/",
       "streamingUrlOrigin": "https://eplayer.click/",
-      "url": "https://webui.vhls.ru.com/lb/premium112/index.m3u8"
+      "url": "https://webui.vhls.ru.com/lb/premium92/index.m3u8"
     },
     {
       "id": "6019",
@@ -6860,7 +6860,7 @@
       "serverName": "",
       "streamingUrlReferer": "https://eplayer.click/",
       "streamingUrlOrigin": "https://eplayer.click/",
-      "url": "https://webui.vhls.ru.com/lb/premium115/index.m3u8"
+      "url": "https://webui.vhls.ru.com/lb/premium93/index.m3u8"
     },
     {
       "id": "6020",
@@ -6871,7 +6871,7 @@
       "serverName": "",
       "streamingUrlReferer": "https://eplayer.click/",
       "streamingUrlOrigin": "https://eplayer.click/",
-      "url": "https://webui.vhls.ru.com/lb/premium98/index.m3u8"
+      "url": "https://webui.vhls.ru.com/lb/premium94/index.m3u8"
     },
     {
       "id": "6021",
@@ -6882,7 +6882,7 @@
       "serverName": "",
       "streamingUrlReferer": "https://eplayer.click/",
       "streamingUrlOrigin": "https://eplayer.click/",
-      "url": "https://webui.vhls.ru.com/lb/premium99/index.m3u8"
+      "url": "https://webui.vhls.ru.com/lb/premium95/index.m3u8"
     },
     {
       "id": "6022",
@@ -6892,7 +6892,8 @@
       "channelName": "",
       "serverName": "",
       "streamingUrlReferer": "https://eplayer.click/",
-      "url": "https://webui.vhls.ru.com/lb/premium100/index.m3u8"
+      "streamingUrlOrigin": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium96/index.m3u8"
     },
     {
       "id": "6023",
@@ -6901,7 +6902,9 @@
       "localImageResource": "user_channel_23",
       "channelName": "",
       "serverName": "",
-      "url": "https://tv.ensonhaber.com/tv/tr/startv/index.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "streamingUrlOrigin": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium97/index.m3u8"
     },
     {
       "id": "6024",
@@ -6910,7 +6913,9 @@
       "localImageResource": "user_channel_24",
       "channelName": "",
       "serverName": "",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/XEJM4Hcgd3M"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "streamingUrlOrigin": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium111/index.m3u8"
     },
     {
       "id": "6025",
@@ -6920,7 +6925,8 @@
       "channelName": "",
       "serverName": "",
       "streamingUrlReferer": "https://eplayer.click/",
-      "url": ""
+      "streamingUrlOrigin": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium112/index.m3u8"
     },
     {
       "id": "6026",
@@ -6930,7 +6936,8 @@
       "channelName": "",
       "serverName": "",
       "streamingUrlReferer": "https://eplayer.click/",
-      "url": ""
+      "streamingUrlOrigin": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium115/index.m3u8"
     },
     {
       "id": "6027",
@@ -6960,7 +6967,7 @@
       "channelName": "",
       "serverName": "",
       "streamingUrlReferer": "https://eplayer.click/",
-      "url": ""
+      "url": "https://tv.ensonhaber.com/tv/tr/startv/index.m3u8"
     },
     {
       "id": "6030",
@@ -6970,7 +6977,7 @@
       "channelName": "",
       "streamingUrlReferer": "https://eplayer.click/",
       "serverName": "",
-      "url": ""
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/XEJM4Hcgd3M"
     },
     {
       "id": "6031",
