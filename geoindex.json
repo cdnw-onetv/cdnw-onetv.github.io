@@ -4928,8 +4928,8 @@
       "geo_restrictions": "",
       "localImageResource": "bein_sports_english_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_english_1.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium61/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium61/playlist.m3u8"
     },
     {
       "id": "520",
@@ -4942,8 +4942,8 @@
       "geo_restrictions": "IR,IQ",
       "localImageResource": "sky_sports",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/sky_sports.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium60/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium60/playlist.m3u8"
     },
     {
       "id": "521",
@@ -6290,8 +6290,8 @@
       "geo_restrictions": "IR,IQ",
       "localImageResource": "bein_sports_premium_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_premium_1.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium98/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium98/playlist.m3u8"
     },
     {
       "id": "1167",
@@ -6304,8 +6304,8 @@
       "geo_restrictions": "IR,IQ",
       "localImageResource": "bein_sports_premium_2",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_premium_2.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium99/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium99/playlist.m3u8"
     },
     {
       "id": "1169",
@@ -6318,8 +6318,8 @@
       "geo_restrictions": "IR,IQ",
       "localImageResource": "bein_sports_premium_3",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_premium_3.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium100/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium100/playlist.m3u8"
     },
     {
       "id": "1159",
@@ -6332,8 +6332,8 @@
       "geo_restrictions": "IR,IQ",
       "localImageResource": "bein_sports",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium91/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium91/playlist.m3u8"
     },
     {
       "id": "1160",
@@ -6346,8 +6346,8 @@
       "geo_restrictions": "IR,IQ",
       "localImageResource": "bein_sports",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium92/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium92/playlist.m3u8"
     },
     {
       "id": "1161",
@@ -6360,8 +6360,8 @@
       "geo_restrictions": "IR,IQ",
       "localImageResource": "bein_sports",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium93/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium93/playlist.m3u8"
     },
     {
       "id": "1162",
@@ -6374,8 +6374,8 @@
       "geo_restrictions": "IR,IQ",
       "localImageResource": "bein_sports",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium94/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium94/playlist.m3u8"
     },
     {
       "id": "1163",
@@ -6388,8 +6388,8 @@
       "geo_restrictions": "IR,IQ",
       "localImageResource": "bein_sports",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium95/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium95/playlist.m3u8"
     },
     {
       "id": "1164",
@@ -6402,8 +6402,8 @@
       "localImageResource": "bein_sports",
       "geo_restrictions": "IR,IQ",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium96/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium96/playlist.m3u8"
     },
     {
       "id": "1165",
@@ -6416,8 +6416,8 @@
       "geo_restrictions": "IR,IQ",
       "localImageResource": "bein_sports",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports.png",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium97/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium97/playlist.m3u8"
     },
     {
       "id": "1155",
@@ -6750,8 +6750,8 @@
       "localImageResource": "user_channel_9",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium60/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium60/index.m3u8"
     },
     {
       "id": "6010",
@@ -6760,8 +6760,8 @@
       "localImageResource": "user_channel_10",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium61/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium61/index.m3u8"
     },
     {
       "id": "6011",
@@ -6770,8 +6770,8 @@
       "localImageResource": "user_channel_11",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium91/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium98/index.m3u8"
     },
     {
       "id": "6012",
@@ -6780,8 +6780,8 @@
       "localImageResource": "user_channel_12",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium92/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium92/index.m3u8"
     },
     {
       "id": "6013",
@@ -6790,8 +6790,8 @@
       "localImageResource": "user_channel_13",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium93/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium93/index.m3u8"
     },
     {
       "id": "6014",
@@ -6800,8 +6800,8 @@
       "localImageResource": "user_channel_14",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium62/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium62/index.m3u8"
     },
     {
       "id": "6015",
@@ -6810,8 +6810,8 @@
       "localImageResource": "user_channel_15",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium63/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium63/index.m3u8"
     },
     {
       "id": "6016",
@@ -6820,8 +6820,8 @@
       "localImageResource": "user_channel_16",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium64/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium64/index.m3u8"
     },
     {
       "id": "6017",
@@ -6830,8 +6830,8 @@
       "localImageResource": "user_channel_17",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium111/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium111/index.m3u8"
     },
     {
       "id": "6018",
@@ -6840,8 +6840,8 @@
       "localImageResource": "user_channel_18",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium112/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium112/index.m3u8"
     },
     {
       "id": "6019",
@@ -6850,8 +6850,8 @@
       "localImageResource": "user_channel_19",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium115/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium115/index.m3u8"
     },
     {
       "id": "6020",
@@ -6860,8 +6860,8 @@
       "localImageResource": "user_channel_20",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium98/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium98/index.m3u8"
     },
     {
       "id": "6021",
@@ -6870,8 +6870,8 @@
       "localImageResource": "user_channel_21",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium99/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium99/index.m3u8"
     },
     {
       "id": "6022",
@@ -6880,8 +6880,8 @@
       "localImageResource": "user_channel_22",
       "channelName": "",
       "serverName": "",
-      "streamingUrlReferer": "https://player.licenses4.me/",
-      "url": "https://srv.vhls.ru.com/cdn/premium100/playlist.m3u8"
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webui.vhls.ru.com/lb/premium100/index.m3u8"
     },
     {
       "id": "6023",
@@ -6908,6 +6908,7 @@
       "localImageResource": "user_channel_25",
       "channelName": "",
       "serverName": "",
+      "streamingUrlReferer": "https://eplayer.click/",
       "url": ""
     },
     {
@@ -6917,6 +6918,7 @@
       "localImageResource": "user_channel_26",
       "channelName": "",
       "serverName": "",
+      "streamingUrlReferer": "https://eplayer.click/",
       "url": ""
     },
     {
@@ -6926,6 +6928,7 @@
       "localImageResource": "user_channel_27",
       "channelName": "",
       "serverName": "",
+      "streamingUrlReferer": "https://eplayer.click/",
       "url": ""
     },
     {
@@ -6935,6 +6938,7 @@
       "localImageResource": "user_channel_28",
       "channelName": "",
       "serverName": "",
+      "streamingUrlReferer": "https://eplayer.click/",
       "url": ""
     },
     {
@@ -6944,6 +6948,7 @@
       "localImageResource": "user_channel_29",
       "channelName": "",
       "serverName": "",
+      "streamingUrlReferer": "https://eplayer.click/",
       "url": ""
     },
     {
@@ -6952,6 +6957,7 @@
       "description": "",
       "localImageResource": "user_channel_30",
       "channelName": "",
+      "streamingUrlReferer": "https://eplayer.click/",
       "serverName": "",
       "url": ""
     },
@@ -6962,6 +6968,7 @@
       "localImageResource": "user_channel_31",
       "channelName": "",
       "serverName": "",
+      "streamingUrlReferer": "https://eplayer.click/",
       "url": ""
     },
     {
@@ -6971,6 +6978,7 @@
       "localImageResource": "user_channel_32",
       "channelName": "",
       "serverName": "",
+      "streamingUrlReferer": "https://eplayer.click/",
       "url": ""
     },
     {
@@ -6980,6 +6988,7 @@
       "localImageResource": "user_channel_33",
       "channelName": "",
       "serverName": "",
+      "streamingUrlReferer": "https://eplayer.click/",
       "url": ""
     },
     {
