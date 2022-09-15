@@ -2686,7 +2686,7 @@
       "geo_restrictions": "!US,IN",
       "localImageResource": "cine5_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/cine5_tv.png",
-      "url": "https://host.onlineradyotv.net:8081/cine5/index.m3u8"
+      "url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
     },
     {
       "id": "697",
