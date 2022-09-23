@@ -1369,18 +1369,6 @@
       "url": "https://tva.tv/channels/sport-2"
     },
     {
-      "id": "99",
-      "title": "Persiana Sport",
-      "title_b_fa": "پرشیانا اسپرت",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_sport",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sport.png",
-      "url": "http://51.210.227.164/hls/stream.m3u8"
-    },
-    {
       "id": "82",
       "title": "Aio Film",
       "title_b_fa": "آیو فیلم",
@@ -5746,6 +5734,18 @@
       "language_code": "fa",
       "streamingUrlReferer": "https://www.aionet.ir/",
       "url": "https://live.aionet.ir/hls/varzesh/varzesh.m3u8"
+    },
+    {
+      "id": "99",
+      "title": "Persiana Sport",
+      "title_b_fa": "پرشیانا اسپرت",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_sport",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sport.png",
+      "url": "http://51.210.227.164/hls/stream.m3u8"
     },
     {
       "id": "4302",
