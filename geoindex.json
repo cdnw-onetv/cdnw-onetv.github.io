@@ -1221,6 +1221,7 @@
       "geo_restrictions": "!IR",
       "localImageResource": "pars_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/pars_tv.png",
+      "streamingUrlReferer": "https://parstv.tv/",
       "url": "https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/playlist.m3u8",
       "backupUrl": "https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8"
     },
@@ -1234,7 +1235,9 @@
       "geo_restrictions": "@IR",
       "localImageResource": "pars_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/pars_tv.png",
-      "url": "http://76.70.75.209:60018/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/chunks.m3u8"
+      "streamingUrlReferer": "https://parstv.tv/",
+      "url": "http://76.70.75.209:60018/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/chunks.m3u8",
+      "backupUrl": "http://76.70.75.209:60018/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8"
     },
     {
       "id": "93",
