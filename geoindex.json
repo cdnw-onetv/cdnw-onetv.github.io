@@ -384,6 +384,8 @@
       "language_code": "fa",
       "geo_restrictions": "!IR",
       "localImageResource": "itn",
+      "streamingUrlOrigin": "https://iframes.5centscdn.com",
+      "streamingUrlReferer": "https://iframes.5centscdn.com",
       "url": "https://livestream.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/playlist.m3u8",
       "backupUrl": "http://76.70.75.209:60018/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
       "backupUrl2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8"
@@ -397,6 +399,8 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "itn",
+      "streamingUrlOrigin": "https://iframes.5centscdn.com",
+      "streamingUrlReferer": "https://iframes.5centscdn.com",
       "url": "http://76.70.75.209:60018/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
       "backupUrl": "https://livestream.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/playlist.m3u8",
       "backupUrl2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8"
