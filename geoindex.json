@@ -74,7 +74,7 @@
       "id": "2014",
       "title": "stats_report_url",
       "description": "https://onetv.app:60104",
-      "description1": "http://76.70.75.209:60103"
+      "description1": "http://174.91.135.72:60103"
     },
     {
       "id": "2015",
@@ -90,7 +90,7 @@
       "id": "2017",
       "title": "stats_update_url",
       "description": "https://onetv.app:60102/stats.json",
-      "description1": "http://76.70.75.209:60101/stats.json"
+      "description1": "http://174.91.135.72:60101/stats.json"
     },
     {
       "id": "2018",
@@ -112,7 +112,7 @@
       "localImageResourceNightMode": "manoto_night_mode",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
       "streamingUrlReferer": "https://www.manototv.com/",
-      "backupUrl": "http://76.70.75.209:60001/live.m3u8"
+      "backupUrl": "http://174.91.135.72:60001/live.m3u8"
     },
     {
       "id": "9001",
@@ -126,7 +126,7 @@
       "localImageResource": "manoto",
       "localImageResourceNightMode": "manoto_night_mode",
       "maxBitRate": "700000",
-      "url": "http://76.70.75.209:60001/live.m3u8",
+      "url": "http://174.91.135.72:60001/live.m3u8",
       "streamingUrlReferer": "https://www.manototv.com/",
       "backupUrl": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8"
     },
@@ -143,7 +143,7 @@
       "localImageResourceNightMode": "bbc_persian_night_mode_test",
       "url3": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
-      "backupUrl": "http://76.70.75.209:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
+      "backupUrl": "http://174.91.135.72:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
       "backupUrl2": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8",
       "url2": "https://www.youtube.com/embed/TE5d4omulHg"
     },
@@ -159,8 +159,8 @@
       "localImageResource": "bbc_persian",
       "localImageResourceNightMode": "bbc_persian_night_mode_test",
       "maxBitRate": "700000",
-      "url": "http://76.70.75.209:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
-      "url2": "http://76.70.75.209:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
+      "url": "http://174.91.135.72:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
+      "url2": "http://174.91.135.72:60002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
       "backupUrl": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd"
     },
     {
@@ -188,8 +188,8 @@
       "favorite": "Yes",
       "localImageResource": "iran_international",
       "maxBitRate": "900000",
-      "url": "http://76.70.75.209:60003/LS-63503-4/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60003/LS-63503-4/chunklist_b341000.m3u8"
+      "url": "http://174.91.135.72:60003/LS-63503-4/index.m3u8",
+      "backupUrl": "http://174.91.135.72:60003/LS-63503-4/chunklist_b341000.m3u8"
     },
     {
       "id": "29",
@@ -200,7 +200,7 @@
       "language_code": "fa",
       "localImageResource": "voa_persian",
       "url": "https://voa-ingest.akamaized.net/dash/live/2033877-b/tvmc07/manifest.mpd",
-      "backupUrl": "http://76.70.75.209:60029/dash/live/2033877-b/tvmc07/manifest.mpd",
+      "backupUrl": "http://174.91.135.72:60029/dash/live/2033877-b/tvmc07/manifest.mpd",
       "backupId": "4429"
     },
     {
@@ -213,7 +213,7 @@
       "geo_restrictions": "!IR",
       "localImageResource": "navahang",
       "url": "http://51.210.227.130/hls/stream.m3u8",
-      "backupUrl": "http://76.70.75.209:60004/hls/stream.m3u8",
+      "backupUrl": "http://174.91.135.72:60004/hls/stream.m3u8",
       "url2": "http://51.210.227.130/hls/stream.m3u8"
     },
     {
@@ -225,7 +225,7 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "navahang",
-      "url": "http://76.70.75.209:60004/hls/stream.m3u8",
+      "url": "http://174.91.135.72:60004/hls/stream.m3u8",
       "backupUrl": "http://51.210.227.130/hls/stream.m3u8",
       "url2": "http://51.210.227.130/hls/stream.m3u8"
     },
@@ -239,7 +239,7 @@
       "favorite": "Yes",
       "localImageResource": "pmc",
       "url": "https://hls.pmchd.live/hls/stream.m3u8",
-      "backupUrl": "http://76.70.75.209:60005/hls/stream.m3u8"
+      "backupUrl": "http://174.91.135.72:60005/hls/stream.m3u8"
     },
     {
       "id": "44",
@@ -251,7 +251,7 @@
       "localImageResource": "avang",
       "localImageResourceNightMode22": "avang_night_mode",
       "url": "http://51.210.227.149/hls/stream.m3u8",
-      "backupUrl": "http://76.70.75.209:60044/hls/stream.m3u8"
+      "backupUrl": "http://174.91.135.72:60044/hls/stream.m3u8"
     },
     {
       "id": "17",
@@ -263,7 +263,7 @@
       "geo_restrictions": "!IR",
       "localImageResource": "ebc_music",
       "url": "https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8",
-      "backupUrl": "http://76.70.75.209:60017/EBC1/EBC1/playlist.m3u8"
+      "backupUrl": "http://174.91.135.72:60017/EBC1/EBC1/playlist.m3u8"
     },
     {
       "id": "90017",
@@ -274,7 +274,7 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "ebc_music",
-      "url": "http://76.70.75.209:60017/EBC1/EBC1/playlist.m3u8"
+      "url": "http://174.91.135.72:60017/EBC1/EBC1/playlist.m3u8"
     },
     {
       "id": "6",
@@ -287,7 +287,7 @@
       "localImageResource": "radio_javan",
       "localImageResourceNightMode22": "radio_javan_night_mode",
       "url": "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8",
-      "backupUrl": "http://76.70.75.209:60006/live/smil:rjtv.smil/playlist.m3u8"
+      "backupUrl": "http://174.91.135.72:60006/live/smil:rjtv.smil/playlist.m3u8"
     },
     {
       "id": "9006",
@@ -299,7 +299,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "radio_javan",
       "maxBitRate": "800000",
-      "url": "http://76.70.75.209:60006/live/smil:rjtv.smil/playlist.m3u8"
+      "url": "http://174.91.135.72:60006/live/smil:rjtv.smil/playlist.m3u8"
     },
     {
       "id": "7",
@@ -312,7 +312,7 @@
       "favorite": "Yes",
       "localImageResource": "mbc_persia",
       "url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60007/out/v1/bdc7cd0d990e4c54808632a52c396946/index_7.m3u8"
+      "backupUrl": "http://174.91.135.72:60007/out/v1/bdc7cd0d990e4c54808632a52c396946/index_7.m3u8"
     },
     {
       "id": "9007",
@@ -325,7 +325,7 @@
       "favorite": "Yes",
       "localImageResource": "mbc_persia",
       "maxBitRate": "700000",
-      "url": "http://76.70.75.209:60007/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
+      "url": "http://174.91.135.72:60007/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
       "backupUrl": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8"
     },
     {
@@ -337,7 +337,7 @@
       "language_code": "fa",
       "localImageResource": "four_u",
       "url": "http://51.210.227.153/hls/stream.m3u8",
-      "backupUrl": "http://76.70.75.209:60043/hls/stream.m3u8"
+      "backupUrl": "http://174.91.135.72:60043/hls/stream.m3u8"
     },
     {
       "id": "75",
@@ -348,7 +348,7 @@
       "language_code": "fa",
       "localImageResource": "farsi_tv",
       "url": "https://live.farsitv.de/live/stream.m3u8",
-      "backupUrl": "http://76.70.75.209:60075/live/stream_360p/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60075/live/stream_360p/index.m3u8"
     },
     {
       "id": "15",
@@ -360,7 +360,7 @@
       "geo_restrictions": "!IR",
       "localImageResource": "tapesh",
       "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8",
-      "backupUrl": "http://76.70.75.209:60015/tapesh/playlist1/index.m3u8",
+      "backupUrl": "http://174.91.135.72:60015/tapesh/playlist1/index.m3u8",
       "backupUrl1": "http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8",
       "backupId": "4015"
     },
@@ -373,7 +373,7 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "tapesh",
-      "url": "http://76.70.75.209:60015/tapesh/playlist1/index.m3u8"
+      "url": "http://174.91.135.72:60015/tapesh/playlist1/index.m3u8"
     },
     {
       "id": "18",
@@ -387,7 +387,7 @@
       "streamingUrlOrigin": "https://iframes.5centscdn.com",
       "streamingUrlReferer": "https://iframes.5centscdn.com",
       "url": "https://livestream.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/playlist.m3u8",
-      "backupUrl": "http://76.70.75.209:60018/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
+      "backupUrl": "http://174.91.135.72:60018/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
       "backupUrl2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8"
     },
     {
@@ -401,7 +401,7 @@
       "localImageResource": "itn",
       "streamingUrlOrigin": "https://iframes.5centscdn.com",
       "streamingUrlReferer": "https://iframes.5centscdn.com",
-      "url": "http://76.70.75.209:60018/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
+      "url": "http://174.91.135.72:60018/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
       "backupUrl": "https://livestream.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/playlist.m3u8",
       "backupUrl2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8"
     },
@@ -531,7 +531,7 @@
       "localImageResourceNightMode": "gem_tv_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gem/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gem/index.m3u8"
     },
     {
       "id": "9008",
@@ -545,7 +545,7 @@
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gem/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gem/index.m3u8"
     },
     {
       "id": "9",
@@ -559,7 +559,7 @@
       "localImageResourceNightMode": "gem_film_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gemfilm/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gemfilm/index.m3u8"
     },
     {
       "id": "9009",
@@ -572,7 +572,7 @@
       "localImageResource": "gem_film",
       "localImageResourceNightMode": "gem_film_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gemfilm/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gemfilm/index.m3u8"
     },
     {
       "id": "10",
@@ -586,7 +586,7 @@
       "localImageResourceNightMode": "gem_series_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemseries/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gemseries/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gemseries/index.m3u8"
     },
     {
       "id": "90010",
@@ -598,7 +598,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_series",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gemseries/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gemseries/index.m3u8"
     },
     {
       "id": "11",
@@ -612,7 +612,7 @@
       "localImageResourceNightMode": "gem_classic_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gemclassic/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gemclassic/index.m3u8"
     },
     {
       "id": "90011",
@@ -625,7 +625,7 @@
       "localImageResource": "gem_classic",
       "localImageResourceNightMode": "gem_classic_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gemclassic/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gemclassic/index.m3u8"
     },
     {
       "id": "12",
@@ -639,7 +639,7 @@
       "localImageResourceNightMode": "gem_drama_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gemdrama/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gemdrama/index.m3u8"
     },
     {
       "id": "90012",
@@ -652,7 +652,7 @@
       "localImageResource": "gem_drama",
       "localImageResourceNightMode": "gem_drama_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gemdrama/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gemdrama/index.m3u8"
     },
     {
       "id": "14",
@@ -666,7 +666,7 @@
       "localImageResourceNightMode": "gem_junior_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gemjunior/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gemjunior/index.m3u8"
     },
     {
       "id": "90014",
@@ -679,7 +679,7 @@
       "localImageResource": "gem_junior",
       "localImageResourceNightMode": "gem_junior_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gemjunior/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gemjunior/index.m3u8"
     },
     {
       "id": "46",
@@ -693,7 +693,7 @@
       "localImageResourceNightMode": "gem_kids_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gemkids/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gemkids/index.m3u8"
     },
     {
       "id": "90046",
@@ -706,7 +706,7 @@
       "localImageResource": "gem_kids",
       "localImageResourceNightMode": "gem_kids_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gemkids/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gemkids/index.m3u8"
     },
     {
       "id": "47",
@@ -720,7 +720,7 @@
       "localImageResourceNightMode": "gem_food_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gemfood/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gemfood/index.m3u8"
     },
     {
       "id": "90047",
@@ -733,7 +733,7 @@
       "localImageResource": "gem_food",
       "localImageResourceNightMode": "gem_food_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gemfood/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gemfood/index.m3u8"
     },
     {
       "id": "48",
@@ -747,7 +747,7 @@
       "localImageResourceNightMode": "gem_life_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemlife/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gemlife/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gemlife/index.m3u8"
     },
     {
       "id": "90048",
@@ -760,7 +760,7 @@
       "localImageResource": "gem_life",
       "localImageResourceNightMode": "gem_life_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gemlife/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gemlife/index.m3u8"
     },
     {
       "id": "49",
@@ -774,7 +774,7 @@
       "localImageResourceNightMode": "gem_maxx_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gemmaxx/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gemmaxx/index.m3u8"
     },
     {
       "id": "90049",
@@ -787,7 +787,7 @@
       "localImageResource": "gem_maxx",
       "localImageResourceNightMode": "gem_maxx_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gemmaxx/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gemmaxx/index.m3u8"
     },
     {
       "id": "50",
@@ -801,7 +801,7 @@
       "localImageResourceNightMode": "gem_river_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/river/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/river/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/river/index.m3u8"
     },
     {
       "id": "90050",
@@ -814,7 +814,7 @@
       "localImageResource": "gem_river",
       "localImageResourceNightMode": "gem_river_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/river/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/river/index.m3u8"
     },
     {
       "id": "51",
@@ -828,7 +828,7 @@
       "localImageResourceNightMode": "gem_rubix_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/rubix/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/rubix/index.m3u8"
     },
     {
       "id": "90051",
@@ -841,7 +841,7 @@
       "localImageResource": "gem_rubix",
       "localImageResourceNightMode": "gem_rubix_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/rubix/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/rubix/index.m3u8"
     },
     {
       "id": "52",
@@ -855,7 +855,7 @@
       "localImageResourceNightMode": "gem_travel_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gemtravel/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gemtravel/index.m3u8"
     },
     {
       "id": "90052",
@@ -868,7 +868,7 @@
       "localImageResource": "gem_travel",
       "localImageResourceNightMode": "gem_travel_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gemtravel/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gemtravel/index.m3u8"
     },
     {
       "id": "53",
@@ -882,7 +882,7 @@
       "localImageResourceNightMode": "gem_bollywood_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gembollywood/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gembollywood/index.m3u8"
     },
     {
       "id": "90053",
@@ -895,7 +895,7 @@
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gembollywood/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gembollywood/index.m3u8"
     },
     {
       "id": "54",
@@ -909,7 +909,7 @@
       "localImageResourceNightMode": "gem_crypto_night_mode",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60008/live/gemcrypto/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60008/live/gemcrypto/index.m3u8"
     },
     {
       "id": "90054",
@@ -922,7 +922,7 @@
       "localImageResource": "gem_crypto",
       "localImageResourceNightMode": "gem_crypto_night_mode",
       "httpTimeout": "1000",
-      "url": "http://76.70.75.209:60008/live/gemcrypto/index.m3u8"
+      "url": "http://174.91.135.72:60008/live/gemcrypto/index.m3u8"
     },
     {
       "id": "21",
@@ -1192,7 +1192,7 @@
       "language_code": "fa",
       "localImageResource": "parnian_tv",
       "url": "https://live2.parnian.tv/hls/live/play.m3u8",
-      "backupUrl": "http://76.70.75.209:60077/hls/live/play.m3u8"
+      "backupUrl": "http://174.91.135.72:60077/hls/live/play.m3u8"
     },
     {
       "id": "72",
@@ -1240,8 +1240,8 @@
       "localImageResource": "pars_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/pars_tv.png",
       "streamingUrlReferer": "https://parstv.tv/",
-      "url": "http://76.70.75.209:60018/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/chunks.m3u8",
-      "backupUrl": "http://76.70.75.209:60018/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8"
+      "url": "http://174.91.135.72:60018/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/chunks.m3u8",
+      "backupUrl": "http://174.91.135.72:60018/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8"
     },
     {
       "id": "93",
@@ -1295,7 +1295,7 @@
       "language_code": "fa",
       "localImageResource": "ayeneh_tv",
       "url": "https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60018/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8"
+      "backupUrl": "http://174.91.135.72:60018/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8"
     },
     {
       "id": "74",
@@ -5258,7 +5258,7 @@
       "language_code": "fa",
       "localImageResource": "voa_persian",
       "url": "https://voa-ingest.akamaized.net/dash/live/2033877/tvmc07/manifest.mpd",
-      "backupUrl": "http://76.70.75.209:60029/dash/live/2033877/tvmc07/manifest.mpd"
+      "backupUrl": "http://174.91.135.72:60029/dash/live/2033877/tvmc07/manifest.mpd"
     },
     {
       "id": "16",
@@ -5269,7 +5269,7 @@
       "language_code": "fa",
       "localImageResource": "tapesh_2",
       "url": "http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8",
-      "backupUrl": "http://76.70.75.209:60016/live/tapesh-live-stream/index.m3u8",
+      "backupUrl": "http://174.91.135.72:60016/live/tapesh-live-stream/index.m3u8",
       "url2": "http://radio.persianvip.com:8888/;",
       "backupId": "4416"
     },
@@ -5297,7 +5297,7 @@
       "language_code": "fa",
       "localImageResource": "caltex_music",
       "url": "https://video.caltexmusic.com/hls/caltextv.m3u8",
-      "backupUrl": "http://76.70.75.209:60042/hls/caltextv.m3u8"
+      "backupUrl": "http://174.91.135.72:60042/hls/caltextv.m3u8"
     },
     {
       "id": "4015",
@@ -5809,7 +5809,7 @@
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
       "channelName": "kurdmaxMusic_backup",
-      "url": "http://76.70.75.209:60101/kurdmaxmusic.mp4",
+      "url": "http://174.91.135.72:60101/kurdmaxmusic.mp4",
       "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live"
     },
     {
