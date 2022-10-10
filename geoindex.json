@@ -5327,6 +5327,15 @@
       "url": "https://khatereh.online/"
     },
     {
+      "id": "58",
+      "title": "MTC",
+      "title_b_fa": "ام تی سی",
+      "description": "Music",
+      "language_code": "fa",
+      "localImageResource": "mtc_tv",
+      "url": "http://51.210.227.128/hls/stream.m3u8"
+    },
+    {
       "id": "41020",
       "title": "IRIB 1 (Backup)",
       "title_b_fa": "شبکه یک (جایگزین)",
