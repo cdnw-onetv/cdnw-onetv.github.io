@@ -302,33 +302,6 @@
       "url": "http://174.91.135.72:60006/live/smil:rjtv.smil/playlist.m3u8"
     },
     {
-      "id": "7",
-      "title": "MBC Persia",
-      "title_b_fa": "ام بی سی پرشیا",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "favorite": "Yes",
-      "localImageResource": "mbc_persia",
-      "url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
-      "backupUrl": "http://174.91.135.72:60007/out/v1/bdc7cd0d990e4c54808632a52c396946/index_7.m3u8"
-    },
-    {
-      "id": "9007",
-      "title": "MBC Persia (Proxy)",
-      "title_b_fa": "ام بی سی پرشیا",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "favorite": "Yes",
-      "localImageResource": "mbc_persia",
-      "maxBitRate": "700000",
-      "url": "http://174.91.135.72:60007/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
-      "backupUrl": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8"
-    },
-    {
       "id": "43",
       "title": "4U",
       "title_b_fa": "فور یو",
@@ -456,6 +429,31 @@
       "language_code": "fa",
       "localImageResource": "oxir_tv",
       "url": "http://51.254.225.26/hls/stream.m3u8"
+    },
+    {
+      "id": "7",
+      "title": "MBC Persia",
+      "title_b_fa": "ام بی سی پرشیا",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!SA,UA,UK",
+      "localImageResource": "mbc_persia",
+      "url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
+      "backupUrl": "http://174.91.135.72:60007/out/v1/bdc7cd0d990e4c54808632a52c396946/index_7.m3u8"
+    },
+    {
+      "id": "9007",
+      "title": "MBC Persia (Proxy)",
+      "title_b_fa": "ام بی سی پرشیا",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "mbc_persia",
+      "maxBitRate": "700000",
+      "url": "http://174.91.135.72:60007/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
+      "backupUrl": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8"
     },
     {
       "id": "91",
