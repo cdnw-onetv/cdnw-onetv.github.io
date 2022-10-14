@@ -2082,10 +2082,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "tv8_turkish",
-      "serverName": "Embedded",
-      "channelName": "tv8_turkish",
       "streamingUrlOrigin": "https://www.tv8.com.tr",
       "streamingUrlReferer": "https://www.tv8.com.tr/",
+      "serverName": "EmbeddedWebView",
+      "channelName": "tv8_turkish",
       "url": "https://www.tv8.com.tr/canli-yayin",
       "backupId": "4635"
     },
