@@ -2084,6 +2084,8 @@
       "localImageResource": "tv8_turkish",
       "serverName": "Embedded",
       "channelName": "tv8_turkish",
+      "streamingUrlOrigin": "https://www.tv8.com.tr",
+      "streamingUrlReferer": "https://www.tv8.com.tr/",
       "url": "https://www.tv8.com.tr/canli-yayin",
       "backupId": "4635"
     },
