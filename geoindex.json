@@ -2158,6 +2158,19 @@
       "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=kanal-d-canli-izle-hd"
     },
     {
+      "id": "4635",
+      "title": "TV 8 (Backup)",
+      "title_b_fa": "تی وی ۸ (جایگزین)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "tv8_turkish",
+      "serverName": "Embedded",
+      "channelName": "tv8_turkish_backup",
+      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/tv-8-canli-yayin-izle-15/",
+      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=tv-8-canli-yayin-izle-15"
+    },
+    {
       "id": "628",
       "title": "A2 TV",
       "title_b_fa": "ای تو تی وی",
@@ -5953,19 +5966,6 @@
       "channelName": "showturk_backup",
       "streamingUrlExpireTime": "200",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WqS4qbiqcLw"
-    },
-    {
-      "id": "4635",
-      "title": "TV 8 (Backup)",
-      "title_b_fa": "تی وی ۸ (جایگزین)",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "tv8_turkish",
-      "serverName": "Embedded",
-      "channelName": "tv8_turkish_backup",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/tv-8-canli-yayin-izle-15/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=tv-8-canli-yayin-izle-15"
     },
     {
       "id": "4649",
