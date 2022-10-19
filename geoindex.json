@@ -1172,7 +1172,6 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
       "localImageResource": "tapesh_2_movies",
       "channelName": "tapesh_2_movies",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tapesh_2_movies.png",
@@ -1180,6 +1179,21 @@
       "streamingUrlOrigin": "http://www.elahmad.com",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=T2Movies"
+    },
+    {
+      "id": "101",
+      "title": "Grand Cinema",
+      "title_b_fa": "گراند سینما",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "grand_cinema",
+      "channelName": "grand_cinema",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/grand_cinema.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=GrandCinema"
     },
     {
       "id": "77",
@@ -4000,18 +4014,6 @@
       "backupId": "41096"
     },
     {
-      "id": "1052",
-      "title": "Irankala",
-      "title_b_fa": "ایران کالا",
-      "description": "Business",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_irankala",
-      "httpTimeout": "500",
-      "url": "https://cdnw.telewebion.com/irankala/live/playlist.m3u8",
-      "backupId": "41052"
-    },
-    {
       "id": "1053",
       "title": "Mostanad",
       "title_b_fa": "مستند",
@@ -4094,18 +4096,6 @@
       "httpTimeout": "500",
       "url": "https://cdnw.telewebion.com/salamat/live/playlist.m3u8",
       "backupId": "41058"
-    },
-    {
-      "id": "1059",
-      "title": "Shoma",
-      "title_b_fa": "شما",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_shoma",
-      "httpTimeout": "500",
-      "url": "https://cdnw.telewebion.com/shoma/live/playlist.m3u8",
-      "backupId": "41059"
     },
     {
       "id": "1060",
@@ -5531,21 +5521,6 @@
       "url": "https://sepehr.irib.ir/live"
     },
     {
-      "id": "41052",
-      "title": "Irankala (Backup)",
-      "title_b_fa": "ایران کالا (جایگزین)",
-      "description": "Business",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_irankala",
-      "serverName": "Sepehr",
-      "channelName": "irankala",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
-      "url": "https://sepehr.irib.ir/live",
-      "backupUrl": "https://cdnw.telewebion.com/irankala/live/playlist.m3u8"
-    },
-    {
       "id": "41053",
       "title": "Mostanad (Backup)",
       "title_b_fa": "مستند (جایگزین)",
@@ -5641,20 +5616,6 @@
       "localImageResource": "irib_salamat",
       "serverName": "Sepehr",
       "channelName": "salamat",
-      "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
-      "url": "https://sepehr.irib.ir/live"
-    },
-    {
-      "id": "41059",
-      "title": "Shoma (Backup)",
-      "title_b_fa": "شما (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_shoma",
-      "serverName": "Sepehr",
-      "channelName": "shoma",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
       "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
