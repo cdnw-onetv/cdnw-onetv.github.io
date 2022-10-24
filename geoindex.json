@@ -198,9 +198,24 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "voa_persian",
       "url": "https://voa-ingest.akamaized.net/dash/live/2033877-b/tvmc07/manifest.mpd",
-      "backupUrl": "http://174.91.135.72:60029/dash/live/2033877-b/tvmc07/manifest.mpd",
+      "backupUrl": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
+      "backupId": "4429"
+    },
+    {
+      "id": "90029",
+      "title": "VOA Persian (Proxy)",
+      "title_b_fa": "صدای امریکا",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "voa_persian",
+      "maxBitRate": "900000",
+      "url": "http://174.91.135.72:60029/hls/live/2033876/tvmc07/playlist.m3u8",
+      "url2": "http://174.91.135.72:60029/dash/live/2033877-b/tvmc07/manifest.mpd",
       "backupId": "4429"
     },
     {
