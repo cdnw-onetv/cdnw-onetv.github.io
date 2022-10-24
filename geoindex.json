@@ -405,10 +405,24 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "radio_farda",
       "url": "https://rfe-ingest.akamaized.net/hls/live/2033042/tvmc01/playlist.m3u8",
       "url2": "https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8",
       "backupUrl": "https://rfe-ingest.akamaized.net/dash/live/2035291/axia21/manifest.mpd"
+    },
+    {
+      "id": "900203",
+      "title": "Radio Farda (Proxy)",
+      "title_b_fa": "رادیو فردا",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "radio_farda",
+      "url": "http://174.91.135.72:60009/hls/live/2033042/tvmc01/playlist.m3u8",
+      "url2": "https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8",
+      "backupUrl": "http://174.91.135.72:60009/dash/live/2035291/axia21/manifest.mpd"
     },
     {
       "id": "60",
