@@ -213,7 +213,7 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "voa_persian",
-      "maxBitRate": "900000",
+      "maxBitRate": "1000000",
       "url": "http://174.91.135.72:60029/hls/live/2033876/tvmc07/playlist.m3u8",
       "url2": "http://174.91.135.72:60029/dash/live/2033877-b/tvmc07/manifest.mpd",
       "backupId": "4429"
