@@ -129,7 +129,7 @@
       "maxBitRate": "700000",
       "url": "http://76.64.183.106:20001/live.m3u8",
       "streamingUrlReferer": "https://www.manototv.com/",
-      "backupUrl": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
+      "backupUrl1": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
       "backupId": "40001"
     },
     {
@@ -164,7 +164,7 @@
       "maxBitRate": "700000",
       "url": "http://76.64.183.106:20002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
       "url2": "http://76.64.183.106:20002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
-      "backupUrl": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
+      "backupUrl1": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "backupId": "40002"
     },
     {
