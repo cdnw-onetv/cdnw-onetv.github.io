@@ -1557,57 +1557,6 @@
       "url": "https://tva.tv/channels/Nava"
     },
     {
-      "id": "40001",
-      "title": "Manoto TV (Backup)",
-      "title_b_fa": "من و تو (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "manoto",
-      "localImageResourceNightMode": "manoto_night_mode",
-      "serverName": "EmbeddedWebView",
-      "channelName": "manoto_backup",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=Manoto"
-    },
-    {
-      "id": "40002",
-      "title": "BBC Persian (Backup)",
-      "title_b_fa": "بی بی سی فارسی (جایگزین)",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "bbc_persian",
-      "localImageResourceNightMode": "bbc_persian_night_mode_test",
-      "serverName": "EmbeddedWebView",
-      "channelName": "bbc_persian_backup",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=BBCPersian"
-    },
-    {
-      "id": "40003",
-      "title": "Iran International (Backup)",
-      "title_b_fa": "ایران اینترنشنال (جایگزین)",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "iran_international",
-      "serverName": "EmbeddedWebView",
-      "channelName": "iran_int_backup",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=GLTest"
-    },
-    {
-      "id": "40029",
-      "title": "VOA Persian (Backup)",
-      "title_b_fa": "صدای امریکا (جایگزین)",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "voa_persian",
-      "serverName": "EmbeddedWebView",
-      "channelName": "voa_persian_backup",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=VoA",
-      "backupId": "4429"
-    },
-    {
       "id": "200",
       "title": "Radio Hamrah",
       "title_b_fa": "رادیو همراه",
@@ -5341,6 +5290,57 @@
     }
   ],
   "backup_tv": [
+    {
+      "id": "40001",
+      "title": "Manoto TV (Backup)",
+      "title_b_fa": "من و تو (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "manoto",
+      "localImageResourceNightMode": "manoto_night_mode",
+      "serverName": "EmbeddedWebView",
+      "channelName": "manoto_backup",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=Manoto"
+    },
+    {
+      "id": "40002",
+      "title": "BBC Persian (Backup)",
+      "title_b_fa": "بی بی سی فارسی (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "bbc_persian",
+      "localImageResourceNightMode": "bbc_persian_night_mode_test",
+      "serverName": "EmbeddedWebView",
+      "channelName": "bbc_persian_backup",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=BBCPersian"
+    },
+    {
+      "id": "40003",
+      "title": "Iran International (Backup)",
+      "title_b_fa": "ایران اینترنشنال (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "iran_international",
+      "serverName": "EmbeddedWebView",
+      "channelName": "iran_int_backup",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=GLTest"
+    },
+    {
+      "id": "40029",
+      "title": "VOA Persian (Backup)",
+      "title_b_fa": "صدای امریکا (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "voa_persian",
+      "serverName": "EmbeddedWebView",
+      "channelName": "voa_persian_backup",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=VoA",
+      "backupId": "4429"
+    },
     {
       "id": "4429",
       "title": "VOA Persian (Backup 2)",
