@@ -112,7 +112,8 @@
       "localImageResourceNightMode": "manoto_night_mode",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
       "streamingUrlReferer": "https://www.manototv.com/",
-      "backupUrl": "http://76.66.107.226:20001/live.m3u8"
+      "backupUrl": "http://76.66.107.226:20001/live.m3u8",
+      "backupId": "40001"
     },
     {
       "id": "9001",
@@ -128,7 +129,8 @@
       "maxBitRate": "700000",
       "url": "http://76.66.107.226:20001/live.m3u8",
       "streamingUrlReferer": "https://www.manototv.com/",
-      "backupUrl": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8"
+      "backupUrl": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
+      "backupId": "40001"
     },
     {
       "id": "2",
@@ -145,7 +147,8 @@
       "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "backupUrl": "http://76.66.107.226:20002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
       "backupUrl2": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv10/b=1604032/main.m3u8",
-      "url2": "https://www.youtube.com/embed/TE5d4omulHg"
+      "url2": "https://www.youtube.com/embed/TE5d4omulHg",
+      "backupId": "40002"
     },
     {
       "id": "9002",
@@ -161,7 +164,8 @@
       "maxBitRate": "700000",
       "url": "http://76.66.107.226:20002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
       "url2": "http://76.66.107.226:20002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
-      "backupUrl": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd"
+      "backupUrl": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
+      "backupId": "40002"
     },
     {
       "id": "3",
@@ -175,7 +179,8 @@
       "localImageResource": "iran_international",
       "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
       "backupUrl": "https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b341000.m3u8",
-      "backupUrl2": "https://live.playstop.me/1816184091/chunklist_b341000.m3u8"
+      "backupUrl2": "https://live.playstop.me/1816184091/chunklist_b341000.m3u8",
+      "backupId": "40003"
     },
     {
       "id": "9003",
@@ -189,7 +194,8 @@
       "localImageResource": "iran_international",
       "maxBitRate": "900000",
       "url": "http://76.66.107.226:20003/LS-63503-4/index.m3u8",
-      "backupUrl": "http://76.66.107.226:20003/LS-63503-4/chunklist_b341000.m3u8"
+      "backupUrl": "http://76.66.107.226:20003/LS-63503-4/chunklist_b341000.m3u8",
+      "backupId": "40003"
     },
     {
       "id": "29",
@@ -202,7 +208,7 @@
       "localImageResource": "voa_persian",
       "url": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
       "url2": "https://voa-ingest.akamaized.net/dash/live/2033877-b/tvmc07/manifest.mpd",
-      "backupId": "4429"
+      "backupId": "40029"
     },
     {
       "id": "90029",
@@ -216,7 +222,7 @@
       "maxBitRate": "1000000",
       "url": "http://76.66.107.226:20029/hls/live/2033876/tvmc07/playlist.m3u8",
       "url2": "http://76.66.107.226:20029/dash/live/2033877-b/tvmc07/manifest.mpd",
-      "backupId": "4429"
+      "backupId": "40029"
     },
     {
       "id": "4",
@@ -1549,6 +1555,57 @@
       "serverName": "EmbeddedWebView",
       "channelName": "tva_nava",
       "url": "https://tva.tv/channels/Nava"
+    },
+    {
+      "id": "40001",
+      "title": "Manoto TV (Backup)",
+      "title_b_fa": "من و تو (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "manoto",
+      "localImageResourceNightMode": "manoto_night_mode",
+      "serverName": "EmbeddedWebView",
+      "channelName": "manoto_backup",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=Manoto"
+    },
+    {
+      "id": "40002",
+      "title": "BBC Persian (Backup)",
+      "title_b_fa": "بی بی سی فارسی (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "bbc_persian",
+      "localImageResourceNightMode": "bbc_persian_night_mode_test",
+      "serverName": "EmbeddedWebView",
+      "channelName": "bbc_persian_backup",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=BBCPersian"
+    },
+    {
+      "id": "40003",
+      "title": "Iran International (Backup)",
+      "title_b_fa": "ایران اینترنشنال (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "iran_international",
+      "serverName": "EmbeddedWebView",
+      "channelName": "iran_int_backup",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=GLTest"
+    },
+    {
+      "id": "40029",
+      "title": "VOA Persian (Backup)",
+      "title_b_fa": "صدای امریکا (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "voa_persian",
+      "serverName": "EmbeddedWebView",
+      "channelName": "voa_persian_backup",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=VoA",
+      "backupId": "4429"
     },
     {
       "id": "200",
@@ -5286,8 +5343,8 @@
   "backup_tv": [
     {
       "id": "4429",
-      "title": "VOA Persian (Backup)",
-      "title_b_fa": "صدای امریکا (جایگزین)",
+      "title": "VOA Persian (Backup 2)",
+      "title_b_fa": "صدای امریکا (جایگزین ۲)",
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
