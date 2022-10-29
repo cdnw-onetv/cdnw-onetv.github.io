@@ -1586,8 +1586,16 @@
       "language_code": "fa",
       "localImageResource": "radio_sarcheshmeh",
       "url": "http://sarcheshmeh.icdndhcp.com:18452/stream?type=mp3"
+    },
+    {
+      "id": "2207",
+      "title": "OneTV",
+      "title_b_fa": "وان تی وی",
+      "localImageResource": "app_banner_transparent_black",
+      "localImageResourceNightMode": "app_banner_transparent",
+      "description": "",
+      "url": "https://dev-onetv.github.io/download?WebView=2"
     }
-
   ],
   "kurdish_tv": [
     {
@@ -2019,30 +2027,6 @@
     }
   ],
   "turkish_tv": [
-    {
-      "id": "20222",
-      "title": "OneTV",
-      "title_b_tr": "OneTV",
-      "country_code": "TR",
-      "language_code": "tr",
-      "geo_restrictions": "",
-      "localImageResource": "important_notice_tr",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/important_notice_tr.png",
-      "url": "https://dev-onetv.github.io/leave?WebView=1",
-      "backupUrl": "https://dev-onetv.github.io/leave?webview=1"
-    },
-    {
-      "id": "20223",
-      "title": "OneTV",
-      "title_b_tr": "OneTV",
-      "country_code": "TR",
-      "language_code": "tr",
-      "geo_restrictions": "",
-      "localImageResource": "important_notice_tr",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/important_notice_tr.png",
-      "url": "https://dev-onetv.github.io/leave?WebView=2",
-      "backupUrl": "https://dev-onetv.github.io/leave?webview=1"
-    },
     {
       "id": "622",
       "title": "ATV",
@@ -3310,28 +3294,6 @@
     }
   ],
   "arabic_tv": [
-    {
-      "id": "20224",
-      "title": "OneTV",
-      "title_b_tr": "OneTV",
-      "language_code": "ar",
-      "geo_restrictions": "",
-      "localImageResource": "important_notice_ar",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/important_notice_ar.png",
-      "url": "https://dev-onetv.github.io/leave_ar?WebView=1",
-      "backupUrl": "https://dev-onetv.github.io/leave_ar?webview=1"
-    },
-    {
-      "id": "20225",
-      "title": "OneTV",
-      "title_b_tr": "OneTV",
-      "language_code": "ar",
-      "geo_restrictions": "",
-      "localImageResource": "important_notice_ar",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/important_notice_ar.png",
-      "url": "https://dev-onetv.github.io/leave_ar?WebView=2",
-      "backupUrl": "https://dev-onetv.github.io/leave_ar?webview=1"
-    },
     {
       "id": "1100",
       "title": "BBC Arabic",
