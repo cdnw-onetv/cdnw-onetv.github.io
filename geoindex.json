@@ -1591,10 +1591,21 @@
       "id": "2207",
       "title": "OneTV",
       "title_b_fa": "وان تی وی",
+      "geo_restrictions": "!IR",
       "localImageResource": "app_banner_transparent_black",
       "localImageResourceNightMode": "app_banner_transparent",
       "description": "",
       "url": "https://dev-onetv.github.io/download?WebView=2"
+    },
+    {
+      "id": "2208",
+      "title": "OneTV",
+      "title_b_fa": "وان تی وی",
+      "geo_restrictions": "@IR",
+      "localImageResource": "app_banner_transparent_black",
+      "localImageResourceNightMode": "app_banner_transparent",
+      "description": "",
+      "url": "https://dev-onetv.github.io/download/index_fa?WebView=2"
     }
   ],
   "kurdish_tv": [
