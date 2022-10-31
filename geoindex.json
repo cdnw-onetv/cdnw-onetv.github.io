@@ -166,7 +166,7 @@
       "localImageResourceNightMode": "bbc_persian_night_mode_test",
       "maxBitRate": "700000",
       "url": "http://76.66.107.216:20002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
-      "backupUrl": "http://76.66.107.216:20002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8", 
+      "backupUrl": "http://76.66.107.216:20002/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
       "backupId": "40002"
     },
     {
@@ -194,7 +194,7 @@
       "geo_restrictions": "@IR",
       "favorite": "Yes",
       "localImageResource": "iran_international",
-      "maxBitRate": "900000",
+      "maxBitRate": "700000",
       "url": "http://76.66.107.216:20003/LS-63503-4/index.m3u8",
       "backupUrl": "http://76.66.107.216:20003/LS-63503-4/chunklist_b341000.m3u8",
       "backupId": "40003"
