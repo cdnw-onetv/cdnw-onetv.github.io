@@ -5812,7 +5812,21 @@
       "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "irib_3_backup",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBChannel3"
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBChannel3",
+      "backupID": "121022"
+    },
+    {
+      "id": "121022",
+      "title": "IRIB 3 (Backup 4)",
+      "title_b_fa": "شبکه سه (جایگزین ۴)",
+      "localImageResource": "irib_3",
+      "description": "General",
+      "tags": "Sport",
+      "country_code": "IR",
+      "language_code": "fa",
+      "channelName": "irib_3_backup_4",
+      "serverName": "EmbeddedWebView",
+      "url": "https://tva.tv/channels/IRIB-TV3"
     },
     {
       "id": "2027",
@@ -5837,7 +5851,20 @@
       "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "varzesh_backup",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBVarzesh"
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBVarzesh",
+      "backupID": "121026"
+    },
+    {
+      "id": "121026",
+      "title": "Varzesh (Backup 4)",
+      "title_b_fa": "ورزش (جایگزین ۴۳)",
+      "localImageResource": "irib_varzesh",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "channelName": "varzesh_backup_4",
+      "serverName": "EmbeddedWebView",
+      "url": "https://tva.tv/channels/Varzesh"
     },
     {
       "id": "99",
