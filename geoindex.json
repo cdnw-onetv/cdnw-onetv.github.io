@@ -5798,7 +5798,7 @@
       "language_code": "fa",
       "streamingUrlReferer": "https://www.aionet.ir/",
       "url": "https://live.aionet.ir/hls/tv3/tv3.m3u8",
-      "backupID": "81022"
+      "backupId": "81022"
     },
     {
       "id": "81022",
@@ -5814,7 +5814,7 @@
       "channelName": "irib_3_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBChannel3",
-      "backupID": "121022"
+      "backupId": "121022"
     },
     {
       "id": "121022",
@@ -5839,7 +5839,7 @@
       "language_code": "fa",
       "streamingUrlReferer": "https://www.aionet.ir/",
       "url": "https://live.aionet.ir/hls/varzesh/varzesh.m3u8",
-      "backupID": "81026"
+      "backupId": "81026"
     },
     {
       "id": "81026",
@@ -5854,7 +5854,7 @@
       "channelName": "varzesh_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBVarzesh",
-      "backupID": "121026"
+      "backupId": "121026"
     },
     {
       "id": "121026",
