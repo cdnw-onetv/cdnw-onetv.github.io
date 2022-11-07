@@ -5325,7 +5325,7 @@
       "localImageResource": "iran_international",
       "serverName": "EmbeddedWebView",
       "channelName": "iran_int_backup",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=GLTest"
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IranInternational"
     },
     {
       "id": "40029",
@@ -5809,8 +5809,6 @@
       "tags": "Sport",
       "country_code": "IR",
       "language_code": "fa",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "irib_3_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBChannel3",
@@ -5849,8 +5847,6 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "varzesh_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBVarzesh",
