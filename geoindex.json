@@ -372,7 +372,7 @@
       "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8",
       "backupUrl": "http://142.114.91.176:20015/tapesh/playlist1/index.m3u8",
       "backupUrl1": "http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8",
-      "backupId": "4015"
+      "backupId": "40015"
     },
     {
       "id": "90015",
@@ -383,7 +383,8 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "tapesh",
-      "url": "http://142.114.91.176:20015/tapesh/playlist1/index.m3u8"
+      "url": "http://142.114.91.176:20015/tapesh/playlist1/index.m3u8",
+      "backupId": "40015"
     },
     {
       "id": "18",
@@ -397,8 +398,9 @@
       "streamingUrlOrigin": "https://iframes.5centscdn.com",
       "streamingUrlReferer": "https://iframes.5centscdn.com",
       "url": "https://livestream.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/playlist.m3u8",
-      "backupUrl": "http://142.114.91.176:20018/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
-      "backupUrl2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8"
+      "backupUrl1": "http://142.114.91.176:20018/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
+      "backupUrl2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
+      "backupId": "40018"
     },
     {
       "id": "90018",
@@ -412,8 +414,9 @@
       "streamingUrlOrigin": "https://iframes.5centscdn.com",
       "streamingUrlReferer": "https://iframes.5centscdn.com",
       "url": "http://142.114.91.176:20018/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
-      "backupUrl": "https://livestream.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/playlist.m3u8",
-      "backupUrl2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8"
+      "backupUrl1": "https://livestream.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/playlist.m3u8",
+      "backupUrl2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
+      "backupId": "40018"
     },
     {
       "id": "61",
@@ -5388,7 +5391,7 @@
       "backupUrl": "http://142.114.91.176:20042/hls/caltextv.m3u8"
     },
     {
-      "id": "4015",
+      "id": "40015",
       "title": "Tapesh TV (Backup)",
       "title_b_fa": "تپش (جایگزین)",
       "description": "General",
@@ -5400,6 +5403,18 @@
       "channelName": "tapesh_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=TAPESH"
+    },
+    {
+      "id": "40018",
+      "title": "ITN (Backup)",
+      "title_b_fa": "آی تی ان (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "itn",
+      "channelName": "itn_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=ITN"
     },
     {
       "id": "4096",
