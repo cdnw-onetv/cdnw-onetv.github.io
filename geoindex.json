@@ -23,7 +23,7 @@
     {
       "id": "2019",
       "title": "download_url_backup",
-      "description": "http://onetv.app:20101/geoindex.json"
+      "description": "https://onetv.app:20102/geoindex.json"
     },
     {
       "id": "2004",
@@ -297,7 +297,7 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
+      "geo_restrictions": "",
       "localImageResource": "ebc_music",
       "url": "https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8",
       "backupUrl": "http://onetv.app:20017/EBC1/EBC1/playlist.m3u8"
@@ -309,7 +309,7 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "ebc_music",
       "url": "http://onetv.app:20017/EBC1/EBC1/playlist.m3u8"
     },
@@ -528,6 +528,7 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "didar_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/didar_tv.png",
       "url": "http://51.210.227.132/hls/stream.m3u8"
@@ -579,6 +580,7 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "vox_2",
       "url": "http://51.210.199.9/hls/stream.m3u8"
     },
@@ -1988,17 +1990,6 @@
       "url": "https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8"
     },
     {
-      "id": "335",
-      "title": "Sumbul TV",
-      "title_b_fa": "سومبل",
-      "description": "Music",
-      "country_code": "TR",
-      "language_code": "ku",
-      "localImageResource": "sumbul_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sumbul_tv.png",
-      "url": "http://dengezelaltv65.ozelip.com:26516/denge/denge/playlist.m3u8"
-    },
-    {
       "id": "322",
       "title": "Med Muzik",
       "title_b_fa": "مد موزیک",
@@ -2051,6 +2042,7 @@
       "title_b_fa": "سیهان",
       "description": "General",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "cihan_tv",
       "url": "http://cdn.dwasat.com:1935/live/cihann/playlist.m3u8"
     },
@@ -6000,8 +5992,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/ronahi_tv.png",
       "channelName": "ronahi_tv_backup",
       "serverName": "EmbeddedWebView",
-      "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.elahmad.com/tv/iran-tv-online.php?id=Ronahi"
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=Ronahi"
     },
     {
       "id": "4315",
