@@ -2083,10 +2083,24 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
+      "geo_restrictions": "",
       "localImageResource": "fox_turkey",
       "streamingUrlExpireTime": "200",
       "channelName": "fox_turkey",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live",
+      "backupId": "705"
+    },
+    {
+      "id": "4601",
+      "title": "Fox (TGRT)",
+      "title_b_fa": "فاکس",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "fox_turkey",
+      "channelName": "fox_turkey_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "https://tr.canlitv.services/fox-tv-canli-75",
       "backupId": "705"
     },
     {
@@ -2206,8 +2220,7 @@
       "localImageResource": "fox_turkey",
       "serverName": "Embedded",
       "channelName": "fox_turkey",
-      "url": "https://www.fox.com.tr/canli-yayin",
-      "backupId": "4601"
+      "url": "https://www.fox.com.tr/canli-yayin"
     },
     {
       "id": "4602",
@@ -6019,18 +6032,6 @@
       "serverName": "EmbeddedWebView",
       "channelName": "a_tv_backup_2",
       "url": "https://www.canlitv.me/atv-canli-kesintisiz"
-    },
-    {
-      "id": "4601",
-      "title": "Fox (TGRT) (Backup 2)",
-      "title_b_fa": "فاکس (جایگزین)",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "fox_turkey",
-      "channelName": "fox_turkey_backup",
-      "serverName": "EmbeddedWebView",
-      "url": "https://tr.canlitv.services/fox-tv-canli-75"
     },
     {
       "id": "4603",
