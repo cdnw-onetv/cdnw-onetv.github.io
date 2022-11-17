@@ -2202,9 +2202,9 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "a_tv_backup",
+      "localImageResource": "a_tv",
       "serverName": "Embedded",
-      "channelName": "a_tv",
+      "channelName": "a_tv_backup",
       "streamingUrlReferer": "https://www.atv.com.tr/",
       "url": "https://securevideotoken.tmgrup.com.tr/webtv/secure?289881&url=https%3A%2F%2Ftrkvz.daioncdn.net%2Fatv%2Fatv.m3u8%3Fce%3D3%26app%3Dd1ce2d40-5256-4550-b02e-e73c185a314e",
       "backupId": "4622"
