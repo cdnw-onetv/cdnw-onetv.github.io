@@ -2072,6 +2072,7 @@
       "serverName": "YouTubeHls",
       "channelName": "a_tv",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
+      "maxBitRate": "3000000",
       "backupId": "704"
     },
     {
@@ -2187,7 +2188,7 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "a_tv",
+      "localImageResource": "a_tv_backup",
       "serverName": "Embedded",
       "channelName": "a_tv",
       "streamingUrlReferer": "https://www.atv.com.tr/",
@@ -6016,8 +6017,8 @@
       "language_code": "tr",
       "localImageResource": "a_tv",
       "serverName": "EmbeddedWebView",
-      "channelName": "a_tv_backup",
-      "url": "https://ecanlitvizle.sitecozum.net/atv-tv-canli-hd-izle-10/"
+      "channelName": "a_tv_backup_2",
+      "url": "https://www.canlitv.me/atv-canli-kesintisiz"
     },
     {
       "id": "4601",
@@ -6029,7 +6030,7 @@
       "localImageResource": "fox_turkey",
       "channelName": "fox_turkey_backup",
       "serverName": "EmbeddedWebView",
-      "url": "https://tr.canlitv.services/fox-tv-1/1"
+      "url": "https://tr.canlitv.services/fox-tv-canli-75"
     },
     {
       "id": "4603",
@@ -6042,7 +6043,7 @@
       "serverName": "YouTubeHls",
       "channelName": "showtv_backup",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/UwfIxnYNKlM"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GpjQbkAEJDk"
     },
     {
       "id": "4604",
@@ -6068,7 +6069,7 @@
       "serverName": "YouTubeHls",
       "channelName": "showturk_backup",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WqS4qbiqcLw"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/NaQ67juPhKw"
     },
     {
       "id": "4649",
