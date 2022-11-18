@@ -5337,7 +5337,22 @@
       "localImageResourceNightMode": "manoto_night_mode",
       "serverName": "EmbeddedWebView",
       "channelName": "manoto_backup",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=Manoto"
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=Manoto",
+      "backupId": "80001"
+    },
+    {
+      "id": "80001",
+      "title": "Manoto TV (Backup 2)",
+      "title_b_fa": "من و تو (جایگزین ۲)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "manoto",
+      "localImageResourceNightMode": "manoto_night_mode",
+      "serverName": "Embedded",
+      "channelName": "manoto_backup_2",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/manoto-live",
+      "maxBitRate": "900000"
     },
     {
       "id": "40002",
@@ -5350,7 +5365,22 @@
       "localImageResourceNightMode": "bbc_persian_night_mode_test",
       "serverName": "EmbeddedWebView",
       "channelName": "bbc_persian_backup",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=BBCPersian"
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=BBCPersian",
+      "backupId": "80002"
+    },
+    {
+      "id": "80002",
+      "title": "BBC Persian (Backup 2)",
+      "title_b_fa": "بی بی سی فارسی (جایگزین ۲)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "bbc_persian",
+      "localImageResourceNightMode": "bbc_persian_night_mode_test",
+      "serverName": "Embedded",
+      "channelName": "bbc_persian_backup_2",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-news-tv/bbc-farsi-live-tv",
+      "maxBitRate": "900000"
     },
     {
       "id": "40003",
