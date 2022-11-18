@@ -53,7 +53,7 @@
     {
       "id": "2000",
       "title": "sepehr_preload_channels",
-      "description": "41022,41026"
+      "description": "41022,41026,41029"
     },
     {
       "id": "2010",
@@ -3993,7 +3993,7 @@
       "backupId": "81026"
     },
     {
-      "id": "41026",
+      "id": "41029",
       "title": "IRIB UHD",
       "title_b_fa": "شبکه فراتر",
       "description": "General",
