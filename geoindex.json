@@ -4005,6 +4005,7 @@
       "serverName": "Sepehr",
       "channelName": "uhd",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -6011,7 +6012,8 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sport.png",
       "serverName": "Embedded",
       "channelName": "persian_sport_backup",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports",
+      "httpTimeout": "1000"
     },
     {
       "id": "4302",
