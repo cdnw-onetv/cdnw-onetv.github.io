@@ -5978,7 +5978,7 @@
     {
       "id": "121026",
       "title": "Varzesh (Backup 4)",
-      "title_b_fa": "ورزش (جایگزین ۴۳)",
+      "title_b_fa": "ورزش (جایگزین ۴)",
       "localImageResource": "irib_varzesh",
       "description": "Sports",
       "country_code": "IR",
@@ -6014,9 +6014,9 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sport.png",
       "serverName": "Embedded",
       "channelName": "persian_sport_backup",
-      "streamingUrlReferer": "https://www.aparatchi.com/",
-      "streamingUrlOrigin": "https://www.aparatchi.com",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports"
+      "streamingUrlReferer": "https://www.persianleague.com/",
+      "streamingUrlOrigin": "https://www.persianleague.com",
+      "url": "https://www.persianleague.com/iran-live-tv/video/77-sports-9-live"
     },
     {
       "id": "4302",
