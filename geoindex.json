@@ -5997,6 +5997,8 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_sport",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sport.png",
+      "streamingUrlReferer": "http://sport.persiana.live/",
+      "streamingUrlOrigin": "http://sport.persiana.live",
       "url": "http://51.210.227.164/hls/stream.m3u8",
       "backupId": "40099"
     },
@@ -6012,7 +6014,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sport.png",
       "serverName": "Embedded",
       "channelName": "persian_sport_backup",
-      "streamingUrlReferer": "https://www.aparatchi.com",
+      "streamingUrlReferer": "https://www.aparatchi.com/",
       "streamingUrlOrigin": "https://www.aparatchi.com",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports"
     },
