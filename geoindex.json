@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "35"
+      "description": "36"
     },
     {
       "id": "2001",
@@ -6004,7 +6004,8 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sport.png",
       "streamingUrlReferer": "http://sport.persiana.live/",
       "streamingUrlOrigin": "http://sport.persiana.live",
-      "url": "http://51.210.227.164/hls/stream.m3u8",
+      "url": "http://51.254.225.27/hls/stream.m3u8",
+      "url2": "http://51.210.227.164/hls/stream.m3u8",
       "backupId": "40099"
     },
     {
