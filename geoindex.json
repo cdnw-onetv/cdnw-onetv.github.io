@@ -436,6 +436,18 @@
       "url": "http://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
     },
     {
+      "id": "20005",
+      "title": "PMC (Test)",
+      "title_b_fa": "پی ام سی (آزمایشی)",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "pmc",
+      "url": "http://onetv.app:20010/pmc/index.m3u8",
+      "maxBitRate": "300000",
+      "backupId": "40005"
+    },
+    {
       "id": "40005",
       "title": "PMC (Backup)",
       "title_b_fa": "پی ام سی (جایگزین)",
@@ -625,7 +637,7 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!TR,UA",
+      "geo_restrictions": "",
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
       "url": "http://onetv.app:20010/gembollywood/index.m3u8",
