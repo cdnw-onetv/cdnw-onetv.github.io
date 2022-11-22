@@ -436,7 +436,7 @@
       "url": "http://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
     },
     {
-      "id": "20005",
+      "id": "40005",
       "title": "PMC (Test)",
       "title_b_fa": "پی ام سی (آزمایشی)",
       "description": "Music",
@@ -445,10 +445,10 @@
       "localImageResource": "pmc",
       "url": "http://onetv.app:20010/pmc/index.m3u8",
       "maxBitRate": "300000",
-      "backupId": "40005"
+      "backupId": "60005"
     },
     {
-      "id": "40005",
+      "id": "60005",
       "title": "PMC (Backup)",
       "title_b_fa": "پی ام سی (جایگزین)",
       "description": "Music",
