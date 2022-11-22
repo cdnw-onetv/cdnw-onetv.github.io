@@ -593,6 +593,32 @@
       "url": "http://51.210.199.9/hls/stream.m3u8"
     },
     {
+      "id": "40008",
+      "title": "Gem TV (Test)",
+      "title_b_fa": "جم تی وی (آزمایشی)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!TR,UA",
+      "localImageResource": "gem_tv",
+      "localImageResourceNightMode": "gem_tv_night_mode",
+      "url": "http://onetv.app:20010/gem/index.m3u8",
+      "maxBitRate": "300000"
+    },
+    {
+      "id": "40010",
+      "title": "Gem Series (Test)",
+      "title_b_fa": "جم سریز (آزمایشی)",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!TR,UA",
+      "localImageResource": "gem_series",
+      "localImageResourceNightMode": "gem_series_night_mode",
+      "url": "http://onetv.app:20010/gemseries/index.m3u8",
+      "maxBitRate": "300000"
+    },
+    {
       "id": "8",
       "title": "Gem TV",
       "favorite": "Yes",
