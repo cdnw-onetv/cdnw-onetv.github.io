@@ -181,6 +181,7 @@
       "favorite": "Yes",
       "localImageResource": "iran_international",
       "maxBitRate": "2000000",
+      "httpTimeout": "2000",
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
       "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
