@@ -3968,6 +3968,20 @@
       "backupId": "2023"
     },
     {
+      "id": "2023",
+      "title": "IRIB 3 (Backup 2)",
+      "title_b_fa": "شبکه سه (جایگزین ۲)",
+      "title_b_tr": "IRIB 3 (Backup 2), Sport",
+      "localImageResource": "irib_3",
+      "description": "General",
+      "tags": "Sport",
+      "country_code": "IR",
+      "language_code": "fa",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://live.aionet.ir/hls/tv3/tv3.m3u8",
+      "backupId": "81022"
+    },
+    {
       "id": "1023",
       "title": "IRIB 4",
       "title_b_fa": "شبکه چهار",
@@ -4033,6 +4047,18 @@
       "httpTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupId": "2027"
+    },
+    {
+      "id": "2027",
+      "title": "Varzesh (Backup 2)",
+      "title_b_fa": "ورزش (جایگزین ۲)",
+      "localImageResource": "irib_varzesh",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://live.aionet.ir/hls/varzesh/varzesh.m3u8",
+      "backupId": "81026"
     },
     {
       "id": "41029",
@@ -5965,20 +5991,6 @@
       "url": "https://sepehr.irib.ir/live"
     },
     {
-      "id": "2023",
-      "title": "IRIB 3 (Backup 2)",
-      "title_b_fa": "شبکه سه (جایگزین ۲)",
-      "title_b_tr": "IRIB 3 (Backup 2), Sport",
-      "localImageResource": "irib_3",
-      "description": "General",
-      "tags": "Sport",
-      "country_code": "IR",
-      "language_code": "fa",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://live.aionet.ir/hls/tv3/tv3.m3u8",
-      "backupId": "81022"
-    },
-    {
       "id": "81022",
       "title": "IRIB 3 (Backup 3)",
       "title_b_fa": "شبکه سه (جایگزین ۳)",
@@ -6004,18 +6016,6 @@
       "channelName": "irib_3_backup_4",
       "serverName": "EmbeddedWebView",
       "url": "https://tva.tv/channels/IRIB-TV3"
-    },
-    {
-      "id": "2027",
-      "title": "Varzesh (Backup 2)",
-      "title_b_fa": "ورزش (جایگزین ۲)",
-      "localImageResource": "irib_varzesh",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://live.aionet.ir/hls/varzesh/varzesh.m3u8",
-      "backupId": "81026"
     },
     {
       "id": "81026",
