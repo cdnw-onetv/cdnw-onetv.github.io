@@ -6056,7 +6056,7 @@
       "streamingUrlOrigin": "http://sport.persiana.live",
       "url": "http://51.254.225.27/hls/stream.m3u8",
       "url2": "http://51.210.227.164/hls/stream.m3u8",
-      "backupId": "40099"
+      "backupId": "80099"
     },
     {
       "id": "40099",
@@ -6065,7 +6065,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
+      "geo_restrictions": "",
       "localImageResource": "persiana_sport",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sport.png",
       "serverName": "Embedded",
