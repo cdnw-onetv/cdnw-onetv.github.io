@@ -3948,7 +3948,7 @@
       "localImageResource": "irib_3",
       "httpTimeout": "1000",
       "url": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8",
-      "backupId": "41022"
+      "backupId": "2023"
     },
     {
       "id": "41022",
@@ -4030,7 +4030,7 @@
       "localImageResourceNightMode": "irib_varzesh_night_mode",
       "httpTimeout": "1000",
       "url": "https://cdnw.telewebion.com/varzesh/live/playlist.m3u8",
-      "backupId": "41026"
+      "backupId": "2027"
     },
     {
       "id": "41026",
