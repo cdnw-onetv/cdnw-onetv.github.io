@@ -4080,6 +4080,22 @@
       "url": "https://sepehr.irib.ir/live"
     },
     {
+      "id": "90041029",
+      "title": "IRIB UHD",
+      "title_b_fa": "شبکه فراتر",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "",
+      "tags": "Sport,4k,faratar,پیشران",
+      "localImageResource": "irib_uhd",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/irib_uhd.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "irib_uhd",
+      "streamingUrlReferer": "https://sepehr.irib.ir/",
+      "url": "https://sepehr.irib.ir/live"
+    },
+    {
       "id": "1027",
       "title": "Tamasha",
       "title_b_fa": "تماشا",
