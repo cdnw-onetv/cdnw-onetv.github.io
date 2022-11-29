@@ -6136,7 +6136,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!FR,UA,QA",
+      "geo_restrictions": "!FR,UA,QA,CH",
       "localImageResource": "persiana_sport",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sport.png",
       "url": "http://onetv.app:20101/persiana_sport/index.m3u8"
