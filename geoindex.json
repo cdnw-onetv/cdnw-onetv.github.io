@@ -6039,19 +6039,7 @@
       "streamingUrlReferer": "https://www.persianleague.com/",
       "streamingUrlOrigin": "https://www.persianleague.com",
       "url": "https://www.persianleague.com/iran-live-tv/video/11-irib-3",
-      "backupId": "201022"
-    },
-    {
-      "id": "201022",
-      "title": "IRIB 3 (Test)",
-      "title_b_fa": "شبکه سه (آزمایشی)",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA,QA,CH",
-      "localImageResource": "irib_3",
-      "url": "http://onetv.app:20101/irib3/index.m3u8",
-      "backupUrl": "http://onetv.app:20101/persiana_sport/index.m3u8"
+      "backupId": "161022"
     },
     {
       "id": "161022",
