@@ -4870,6 +4870,20 @@
       "backupUrl": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master4.m3u8"
     },
     {
+      "id": "528",
+      "title": "CBC News Explore",
+      "title_b_fa": "سی بی سی نیوز اکسپلور",
+      "description": "News",
+      "country_code": "CA",
+      "language_code": "en",
+      "geo_restrictions": "@CA",
+      "localImageResource": "cbc_news_explore",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_news_explore.png",
+      "streamingUrlReferer": "https://www.cbc.ca/player/play/2049722435757",
+      "streamingUrlOrigin": "https://www.cbc.ca",
+      "url": "https://streamer.cbcrc.ca/prod/gem/cbc-news/hls/master.m3u8"
+    },
+    {
       "id": "503",
       "title": "Global News",
       "title_b_fa": "گلوبال نیوز",
