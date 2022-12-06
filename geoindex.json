@@ -115,9 +115,9 @@
       "favorite": "Yes",
       "localImageResource": "manoto",
       "localImageResourceNightMode": "manoto_night_mode",
+      "streamingUrlReferer": "https://www.manototv.com/",
       "httpTimeout": "1000",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
-      "streamingUrlReferer": "https://www.manototv.com/",
       "backupUrl": "https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8",
       "backupId": "40001"
     },
@@ -132,10 +132,11 @@
       "favorite": "Yes",
       "localImageResource": "manoto",
       "localImageResourceNightMode": "manoto_night_mode",
+      "streamingUrlReferer": "https://www.manototv.com/",
       "maxBitRate": "700000",
       "httpTimeout": "1000",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
-      "streamingUrlReferer": "https://www.manototv.com/",
+      "backupUrl": "https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8",
       "backupUrl2": "http://onetv.app:20001/live_500.m3u8",
       "backupId": "40001"
     },
