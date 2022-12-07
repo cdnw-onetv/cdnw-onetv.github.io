@@ -715,6 +715,7 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "gem_series",
+      "localImageResourceNightMode": "gem_series_night_mode",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemseries/index.m3u8"
     },
