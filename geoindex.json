@@ -1369,6 +1369,7 @@
       "language_code": "fa",
       "localImageResource": "kalemeh_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/kalemeh_tv.png",
+      "maxBitRate": "1000000",
       "url": "https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8",
       "backupUrl": "http://51.210.199.37/hls/stream.m3u8"
     },
