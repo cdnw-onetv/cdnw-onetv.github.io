@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "40"
+      "description": "41"
     },
     {
       "id": "2001",
@@ -209,9 +209,10 @@
       "httpTimeout": "2000",
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
-      "url2": "http://onetv.app:20003/LS-63503-4/index.m3u8",
-      "url": "http://onetv.app:20003/LS-63503-4/chunklist_b341000.m3u8",
-      "backupUrl": "http://onetv.app:20003/LS-63503-4/chunklist_b341000.m3u8",
+      "url": "http://onetv.app:20003/1816184091/index.m3u8",
+      "backupUrl": "http://onetv.app:20003/1816184091/chunklist_b341000.m3u8",
+      "url1": "http://onetv.app:20003/LS-63503-4/chunklist_b341000.m3u8",
+      "backupUrl1": "http://onetv.app:20003/LS-63503-4/chunklist_b341000.m3u8",
       "backupId": "40003"
     },
     {
