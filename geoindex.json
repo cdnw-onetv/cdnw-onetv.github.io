@@ -1416,6 +1416,20 @@
       "url": "http://51.210.199.53/hls/stream.m3u8"
     },
     {
+      "id": "104",
+      "title": "Iran Aryaee",
+      "title_b_fa": "ایران آریایی",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "iran_aryaee",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_aryaee.png",
+      "channelName": "channel_yek",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IranEAryaee",
+      "backupId": "40104"
+    },
+    {
       "id": "94",
       "title": "Channel One TV",
       "title_b_fa": "کانال یک",
@@ -1435,7 +1449,9 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "royal_time_tv",
-      "url": "https://iptv.rtimetv.com/rtimetv/playlist1/index.m3u8"
+      "channelName": "royal_time",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=RoyalTimeTV"
     },
     {
       "id": "71",
@@ -1624,6 +1640,7 @@
       "title_b_fa": "آیو آرپا",
       "description": "General",
       "country_code": "IR",
+      "language_code": "fa",
       "language_code": "fa",
       "localImageResource": "aio_arpa",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_arpa.png",
@@ -5679,6 +5696,20 @@
       "channelName": "khatereh_tv",
       "serverName": "EmbeddedWebView",
       "url": "https://khatereh.online/"
+    },
+    {
+      "id": "40104",
+      "title": "Iran Aryaee (Backup)",
+      "title_b_fa": "ایران آریایی (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "",
+      "localImageResource": "iran_aryaee",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_aryaee.png",
+      "channelName": "channel_yek",
+      "serverName": "Embedded",
+      "url": "https://livestream.com/iranaryaeetv/events/3752117"
     },
     {
       "id": "58",
