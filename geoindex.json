@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "45"
+      "description": "46"
     },
     {
       "id": "2001",
@@ -6122,11 +6122,9 @@
       "language_code": "fa",
       "geo_restrictions": "!QA",
       "localImageResource": "irib_3",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "irib_3_backup_4",
-      "streamingUrlReferer": "https://www.persianleague.com/",
-      "streamingUrlOrigin": "https://www.persianleague.com",
-      "url": "https://www.persianleague.com/iran-live-tv/video/11-irib-3",
+      "url": "https://www.persianleague.com/iran-live-tv/video/28-shabakeh3-hd",
       "backupId": "161022"
     },
     {
@@ -6140,7 +6138,7 @@
       "language_code": "fa",
       "channelName": "irib_3_backup_5",
       "serverName": "EmbeddedWebView",
-      "url": "https://tva.tv/channels/IRIB-TV3"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live"
     },
     {
       "id": "81026",
