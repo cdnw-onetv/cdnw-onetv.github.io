@@ -565,7 +565,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "ava_family",
-      "url": "http://51.210.199.5/hls/stream.m3u8"
+      "url": "https://familyhls.avatv.live/hls/stream.m3u8"
     },
     {
       "id": "20",
