@@ -3994,6 +3994,7 @@
       "language_code": "fa",
       "streamingUrlReferer": "https://www.aionet.ir/",
       "url": "https://live.aionet.ir/hls/tv3/tv3.m3u8",
+      "maxBitRate": "2000000",
       "backupId": "81022"
     },
     {
@@ -4077,6 +4078,7 @@
       "language_code": "fa",
       "streamingUrlReferer": "https://www.aionet.ir/",
       "url": "https://live.aionet.ir/hls/varzesh/varzesh.m3u8",
+      "maxBitRate": "2000000",
       "backupId": "81026"
     },
     {
