@@ -6257,6 +6257,20 @@
       "url": "http://onetv.app:20101/persiana_sport/index.m3u8"
     },
     {
+      "id": "106",
+      "title": "Persiana Poker TV",
+      "title_b_fa": "پرشیانا پوکر تی وی",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA",
+      "localImageResource": "persiana_poker_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_poker_tv.png",
+      "streamingUrlReferer": "http://sport.persiana.live/",
+      "streamingUrlOrigin": "http://sport.persiana.live",
+      "url": "http://51.210.199.17/hls/stream.m3u8"
+    },
+    {
       "id": "4302",
       "title": "Kurdsat (Backup)",
       "title_b_fa": "کوردسات (جایگزین)",
