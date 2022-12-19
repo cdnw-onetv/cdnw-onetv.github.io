@@ -1508,7 +1508,8 @@
       "language_code": "fa",
       "localImageResource": "aio_sport",
       "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://live.aionet.ir/hls/aiosport/aiosport.m3u8"
+      "url": "https://live.aionet.ir/hls/aiosport/aiosport.m3u8",
+      "backupId": "40045"
     },
     {
       "id": "70",
@@ -6146,6 +6147,21 @@
       "url": "https://www.persianleague.com/iran-live-tv/video/12-live-varzeshtv"
     },
     {
+      "id": "40045",
+      "title": "Aio Sport (Backup)",
+      "title_b_fa": "آیو اسپرت (جایگزین)",
+      "description": "Sports",
+      "country_code": "IR",
+      "geo_restrictions": "IR,IQ,CA,GE,IT,FR,UK",
+      "language_code": "fa",
+      "localImageResource": "aio_sport",
+      "channelName": "aio_sport_backup",
+      "serverName": "Embedded",
+      "streamingUrlReferer": "https://www.persianleague.com/",
+      "streamingUrlOrigin": "https://www.persianleague.com",
+      "url": "https://www.persianleague.com/iran-live-tv/video/78-78-sports-2"
+    },
+    {
       "id": "99",
       "title": "Persiana Sports",
       "title_b_fa": "پرشیانا اسپرت",
@@ -6175,7 +6191,7 @@
       "channelName": "persian_sport_backup",
       "streamingUrlReferer": "https://www.persianleague.com/",
       "streamingUrlOrigin": "https://www.persianleague.com",
-      "url": "https://www.persianleague.com/iran-live-tv/video/21-sports"
+      "url": "https://www.persianleague.com/iran-live-tv/video/21-sports-2"
     },
     {
       "id": "106",
