@@ -6175,21 +6175,7 @@
       "channelName": "persian_sport_backup",
       "streamingUrlReferer": "https://www.persianleague.com/",
       "streamingUrlOrigin": "https://www.persianleague.com",
-      "url": "https://www.persianleague.com/iran-live-tv/video/77-sports-9-live",
-      "backupId": "80099"
-    },
-    {
-      "id": "80099",
-      "title": "Persiana Sports (Test)",
-      "title_b_fa": "پرشیانا اسپرت (آزمایشی)",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA,QA,CH",
-      "localImageResource": "persiana_sports",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sports.png",
-      "url": "http://onetv.app:20101/persiana_sport/index.m3u8",
-      "backupId": "106"
+      "url": "https://www.persianleague.com/iran-live-tv/video/21-sports"
     },
     {
       "id": "106",
@@ -6554,6 +6540,19 @@
 
   ],
   "others_tv": [
+    {
+      "id": "80099",
+      "title": "Persiana Sports (Test)",
+      "title_b_fa": "پرشیانا اسپرت (آزمایشی)",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,CH",
+      "localImageResource": "persiana_sports",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sports.png",
+      "url": "http://onetv.app:20101/persiana_sport/index.m3u8",
+      "backupId": "106"
+    },
     {
       "id": "62",
       "title": "Lenz Sport",
