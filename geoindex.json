@@ -6085,37 +6085,7 @@
       "localImageResource": "irib_3",
       "serverName": "EmbeddedWebView",
       "channelName": "irib_3_backup_4",
-      "url": "https://www.persianleague.com/iran-live-tv/video/11-shabakeh3",
-      "backupId": "161022"
-    },
-    {
-      "id": "161022",
-      "title": "IRIB 3 (Backup 5)",
-      "title_b_fa": "شبکه سه (جایگزین ۵)",
-      "description": "General",
-      "tags": "Sport",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!QA",
-      "localImageResource": "irib_3",
-      "serverName": "EmbeddedWebView",
-      "channelName": "irib_3_backup_5",
-      "url": "https://www.persianleague.com/iran-live-tv/video/28-shabakeh3-hd",
-      "backupId": "201022"
-    },
-    {
-      "id": "201022",
-      "title": "IRIB 3 (Backup 6)",
-      "title_b_fa": "شبکه سه (جایگزین ۶)",
-      "localImageResource": "irib_3",
-      "description": "General",
-      "tags": "Sport",
-      "country_code": "IR",
-      "language_code": "fa",
-      "channelName": "irib_3_backup_6",
-      "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
-      "backupId": "2027"
+      "url": "https://www.persianleague.com/iran-live-tv/video/11-shabakeh3"
     },
     {
       "id": "81026",
@@ -6610,6 +6580,35 @@
       "serverName": "EmbeddedWebView",
       "channelName": "tva_sport_2",
       "url": "https://tva.tv/channels/sport-2"
+    },
+    {
+      "id": "161022",
+      "title": "IRIB 3 (Backup 5)",
+      "title_b_fa": "شبکه سه (جایگزین ۵)",
+      "description": "General",
+      "tags": "Sport",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!QA",
+      "localImageResource": "irib_3",
+      "serverName": "EmbeddedWebView",
+      "channelName": "irib_3_backup_5",
+      "url": "https://www.persianleague.com/iran-live-tv/video/28-shabakeh3-hd",
+      "backupId": "201022"
+    },
+    {
+      "id": "201022",
+      "title": "IRIB 3 (Backup 6)",
+      "title_b_fa": "شبکه سه (جایگزین ۶)",
+      "localImageResource": "irib_3",
+      "description": "General",
+      "tags": "Sport",
+      "country_code": "IR",
+      "language_code": "fa",
+      "channelName": "irib_3_backup_6",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
+      "backupId": "2027"
     },
     {
       "id": "600",
