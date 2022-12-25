@@ -371,6 +371,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "farsi_tv",
+      "maxBitRate": "2000000",
       "url": "https://live.farsitv.us/live/stream.m3u8",
       "backupUrl": "http://onetv.app:20075/live/stream_360p/index.m3u8"
     },
@@ -1372,7 +1373,7 @@
       "localImageResource": "kalemeh_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/kalemeh_tv.png",
       "maxBitRate": "1000000",
-      "url": "https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8",
+      "url": "https://5e11be0b2c93a.streamlock.net/live/ngrp:kalemeh_all/playlist.m3u8",
       "backupUrl": "http://51.210.199.37/hls/stream.m3u8"
     },
     {
