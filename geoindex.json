@@ -1212,9 +1212,7 @@
       "language_code": "fa",
       "localImageResource": "khatereh_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/khatereh_tv.png",
-      "channelName": "khatereh_tv",
-      "serverName": "EmbeddedWebView",
-      "url": "https://www.parsatv.com/name=Khatereh-TV#Persian"
+      "url": "http://51.210.227.165/hls/stream.m3u8"
     },
     {
       "id": "98",
@@ -1388,23 +1386,22 @@
       "streamingUrlReferer": "https://parstv.tv/",
       "serverName": "EmbeddedWebView",
       "channelName": "pars_tv",
-      "url": "http://parstv.tv/golive/",
-      "url2": "https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/playlist.m3u8",
-      "backupUrl": "https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8"
+      "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/pars-tv",
+      "backupId": "40092"
     },
     {
-      "id": "90092",
-      "title": "Pars TV (Proxy)",
-      "title_b_fa": "پارس تی وی",
+      "id": "40092",
+      "title": "Pars TV (Backup)",
+      "title_b_fa": "پارس تی وی (جایگزین)",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "pars_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/pars_tv.png",
-      "streamingUrlReferer": "https://parstv.tv/",
-      "url": "http://onetv.app:20018/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/chunks.m3u8",
-      "backupUrl": "http://onetv.app:20018/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8"
+      "channelName": "pars_tv_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/pars-tv"
     },
     {
       "id": "105",
@@ -1426,7 +1423,8 @@
       "language_code": "fa",
       "localImageResource": "iran_e_farda",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_e_farda.png",
-      "url": "http://51.210.199.53/hls/stream.m3u8"
+      "url": "http://51.210.199.53/hls/stream.m3u8",
+      "backupId": "40093"
     },
     {
       "id": "104",
@@ -1614,7 +1612,6 @@
       "title_b_fa": "آیو آرپا",
       "description": "General",
       "country_code": "IR",
-      "language_code": "fa",
       "language_code": "fa",
       "localImageResource": "aio_arpa",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_arpa.png",
@@ -5658,7 +5655,33 @@
       "localImageResource": "itn",
       "channelName": "itn_backup",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=ITN"
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=ITN",
+      "backupId": "80018"
+    },
+    {
+      "id": "80018",
+      "title": "ITN (Backup 2)",
+      "title_b_fa": "آی تی ان (جایگزین ۲)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "itn",
+      "channelName": "itn_backup_2",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/itn-tv"
+    },
+    {
+      "id": "40093",
+      "title": "Iran-e Farda (Backup)",
+      "title_b_fa": "ایران فردا (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "iran_e_farda",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_e_farda.png",
+      "channelName": "iran_e_farda_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/iran-e-farda"
     },
     {
       "id": "4096",
