@@ -2154,7 +2154,7 @@
       "geo_restrictions": "",
       "localImageResource": "fox_turkey",
       "streamingUrlExpireTime": "200",
-      "channelName": "fox_turkey",
+      "channelName": "fox_turkey_1",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live",
       "backupId": "705"
     },
@@ -2168,7 +2168,7 @@
       "localImageResource": "fox_turkey",
       "channelName": "fox_turkey_backup",
       "serverName": "EmbeddedWebView",
-      "url": "https://tr.canlitv.services/fox-tv-canli-75",
+      "url": "https://tr.canlitv.services/fox-tv-canli-izlemek",
       "backupId": "705"
     },
     {
@@ -2245,10 +2245,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "tv_360",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "tv_360",
-      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
-      "url": "https://www.dailymotion.com/player/metadata/video/x648uq8?embedder=https%3A%2F%2Fwww.cxtvlive.com%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3",
+      "url": "https://www.tv360.com.tr/canli-yayin",
+      "backupUrl": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
       "url2": "https://stream-02.nyc.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyHpD_Ei6p3I-WchA1FxQT70)/dm/3/x648uq8/s/live-0.m3u8"
     },
     {
@@ -2288,6 +2288,7 @@
       "localImageResource": "fox_turkey",
       "serverName": "Embedded",
       "channelName": "fox_turkey",
+      "streamingUrlPattern": "https:([^\\\"\\']*?)playlist.m3u8(.*?)[\\\"\\']",
       "url": "https://www.fox.com.tr/canli-yayin"
     },
     {
@@ -3050,7 +3051,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "halk_tv",
-      "url": "https://halktv-live.ercdn.net/halktv/halktv.m3u8"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCf_ResXZzE-o18zACUEmyvQ/live"
     },
     {
       "id": "706",
