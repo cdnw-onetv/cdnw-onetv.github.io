@@ -2300,9 +2300,9 @@
       "language_code": "tr",
       "localImageResource": "kanal_d",
       "channelName": "kanal_d",
-      "serverName": "Embedded",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/kanal-d-canli-izle-hd/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=kanal-d-canli-izle-hd"
+      "serverName": "EmbeddedWebView",
+      "url": "https://ecanlitvizle.sitecozum.net/kanal-d-canli-izle-hd/",
+      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=kanal-d-canli-izle-hd"
     },
     {
       "id": "4635",
@@ -2312,10 +2312,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "tv8_turkish",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "tv8_turkish_backup",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/tv-8-canli-yayin-izle-15/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=tv-8-canli-yayin-izle-15"
+      "url": "https://ecanlitvizle.sitecozum.net/tv-8-canli-yayin-izle-15/",
+      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=tv-8-canli-yayin-izle-15"
     },
     {
       "id": "628",
@@ -2432,7 +2432,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "trt_1",
-      "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+      "channelName": "trt_1",
+      "serverName": "Embedded",
+      "url": "https://www.trtizle.com/canli/tv/trt-1",
+      "url2": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
       "backupId": "4609"
     },
     {
@@ -3204,9 +3207,9 @@
       "description": "General",
       "localImageResource": "arb_tv",
       "channelName": "arb_tv_az",
-      "serverName": "Embedded",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/arb-az-canli/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=arb-az-canli",
+      "serverName": "EmbeddedWebView",
+      "url": "https://ecanlitvizle.sitecozum.net/arb-az-canli/",
+      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=arb-az-canli",
       "backupId": "4669"
     },
     {
@@ -3228,9 +3231,9 @@
       "description": "Kids",
       "localImageResource": "arb_gunes_tv",
       "channelName": "arb-gunes",
-      "serverName": "Embedded",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/arb-gunes/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=arb-gunes",
+      "serverName": "EmbeddedWebView",
+      "url": "https://ecanlitvizle.sitecozum.net/arb-gunes/",
+      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=arb-gunes",
       "backupUrl": "http://149.255.152.199/arbgunes.m3u8"
     },
     {
@@ -3263,9 +3266,9 @@
       "description": "General",
       "localImageResource": "az_tv",
       "channelName": "az_tv_az",
-      "serverName": "Embedded",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/az-tv-azerbaycan-tv-izle/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=az-tv-azerbaycan-tv-izle"
+      "serverName": "EmbeddedWebView",
+      "url": "https://ecanlitvizle.sitecozum.net/az-tv-azerbaycan-tv-izle/",
+      "url2": "https://ecanlitvizle.sitecozum.net/az-tv-azerbaycan-tv-izle/"
     },
     {
       "id": "675",
@@ -3309,9 +3312,9 @@
       "description": "General",
       "localImageResource": "el_tv_az",
       "channelName": "el-tv-az",
-      "serverName": "Embedded",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/el-tv-az-canli/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=el-tv-az-canli"
+      "serverName": "EmbeddedWebView",
+      "url": "https://ecanlitvizle.sitecozum.net/el-tv-az-canli/",
+      "url2": "https://ecanlitvizle.sitecozum.net/el-tv-az-canli/"
     },
     {
       "id": "679",
@@ -3332,9 +3335,9 @@
       "description": "General",
       "localImageResource": "ictimai_tv",
       "channelName": "iktimai_tv",
-      "serverName": "Embedded",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/ictimai-tv-canli-izle/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=ictimai-tv-canli-izle"
+      "serverName": "EmbeddedWebView",
+      "url": "https://ecanlitvizle.sitecozum.net/ictimai-tv-canli-izle/",
+      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=ictimai-tv-canli-izle"
     },
     {
       "id": "681",
@@ -3368,10 +3371,10 @@
       "country_code": "AZ",
       "language_code": "az",
       "localImageResource": "medeniyet_tv",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "medeniyet_tv",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/medeniyet-tv-az/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=medeniyet-tv-az"
+      "url": "https://ecanlitvizle.sitecozum.net/medeniyet-tv-az/",
+      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=medeniyet-tv-az"
     },
     {
       "id": "683",
@@ -6658,10 +6661,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "startv",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "startv_backup",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/star-tv-canli-izle-10/",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=star-tv-canli-izle-10"
+      "url": "https://ecanlitvizle.sitecozum.net/star-tv-canli-izle-10/",
+      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=star-tv-canli-izle-10"
     },
     {
       "id": "655",
@@ -6684,10 +6687,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "ntv_turk",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "ntv_turk_backup",
-      "streamingUrlReferer": "https://ecanlitvizle.sitecozum.net/ntv-canli-full-hd-izle",
-      "url": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=ntv-canli-full-hd-izle"
+      "url": "https://ecanlitvizle.sitecozum.net/ntv-canli-full-hd-izle",
+      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=ntv-canli-full-hd-izle"
     },
     {
       "id": "1166",
