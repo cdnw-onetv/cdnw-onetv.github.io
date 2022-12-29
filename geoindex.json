@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "48"
+      "description": "49"
     },
     {
       "id": "2001",
@@ -211,6 +211,7 @@
       "httpTimeout": "2000",
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "http://onetv.app:20003/1816184091/index.m3u8",
       "backupUrl": "http://onetv.app:20003/1816184091/chunklist_b341000.m3u8",
       "backupId": "40003"
@@ -265,6 +266,7 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "navahang",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "http://onetv.app:20004/hls/stream.m3u8",
       "backupUrl": "http://51.210.227.130/hls/stream.m3u8",
       "url2": "http://51.210.227.130/hls/stream.m3u8"
@@ -290,6 +292,7 @@
       "language_code": "fa",
       "geo_restrictions": "",
       "localImageResource": "pmc",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "http://onetv.app:20005/hls/stream.m3u8",
       "backupId": "40005"
     },
@@ -352,6 +355,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "radio_javan",
       "maxBitRate": "800000",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "http://onetv.app:20006/live/smil:rjtv.smil/playlist.m3u8"
     },
     {
@@ -400,6 +404,7 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "tapesh",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "http://onetv.app:20015/tapesh/playlist1/index.m3u8",
       "backupId": "40015"
     },
@@ -430,6 +435,7 @@
       "localImageResource": "itn",
       "streamingUrlOrigin": "https://iframes.5centscdn.com",
       "streamingUrlReferer": "https://iframes.5centscdn.com",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "http://onetv.app:20018/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
       "backupUrl1": "https://livestream.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/playlist.m3u8",
       "backupUrl2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8",
@@ -453,6 +459,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "pmc",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "http://onetv.app:20010/pmc/index.m3u8",
       "maxBitRate": "300000",
       "backupId": "60005"
@@ -534,6 +541,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "mbc_persia",
       "maxBitRate": "700000",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
       "url2": "http://onetv.app:20007/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
       "backupUrl": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8"
@@ -611,6 +619,7 @@
       "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "http://onetv.app:20010/gem/index.m3u8",
       "maxBitRate": "300000"
     },
@@ -624,6 +633,7 @@
       "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "http://onetv.app:20010/gemseries/index.m3u8",
       "maxBitRate": "300000"
     },
@@ -637,6 +647,7 @@
       "geo_restrictions": "",
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "http://onetv.app:20010/gembollywood/index.m3u8",
       "maxBitRate": "300000"
     },
@@ -652,6 +663,7 @@
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
       "httpTimeout": "1000",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gem/index.m3u8"
     },
@@ -667,6 +679,7 @@
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
       "httpTimeout": "1000",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "http://onetv.app:20008/live/gem/index.m3u8"
     },
     {
@@ -680,6 +693,7 @@
       "localImageResource": "gem_film",
       "localImageResourceNightMode": "gem_film_night_mode",
       "httpTimeout": "1000",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gemfilm/index.m3u8"
     },
@@ -693,6 +707,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_film",
       "localImageResourceNightMode": "gem_film_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemfilm/index.m3u8"
     },
@@ -706,6 +721,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gemseries/index.m3u8"
@@ -720,6 +736,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemseries/index.m3u8"
     },
@@ -733,6 +750,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_classic",
       "localImageResourceNightMode": "gem_classic_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gemclassic/index.m3u8"
@@ -747,6 +765,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_classic",
       "localImageResourceNightMode": "gem_classic_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemclassic/index.m3u8"
     },
@@ -760,6 +779,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_drama",
       "localImageResourceNightMode": "gem_drama_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gemdrama/index.m3u8"
@@ -774,6 +794,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_drama",
       "localImageResourceNightMode": "gem_drama_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemdrama/index.m3u8"
     },
@@ -787,6 +808,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_junior",
       "localImageResourceNightMode": "gem_junior_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gemjunior/index.m3u8"
@@ -801,6 +823,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_junior",
       "localImageResourceNightMode": "gem_junior_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemjunior/index.m3u8"
     },
@@ -814,6 +837,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_kids",
       "localImageResourceNightMode": "gem_kids_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gemkids/index.m3u8"
@@ -828,6 +852,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_kids",
       "localImageResourceNightMode": "gem_kids_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemkids/index.m3u8"
     },
@@ -841,6 +866,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_food",
       "localImageResourceNightMode": "gem_food_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gemfood/index.m3u8"
@@ -855,6 +881,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_food",
       "localImageResourceNightMode": "gem_food_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemfood/index.m3u8"
     },
@@ -868,6 +895,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_life",
       "localImageResourceNightMode": "gem_life_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemlife/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gemlife/index.m3u8"
@@ -882,6 +910,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_life",
       "localImageResourceNightMode": "gem_life_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemlife/index.m3u8"
     },
@@ -895,6 +924,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_maxx",
       "localImageResourceNightMode": "gem_maxx_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gemmaxx/index.m3u8"
@@ -909,6 +939,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_maxx",
       "localImageResourceNightMode": "gem_maxx_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemmaxx/index.m3u8"
     },
@@ -922,6 +953,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_river",
       "localImageResourceNightMode": "gem_river_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/river/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/river/index.m3u8"
@@ -936,6 +968,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_river",
       "localImageResourceNightMode": "gem_river_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/river/index.m3u8"
     },
@@ -949,6 +982,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_rubix",
       "localImageResourceNightMode": "gem_rubix_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/rubix/index.m3u8"
@@ -963,6 +997,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_rubix",
       "localImageResourceNightMode": "gem_rubix_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/rubix/index.m3u8"
     },
@@ -976,6 +1011,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_travel",
       "localImageResourceNightMode": "gem_travel_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gemtravel/index.m3u8"
@@ -990,6 +1026,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_travel",
       "localImageResourceNightMode": "gem_travel_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemtravel/index.m3u8"
     },
@@ -1003,6 +1040,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gembollywood/index.m3u8"
@@ -1017,6 +1055,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gembollywood/index.m3u8"
     },
@@ -1030,6 +1069,7 @@
       "geo_restrictions": "!IR,TR,UA",
       "localImageResource": "gem_crypto",
       "localImageResourceNightMode": "gem_crypto_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
       "backupUrl": "http://onetv.app:20008/live/gemcrypto/index.m3u8"
@@ -1044,6 +1084,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_crypto",
       "localImageResourceNightMode": "gem_crypto_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "http://onetv.app:20008/live/gemcrypto/index.m3u8"
     },
