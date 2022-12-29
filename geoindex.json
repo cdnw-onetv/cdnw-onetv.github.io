@@ -2291,7 +2291,8 @@
       "serverName": "Embedded",
       "channelName": "fox_turkey",
       "streamingUrlPattern": "https:([^\\\"\\']*?)playlist.m3u8(.*?)[\\\"\\']",
-      "url": "https://www.fox.com.tr/canli-yayin"
+      "url": "https://www.fox.com.tr/canli-yayin",
+      "backupId": "40705"
     },
     {
       "id": "4602",
@@ -6343,6 +6344,21 @@
       "serverName": "EmbeddedWebView",
       "channelName": "a_tv_backup_2",
       "url": "https://www.canlitv.me/atv-canli-kesintisiz"
+    },
+    {
+      "id": "40705",
+      "title": "Fox (TGRT, Backup 2)",
+      "title_b_fa": "فاکس",
+      "title_b_tr": "FOX (Yedekleme 2)",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "fox_turkey",
+      "streamingUrlOrigin": "https://www.fox.com.tr",
+      "streamingUrlReferer": "https://www.fox.com.tr/",
+      "serverName": "Embedded",
+      "channelName": "fox_turkey_backup_2",
+      "url": "https://www.fox.com.tr/canli-yayin"
     },
     {
       "id": "4603",
