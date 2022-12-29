@@ -2286,6 +2286,8 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "fox_turkey",
+      "streamingUrlOrigin": "https://www.fox.com.tr",
+      "streamingUrlReferer": "https://www.fox.com.tr/",
       "serverName": "Embedded",
       "channelName": "fox_turkey",
       "streamingUrlPattern": "https:([^\\\"\\']*?)playlist.m3u8(.*?)[\\\"\\']",
