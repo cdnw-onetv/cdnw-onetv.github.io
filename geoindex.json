@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "47"
+      "description": "48"
     },
     {
       "id": "2001",
@@ -78,7 +78,8 @@
     {
       "id": "2014",
       "title": "stats_report_url",
-      "description": "https://onetv.app:20104",
+      "description": "https://d12mo7yfy5237j.cloudfront.net",
+      "description0": "https://onetv.app:20104",
       "description1": "http://onetv.app:20103"
     },
     {
@@ -94,7 +95,8 @@
     {
       "id": "2017",
       "title": "stats_update_url",
-      "description": "https://onetv.app:20102/stats.json",
+      "description": "https://d2s9exlay1w8pw.cloudfront.net/stats.json",
+      "description0": "https://onetv.app:20102/stats.json",
       "description1": "http://onetv.app:20101/stats.json"
     },
     {
