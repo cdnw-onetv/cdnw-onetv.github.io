@@ -2433,7 +2433,7 @@
       "language_code": "tr",
       "localImageResource": "trt_1",
       "channelName": "trt_1",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "url": "https://www.trtizle.com/canli/tv/trt-1",
       "url2": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
       "backupId": "4609"
