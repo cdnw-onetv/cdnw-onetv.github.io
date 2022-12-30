@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "49"
+      "description": "50"
     },
     {
       "id": "2001",
@@ -95,8 +95,8 @@
     {
       "id": "2017",
       "title": "stats_update_url",
-      "description": "https://d2s9exlay1w8pw.cloudfront.net/stats.json",
-      "description0": "https://onetv.app:20102/stats.json",
+      "description8": "https://d2s9exlay1w8pw.cloudfront.net/stats.json",
+      "description": "https://onetv.app:20102/stats.json",
       "description1": "http://onetv.app:20101/stats.json"
     },
     {
