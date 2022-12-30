@@ -1370,6 +1370,21 @@
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=GrandCinema"
     },
     {
+      "id": "107",
+      "title": "Cine Film",
+      "title_b_fa": "سینه فیلم",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "cine_film",
+      "channelName": "cine_film",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/cine_film.png",
+      "streamingUrlReferer": "http://www.elahmad.com",
+      "streamingUrlOrigin": "http://www.elahmad.com",
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=CineFilm"
+    },
+    {
       "id": "77",
       "title": "Parnian TV",
       "title_b_fa": "پرنیان تی وی",
