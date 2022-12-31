@@ -1167,7 +1167,22 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_cinema",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_cinema.png",
-      "url": "http://51.210.199.15/hls/stream.m3u8"
+      "url": "http://51.210.199.15/hls/stream.m3u8",
+      "backupId": "40089"
+    },
+    {
+      "id": "40089",
+      "title": "Persiana Cinema (Backup)",
+      "title_b_fa": "پرشیانا سینما (جایگزین)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_cinema",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_cinema.png",
+      "channelName": "persian_cinema",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/persiana-cinema"
     },
     {
       "id": "26",
