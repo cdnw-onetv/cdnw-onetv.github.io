@@ -1545,6 +1545,34 @@
       "url": "http://5.123.1.8:80/wh7f454c46tw698503064_282586153/PLTV/88888888/224/3221226614/index.m3u8?tenantId=9805"
     },
     {
+      "id": "36",
+      "title": "Tva Sport 1",
+      "title_b_fa": "تیوا اسپرت یک",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "IR,IQ",
+      "localImageResource": "tva_sport_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_sport_1.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "tva_sport_1",
+      "url": "https://tva.tv/channels/Sport"
+    },
+    {
+      "id": "37",
+      "title": "Tva Sport 2",
+      "title_b_fa": "تیوا اسپرت دو",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "IR,IQ",
+      "localImageResource": "tva_sport_2",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_sport_2.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "tva_sport_2",
+      "url": "https://tva.tv/channels/sport-2"
+    },
+    {
       "id": "82",
       "title": "Aio Film",
       "title_b_fa": "آیو فیلم",
@@ -6617,34 +6645,6 @@
       "url": "http://5.123.1.8:80/wh7f454c46tw4248776526_-1196073838/PLTV/88888888/224/3221226611/index.m3u8"
     },
     {
-      "id": "36",
-      "title": "Tva Sport 1",
-      "title_b_fa": "تیوا اسپرت یک",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "IR,IQ,CA,GE,IT,FR,UK",
-      "localImageResource": "tva_sport_1",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_sport_1.png",
-      "serverName": "EmbeddedWebView",
-      "channelName": "tva_sport_1",
-      "url": "https://tva.tv/channels/Sport"
-    },
-    {
-      "id": "37",
-      "title": "Tva Sport 2",
-      "title_b_fa": "تیوا اسپرت دو",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "IR,IQ,CA,GE,IT,FR,UK",
-      "localImageResource": "tva_sport_2",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_sport_2.png",
-      "serverName": "EmbeddedWebView",
-      "channelName": "tva_sport_2",
-      "url": "https://tva.tv/channels/sport-2"
-    },
-    {
       "id": "161022",
       "title": "IRIB 3 (Backup 5)",
       "title_b_fa": "شبکه سه (جایگزین ۵)",
@@ -7054,14 +7054,6 @@
       "localImageResource": "lana_tv_plus",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/lana_tv_plus.png",
       "url": "https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8"
-    },
-    {
-      "id": "62222",
-      "title": "IRIB UHD",
-      "title_b_fa": "لنز اسپرت",
-      "description": "Sports",
-      "localImageResource": "lenz_sport",
-      "url": "http://s-cloud.irib.ir/live3/4k/4k.m3u8"
     },
     {
       "id": "651",
