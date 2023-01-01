@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "54"
+      "description": "55"
     },
     {
       "id": "2001",
@@ -78,8 +78,8 @@
     {
       "id": "2014",
       "title": "stats_report_url",
-      "description": "https://d2s9exlay1w8pw.cloudfront.net",
-      "description1": "https://ca-ss-rt.onetv.app"
+      "description1": "https://d2s9exlay1w8pw.cloudfront.net",
+      "description": "https://ca-ss-rt.onetvapi.ml/"
     },
     {
       "id": "2015",
@@ -95,7 +95,7 @@
       "id": "2017",
       "title": "stats_update_url",
       "description8": "https://d2s9exlay1w8pw.cloudfront.net/stats.json",
-      "description": "https://ca-rt.onetv.app/stats.json"
+      "description": "https://ca-rt.onetvapi.ml/stats.json"
     },
     {
       "id": "2018",
