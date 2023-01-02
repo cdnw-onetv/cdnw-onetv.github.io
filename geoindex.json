@@ -196,6 +196,41 @@
       "backupId": "80003"
     },
     {
+      "id": "160003",
+      "title": "Iran International (IR)",
+      "title_b_fa": "ایران اینترنشنال",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "iran_international",
+      "maxBitRate": "700000",
+      "httpTimeout": "2000",
+      "streamingUrlOrigin": "https://www-alt.iranintl.com",
+      "streamingUrlReferer": "https://www-alt.iranintl.com/",
+      "url": "https://live.playstop.me/1816184091/index.m3u8",
+      "backupUrl": "https://live.playstop.me/1816184091/chunklist_b806000.m3u8",
+      "backupId": "40003"
+    },
+    {
+      "id": "200003",
+      "title": "Iran International (IR 2)",
+      "title_b_fa": "ایران اینترنشنال",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "",
+      "localImageResource": "iran_international",
+      "maxBitRate": "700000",
+      "httpTimeout": "2000",
+      "streamingUrlOrigin": "https://www-alt.iranintl.com",
+      "streamingUrlReferer": "https://www-alt.iranintl.com/",
+      "streamingUrlHeaders": "Host: live.playstop.me",
+      "url": "http://185.102.217.116/1816184091/index.m3u8",
+      "backupUrl": "http://185.102.217.116/1816184091/chunklist_b806000.m3u8",
+      "backupId": "40003"
+    },
+    {
       "id": "9003",
       "title": "Iran International (Proxy)",
       "title_b_fa": "ایران اینترنشنال",
@@ -226,7 +261,7 @@
       "maxBitRate": "700000",
       "serverName": "Embedded",
       "channelName": "iran_int_backup",
-      "url": "https://persianleague.com/iran-live-tv/video/58-iran-international-live",
+      "url": "https://www.persianleague.com/iran-live-tv/video/58-iran-international-live",
       "backupId": "80003"
     },
     {
