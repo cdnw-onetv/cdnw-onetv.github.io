@@ -215,21 +215,6 @@
       "backupId": "40003"
     },
     {
-      "id": "40003",
-      "title": "Iran International (Backup)",
-      "title_b_fa": "ایران اینترنشنال (جایگزین)",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "iran_international",
-      "maxBitRate": "700000",
-      "serverName": "Embedded",
-      "channelName": "iran_int_backup",
-      "url": "https://persianleague.com/iran-live-tv/video/58-iran-international-live",
-      "backupId": "80003"
-    },
-    {
       "id": "29",
       "title": "VOA Persian",
       "title_b_fa": "صدای امریکا",
@@ -5647,6 +5632,21 @@
       "serverName": "EmbeddedWebView",
       "channelName": "bbc_persian_backup_3",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=BBCPersian"
+    },
+    {
+      "id": "40003",
+      "title": "Iran International (Backup)",
+      "title_b_fa": "ایران اینترنشنال (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "iran_international",
+      "maxBitRate": "700000",
+      "serverName": "Embedded",
+      "channelName": "iran_int_backup",
+      "url": "https://persianleague.com/iran-live-tv/video/58-iran-international-live",
+      "backupId": "80003"
     },
     {
       "id": "80003",
