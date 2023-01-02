@@ -193,7 +193,7 @@
       "url2": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
       "backupUrl3": "https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8",
       "backupUrl2": "https://live.playstop.me/1816184091/chunklist_b806000.m3u8",
-      "backupId": "40003"
+      "backupId": "80003"
     },
     {
       "id": "9003",
@@ -213,6 +213,21 @@
       "url": "https://in-il.onetv.app/1816184091/index.m3u8",
       "backupUrl": "https://in-il.onetv.app/1816184091/chunklist_b341000.m3u8",
       "backupId": "40003"
+    },
+    {
+      "id": "40003",
+      "title": "Iran International (Backup)",
+      "title_b_fa": "ایران اینترنشنال (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "iran_international",
+      "maxBitRate": "700000",
+      "serverName": "Embedded",
+      "channelName": "iran_int_backup",
+      "url": "https://persianleague.com/iran-live-tv/video/58-iran-international-live",
+      "backupId": "80003"
     },
     {
       "id": "29",
@@ -646,35 +661,6 @@
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-tv"
     },
     {
-      "id": "9",
-      "title": "Gem Film",
-      "title_b_fa": "جم فیلم",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!IR,TR,UA",
-      "localImageResource": "gem_film",
-      "localImageResourceNightMode": "gem_film_night_mode",
-      "httpTimeout": "1000",
-      "streamingUrlHeaders": "OneToken:abcxyz",
-      "url": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gemfilm/index.m3u8"
-    },
-    {
-      "id": "9009",
-      "title": "Gem Film (Proxy)",
-      "title_b_fa": "جم فیلم",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "gem_film",
-      "localImageResourceNightMode": "gem_film_night_mode",
-      "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
-      "url": "https://gm.onetv.app/live/gemfilm/index.m3u8"
-    },
-    {
       "id": "10",
       "title": "Gem Series",
       "title_b_fa": "جم سریز",
@@ -717,6 +703,79 @@
       "channelName": "gem_series_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-series"
+    },
+    {
+      "id": "53",
+      "title": "Gem Bollywood",
+      "title_b_fa": "جم بالیوود",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!IR,TR,UA",
+      "localImageResource": "gem_bollywood",
+      "localImageResourceNightMode": "gem_bollywood_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
+      "httpTimeout": "1000",
+      "url": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gembollywood/index.m3u8"
+    },
+    {
+      "id": "90053",
+      "title": "Gem Bollywood (Proxy)",
+      "title_b_fa": "جم بالیوود",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_bollywood",
+      "localImageResourceNightMode": "gem_bollywood_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
+      "httpTimeout": "1000",
+      "url": "https://gm.onetv.app/live/gembollywood/index.m3u8",
+      "backupId": "80053"
+    },
+    {
+      "id": "80053",
+      "title": "Gem Bollywood (Backup)",
+      "title_b_fa": "جم بالیوود (جایگزین)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_bollywood",
+      "localImageResourceNightMode": "gem_bollywood_night_mode",
+      "channelName": "gem_bollywood",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-bollywood"
+    },
+    {
+      "id": "9",
+      "title": "Gem Film",
+      "title_b_fa": "جم فیلم",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!IR,TR,UA",
+      "localImageResource": "gem_film",
+      "localImageResourceNightMode": "gem_film_night_mode",
+      "httpTimeout": "1000",
+      "streamingUrlHeaders": "OneToken:abcxyz",
+      "url": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gemfilm/index.m3u8"
+    },
+    {
+      "id": "9009",
+      "title": "Gem Film (Proxy)",
+      "title_b_fa": "جم فیلم",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "gem_film",
+      "localImageResourceNightMode": "gem_film_night_mode",
+      "streamingUrlHeaders": "OneToken:abcxyz",
+      "httpTimeout": "1000",
+      "url": "https://gm.onetv.app/live/gemfilm/index.m3u8"
     },
     {
       "id": "11",
@@ -1007,35 +1066,6 @@
       "streamingUrlHeaders": "OneToken:abcxyz",
       "httpTimeout": "1000",
       "url": "https://gm.onetv.app/live/gemtravel/index.m3u8"
-    },
-    {
-      "id": "53",
-      "title": "Gem Bollywood",
-      "title_b_fa": "جم بالیوود",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!IR,TR,UA",
-      "localImageResource": "gem_bollywood",
-      "localImageResourceNightMode": "gem_bollywood_night_mode",
-      "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gembollywood/index.m3u8"
-    },
-    {
-      "id": "90053",
-      "title": "Gem Bollywood (Proxy)",
-      "title_b_fa": "جم بالیوود",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "gem_bollywood",
-      "localImageResourceNightMode": "gem_bollywood_night_mode",
-      "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
-      "url": "https://gm.onetv.app/live/gembollywood/index.m3u8"
     },
     {
       "id": "54",
@@ -5632,21 +5662,6 @@
       "serverName": "EmbeddedWebView",
       "channelName": "bbc_persian_backup_3",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=BBCPersian"
-    },
-    {
-      "id": "40003",
-      "title": "Iran International (Backup)",
-      "title_b_fa": "ایران اینترنشنال (جایگزین)",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "iran_international",
-      "maxBitRate": "700000",
-      "serverName": "Embedded",
-      "channelName": "iran_int_backup",
-      "url": "https://persianleague.com/iran-live-tv/video/58-iran-international-live",
-      "backupId": "80003"
     },
     {
       "id": "80003",
