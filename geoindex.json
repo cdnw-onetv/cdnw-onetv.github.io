@@ -212,7 +212,7 @@
       "url": "http://live.playstop.me.onetvapi.ml/1816184091/index.m3u8",
       "backupUrl": "https://cdnw-onetv.github.io/data/update_message_black.mp4",
       "backupUrl1": "http://195.181.170.3/1816184091/chunklist_b806000.m3u8",
-      "backupId": "40003"
+      "backupId": "9003"
     },
     {
       "id": "9003",
@@ -231,7 +231,7 @@
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "https://in-il.onetv.app/1816184091/index.m3u8",
       "backupUrl": "https://in-il.onetv.app/1816184091/chunklist_b341000.m3u8",
-      "backupId": "40003"
+      "backupId": "80003"
     },
     {
       "id": "29",
@@ -5675,7 +5675,6 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
       "localImageResource": "iran_international",
       "maxBitRate": "700000",
       "serverName": "Embedded",
