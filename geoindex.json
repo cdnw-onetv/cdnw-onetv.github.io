@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "56"
+      "description": "57"
     },
     {
       "id": "2001",
@@ -209,7 +209,7 @@
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
       "streamingUrlHeaders": "Host: live.playstop.me",
-      "url": "http://195.181.170.3/1816184091/index.m3u8",
+      "url": "http://live.playstop.me.onetvapi.ml/1816184091/index.m3u8",
       "backupUrl": "https://cdnw-onetv.github.io/data/update_message_black.mp4",
       "backupUrl1": "http://195.181.170.3/1816184091/chunklist_b806000.m3u8",
       "backupId": "40003"
