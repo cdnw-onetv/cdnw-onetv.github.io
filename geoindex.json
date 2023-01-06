@@ -440,7 +440,6 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
       "localImageResource": "pmc",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url": "https://ca-ge.onetv.app/pmc/index.m3u8",
