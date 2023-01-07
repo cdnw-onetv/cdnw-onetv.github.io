@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "57"
+      "description": "58"
     },
     {
       "id": "2001",
@@ -209,7 +209,26 @@
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
       "streamingUrlHeaders": "Host:live.playstop.me",
-      "url": "http://live.playstop.me.onetvapi.ml/1816184091/index.m3u8",
+      "url": "http://playstop-cname.onetvapi.ml/1816184091/index.m3u8",
+      "backupUrl": "https://cdnw-onetv.github.io/data/update_message_black.mp4",
+      "backupUrl1": "http://195.181.170.3/1816184091/chunklist_b806000.m3u8",
+      "backupId": "40003"
+    },
+    {
+      "id": "200003",
+      "title": "Iran International (IR 2)",
+      "title_b_fa": "ایران اینترنشنال",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "iran_international",
+      "maxBitRate": "1000000",
+      "httpTimeout": "5000",
+      "streamingUrlOrigin": "https://www-alt.iranintl.com",
+      "streamingUrlReferer": "https://www-alt.iranintl.com/",
+      "streamingUrlHeaders": "Host:dev-live.livetvstream.co.uk",
+      "url": "http://intl-cname.onetvapi.ml/LS-63503-4/chunklist_b341000.m3u8",
       "backupUrl": "https://cdnw-onetv.github.io/data/update_message_black.mp4",
       "backupUrl1": "http://195.181.170.3/1816184091/chunklist_b806000.m3u8",
       "backupId": "40003"
