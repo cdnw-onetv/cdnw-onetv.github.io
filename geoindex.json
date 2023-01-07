@@ -205,7 +205,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "iran_international",
       "maxBitRate": "1000000",
-      "httpTimeout": "2000",
+      "httpTimeout": "5000",
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
       "streamingUrlHeaders": "Host:live.playstop.me",
