@@ -1884,8 +1884,24 @@
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/kurdmaxmusic/live",
+      "url3": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
+      "backupId": "40305"
+    },
+    {
+      "id": "40305",
+      "title": "Kurdmax Music (Backup)",
+      "title_b_fa": "کوردماکس موزیک",
+      "description": "Music",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "kurdmax_music",
+      "channelName": "kurdmaxMusic_backup",
+      "serverName": "EmbeddedWebView",
+      "maxBitRate": "1000000",
+      "url": "https://ku.karwan.tv/kurdmax-music.html",
+      "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "backupId": "4305"
     },
     {
@@ -6304,14 +6320,15 @@
       "title_b_fa": "آیو اسپرت (جایگزین)",
       "description": "Sports",
       "country_code": "IR",
-      "geo_restrictions": "IR,IQ,CA,GE,IT,FR,UK",
+      "geo_restrictions": "IR,IQ,CA,GE,IT,FR,UK,AF",
       "language_code": "fa",
       "localImageResource": "aio_sport",
       "channelName": "aio_sport_backup",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "streamingUrlReferer": "https://www.persianleague.com/",
       "streamingUrlOrigin": "https://www.persianleague.com",
-      "url": "https://www.persianleague.com/iran-live-tv/video/78-78-sports-2"
+      "url": "https://www.aparatchi.com/iran-live-tv/aio-sport",
+      "url2": "https://www.persianleague.com/iran-live-tv/video/78-78-sports-2"
     },
     {
       "id": "99",
@@ -6339,11 +6356,11 @@
       "geo_restrictions": "!FR,UA,QA,CH",
       "localImageResource": "persiana_sports",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sports.png",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "persian_sport_backup",
       "streamingUrlReferer": "https://www.persianleague.com/",
       "streamingUrlOrigin": "https://www.persianleague.com",
-      "url": "https://www.persianleague.com/iran-live-tv/video/21-sports-2"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports"
     },
     {
       "id": "106",
@@ -6414,7 +6431,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
-      "channelName": "kurdmaxMusic_backup",
+      "channelName": "kurdmaxMusic_backup_2",
       "url": "https://ca-rt.onetv.app/kurdmaxmusic.mp4",
       "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live"
     },
