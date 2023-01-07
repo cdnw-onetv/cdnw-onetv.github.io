@@ -1884,6 +1884,7 @@
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
       "streamingUrlExpireTime": "200",
+      "maxBitRate": "1000000",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/kurdmaxmusic/live",
       "url3": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
