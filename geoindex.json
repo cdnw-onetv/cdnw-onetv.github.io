@@ -202,7 +202,7 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "iran_international",
       "maxBitRate": "1000000",
       "httpTimeout": "5000",
