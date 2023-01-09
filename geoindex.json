@@ -211,6 +211,25 @@
       "backupId": "80003"
     },
     {
+      "id": "160003",
+      "title": "Iran International (IR)",
+      "title_b_fa": "ایران اینترنشنال",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "",
+      "localImageResource": "iran_international",
+      "maxBitRate": "1000000",
+      "httpTimeout": "5000",
+      "streamingUrlOrigin": "https://www-alt.iranintl.com",
+      "streamingUrlReferer": "https://www-alt.iranintl.com/",
+      "streamingUrlHeaders": "Host:live.playstop.me",
+      "url": "http://playstop-cname.onetvapi.ml/1816184091/index.m3u8",
+      "backupUrl0": "https://cdnw-onetv.github.io/data/update_message_black.mp4",
+      "backupUrl": "http://195.181.170.3/1816184091/chunklist_b806000.m3u8",
+      "backupId": "80003"
+    },
+    {
       "id": "9003",
       "title": "Iran International (Proxy)",
       "title_b_fa": "ایران اینترنشنال",
@@ -231,25 +250,6 @@
       "url0": "https://in-il.onetv.app/1816184091/index.m3u8",
       "backupUrl0": "https://in-il.onetv.app/1816184091/chunklist_b806000.m3u8",
       "backupId": "80003"
-    },
-    {
-      "id": "160003",
-      "title": "Iran International (IR)",
-      "title_b_fa": "ایران اینترنشنال",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "iran_international",
-      "maxBitRate": "1000000",
-      "httpTimeout": "5000",
-      "streamingUrlOrigin": "https://www-alt.iranintl.com",
-      "streamingUrlReferer": "https://www-alt.iranintl.com/",
-      "streamingUrlHeaders": "Host:live.playstop.me",
-      "url": "http://playstop-cname.onetvapi.ml/1816184091/index.m3u8",
-      "backupUrl": "https://cdnw-onetv.github.io/data/update_message_black.mp4",
-      "backupUrl1": "http://195.181.170.3/1816184091/chunklist_b806000.m3u8",
-      "backupId": "40003"
     },
     {
       "id": "29",
