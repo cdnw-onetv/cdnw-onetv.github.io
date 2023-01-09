@@ -468,7 +468,7 @@
       "streamingUrlExpireTime": "10",
       "serverName": "EmbeddedWebView",
       "channelName": "pmc_onetv",
-      "url": "https://site.onetvapi.ml/ca-ge-pmc/",
+      "url": "http://site.onetvapi.ml/ca-ge-pmc/",
       "url0": "https://ca-ge.onetv.app/pmc/index.m3u8",
       "maxBitRate": "300000",
       "backupId": "60005"
@@ -629,7 +629,7 @@
       "streamingUrlExpireTime": "10",
       "serverName": "EmbeddedWebView",
       "channelName": "ca_gem_tv_onetv",
-      "url": "https://site.onetvapi.ml/ca-ge-gm/",
+      "url": "http://site.onetvapi.ml/ca-ge-gm/",
       "url0": "https://ca-ge.onetv.app/gem/index.m3u8",
       "maxBitRate": "300000"
     },
@@ -659,7 +659,7 @@
       "streamingUrlExpireTime": "10",
       "serverName": "EmbeddedWebView",
       "channelName": "ca_gem_series_onetv",
-      "url": "https://site.onetvapi.ml/ca-ge-gm-s/",
+      "url": "http://site.onetvapi.ml/ca-ge-gm-s/",
       "url0": "https://ca-ge.onetv.app/gemseries/index.m3u8",
       "maxBitRate": "300000"
     },
@@ -726,7 +726,7 @@
       "streamingUrlExpireTime": "10",
       "serverName": "EmbeddedWebView",
       "channelName": "gem_tv_onetv",
-      "url": "https://site.onetvapi.ml/gm/",
+      "url": "http://site.onetvapi.ml/gm/",
       "url0": "https://gm.onetv.app/live/gem/index.m3u8",
       "backupId": "80008"
     },
@@ -755,7 +755,7 @@
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
       "httpTimeout": "1000",
-      "url": "https://stream-live.gemonline.tv/live/gemseries/index.m3u8",
+      "url": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "backupUrl": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
     {
