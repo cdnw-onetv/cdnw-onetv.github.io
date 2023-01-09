@@ -227,7 +227,7 @@
       "channelName": "iran_international_onetv",
       "serverName": "EmbeddedWebView",
       "streamingUrlExpireTime": "10",
-      "url": "https://site.onetvapi.ml/in-il/",
+      "url": "http://site.onetvapi.ml/in-il/",
       "url0": "https://in-il.onetv.app/1816184091/index.m3u8",
       "backupUrl0": "https://in-il.onetv.app/1816184091/chunklist_b806000.m3u8",
       "backupId": "80003"
@@ -303,7 +303,7 @@
       "streamingUrlExpireTime": "10",
       "channelName": "navahang_onetva",
       "serverName": "EmbeddedWebView",
-      "url": "https://site.onetvapi.ml/ng/",
+      "url": "http://site.onetvapi.ml/ng/",
       "url0": "https://in-il.onetv.app/1816184091/index.m3u8",
       "url3": "https://ng.onetv.app/hls/stream.m3u8",
       "url2": "http://51.210.227.130/hls/stream.m3u8"
@@ -368,7 +368,7 @@
       "streamingUrlExpireTime": "10",
       "channelName": "radio_javan_onetva",
       "serverName": "EmbeddedWebView",
-      "url": "https://site.onetvapi.ml/ro-jn",
+      "url": "http://site.onetvapi.ml/ro-jn",
       "url0": "https://ro-jn.onetv.app/live/smil:rjtv.smil/playlist.m3u8"
     },
     {
@@ -416,7 +416,7 @@
       "streamingUrlExpireTime": "10",
       "channelName": "tapesh_onetva",
       "serverName": "EmbeddedWebView",
-      "url": "https://site.onetvapi.ml/th",
+      "url": "http://site.onetvapi.ml/th",
       "url0": "https://th.onetv.app/tapesh/playlist1/index.m3u8",
       "backupId": "40015"
     },
@@ -674,7 +674,7 @@
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
       "channelName": "gem_bollywood_onetv",
-      "url": "https://site.onetvapi.ml/ca-ge-gm-b/",
+      "url": "http://site.onetvapi.ml/ca-ge-gm-b/",
       "url0": "https://ca-ge.onetv.app/gembollywood/index.m3u8",
       "maxBitRate": "300000"
     },
@@ -691,7 +691,7 @@
       "streamingUrlExpireTime": "10",
       "serverName": "EmbeddedWebView",
       "channelName": "gem_bollywood_onetv",
-      "url": "https://site.onetvapi.ml/ca-ge-gm-b/",
+      "url": "http://site.onetvapi.ml/ca-ge-gm-b/",
       "url0": "https://ca-ge.onetv.app/gembollywood/index.m3u8",
       "maxBitRate": "300000"
     },
@@ -772,7 +772,7 @@
       "streamingUrlExpireTime": "10",
       "serverName": "EmbeddedWebView",
       "channelName": "gem_series_onetv",
-      "url": "https://site.onetvapi.ml/gm-s/",
+      "url": "http://site.onetvapi.ml/gm-s/",
       "url0": "https://gm.onetv.app/live/gemseries/index.m3u8",
       "backupId": "80010"
     },
@@ -818,7 +818,7 @@
       "streamingUrlExpireTime": "10",
       "serverName": "EmbeddedWebView",
       "channelName": "gem_bollywood_onetv",
-      "url": "https://site.onetvapi.ml/gm-b/",
+      "url": "http://site.onetvapi.ml/gm-b/",
       "url0": "https://gm.onetv.app/live/gembollywood/index.m3u8",
       "backupId": "80053"
     },
