@@ -196,8 +196,23 @@
       "backupId": "80003"
     },
     {
+      "id": "40003",
+      "title": "Iran International (Backup)",
+      "title_b_fa": "ایران اینترنشنال (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "iran_international",
+      "maxBitRate": "700000",
+      "serverName": "Embedded",
+      "channelName": "iran_int_backup",
+      "url": "https://www.persianleague.com/iran-live-tv/video/58-iran-international-live",
+      "backupId": "80003"
+    },
+    {
       "id": "9003",
-      "title": "Iran International (IR)",
+      "title": "Iran International (Proxy)",
       "title_b_fa": "ایران اینترنشنال",
       "description": "News",
       "country_code": "IR",
@@ -218,23 +233,8 @@
       "backupId": "80003"
     },
     {
-      "id": "40003",
-      "title": "Iran International (Backup)",
-      "title_b_fa": "ایران اینترنشنال (جایگزین)",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "iran_international",
-      "maxBitRate": "700000",
-      "serverName": "Embedded",
-      "channelName": "iran_int_backup",
-      "url": "https://www.persianleague.com/iran-live-tv/video/58-iran-international-live",
-      "backupId": "80003"
-    },
-    {
       "id": "160003",
-      "title": "Iran International (IR 2)",
+      "title": "Iran International (IR)",
       "title_b_fa": "ایران اینترنشنال",
       "description": "News",
       "country_code": "IR",
@@ -293,7 +293,7 @@
     },
     {
       "id": "9004",
-      "title": "Navahang (IR)",
+      "title": "Navahang (Proxy)",
       "title_b_fa": "نواهنگ",
       "description": "Music",
       "country_code": "IR",
@@ -357,7 +357,7 @@
     },
     {
       "id": "9006",
-      "title": "RadioJavan (IR)",
+      "title": "RadioJavan (Proxy)",
       "title_b_fa": "رادیو جوان",
       "description": "Music",
       "country_code": "IR",
@@ -406,7 +406,7 @@
     },
     {
       "id": "90015",
-      "title": "Tapesh TV (IR)",
+      "title": "Tapesh TV (Proxy)",
       "title_b_fa": "تپش",
       "description": "General",
       "country_code": "IR",
@@ -446,14 +446,12 @@
     {
       "id": "40005",
       "title": "PMC (Test)",
-      "title_b_fa": "پی ام سی (آزمایشی)",
+      "title_b_fa": "پی ام سی",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!IR",
       "localImageResource": "pmc",
-      "streamingUrlHeaders": "OneToken:abcxyz",
-      "channelName": "iran_international_onetv",
       "url": "https://ca-ge.onetv.app/pmc/index.m3u8",
       "maxBitRate": "300000",
       "backupId": "60005"
@@ -461,7 +459,7 @@
     {
       "id": "90040005",
       "title": "PMC (Test, IR)",
-      "title_b_fa": "پی ام سی (آزمایشی)",
+      "title_b_fa": "پی ام سی",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
@@ -715,7 +713,7 @@
     },
     {
       "id": "9008",
-      "title": "Gem TV (IR)",
+      "title": "Gem TV (Proxy)",
       "favorite": "Yes",
       "title_b_fa": "جم تی وی",
       "description": "General",
@@ -762,7 +760,7 @@
     },
     {
       "id": "90010",
-      "title": "Gem Series (IR)",
+      "title": "Gem Series (Proxy)",
       "title_b_fa": "جم سریز",
       "description": "Series",
       "country_code": "IR",
@@ -808,7 +806,7 @@
     },
     {
       "id": "90053",
-      "title": "Gem Bollywood (IR)",
+      "title": "Gem Bollywood (Proxy)",
       "title_b_fa": "جم بالیوود",
       "description": "Movies",
       "country_code": "IR",
