@@ -246,8 +246,8 @@
       "channelName": "iran_international_onetv",
       "serverName": "EmbeddedWebView",
       "streamingUrlExpireTime": "10",
-      "url": "http://site.onetvapi.ml/in-il/",
-      "url0": "https://in-il.onetv.app/1816184091/index.m3u8",
+      "url9": "http://site.onetvapi.ml/in-il/",
+      "url": "https://in-il.onetv.app/1816184091/index.m3u8",
       "backupUrl0": "https://in-il.onetv.app/1816184091/chunklist_b806000.m3u8",
       "backupId": "80003"
     },
@@ -303,9 +303,8 @@
       "streamingUrlExpireTime": "10",
       "channelName": "navahang_onetva",
       "serverName": "EmbeddedWebView",
-      "url": "http://site.onetvapi.ml/ng/",
-      "url0": "https://in-il.onetv.app/1816184091/index.m3u8",
-      "url3": "https://ng.onetv.app/hls/stream.m3u8",
+      "url9": "http://site.onetvapi.ml/ng/",
+      "url": "https://ng.onetv.app/hls/stream.m3u8",
       "url2": "http://51.210.227.130/hls/stream.m3u8"
     },
     {
@@ -368,8 +367,8 @@
       "streamingUrlExpireTime": "10",
       "channelName": "radio_javan_onetva",
       "serverName": "EmbeddedWebView",
-      "url": "http://site.onetvapi.ml/ro-jn",
-      "url0": "https://ro-jn.onetv.app/live/smil:rjtv.smil/playlist.m3u8"
+      "url9": "http://site.onetvapi.ml/ro-jn",
+      "url": "https://ro-jn.onetv.app/live/smil:rjtv.smil/playlist.m3u8"
     },
     {
       "id": "43",
@@ -450,26 +449,8 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
       "localImageResource": "pmc",
       "url": "https://ca-ge.onetv.app/pmc/index.m3u8",
-      "maxBitRate": "300000",
-      "backupId": "60005"
-    },
-    {
-      "id": "90040005",
-      "title": "PMC (Test, IR)",
-      "title_b_fa": "پی ام سی (آزمایشی)",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "pmc",
-      "streamingUrlExpireTime": "10",
-      "serverName": "EmbeddedWebView",
-      "channelName": "pmc_onetv",
-      "url": "http://site.onetvapi.ml/ca-ge-pmc/",
-      "url0": "https://ca-ge.onetv.app/pmc/index.m3u8",
       "maxBitRate": "300000",
       "backupId": "60005"
     },
@@ -610,27 +591,10 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!TR,UA,IR",
+      "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
       "url": "https://ca-ge.onetv.app/gem/index.m3u8",
-      "maxBitRate": "300000"
-    },
-    {
-      "id": "90040008",
-      "title": "Gem TV (Test, IR)",
-      "title_b_fa": "جم تی وی (آزمایشی)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "gem_tv",
-      "localImageResourceNightMode": "gem_tv_night_mode",
-      "streamingUrlExpireTime": "10",
-      "serverName": "EmbeddedWebView",
-      "channelName": "ca_gem_tv_onetv",
-      "url": "http://site.onetvapi.ml/ca-ge-gm/",
-      "url0": "https://ca-ge.onetv.app/gem/index.m3u8",
       "maxBitRate": "300000"
     },
     {
@@ -640,27 +604,10 @@
       "description": "Series",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!TR,UA,IR",
+      "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
       "url": "https://ca-ge.onetv.app/gemseries/index.m3u8",
-      "maxBitRate": "300000"
-    },
-    {
-      "id": "90040010",
-      "title": "Gem Series (Test, IR)",
-      "title_b_fa": "جم سریز (آزمایشی)",
-      "description": "Series",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "gem_series",
-      "localImageResourceNightMode": "gem_series_night_mode",
-      "streamingUrlExpireTime": "10",
-      "serverName": "EmbeddedWebView",
-      "channelName": "ca_gem_series_onetv",
-      "url": "http://site.onetvapi.ml/ca-ge-gm-s/",
-      "url0": "https://ca-ge.onetv.app/gemseries/index.m3u8",
       "maxBitRate": "300000"
     },
     {
@@ -673,23 +620,6 @@
       "geo_restrictions": "",
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
-      "channelName": "gem_bollywood_onetv",
-      "url": "http://site.onetvapi.ml/ca-ge-gm-b/",
-      "url0": "https://ca-ge.onetv.app/gembollywood/index.m3u8",
-      "maxBitRate": "300000"
-    },
-    {
-      "id": "90040053",
-      "title": "Gem Bollywood (Test, IR)",
-      "title_b_fa": "جم بالیوود (آزمایشی)",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_bollywood",
-      "localImageResourceNightMode": "gem_bollywood_night_mode",
-      "streamingUrlExpireTime": "10",
-      "serverName": "EmbeddedWebView",
       "channelName": "gem_bollywood_onetv",
       "url": "http://site.onetvapi.ml/ca-ge-gm-b/",
       "url0": "https://ca-ge.onetv.app/gembollywood/index.m3u8",
@@ -726,8 +656,8 @@
       "streamingUrlExpireTime": "10",
       "serverName": "EmbeddedWebView",
       "channelName": "gem_tv_onetv",
-      "url": "http://site.onetvapi.ml/gm/",
-      "url0": "https://gm.onetv.app/live/gem/index.m3u8",
+      "url9": "http://site.onetvapi.ml/gm/",
+      "url": "https://gm.onetv.app/live/gem/index.m3u8",
       "backupId": "80008"
     },
     {
@@ -772,8 +702,8 @@
       "streamingUrlExpireTime": "10",
       "serverName": "EmbeddedWebView",
       "channelName": "gem_series_onetv",
-      "url": "http://site.onetvapi.ml/gm-s/",
-      "url0": "https://gm.onetv.app/live/gemseries/index.m3u8",
+      "url9": "http://site.onetvapi.ml/gm-s/",
+      "url": "https://gm.onetv.app/live/gemseries/index.m3u8",
       "backupId": "80010"
     },
     {
@@ -818,8 +748,8 @@
       "streamingUrlExpireTime": "10",
       "serverName": "EmbeddedWebView",
       "channelName": "gem_bollywood_onetv",
-      "url": "http://site.onetvapi.ml/gm-b/",
-      "url0": "https://gm.onetv.app/live/gembollywood/index.m3u8",
+      "url9": "http://site.onetvapi.ml/gm-b/",
+      "url": "https://gm.onetv.app/live/gembollywood/index.m3u8",
       "backupId": "80053"
     },
     {
