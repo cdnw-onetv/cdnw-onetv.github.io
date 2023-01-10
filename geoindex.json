@@ -1530,6 +1530,17 @@
       "url2": "https://2nbyjjx7y53k-hls-live.5centscdn.com/atvweb/d23299de099088e7444868cd0814f1c7.sdp/chunks.m3u8"
     },
     {
+      "id": "108",
+      "title": "Kanal Jadid",
+      "title_b_fa": "کانال جدید",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "kanal_jadid",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/kanal_jadid.png",
+      "url": "http://51.210.227.136/hls/stream.m3u8"
+    },
+    {
       "id": "103",
       "title": "Kalemeh TV",
       "title_b_fa": "کلمه تی وی",
