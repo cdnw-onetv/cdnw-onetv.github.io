@@ -170,6 +170,7 @@
       "localImageResourceNightMode": "bbc_persian_night_mode_test",
       "maxBitRate": "700000",
       "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
+      "url1": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "url2": "https://bc-pn.onetv.app/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
       "backupUrl2": "https://bc-pn.onetv.app/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
       "backupId": "40002"
@@ -224,9 +225,9 @@
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
       "streamingUrlHeaders": "Host:live.playstop.me",
-      "url": "http://playstop-cname.onetvapi.ml/1816184091/index.m3u8",
+      "url": "http://104.25.198.25//1816184091/index.m3u8",
       "backupUrl0": "https://cdnw-onetv.github.io/data/update_message_black.mp4",
-      "backupUrl": "http://195.181.170.3/1816184091/chunklist_b806000.m3u8",
+      "backupUrl": "http://195.181.170.3/1816184091/chunklist_b341000.m3u8",
       "backupId": "80003"
     },
     {
