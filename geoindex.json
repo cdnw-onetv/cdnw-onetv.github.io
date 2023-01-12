@@ -1135,6 +1135,17 @@
       "url": "http://51.210.227.156/hls/stream.m3u8"
     },
     {
+      "id": "109",
+      "title": "247 Box TV",
+      "title_b_fa": "۲۴۷ باکس",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "box_247_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/box_247_tv.png",
+      "url": "https://hls.247box.live/hls/stream.m3u8"
+    },
+    {
       "id": "68",
       "title": "SL 1",
       "title_b_fa": "اس ال یک",
