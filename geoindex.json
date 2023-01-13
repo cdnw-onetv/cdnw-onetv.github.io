@@ -244,12 +244,9 @@
       "httpTimeout": "2000",
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
-      "channelName": "iran_international_onetv",
-      "serverName": "EmbeddedWebView",
-      "streamingUrlExpireTime": "10",
       "url9": "http://site.onetvapi.ml/in-il/",
       "url": "https://in-il.onetv.app/1816184091/index.m3u8",
-      "backupUrl0": "https://in-il.onetv.app/1816184091/chunklist_b806000.m3u8",
+      "backupUrl": "https://in-il.onetv.app/1816184091/chunklist_b341000.m3u8",
       "backupId": "80003"
     },
     {
