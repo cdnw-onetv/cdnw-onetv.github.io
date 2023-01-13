@@ -225,9 +225,8 @@
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
       "streamingUrlHeaders": "Host:live.playstop.me",
-      "url": "http://104.25.198.25//1816184091/index.m3u8",
-      "backupUrl0": "https://cdnw-onetv.github.io/data/update_message_black.mp4",
-      "backupUrl": "http://195.181.170.3/1816184091/chunklist_b341000.m3u8",
+      "url": "https://live.playstop.me/1816184091/index.m3u8",
+      "backupUrl": "https://live.playstop.me/1816184091/chunklist_b341000.m3u8",
       "backupId": "80003"
     },
     {
