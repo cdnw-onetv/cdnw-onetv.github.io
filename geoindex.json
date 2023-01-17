@@ -211,10 +211,10 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "iran_international",
-      "maxBitRate": "700000",
       "serverName": "Embedded",
-      "channelName": "iran_int_backup",
-      "url": "https://www.persianleague.com/iran-live-tv/video/58-iran-international-live",
+      "channelName": "iran_int_backup_1",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-news-tv/iran-international-live",
+      "maxBitRate": "900000",
       "backupId": "80003"
     },
     {
@@ -227,7 +227,6 @@
       "geo_restrictions": "@IR",
       "localImageResource": "iran_international",
       "allowInsecureSsl": "true",
-      "maxBitRate": "600000",
       "httpTimeout": "5000",
       "httpConnectTimeout": "5000",
       "httpReadTimeout": "5000",
@@ -5639,10 +5638,10 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "iran_international",
+      "maxBitRate": "700000",
       "serverName": "Embedded",
       "channelName": "iran_int_backup_2",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-news-tv/iran-international-live",
-      "maxBitRate": "900000",
+      "url": "https://www.persianleague.com/iran-live-tv/video/58-iran-international-live",
       "backupId": "120003"
     },
     {
