@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "59"
+      "description": "60"
     },
     {
       "id": "2001",
@@ -118,6 +118,8 @@
       "streamingUrlReferer": "https://www.manototv.com/",
       "maxBitRate": "2000000",
       "httpTimeout": "2000",
+      "httpConnectTimeout": "2000",
+      "httpReadTimeout": "2000",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
       "backupUrl": "https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8",
       "backupId": "80001"
@@ -136,6 +138,8 @@
       "streamingUrlReferer": "https://www.manototv.com/",
       "maxBitRate": "700000",
       "httpTimeout": "2000",
+      "httpConnectTimeout": "2000",
+      "httpReadTimeout": "2000",
       "url": "https://dh4wkqcyy8768.cloudfront.net/live.m3u8",
       "backupUrl": "https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8",
       "backupUrl2": "https://mo.onetv.app/live_500.m3u8",
@@ -187,6 +191,8 @@
       "localImageResource": "iran_international",
       "maxBitRate": "2000000",
       "httpTimeout": "4000",
+      "httpConnectTimeout": "4000",
+      "httpReadTimeout": "4000",
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
       "url": "https://live.playstop.me/1816184091/index.m3u8",
@@ -220,14 +226,34 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "iran_international",
+      "allowInsecureSsl": "true",
       "maxBitRate": "600000",
       "httpTimeout": "5000",
+      "httpConnectTimeout": "5000",
+      "httpReadTimeout": "5000",
+      "url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-international-iranintl-MB/playlist.m3u8",
+      "backupId": "80003"
+    },
+    {
+      "id": "168880003",
+      "title": "Iran International (Test)",
+      "title_b_fa": "ایران اینترنشنال",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "",
+      "localImageResource": "iran_international",
+      "allowInsecureSsl": "true",
+      "maxBitRate": "600000",
+      "httpTimeout": "5000",
+      "httpConnectTimeout": "5000",
+      "httpReadTimeout": "5000",
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
-      "streamingUrlHeaders": "Host:live.playstop.me",
-      "url": "http://212.102.46.6/1816184091/index.m3u8",
-      "backupUrl": "http://212.102.46.6/1816184091/chunklist_b341000.m3u8",
-      "backupId": "80003"
+      "streamingUrlHeaders0": "Host:live.playstop.me",
+      "url": "https://live.playstop.me/1816184091/index.m3u8",
+      "url0": "https://212.102.46.6/1816184091/index.m3u8",
+      "backupUrl0": "https://212.102.46.6/1816184091/chunklist_b341000.m3u8"
     },
     {
       "id": "9003",
@@ -241,6 +267,8 @@
       "localImageResource": "iran_international",
       "maxBitRate": "1000000",
       "httpTimeout": "2000",
+      "httpConnectTimeout": "2000",
+      "httpReadTimeout": "2000",
       "streamingUrlOrigin": "https://www-alt.iranintl.com",
       "streamingUrlReferer": "https://www-alt.iranintl.com/",
       "url9": "http://site.onetvapi.ml/in-il/",
@@ -628,7 +656,9 @@
       "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
       "url": "https://gm.onetv.app/live/gem/index.m3u8"
@@ -657,7 +687,9 @@
       "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "url": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
@@ -685,7 +717,9 @@
       "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
       "url": "https://gm.onetv.app/live/gembollywood/index.m3u8"
     },
@@ -713,7 +747,9 @@
       "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_film",
       "localImageResourceNightMode": "gem_film_night_mode",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
       "url": "https://gm.onetv.app/live/gemfilm/index.m3u8"
@@ -729,7 +765,9 @@
       "localImageResource": "gem_classic",
       "localImageResourceNightMode": "gem_classic_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
       "url": "https://gm.onetv.app/live/gemclassic/index.m3u8"
     },
@@ -744,7 +782,9 @@
       "localImageResource": "gem_drama",
       "localImageResourceNightMode": "gem_drama_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
       "url": "https://gm.onetv.app/live/gemdrama/index.m3u8"
     },
@@ -759,7 +799,9 @@
       "localImageResource": "gem_junior",
       "localImageResourceNightMode": "gem_junior_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
       "url": "https://gm.onetv.app/live/gemjunior/index.m3u8"
     },
@@ -774,7 +816,9 @@
       "localImageResource": "gem_kids",
       "localImageResourceNightMode": "gem_kids_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8",
       "url": "https://gm.onetv.app/live/gemkids/index.m3u8"
     },
@@ -789,7 +833,9 @@
       "localImageResource": "gem_food",
       "localImageResourceNightMode": "gem_food_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
       "url": "https://gm.onetv.app/live/gemfood/index.m3u8"
     },
@@ -804,7 +850,9 @@
       "localImageResource": "gem_life",
       "localImageResourceNightMode": "gem_life_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemlife/index.m3u8",
       "url": "https://gm.onetv.app/live/gemlife/index.m3u8"
     },
@@ -819,7 +867,9 @@
       "localImageResource": "gem_maxx",
       "localImageResourceNightMode": "gem_maxx_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
       "url": "https://gm.onetv.app/live/gemmaxx/index.m3u8"
     },
@@ -834,7 +884,9 @@
       "localImageResource": "gem_river",
       "localImageResourceNightMode": "gem_river_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/river/index.m3u8",
       "url": "https://gm.onetv.app/live/river/index.m3u8"
     },
@@ -849,7 +901,9 @@
       "localImageResource": "gem_rubix",
       "localImageResourceNightMode": "gem_rubix_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
       "url": "https://gm.onetv.app/live/rubix/index.m3u8"
     },
@@ -864,7 +918,9 @@
       "localImageResource": "gem_travel",
       "localImageResourceNightMode": "gem_travel_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8",
       "url": "https://gm.onetv.app/live/gemtravel/index.m3u8"
     },
@@ -879,7 +935,9 @@
       "localImageResource": "gem_crypto",
       "localImageResourceNightMode": "gem_crypto_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
       "url": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
     },
@@ -2113,7 +2171,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kanal_d",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8?live=true&app=com.kanald&min=0&max=1250",
       "backupId": "4602"
     },
@@ -3899,7 +3959,9 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_3",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "maxBitRate": "2000000",
       "url": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8",
       "backupId": "2023"
@@ -3918,7 +3980,9 @@
       "serverName": "Sepehr",
       "channelName": "tv3",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupId": "2023"
     },
@@ -3986,7 +4050,9 @@
       "favorite": "Yes",
       "localImageResource": "irib_varzesh",
       "localImageResourceNightMode": "irib_varzesh_night_mode",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "maxBitRate": "2000000",
       "url": "https://cdnw.telewebion.com/varzesh/live/playlist.m3u8",
       "backupId": "2027"
@@ -4004,7 +4070,9 @@
       "serverName": "Sepehr",
       "channelName": "Varzesh",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupId": "2027"
     },
@@ -4035,7 +4103,9 @@
       "serverName": "Sepehr",
       "channelName": "uhd",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4102,7 +4172,9 @@
       "serverName": "Sepehr",
       "channelName": "ifilmen",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupId": "41094"
     },
@@ -4117,7 +4189,9 @@
       "serverName": "Sepehr",
       "channelName": "ifilmdari",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupId": "41095"
     },
@@ -4132,7 +4206,9 @@
       "serverName": "Sepehr",
       "channelName": "filmarabic",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupId": "41096"
     },
@@ -4316,7 +4392,9 @@
       "serverName": "Sepehr",
       "channelName": "abadan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4330,7 +4408,9 @@
       "serverName": "Sepehr",
       "channelName": "aflak",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4344,7 +4424,9 @@
       "serverName": "Sepehr",
       "channelName": "aftab",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4358,7 +4440,9 @@
       "serverName": "Sepehr",
       "channelName": "azarbayjan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4372,7 +4456,9 @@
       "serverName": "Sepehr",
       "channelName": "alborz",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4386,7 +4472,9 @@
       "serverName": "Sepehr",
       "channelName": "baran",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4400,7 +4488,9 @@
       "serverName": "Sepehr",
       "channelName": "bushehr",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4414,7 +4504,9 @@
       "serverName": "Sepehr",
       "channelName": "dena",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4428,7 +4520,9 @@
       "serverName": "Sepehr",
       "channelName": "esfahan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4442,7 +4536,9 @@
       "serverName": "Sepehr",
       "channelName": "eshragh",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4456,7 +4552,9 @@
       "serverName": "Sepehr",
       "channelName": "fars",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4470,7 +4568,9 @@
       "serverName": "Sepehr",
       "channelName": "golestan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4484,7 +4584,9 @@
       "serverName": "Sepehr",
       "channelName": "hamedan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4498,7 +4600,9 @@
       "serverName": "Sepehr",
       "channelName": "hamoon",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4512,7 +4616,9 @@
       "serverName": "Sepehr",
       "channelName": "ilam",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4526,7 +4632,9 @@
       "serverName": "Sepehr",
       "channelName": "jahanbin",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4540,7 +4648,9 @@
       "serverName": "Sepehr",
       "channelName": "kerman",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4554,7 +4664,9 @@
       "serverName": "Sepehr",
       "channelName": "kermanshah",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4568,7 +4680,9 @@
       "serverName": "Sepehr",
       "channelName": "khalijefars",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4582,7 +4696,9 @@
       "serverName": "Sepehr",
       "channelName": "khorasanjonoobi",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4596,7 +4712,9 @@
       "serverName": "Sepehr",
       "channelName": "khorasanrazavi",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4610,7 +4728,9 @@
       "serverName": "Sepehr",
       "channelName": "khorasanshomali",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4624,7 +4744,9 @@
       "serverName": "Sepehr",
       "channelName": "khoozestan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4638,7 +4760,9 @@
       "serverName": "Sepehr",
       "channelName": "kish",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4652,7 +4776,9 @@
       "serverName": "Sepehr",
       "channelName": "kordestan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4666,7 +4792,9 @@
       "serverName": "Sepehr",
       "channelName": "mahabad",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4680,7 +4808,9 @@
       "serverName": "Sepehr",
       "channelName": "mazandaran",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4694,7 +4824,9 @@
       "serverName": "Sepehr",
       "channelName": "noor",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4708,7 +4840,9 @@
       "serverName": "Sepehr",
       "channelName": "qazvin",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4722,7 +4856,9 @@
       "serverName": "Sepehr",
       "channelName": "sabalan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4736,7 +4872,9 @@
       "serverName": "Sepehr",
       "channelName": "sahand",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4750,7 +4888,9 @@
       "serverName": "Sepehr",
       "channelName": "semnan",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -4764,7 +4904,9 @@
       "serverName": "Sepehr",
       "channelName": "taban",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     }
   ],
@@ -5696,7 +5838,9 @@
       "serverName": "Sepehr",
       "channelName": "tv1",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/tv1/live/playlist.m3u8"
     },
@@ -5711,7 +5855,9 @@
       "serverName": "Sepehr",
       "channelName": "tv2",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/tv2/live/playlist.m3u8"
     },
@@ -5726,7 +5872,9 @@
       "serverName": "Sepehr",
       "channelName": "tv4",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/tv4/live/playlist.m3u8"
     },
@@ -5741,7 +5889,9 @@
       "serverName": "Sepehr",
       "channelName": "tv5",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/tehran/live/playlist.m3u8"
     },
@@ -5757,7 +5907,9 @@
       "serverName": "Sepehr",
       "channelName": "irinn",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/irinn/live/playlist.m3u8"
     },
@@ -5772,7 +5924,9 @@
       "serverName": "Sepehr",
       "channelName": "tamasha",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/hdtest/live/playlist.m3u8"
     },
@@ -5787,7 +5941,9 @@
       "serverName": "Sepehr",
       "channelName": "Nasim",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/nasim/live/playlist.m3u8"
     },
@@ -5803,7 +5959,9 @@
       "serverName": "Sepehr",
       "channelName": "amouzesh",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/amouzesh/live/playlist.m3u8"
     },
@@ -5818,7 +5976,9 @@
       "serverName": "Sepehr",
       "channelName": "ifilmfa",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/ifilm/live/playlist.m3u8"
     },
@@ -5833,7 +5993,9 @@
       "serverName": "Sepehr",
       "channelName": "ifilmen",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -5847,7 +6009,9 @@
       "serverName": "Sepehr",
       "channelName": "ifilmdari",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -5861,7 +6025,9 @@
       "serverName": "Sepehr",
       "channelName": "filmarabic",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -5875,7 +6041,9 @@
       "serverName": "Sepehr",
       "channelName": "mostanad",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/mostanad/live/playlist.m3u8"
     },
@@ -5890,7 +6058,9 @@
       "serverName": "Sepehr",
       "channelName": "namayesh",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/namayesh/live/playlist.m3u8"
     },
@@ -5905,7 +6075,9 @@
       "serverName": "Sepehr",
       "channelName": "quran",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -5919,7 +6091,9 @@
       "serverName": "Sepehr",
       "channelName": "ofogh",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -5933,7 +6107,9 @@
       "serverName": "Sepehr",
       "channelName": "omid",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -5947,7 +6123,9 @@
       "serverName": "Sepehr",
       "channelName": "pouya",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -5961,7 +6139,9 @@
       "serverName": "Sepehr",
       "channelName": "salamat",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -5975,7 +6155,9 @@
       "serverName": "Sepehr",
       "channelName": "sepehr",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -5988,7 +6170,9 @@
       "localImageResource": "irib_javaneh",
       "serverName": "Sepehr",
       "channelName": "javaneh",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/javaneh"
     },
     {
@@ -6002,7 +6186,9 @@
       "serverName": "Sepehr",
       "channelName": "ara",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -6016,7 +6202,9 @@
       "serverName": "Sepehr",
       "channelName": "jam",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live",
       "backupUrl": "https://cdnw.telewebion.com/jam/live/playlist.m3u8"
     },
@@ -6031,7 +6219,9 @@
       "serverName": "Sepehr",
       "channelName": "nama",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
@@ -6045,7 +6235,9 @@
       "serverName": "Sepehr",
       "channelName": "nava",
       "streamingUrlReferer": "https://sepehr.irib.ir/",
-      "httpTimeout": "1000",
+       "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
     },
     {
