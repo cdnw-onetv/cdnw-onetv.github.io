@@ -1861,7 +1861,7 @@
       "language_code": "ku",
       "localImageResource": "speda_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/speda_tv.png",
-      "url": "http://cdn.dwasat.com:1935/live/speda084k/playlist.m3u8"
+      "url": "http://speda.dwasat.com:8880/live/speda084k/chunklist.m3u8"
     },
     {
       "id": "330",
