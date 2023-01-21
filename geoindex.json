@@ -1720,7 +1720,18 @@
       "channelName": "kurdmax_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdMax",
-      "backupUrl": "https://glwizhhls29.glwiz.com/KurdMax/KurdMax_Low.m3u8?user=sglsm1zrxitynh0qolwejj5i5zf0&session=c6a77072794e4a87f5ac6d1b9370bc525fd716c6c51b3f4e1745782c4885b261ca7e2fd146babe44fdeb48f4d05d61919eb809637469470f9bbafdbd35615a44&hlsid=HTTP_ID_181641",
+      "backupId": "4303"
+    },
+    {
+      "id": "40303",
+      "title": "Kurdmax (Test)",
+      "title_b_fa": "کوردماکس",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "favorite": "Yes",
+      "localImageResource": "kurdmax_tv",
+      "url": "https://ca-rt.onetv.app/kurdmax/index-0.m3u8",
       "backupId": "4303"
     },
     {
@@ -1737,6 +1748,17 @@
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdmaxShow",
       "backupUrl": "https://glwizhhls29.glwiz.com/KurdmaxShow/KurdmaxShow_Low.m3u8?user=sglsm1zrxitynh0qolwejj5i5zf0&session=d0ab80e3a10521a8f0a70de4a3d8ce4f409cd3badb981401c7101d27f87b473389e42de648d38c81396b64241178539798fafd29e991ad584924993b1a364446&hlsid=HTTP_ID_181793",
+      "backupId": "4304"
+    },
+    {
+      "id": "40304",
+      "title": "Kurdmax Show (Test)",
+      "title_b_fa": "کوردماکس شو",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "kurdmax_show_tv",
+      "url": "https://ca-rt.onetv.app/kurdmaxshow/index-0.m3u8",
       "backupId": "4304"
     },
     {
