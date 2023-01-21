@@ -2034,7 +2034,7 @@
       "language_code": "ku",
       "localImageResource": "jin_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/jin_tv.png",
-      "url": "https://live.jintv.org:12443/medialive/jintv.m3u8",
+      "url": "https://live.jintv.org/medialive/jintv.m3u8",
       "backupId": "4333"
     },
     {
