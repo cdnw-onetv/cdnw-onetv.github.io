@@ -475,6 +475,17 @@
       "backupId": "60005"
     },
     {
+      "id": "80016",
+      "title": "Tapesh 2 (Test)",
+      "title_b_fa": "تپش دو (آزمایشی)",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "tapesh_2",
+      "url": "https://ca-rt.onetv.app/tapesh2/index-0.m3u8",
+      "maxBitRate": "300000"
+    },
+    {
       "id": "57",
       "title": "PMC Royale",
       "title_b_fa": "پی ام سی رویال",
