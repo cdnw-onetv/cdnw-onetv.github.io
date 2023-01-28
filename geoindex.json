@@ -1789,7 +1789,7 @@
       "channelName": "kurdmax_backup",
       "serverName": "EmbeddedWebView",
       "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdMax",
-      "backupId": "40303"
+      "backupId": "4303"
     },
     {
       "id": "40303",
@@ -1814,8 +1814,8 @@
       "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "kurdmaxShow_backup",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdmaxShow",
-      "backupId": "40304"
+      "url2": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdmaxShow",
+      "backupId": "4304"
     },
     {
       "id": "40304",
@@ -1908,6 +1908,7 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "tishk_tv",
       "url": "https://tishk-tv.ikoflix.com/hls/tishk-tv.m3u8"
     },
@@ -1953,6 +1954,7 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "korek_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/korek_tv.png",
       "streamingUrlReferer": "http://www.elahmad.com",
