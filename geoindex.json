@@ -6376,11 +6376,9 @@
       "tags": "Sport",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!QA",
       "channelName": "irib_3_backup",
-      "serverName2": "EmbeddedWebView",
-      "url": "https://ca-rt.onetv.app/IRIBChannel3/index-0.m3u8",
-      "url2": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBChannel3",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
       "backupId": "121022"
     },
     {
@@ -6391,11 +6389,11 @@
       "tags": "Sport",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!QA",
       "localImageResource": "irib_3",
       "serverName": "EmbeddedWebView",
+      "url": "https://www.persianleague.com/iran-live-tv/video/11-shabakeh3",
+      "url2": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBChannel3",
       "channelName": "irib_3_backup_4",
-      "url": "https://www.persianleague.com/iran-live-tv/video/11-shabakeh3"
     },
     {
       "id": "81026",
