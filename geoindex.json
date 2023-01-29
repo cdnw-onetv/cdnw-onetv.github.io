@@ -476,15 +476,6 @@
       "url2": "http://radio.persianvip.com:8888/;"
     },
     {
-      "id": "58",
-      "title": "MTC",
-      "title_b_fa": "ام تی سی",
-      "description": "Music",
-      "language_code": "fa",
-      "localImageResource": "mtc_tv",
-      "url": "http://51.210.227.128/hls/stream.m3u8"
-    },
-    {
       "id": "16",
       "title": "T2",
       "title_b_fa": "تپش دو",
@@ -1183,6 +1174,15 @@
       "url": "http://51.210.199.33/hls/stream.m3u8"
     },
     {
+      "id": "58",
+      "title": "MTC",
+      "title_b_fa": "ام تی سی",
+      "description": "General",
+      "language_code": "fa",
+      "localImageResource": "mtc_tv",
+      "url": "http://51.210.227.128/hls/stream.m3u8"
+    },
+    {
       "id": "96",
       "title": "Khatereh TV",
       "title_b_fa": "خاطره",
@@ -1345,7 +1345,7 @@
     },
     {
       "id": "114",
-      "title": "Ekran Moview",
+      "title": "Ekran Movies",
       "title_b_fa": "اکران موویز",
       "description": "Movies",
       "country_code": "IR",
