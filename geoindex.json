@@ -6378,7 +6378,7 @@
       "language_code": "fa",
       "channelName": "irib_3_backup",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
+      "url": "https://www.persianleague.com/iran-live-tv/video/11-shabakeh3",
       "backupId": "121022"
     },
     {
@@ -6391,9 +6391,8 @@
       "language_code": "fa",
       "localImageResource": "irib_3",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.persianleague.com/iran-live-tv/video/11-shabakeh3",
-      "url2": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBChannel3",
       "channelName": "irib_3_backup_4",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live"
     },
     {
       "id": "81026",
