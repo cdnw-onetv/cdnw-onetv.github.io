@@ -6402,10 +6402,9 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!QA",
       "channelName": "varzesh_backup",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBVarzesh",
+      "url": "https://www.persianleague.com/iran-live-tv/video/12-live-varzesh-tv",
       "backupId": "121026"
     },
     {
@@ -6417,11 +6416,9 @@
       "language_code": "fa",
       "geo_restrictions": "!QA",
       "localImageResource": "irib_varzesh",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "varzesh_backup_4",
-      "streamingUrlReferer": "https://www.persianleague.com/",
-      "streamingUrlOrigin": "https://www.persianleague.com",
-      "url": "https://www.persianleague.com/iran-live-tv/video/12-live-varzeshtv"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-varzesh-live-tv"
     },
     {
       "id": "40045",
