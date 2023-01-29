@@ -541,8 +541,10 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "localImageResource": "manoto",
-      "localImageResourceNightMode": "manoto_night_mode",
+      "localImageResource": "manoto_plus_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/manoto_plus_1.png",
+      "localImageResourceNightMode": "manoto_plus_1_night_mode",
+      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/manoto_plus_1_night_mode.png",
       "url": "https://ca-rt.onetv.app/ManotoPlus1/index-0.m3u8"
     },
     {
@@ -552,8 +554,10 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "localImageResource": "manoto",
-      "localImageResourceNightMode": "manoto_night_mode",
+      "localImageResource": "manoto_plus_2",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/manoto_plus_2.png",
+      "localImageResourceNightMode": "manoto_plus_2_night_mode",
+      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/manoto_plus_2_night_mode.png",
       "url": "https://ca-rt.onetv.app/ManotoPlus2/index-0.m3u8"
     },
     {
