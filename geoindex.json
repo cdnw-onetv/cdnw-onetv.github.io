@@ -6373,8 +6373,9 @@
       "language_code": "fa",
       "geo_restrictions": "!QA",
       "channelName": "irib_3_backup",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBChannel3",
+      "serverName2": "EmbeddedWebView",
+      "url": "https://ca-rt.onetv.app/IRIBChannel3/index-0.m3u8",
+      "url2": "http://www.elahmad.com/tv/iran-tv-online.php?id=IRIBChannel3",
       "backupId": "121022"
     },
     {
