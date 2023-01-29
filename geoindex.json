@@ -476,6 +476,15 @@
       "url2": "http://radio.persianvip.com:8888/;"
     },
     {
+      "id": "58",
+      "title": "MTC",
+      "title_b_fa": "ام تی سی",
+      "description": "Music",
+      "language_code": "fa",
+      "localImageResource": "mtc_tv",
+      "url": "http://51.210.227.128/hls/stream.m3u8"
+    },
+    {
       "id": "16",
       "title": "T2",
       "title_b_fa": "تپش دو",
@@ -1444,6 +1453,17 @@
       "url": "https://live.pars-israel.com/iptv/stream.m3u8"
     },
     {
+      "id": "116",
+      "title": "Simaye Azadi",
+      "title_b_fa": "سیمای آزادی",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "simaye_azadi",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/simaye_azadi.png",
+      "url": "https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8"
+    },
+    {
       "id": "93",
       "title": "Iran-e Farda",
       "title_b_fa": "ایران فردا",
@@ -1452,7 +1472,7 @@
       "language_code": "fa",
       "localImageResource": "iran_e_farda",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_e_farda.png",
-      "url": "http://51.210.199.53/hls/stream.m3u8",
+      "url": "http://51.210.227.159/hls/stream.m3u8",
       "backupId": "40093"
     },
     {
@@ -1462,11 +1482,12 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "iran_aryaee",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_aryaee.png",
       "channelName": "channel_yek",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IranEAryaee",
+      "serverName": "Embedded",
+      "url": "https://livestream.com/iranaryaeetv/events/3752117",
       "backupId": "40104"
     },
     {
@@ -1650,67 +1671,6 @@
       "serverName": "EmbeddedWebView",
       "channelName": "tva_koodak",
       "url": "https://tva.tv/channels/kids"
-    },
-    {
-      "id": "83",
-      "title": "Aio Dorfa",
-      "title_b_fa": "آیو درفا",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "aio_dorfa",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_dorfa.png",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://live.aionet.ir/hls/dorfa/dorfa.m3u8"
-    },
-    {
-      "id": "84",
-      "title": "Aio Arpa",
-      "title_b_fa": "آیو آرپا",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "aio_arpa",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_arpa.png",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://live.aionet.ir/hls/arpa/arpa.m3u8"
-    },
-    {
-      "id": "85",
-      "title": "Aio Economy",
-      "title_b_fa": "آیو اکونومی",
-      "description": "Business",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "aio_network",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://live.aionet.ir/hls/iraneconomy/iraneconomy.m3u8"
-    },
-    {
-      "id": "80",
-      "title": "Aio Jahanbin",
-      "title_b_fa": "آیو جهان بین",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "aio_network",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://live.aionet.ir/hls/jahanb/jahanb.m3u8"
-    },
-    {
-      "id": "40",
-      "title": "Tva Nava",
-      "title_b_fa": "تیوا نوا",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "tva_nava",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_nava.png",
-      "serverName": "EmbeddedWebView",
-      "channelName": "tva_nava",
-      "url": "https://tva.tv/channels/Nava"
     },
     {
       "id": "200",
@@ -2788,14 +2748,14 @@
     },
     {
       "id": "663",
-      "title": "Kral TV",
-      "title_b_fa": "کرال تی وی",
+      "title": "Kral FM",
+      "title_b_fa": "کرال اف ام",
       "description": "Music",
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kral_tv",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Z8-NunA-0aM",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=A49bKX8gb-8",
       "backupUrl1": "https://www.youtube.com/watch?v=Z8-NunA-0aM&theme=dark&mode=theater&modestbranding=1&controls=0"
     },
     {
@@ -5922,21 +5882,72 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "",
       "localImageResource": "iran_aryaee",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_aryaee.png",
       "channelName": "channel_yek",
-      "serverName": "Embedded",
-      "url": "https://livestream.com/iranaryaeetv/events/3752117"
+      "serverName": "EmbeddedWebView",
+      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IranEAryaee"
     },
     {
-      "id": "58",
-      "title": "MTC",
-      "title_b_fa": "ام تی سی",
-      "description": "Music",
+      "id": "83",
+      "title": "Aio Dorfa",
+      "title_b_fa": "آیو درفا",
+      "description": "General",
+      "country_code": "IR",
       "language_code": "fa",
-      "localImageResource": "mtc_tv",
-      "url": "http://51.210.227.128/hls/stream.m3u8"
+      "localImageResource": "aio_dorfa",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_dorfa.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://live.aionet.ir/hls/dorfa/dorfa.m3u8"
+    },
+    {
+      "id": "84",
+      "title": "Aio Arpa",
+      "title_b_fa": "آیو آرپا",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "aio_arpa",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_arpa.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://live.aionet.ir/hls/arpa/arpa.m3u8"
+    },
+    {
+      "id": "85",
+      "title": "Aio Economy",
+      "title_b_fa": "آیو اکونومی",
+      "description": "Business",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "aio_network",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://live.aionet.ir/hls/iraneconomy/iraneconomy.m3u8"
+    },
+    {
+      "id": "80",
+      "title": "Aio Jahanbin",
+      "title_b_fa": "آیو جهان بین",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "aio_network",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://live.aionet.ir/hls/jahanb/jahanb.m3u8"
+    },
+    {
+      "id": "40",
+      "title": "Tva Nava",
+      "title_b_fa": "تیوا نوا",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "tva_nava",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_nava.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "tva_nava",
+      "url": "https://tva.tv/channels/Nava"
     },
     {
       "id": "41020",
