@@ -1179,7 +1179,8 @@
       "title_b_fa": "ام تی سی",
       "description": "General",
       "language_code": "fa",
-      "localImageResource": "mtc_tv",
+      "localImageResource": "mtc_tv_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/mtc_tv_1.png",
       "url": "http://51.210.227.128/hls/stream.m3u8"
     },
     {
