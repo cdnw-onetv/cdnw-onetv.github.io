@@ -6414,7 +6414,6 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!QA",
       "localImageResource": "irib_varzesh",
       "serverName": "EmbeddedWebView",
       "channelName": "varzesh_backup_4",
@@ -6466,7 +6465,24 @@
       "channelName": "persian_sport_backup",
       "streamingUrlReferer": "https://www.persianleague.com/",
       "streamingUrlOrigin": "https://www.persianleague.com",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports",
+      "backupId": "80099"
+    },
+    {
+      "id": "80099",
+      "title": "Persiana Sports (Backup 2)",
+      "title_b_fa": "پرشیانا اسپرت (جایگزین)",
+      "description": "Sports",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,CH",
+      "localImageResource": "persiana_sports",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sports.png",
+      "serverName": "Embedded",
+      "channelName": "persian_sport_backup",
+      "streamingUrlReferer": "https://www.persianleague.com/",
+      "streamingUrlOrigin": "https://www.persianleague.com",
+      "url": "https://persianleague.com/iran-live-tv/video/21-sports-2"
     },
     {
       "id": "106",
