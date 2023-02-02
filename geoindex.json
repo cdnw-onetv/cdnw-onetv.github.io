@@ -269,7 +269,7 @@
       "httpConnectTimeout": "5000",
       "httpReadTimeout": "5000",
       "streamingUrlHeaders": "Host:d234zyvf3b6a4t.cloudfront.net",
-      "url": "http://13.224.58.219/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8"
+      "url": "http://intl-cname.onetvapi.ml/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8"
     },
     {
       "id": "29",
