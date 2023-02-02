@@ -261,6 +261,7 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "@IR",
       "localImageResource": "iran_international",
       "httpConnectTimeout": "5000",
       "httpReadTimeout": "5000",
