@@ -995,20 +995,6 @@
       "url": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
     },
     {
-      "id": "119",
-      "title": "Damac TV",
-      "title_b_fa": "داماک",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "damac_tv",
-      "localImageResourceNightMode": "damac_tv_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/damac_tv.png",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/damac_tv_night_mode.png",
-      "url": "http://51.210.227.166/hls/stream.m3u8"
-    },
-    {
       "id": "21",
       "title": "Persiana One",
       "title_b_fa": "پرشیانا وان",
@@ -1469,21 +1455,6 @@
       "streamingUrlReferer": "https://parstv.tv/",
       "serverName": "EmbeddedWebView",
       "channelName": "pars_tv",
-      "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/pars-tv",
-      "backupId": "40092"
-    },
-    {
-      "id": "40092",
-      "title": "Pars TV (Backup)",
-      "title_b_fa": "پارس تی وی (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "pars_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/pars_tv.png",
-      "channelName": "pars_tv_backup",
-      "serverName": "EmbeddedWebView",
       "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/pars-tv"
     },
     {
@@ -6033,6 +6004,20 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_junior",
       "url": "https://ca-rt.onetv.app/PersianaJunior/index-0.m3u8"
+    },
+    {
+      "id": "119",
+      "title": "Damac TV",
+      "title_b_fa": "داماک",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "damac_tv",
+      "localImageResourceNightMode": "damac_tv_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/damac_tv.png",
+      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/damac_tv_night_mode.png",
+      "url": "http://51.210.227.166/hls/stream.m3u8"
     },
     {
       "id": "40093",
