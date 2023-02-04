@@ -995,6 +995,20 @@
       "url": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
     },
     {
+      "id": "119",
+      "title": "Damac TV",
+      "title_b_fa": "داماک",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "damac_tv",
+      "localImageResourceNightMode": "damac_tv_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/damac_tv.png",
+      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/damac_tv_night_mode.png",
+      "url": "http://51.210.227.166/hls/stream.m3u8"
+    },
+    {
       "id": "21",
       "title": "Persiana One",
       "title_b_fa": "پرشیانا وان",
@@ -1168,20 +1182,6 @@
       "localImageResource": "persiana_science",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_science.png",
       "url": "http://51.210.199.26/hls/stream.m3u8"
-    },
-    {
-      "id": "119",
-      "title": "Damac TV",
-      "title_b_fa": "داماک",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "damac_tv",
-      "localImageResourceNightMode": "damac_tv_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/damac_tv.png",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/damac_tv_night_mode.png",
-      "url": "http://51.210.227.166/hls/stream.m3u8"
     },
     {
       "id": "56",
