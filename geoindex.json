@@ -1338,7 +1338,7 @@
     {
       "id": "118",
       "title": "Today TV",
-      "title_b_fa": "تودی",
+      "title_b_fa": "تودی تی وی",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
@@ -5496,7 +5496,7 @@
       "id": "3027",
       "title": "RTA Sport",
       "title_b_fa": "ملی ورزش",
-      "description": "Sport",
+      "description": "Sports",
       "country_code": "AF",
       "language_code": "fa",
       "localImageResource": "rta_news",
