@@ -398,8 +398,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "four_u",
-      "url": "http://51.210.227.153/hls/stream.m3u8",
-      "backupId": "40043"
+      "url": "http://51.210.227.153/hls/stream.m3u8"
     },
     {
       "id": "75",
@@ -626,20 +625,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "omid_iran",
-      "url": "http://51.210.199.38/hls/stream.m3u8",
-      "backupId": "40064"
-    },
-    {
-      "id": "40064",
-      "title": "Omid Iran (Backup)",
-      "title_b_fa": "امید ایران (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "omid_iran",
-      "channelName": "omid_iran",
-      "serverName": "Embedded",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/omid-e-iran"
+      "url": "http://51.210.199.38/hls/stream.m3u8"
     },
     {
       "id": "19",
@@ -659,8 +645,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "ava_series",
-      "url": "http://51.210.199.4/hls/stream.m3u8",
-      "backupId": "40020"
+      "url": "http://51.210.199.4/hls/stream.m3u8"
     },
     {
       "id": "66",
@@ -670,8 +655,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "vox_1",
-      "url": "http://51.210.199.8/hls/stream.m3u8",
-      "backupId": "40066"
+      "url": "http://51.210.199.8/hls/stream.m3u8"
     },
     {
       "id": "40008",
@@ -1018,8 +1002,7 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_one",
-      "url": "http://51.210.199.21/hls/stream.m3u8",
-      "backupId": "40021"
+      "url": "http://51.210.199.21/hls/stream.m3u8"
     },
     {
       "id": "88",
@@ -1042,8 +1025,7 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_music",
-      "url": "http://51.210.199.24/hls/stream.m3u8",
-      "backupId": "40022"
+      "url": "http://51.210.199.24/hls/stream.m3u8"
     },
     {
       "id": "23",
@@ -1078,8 +1060,7 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_nostalgia",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_nostalgia.png",
-      "url": "http://51.210.199.20/hls/stream.m3u8",
-      "backupId": "40090"
+      "url": "http://51.210.199.20/hls/stream.m3u8"
     },
     {
       "id": "100",
@@ -1091,8 +1072,7 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_rap",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_rap.png",
-      "url": "http://51.210.227.163/hls/stream.m3u8",
-      "backupId": "40100"
+      "url": "http://51.210.227.163/hls/stream.m3u8"
     },
     {
       "id": "89",
@@ -1130,8 +1110,7 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_iranian",
-      "url": "http://51.210.199.22/hls/stream.m3u8",
-      "backupId": "40026"
+      "url": "http://51.210.199.22/hls/stream.m3u8"
     },
     {
       "id": "25",
@@ -1142,8 +1121,7 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_family",
-      "url": "http://51.210.199.19/hls/stream.m3u8",
-      "backupId": "40025"
+      "url": "http://51.210.199.19/hls/stream.m3u8"
     },
     {
       "id": "24",
@@ -1154,19 +1132,7 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_comedy",
-      "url": "http://51.210.199.27/hls/stream.m3u8",
-      "backupId": "40024"
-    },
-    {
-      "id": "40024",
-      "title": "Persiana Comedy (Backup)",
-      "title_b_fa": "پرشیانا کمدی (جایگزین)",
-      "description": "Series",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_comedy",
-      "url": "https://ca-rt.onetv.app/PersianaComedy/index-0.m3u8"
+      "url": "http://51.210.199.27/hls/stream.m3u8"
     },
     {
       "id": "28",
@@ -1177,8 +1143,7 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_korea",
-      "url": "http://51.210.199.14/hls/stream.m3u8",
-      "backupId": "40028"
+      "url": "http://51.210.199.14/hls/stream.m3u8"
     },
     {
       "id": "78",
@@ -1189,8 +1154,7 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_junior",
-      "url": "http://51.210.199.18/hls/stream.m3u8",
-      "backupId": "40078"
+      "url": "http://51.210.199.18/hls/stream.m3u8"
     },
     {
       "id": "102",
@@ -1202,8 +1166,7 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_science",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_science.png",
-      "url": "http://51.210.199.26/hls/stream.m3u8",
-      "backupId": "40102"
+      "url": "http://51.210.199.26/hls/stream.m3u8"
     },
     {
       "id": "56",
@@ -1213,18 +1176,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "maah_tv",
-      "url": "http://51.210.199.33/hls/stream.m3u8",
-      "backupId": "40056"
-    },
-    {
-      "id": "40056",
-      "title": "Maah TV (Backup)",
-      "title_b_fa": "ماه (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "maah_tv",
-      "url": "https://ca-rt.onetv.app/MaahTV/index-0.m3u8"
+      "url": "http://51.210.199.33/hls/stream.m3u8"
     },
     {
       "id": "58",
