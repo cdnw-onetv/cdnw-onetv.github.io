@@ -663,16 +663,6 @@
       "backupId": "40020"
     },
     {
-      "id": "40020",
-      "title": "AVA Series (Backup)",
-      "title_b_fa": "آوا سریز (جایگزین)",
-      "description": "Series",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "ava_series",
-      "url": "https://ca-rt.onetv.app/AVASeries/index-0.m3u8"
-    },
-    {
       "id": "66",
       "title": "VOX 1",
       "title_b_fa": "وی او ایکس یک",
@@ -682,16 +672,6 @@
       "localImageResource": "vox_1",
       "url": "http://51.210.199.8/hls/stream.m3u8",
       "backupId": "40066"
-    },
-    {
-      "id": "40066",
-      "title": "VOX 1 (Backup)",
-      "title_b_fa": "وی او ایکس یک (جایگزین)",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "vox_1",
-      "url": "https://ca-rt.onetv.app/VOX1/index-0.m3u8"
     },
     {
       "id": "40008",
@@ -1042,17 +1022,6 @@
       "backupId": "40021"
     },
     {
-      "id": "40021",
-      "title": "Persiana One (Backup)",
-      "title_b_fa": "پرشیانا وان (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_one",
-      "url": "https://ca-rt.onetv.app/PersianaPlus/index-0.m3u8"
-    },
-    {
       "id": "88",
       "title": "Persiana HD",
       "title_b_fa": "پرشیانا اچ دی",
@@ -1075,17 +1044,6 @@
       "localImageResource": "persiana_music",
       "url": "http://51.210.199.24/hls/stream.m3u8",
       "backupId": "40022"
-    },
-    {
-      "id": "40022",
-      "title": "Persiana Music (Backup)",
-      "title_b_fa": "پرشیانا موزیک (جایگزین)",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_music",
-      "url": "https://ca-rt.onetv.app/PersianaMusic/index-0.m3u8"
     },
     {
       "id": "23",
@@ -1124,18 +1082,6 @@
       "backupId": "40090"
     },
     {
-      "id": "40090",
-      "title": "Persiana Nostalgia (Backup)",
-      "title_b_fa": "پرشیانا نوستالژی (جایگزین)",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_nostalgia",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_nostalgia.png",
-      "url": "https://ca-rt.onetv.app/PersianaNostalgia/index-0.m3u8"
-    },
-    {
       "id": "100",
       "title": "Persiana Rap",
       "title_b_fa": "پرشیانا رپ",
@@ -1147,18 +1093,6 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_rap.png",
       "url": "http://51.210.227.163/hls/stream.m3u8",
       "backupId": "40100"
-    },
-    {
-      "id": "40100",
-      "title": "Persiana Rap (Backup)",
-      "title_b_fa": "پرشیانا رپ (جایگزین)",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_rap",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_rap.png",
-      "url": "https://ca-rt.onetv.app/PersianaRap/index-0.m3u8"
     },
     {
       "id": "89",
@@ -1200,17 +1134,6 @@
       "backupId": "40026"
     },
     {
-      "id": "40026",
-      "title": "Persiana Iranian (Backup)",
-      "title_b_fa": "پرشیانا ایرانیان (جایگزین)",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_iranian",
-      "url": "https://ca-rt.onetv.app/Persiana4/index-0.m3u8"
-    },
-    {
       "id": "25",
       "title": "Persiana Family",
       "title_b_fa": "پرشیانا فامیلی",
@@ -1221,17 +1144,6 @@
       "localImageResource": "persiana_family",
       "url": "http://51.210.199.19/hls/stream.m3u8",
       "backupId": "40025"
-    },
-    {
-      "id": "40025",
-      "title": "Persiana Family (Backup)",
-      "title_b_fa": "پرشیانا فامیلی (جایگزین)",
-      "description": "Series",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_family",
-      "url": "https://ca-rt.onetv.app/PersianaFamily/index-0.m3u8"
     },
     {
       "id": "24",
@@ -1269,17 +1181,6 @@
       "backupId": "40028"
     },
     {
-      "id": "40028",
-      "title": "Persiana Korea (Backup)",
-      "title_b_fa": "پرشیانا کره (جایگزین)",
-      "description": "Series",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_korea",
-      "url": "https://ca-rt.onetv.app/PersianaEntertainment/index-0.m3u8"
-    },
-    {
       "id": "78",
       "title": "Persiana Junior",
       "title_b_fa": "پرشیانا جونیور",
@@ -1290,17 +1191,6 @@
       "localImageResource": "persiana_junior",
       "url": "http://51.210.199.18/hls/stream.m3u8",
       "backupId": "40078"
-    },
-    {
-      "id": "40078",
-      "title": "Persiana Junior (Backup)",
-      "title_b_fa": "پرشیانا جونیور (جایگزین)",
-      "description": "Kids",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_junior",
-      "url": "https://ca-rt.onetv.app/PersianaJunior/index-0.m3u8"
     },
     {
       "id": "102",
@@ -6069,6 +5959,116 @@
       "language_code": "fa",
       "localImageResource": "four_u",
       "url": "https://ca-rt.onetv.app/4uTV/index-0.m3u8"
+    },
+    {
+      "id": "40020",
+      "title": "AVA Series (Backup)",
+      "title_b_fa": "آوا سریز (جایگزین)",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "ava_series",
+      "url": "https://ca-rt.onetv.app/AVASeries/index-0.m3u8"
+    },
+    {
+      "id": "40066",
+      "title": "VOX 1 (Backup)",
+      "title_b_fa": "وی او ایکس یک (جایگزین)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "vox_1",
+      "url": "https://ca-rt.onetv.app/VOX1/index-0.m3u8"
+    },
+    {
+      "id": "40021",
+      "title": "Persiana One (Backup)",
+      "title_b_fa": "پرشیانا وان (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_one",
+      "url": "https://ca-rt.onetv.app/PersianaPlus/index-0.m3u8"
+    },
+    {
+      "id": "40022",
+      "title": "Persiana Music (Backup)",
+      "title_b_fa": "پرشیانا موزیک (جایگزین)",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_music",
+      "url": "https://ca-rt.onetv.app/PersianaMusic/index-0.m3u8"
+    },
+    {
+      "id": "40090",
+      "title": "Persiana Nostalgia (Backup)",
+      "title_b_fa": "پرشیانا نوستالژی (جایگزین)",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_nostalgia",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_nostalgia.png",
+      "url": "https://ca-rt.onetv.app/PersianaNostalgia/index-0.m3u8"
+    },
+    {
+      "id": "40100",
+      "title": "Persiana Rap (Backup)",
+      "title_b_fa": "پرشیانا رپ (جایگزین)",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_rap",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_rap.png",
+      "url": "https://ca-rt.onetv.app/PersianaRap/index-0.m3u8"
+    },
+    {
+      "id": "40026",
+      "title": "Persiana Iranian (Backup)",
+      "title_b_fa": "پرشیانا ایرانیان (جایگزین)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_iranian",
+      "url": "https://ca-rt.onetv.app/Persiana4/index-0.m3u8"
+    },
+    {
+      "id": "40025",
+      "title": "Persiana Family (Backup)",
+      "title_b_fa": "پرشیانا فامیلی (جایگزین)",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_family",
+      "url": "https://ca-rt.onetv.app/PersianaFamily/index-0.m3u8"
+    },
+    {
+      "id": "40028",
+      "title": "Persiana Korea (Backup)",
+      "title_b_fa": "پرشیانا کره (جایگزین)",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_korea",
+      "url": "https://ca-rt.onetv.app/PersianaEntertainment/index-0.m3u8"
+    },
+    {
+      "id": "40078",
+      "title": "Persiana Junior (Backup)",
+      "title_b_fa": "پرشیانا جونیور (جایگزین)",
+      "description": "Kids",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_junior",
+      "url": "https://ca-rt.onetv.app/PersianaJunior/index-0.m3u8"
     },
     {
       "id": "40093",
