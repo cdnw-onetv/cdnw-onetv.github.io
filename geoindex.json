@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "62"
+      "description": "63"
     },
     {
       "id": "2001",
@@ -409,7 +409,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "four_u",
-      "url": "http://51.210.227.153/hls/stream.m3u8"
+      "url": "http://51.210.227.153/hls/stream.m3u8",
+      "backupId": "40043"
     },
     {
       "id": "75",
@@ -636,7 +637,20 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "omid_iran",
-      "url": "http://51.210.199.38/hls/stream.m3u8"
+      "url": "http://51.210.199.38/hls/stream.m3u8",
+      "backupId": "40064"
+    },
+    {
+      "id": "40064",
+      "title": "Omid Iran (Backup)",
+      "title_b_fa": "امید ایران",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "omid_iran",
+      "channelName": "omid_iran",
+      "serverName": "Embedded",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/omid-e-iran"
     },
     {
       "id": "19",
@@ -656,7 +670,18 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "ava_series",
-      "url": "http://51.210.199.4/hls/stream.m3u8"
+      "url": "http://51.210.199.4/hls/stream.m3u8",
+      "backupId": "40020"
+    },
+    {
+      "id": "40020",
+      "title": "AVA Series (Backup)",
+      "title_b_fa": "آوا سریز",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "ava_series",
+      "url": "https://ca-rt.onetv.app/AVASeries/index-0.m3u8"
     },
     {
       "id": "66",
@@ -666,18 +691,18 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "vox_1",
-      "url": "http://51.210.199.8/hls/stream.m3u8"
+      "url": "http://51.210.199.8/hls/stream.m3u8",
+      "backupId": "40066"
     },
     {
-      "id": "67",
-      "title": "VOX 2",
-      "title_b_fa": "وی او ایکس دو",
+      "id": "40066",
+      "title": "VOX 1 (Backup)",
+      "title_b_fa": "وی او ایکس یک",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "vox_2",
-      "url": "http://51.210.199.9/hls/stream.m3u8"
+      "localImageResource": "vox_1",
+      "url": "https://ca-rt.onetv.app/VOX1/index-0.m3u8"
     },
     {
       "id": "40008",
@@ -1024,7 +1049,19 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_one",
-      "url": "http://51.210.199.21/hls/stream.m3u8"
+      "url": "http://51.210.199.21/hls/stream.m3u8",
+      "backupId": "40021"
+    },
+    {
+      "id": "40021",
+      "title": "Persiana One (Backup)",
+      "title_b_fa": "پرشیانا وان",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_one",
+      "url": "https://ca-rt.onetv.app/PersianaPlus/index-0.m3u8"
     },
     {
       "id": "88",
@@ -1047,7 +1084,19 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_music",
-      "url": "http://51.210.199.24/hls/stream.m3u8"
+      "url": "http://51.210.199.24/hls/stream.m3u8",
+      "backupId": "40022"
+    },
+    {
+      "id": "40022",
+      "title": "Persiana Music (Backup)",
+      "title_b_fa": "پرشیانا موزیک",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_music",
+      "url": "https://ca-rt.onetv.app/PersianaMusic/index-0.m3u8"
     },
     {
       "id": "23",
@@ -1058,7 +1107,19 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_sonnati",
-      "url": "http://51.210.199.58/hls/stream.m3u8"
+      "url": "http://51.210.199.58/hls/stream.m3u8",
+      "backupId": "40023"
+    },
+    {
+      "id": "40023",
+      "title": "Persiana Sonnati (Backup)",
+      "title_b_fa": "پرشیانا سنتی",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_sonnati",
+      "url": "https://ca-rt.onetv.app/PersianaSonnati/index-0.m3u8"
     },
     {
       "id": "90",
@@ -1070,7 +1131,20 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_nostalgia",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_nostalgia.png",
-      "url": "http://51.210.199.20/hls/stream.m3u8"
+      "url": "http://51.210.199.20/hls/stream.m3u8",
+      "backupId": "40090"
+    },
+    {
+      "id": "40090",
+      "title": "Persiana Nostalgia (Backup)",
+      "title_b_fa": "پرشیانا نوستالژی",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_nostalgia",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_nostalgia.png",
+      "url": "https://ca-rt.onetv.app/PersianaNostalgia/index-0.m3u8"
     },
     {
       "id": "100",
@@ -1082,7 +1156,20 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_rap",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_rap.png",
-      "url": "http://51.210.227.163/hls/stream.m3u8"
+      "url": "http://51.210.227.163/hls/stream.m3u8",
+      "backupId": "40100"
+    },
+    {
+      "id": "40100",
+      "title": "Persiana Rap (Backup)",
+      "title_b_fa": "پرشیانا رپ",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_rap",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_rap.png",
+      "url": "https://ca-rt.onetv.app/PersianaRap/index-0.m3u8"
     },
     {
       "id": "89",
@@ -1120,7 +1207,19 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_iranian",
-      "url": "http://51.210.199.22/hls/stream.m3u8"
+      "url": "http://51.210.199.22/hls/stream.m3u8",
+      "backupId": "40026"
+    },
+    {
+      "id": "40026",
+      "title": "Persiana Iranian (Backup)",
+      "title_b_fa": "پرشیانا ایرانیان",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_iranian",
+      "url": "https://ca-rt.onetv.app/Persiana4/index-0.m3u8"
     },
     {
       "id": "25",
@@ -1131,7 +1230,19 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_family",
-      "url": "http://51.210.199.19/hls/stream.m3u8"
+      "url": "http://51.210.199.19/hls/stream.m3u8",
+      "backupId": "40025"
+    },
+    {
+      "id": "40025",
+      "title": "Persiana Family (Backup)",
+      "title_b_fa": "پرشیانا فامیلی",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_family",
+      "url": "https://ca-rt.onetv.app/PersianaFamily/index-0.m3u8"
     },
     {
       "id": "24",
@@ -1142,7 +1253,19 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_comedy",
-      "url": "http://51.210.199.27/hls/stream.m3u8"
+      "url": "http://51.210.199.27/hls/stream.m3u8",
+      "backupId": "40024"
+    },
+    {
+      "id": "40024",
+      "title": "Persiana Comedy (Backup)",
+      "title_b_fa": "پرشیانا کمدی",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_comedy",
+      "url": "https://ca-rt.onetv.app/PersianaComedy/index-0.m3u8"
     },
     {
       "id": "28",
@@ -1153,7 +1276,19 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_korea",
-      "url": "http://51.210.199.14/hls/stream.m3u8"
+      "url": "http://51.210.199.14/hls/stream.m3u8",
+      "backupId": "40028"
+    },
+    {
+      "id": "40028",
+      "title": "Persiana Korea (Backup)",
+      "title_b_fa": "پرشیانا کره",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_korea",
+      "url": "https://ca-rt.onetv.app/PersianaEntertainment/index-0.m3u8"
     },
     {
       "id": "78",
@@ -1164,7 +1299,19 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_junior",
-      "url": "http://51.210.199.18/hls/stream.m3u8"
+      "url": "http://51.210.199.18/hls/stream.m3u8",
+      "backupId": "40078"
+    },
+    {
+      "id": "40078",
+      "title": "Persiana Junior (Backup)",
+      "title_b_fa": "پرشیانا جونیور",
+      "description": "Kids",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_junior",
+      "url": "https://ca-rt.onetv.app/PersianaJunior/index-0.m3u8"
     },
     {
       "id": "102",
@@ -1176,7 +1323,8 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_science",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_science.png",
-      "url": "http://51.210.199.26/hls/stream.m3u8"
+      "url": "http://51.210.199.26/hls/stream.m3u8",
+      "backupId": "40102"
     },
     {
       "id": "56",
@@ -1186,7 +1334,18 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "maah_tv",
-      "url": "http://51.210.199.33/hls/stream.m3u8"
+      "url": "http://51.210.199.33/hls/stream.m3u8",
+      "backupId": "40056"
+    },
+    {
+      "id": "40056",
+      "title": "Maah TV (Backup)",
+      "title_b_fa": "ماه",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "maah_tv",
+      "url": "https://ca-rt.onetv.app/MaahTV/index-0.m3u8"
     },
     {
       "id": "58",
@@ -1207,7 +1366,19 @@
       "language_code": "fa",
       "localImageResource": "khatereh_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/khatereh_tv.png",
-      "url": "http://51.210.227.165/hls/stream.m3u8"
+      "url": "http://51.210.227.165/hls/stream.m3u8",
+      "backupId": "40096"
+    },
+    {
+      "id": "40096",
+      "title": "Khatereh TV (Backup)",
+      "title_b_fa": "خاطره",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "khatereh_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/khatereh_tv.png",
+      "url": "https://ca-rt.onetv.app/MaahTV/index-0.m3u8"
     },
     {
       "id": "115",
@@ -1261,7 +1432,18 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "fx_tv",
-      "url": "http://51.210.199.52/hls/stream.m3u8"
+      "url": "http://51.210.199.52/hls/stream.m3u8",
+      "backupId": "40055"
+    },
+    {
+      "id": "40055",
+      "title": "FX TV (Backup)",
+      "title_b_fa": "اف ایکس",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "fx_tv",
+      "url": "https://ca-rt.onetv.app/FXTV/index-0.m3u8"
     },
     {
       "id": "79",
@@ -1276,6 +1458,18 @@
       "url": "http://51.210.199.40/hls/stream.m3u8"
     },
     {
+      "id": "40079",
+      "title": "Family 24 TV (Backup)",
+      "title_b_fa": "فامیلی ۲۴",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "family_24_tv",
+      "localImageResourceNightMode": "family_24_tv_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/family_24_tv.png",
+      "url": "https://ca-rt.onetv.app/PrimaTV/index-0.m3u8"
+    },
+    {
       "id": "95",
       "title": "ICC+ TV",
       "title_b_fa": "آی سی سی پلاس",
@@ -1284,7 +1478,19 @@
       "language_code": "fa",
       "localImageResource": "icc_plus_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/icc_plus_tv.png",
-      "url": "http://51.210.227.156/hls/stream.m3u8"
+      "url": "http://51.210.227.156/hls/stream.m3u8",
+      "backupId": "40095"
+    },
+    {
+      "id": "40095",
+      "title": "ICC+ TV (Backup)",
+      "title_b_fa": "آی سی سی پلاس",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "icc_plus_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/icc_plus_tv.png",
+      "url": "https://ca-rt.onetv.app/ICC/index-0.m3u8"
     },
     {
       "id": "109",
@@ -5864,6 +6070,16 @@
       "channelName": "itn_backup_2",
       "serverName": "EmbeddedWebView",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/itn-tv"
+    },
+    {
+      "id": "40043",
+      "title": "4U (Backup)",
+      "title_b_fa": "فور یو",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "four_u",
+      "url": "https://ca-rt.onetv.app/4uTV/index-0.m3u8"
     },
     {
       "id": "40093",
