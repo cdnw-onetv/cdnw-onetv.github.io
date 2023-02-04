@@ -1286,19 +1286,8 @@
       "localImageResource": "family_24_tv",
       "localImageResourceNightMode": "family_24_tv_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/family_24_tv.png",
-      "url": "http://51.210.199.40/hls/stream.m3u8"
-    },
-    {
-      "id": "40079",
-      "title": "Family 24 TV (Backup)",
-      "title_b_fa": "فامیلی ۲۴ (جایگزین)",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "family_24_tv",
-      "localImageResourceNightMode": "family_24_tv_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/family_24_tv.png",
-      "url": "https://ca-rt.onetv.app/PrimaTV/index-0.m3u8"
+      "url": "http://51.210.199.15/hls/stream.m3u8",
+      "url0": "http://51.210.199.40/hls/stream.m3u8"
     },
     {
       "id": "95",
@@ -1309,19 +1298,7 @@
       "language_code": "fa",
       "localImageResource": "icc_plus_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/icc_plus_tv.png",
-      "url": "http://51.210.227.156/hls/stream.m3u8",
-      "backupId": "40095"
-    },
-    {
-      "id": "40095",
-      "title": "ICC+ TV (Backup)",
-      "title_b_fa": "آی سی سی پلاس (جایگزین)",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "icc_plus_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/icc_plus_tv.png",
-      "url": "https://ca-rt.onetv.app/ICC/index-0.m3u8"
+      "url": "http://51.210.227.156/hls/stream.m3u8"
     },
     {
       "id": "109",
