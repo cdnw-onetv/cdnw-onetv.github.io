@@ -364,17 +364,6 @@
       "url": "http://51.210.227.149/hls/stream.m3u8"
     },
     {
-      "id": "17",
-      "title": "EBC Music",
-      "title_b_fa": "ای بی سی موزیک",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "ebc_music",
-      "url": "https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8"
-    },
-    {
       "id": "6",
       "title": "RadioJavan",
       "title_b_fa": "رادیو جوان",
@@ -643,7 +632,7 @@
     {
       "id": "40064",
       "title": "Omid Iran (Backup)",
-      "title_b_fa": "امید ایران",
+      "title_b_fa": "امید ایران (جایگزین)",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -676,7 +665,7 @@
     {
       "id": "40020",
       "title": "AVA Series (Backup)",
-      "title_b_fa": "آوا سریز",
+      "title_b_fa": "آوا سریز (جایگزین)",
       "description": "Series",
       "country_code": "IR",
       "language_code": "fa",
@@ -697,7 +686,7 @@
     {
       "id": "40066",
       "title": "VOX 1 (Backup)",
-      "title_b_fa": "وی او ایکس یک",
+      "title_b_fa": "وی او ایکس یک (جایگزین)",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
@@ -1055,7 +1044,7 @@
     {
       "id": "40021",
       "title": "Persiana One (Backup)",
-      "title_b_fa": "پرشیانا وان",
+      "title_b_fa": "پرشیانا وان (جایگزین)",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -1090,7 +1079,7 @@
     {
       "id": "40022",
       "title": "Persiana Music (Backup)",
-      "title_b_fa": "پرشیانا موزیک",
+      "title_b_fa": "پرشیانا موزیک (جایگزین)",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
@@ -1113,7 +1102,7 @@
     {
       "id": "40023",
       "title": "Persiana Sonnati (Backup)",
-      "title_b_fa": "پرشیانا سنتی",
+      "title_b_fa": "پرشیانا سنتی (جایگزین)",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
@@ -1137,7 +1126,7 @@
     {
       "id": "40090",
       "title": "Persiana Nostalgia (Backup)",
-      "title_b_fa": "پرشیانا نوستالژی",
+      "title_b_fa": "پرشیانا نوستالژی (جایگزین)",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
@@ -1162,7 +1151,7 @@
     {
       "id": "40100",
       "title": "Persiana Rap (Backup)",
-      "title_b_fa": "پرشیانا رپ",
+      "title_b_fa": "پرشیانا رپ (جایگزین)",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
@@ -1213,7 +1202,7 @@
     {
       "id": "40026",
       "title": "Persiana Iranian (Backup)",
-      "title_b_fa": "پرشیانا ایرانیان",
+      "title_b_fa": "پرشیانا ایرانیان (جایگزین)",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
@@ -1236,7 +1225,7 @@
     {
       "id": "40025",
       "title": "Persiana Family (Backup)",
-      "title_b_fa": "پرشیانا فامیلی",
+      "title_b_fa": "پرشیانا فامیلی (جایگزین)",
       "description": "Series",
       "country_code": "IR",
       "language_code": "fa",
@@ -1259,7 +1248,7 @@
     {
       "id": "40024",
       "title": "Persiana Comedy (Backup)",
-      "title_b_fa": "پرشیانا کمدی",
+      "title_b_fa": "پرشیانا کمدی (جایگزین)",
       "description": "Series",
       "country_code": "IR",
       "language_code": "fa",
@@ -1282,7 +1271,7 @@
     {
       "id": "40028",
       "title": "Persiana Korea (Backup)",
-      "title_b_fa": "پرشیانا کره",
+      "title_b_fa": "پرشیانا کره (جایگزین)",
       "description": "Series",
       "country_code": "IR",
       "language_code": "fa",
@@ -1305,7 +1294,7 @@
     {
       "id": "40078",
       "title": "Persiana Junior (Backup)",
-      "title_b_fa": "پرشیانا جونیور",
+      "title_b_fa": "پرشیانا جونیور (جایگزین)",
       "description": "Kids",
       "country_code": "IR",
       "language_code": "fa",
@@ -1340,7 +1329,7 @@
     {
       "id": "40056",
       "title": "Maah TV (Backup)",
-      "title_b_fa": "ماه",
+      "title_b_fa": "ماه (جایگزین)",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -1372,7 +1361,7 @@
     {
       "id": "40096",
       "title": "Khatereh TV (Backup)",
-      "title_b_fa": "خاطره",
+      "title_b_fa": "خاطره (جایگزین)",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -1438,7 +1427,7 @@
     {
       "id": "40055",
       "title": "FX TV (Backup)",
-      "title_b_fa": "اف ایکس",
+      "title_b_fa": "اف ایکس (جایگزین)",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
@@ -1460,7 +1449,7 @@
     {
       "id": "40079",
       "title": "Family 24 TV (Backup)",
-      "title_b_fa": "فامیلی ۲۴",
+      "title_b_fa": "فامیلی ۲۴ (جایگزین)",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
@@ -1484,7 +1473,7 @@
     {
       "id": "40095",
       "title": "ICC+ TV (Backup)",
-      "title_b_fa": "آی سی سی پلاس",
+      "title_b_fa": "آی سی سی پلاس (جایگزین)",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
