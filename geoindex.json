@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "63"
+      "description": "64"
     },
     {
       "id": "2001",
@@ -6535,7 +6535,7 @@
       "language_code": "fa",
       "channelName": "irib_3_backup",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.persianleague.com/iran-live-tv/video/11-shabakeh3",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
       "backupId": "121022"
     },
     {
@@ -6549,7 +6549,7 @@
       "localImageResource": "irib_3",
       "serverName": "EmbeddedWebView",
       "channelName": "irib_3_backup_4",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live"
+      "url": "https://www.persianleague.com/iran-live-tv/video/11-shabakeh3"
     },
     {
       "id": "81026",
