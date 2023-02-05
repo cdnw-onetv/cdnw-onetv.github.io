@@ -4076,19 +4076,17 @@
       "backupId": "2023"
     },
     {
-      "id": "2023",
-      "title": "IRIB 3 (Backup 2)",
-      "title_b_fa": "شبکه سه (جایگزین ۲)",
-      "title_b_tr": "IRIB 3 (Backup 2), Sport",
+      "id": "241022",
+      "title": "IRIB 3 (Test)",
+      "title_b_fa": "شبکه سه (آزمایشی)",
       "localImageResource": "irib_3",
       "description": "General",
       "tags": "Sport",
       "country_code": "IR",
       "language_code": "fa",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://live.aionet.ir/hls/tv3/tv3.m3u8",
-      "maxBitRate": "2000000",
-      "backupId": "81022"
+      "geo_restrictions": "!IR",
+      "url": "https://ca-rt.onetv.app/IRIBChannel3/index-0.m3u8",
+      "backupId": "2023"
     },
     {
       "id": "1023",
@@ -6523,6 +6521,21 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehr.irib.ir/live"
+    },
+    {
+      "id": "2023",
+      "title": "IRIB 3 (Backup 2)",
+      "title_b_fa": "شبکه سه (جایگزین ۲)",
+      "title_b_tr": "IRIB 3 (Backup 2), Sport",
+      "localImageResource": "irib_3",
+      "description": "General",
+      "tags": "Sport",
+      "country_code": "IR",
+      "language_code": "fa",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://live.aionet.ir/hls/tv3/tv3.m3u8",
+      "maxBitRate": "2000000",
+      "backupId": "81022"
     },
     {
       "id": "81022",
