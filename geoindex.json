@@ -218,7 +218,7 @@
       "backupId": "80003"
     },
     {
-      "id": "160003",
+      "id": "9003",
       "title": "Iran International (IR)",
       "title_b_fa": "ایران اینترنشنال",
       "description": "News",
@@ -232,27 +232,6 @@
       "httpConnectTimeout": "5000",
       "httpReadTimeout": "5000",
       "url": "https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8",
-      "backupId": "40003"
-    },
-    {
-      "id": "9003",
-      "title": "Iran International (Proxy)",
-      "title_b_fa": "ایران اینترنشنال",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "favorite": "Yes",
-      "localImageResource": "iran_international",
-      "maxBitRate": "1000000",
-      "httpTimeout": "2000",
-      "httpConnectTimeout": "2000",
-      "httpReadTimeout": "2000",
-      "streamingUrlOrigin": "https://www-alt.iranintl.com",
-      "streamingUrlReferer": "https://www-alt.iranintl.com/",
-      "url9": "http://site.onetvapi.ml/in-il/",
-      "url": "https://in-il.onetv.app/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8",
-      "backupUrl": "https://in-il.onetv.app/out/v1/abe3211a88b84dafa7a48b8fb2678895/index_8.m3u8",
       "backupId": "40003"
     },
     {
@@ -379,7 +358,7 @@
     },
     {
       "id": "9006",
-      "title": "RadioJavan (Proxy)",
+      "title": "RadioJavan (IR)",
       "title_b_fa": "رادیو جوان",
       "description": "Music",
       "country_code": "IR",
@@ -5765,6 +5744,27 @@
       "serverName": "EmbeddedWebView",
       "channelName": "iran_int_backup_3",
       "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IranInternational"
+    },
+    {
+      "id": "160003",
+      "title": "Iran International (Proxy)",
+      "title_b_fa": "ایران اینترنشنال",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "favorite": "Yes",
+      "localImageResource": "iran_international",
+      "maxBitRate": "1000000",
+      "httpTimeout": "2000",
+      "httpConnectTimeout": "2000",
+      "httpReadTimeout": "2000",
+      "streamingUrlOrigin": "https://www-alt.iranintl.com",
+      "streamingUrlReferer": "https://www-alt.iranintl.com/",
+      "url9": "http://site.onetvapi.ml/in-il/",
+      "url": "https://in-il.onetv.app/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8",
+      "backupUrl": "https://in-il.onetv.app/out/v1/abe3211a88b84dafa7a48b8fb2678895/index_8.m3u8",
+      "backupId": "40003"
     },
     {
       "id": "40029",
