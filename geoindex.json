@@ -374,7 +374,8 @@
       "localImageResource": "radio_javan",
       "localImageResourceNightMode22": "radio_javan_night_mode",
       "maxBitRate": "2000000",
-      "url": "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8"
+      "url": "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8",
+      "backupId": "http://51.210.199.6/hls/stream.m3u8"
     },
     {
       "id": "9006",
@@ -388,7 +389,8 @@
       "maxBitRate": "800000",
       "streamingUrlExpireTime": "10",
       "url9": "http://site.onetvapi.ml/ro-jn",
-      "url": "https://ro-jn.onetv.app/live/smil:rjtv.smil/playlist.m3u8"
+      "url": "http://51.210.199.6/hls/stream.m3u8",
+      "url0": "https://ro-jn.onetv.app/live/smil:rjtv.smil/playlist.m3u8"
     },
     {
       "id": "43",
@@ -1024,19 +1026,8 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_sonnati",
-      "url": "http://51.210.199.58/hls/stream.m3u8",
+      "url": "http://51.210.199.1/hls/stream.m3u8",
       "backupId": "40023"
-    },
-    {
-      "id": "40023",
-      "title": "Persiana Sonnati (Backup)",
-      "title_b_fa": "پرشیانا سنتی (جایگزین)",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_sonnati",
-      "url": "https://ca-rt.onetv.app/PersianaSonnati/index-0.m3u8"
     },
     {
       "id": "90",
