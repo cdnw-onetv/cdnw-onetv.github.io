@@ -2020,6 +2020,7 @@
       "description": "Kids",
       "country_code": "IQ",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "nrt_3_kids",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/nrt_3_kids.png",
       "streamingUrlReferer": "http://www.elahmad.com",
@@ -2089,7 +2090,8 @@
       "localImageResource": "ronahi_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/ronahi_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRFsdjLlRXEiC62lUNtlGQg/live",
+      "url": "https://ca-rt.onetv.app/Ronahi/index-0.m3u8",
+      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRFsdjLlRXEiC62lUNtlGQg/live",
       "backupId": "4332"
     },
     {
