@@ -4298,7 +4298,7 @@
        "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live",
+      "url": "https://sepehrtv.ir/live/ifilmen",
       "backupId": "41094"
     },
     {
@@ -4315,7 +4315,7 @@
        "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live",
+      "url": "https://sepehrtv.ir/live/ifilmdari",
       "backupId": "41095"
     },
     {
@@ -4332,7 +4332,7 @@
        "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live",
+      "url": "https://sepehrtv.ir/live/filmarabic",
       "backupId": "41096"
     },
     {
