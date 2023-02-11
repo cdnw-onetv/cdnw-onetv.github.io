@@ -1778,7 +1778,6 @@
       "description": "News",
       "country_code": "IQ",
       "language_code": "ku",
-      "favorite": "Yes",
       "localImageResource": "rudaw_tv",
       "localImageResourceNightMode": "rudaw_tv_night_mode",
       "url": "https://ca-rt.onetv.app/Rudaw/index-0.m3u8"
