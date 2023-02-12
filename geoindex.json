@@ -1768,19 +1768,7 @@
       "favorite": "Yes",
       "localImageResource": "rudaw_tv",
       "localImageResourceNightMode": "rudaw_tv_night_mode",
-      "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
-      "backupId": "900300"
-    },
-    {
-      "id": "900300",
-      "title": "Rudaw (Test)",
-      "title_b_fa": "روداو",
-      "description": "News",
-      "country_code": "IQ",
-      "language_code": "ku",
-      "localImageResource": "rudaw_tv",
-      "localImageResourceNightMode": "rudaw_tv_night_mode",
-      "url": "https://ca-rt.onetv.app/Rudaw/index-0.m3u8"
+      "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
     },
     {
       "id": "302",
