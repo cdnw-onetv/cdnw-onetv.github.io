@@ -727,7 +727,8 @@
       "localImageResourceNightMode": "gem_tv_night_mode",
       "channelName": "gem_tv_backup",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-tv"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-tv",
+      "backupId": "8"
     },
     {
       "id": "10",
@@ -757,7 +758,8 @@
       "localImageResourceNightMode": "gem_series_night_mode",
       "channelName": "gem_series_backup",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-series"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-series",
+      "backupId": "10"
     },
     {
       "id": "53",
@@ -787,7 +789,8 @@
       "localImageResourceNightMode": "gem_bollywood_night_mode",
       "channelName": "gem_bollywood",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-bollywood"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-bollywood",
+      "backupId": "53"
     },
     {
       "id": "9",
@@ -818,7 +821,8 @@
       "localImageResourceNightMode": "gem_film_night_mode",
       "channelName": "gem_film",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-film"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-film",
+      "backupId": "9"
     },
     {
       "id": "11",
@@ -849,7 +853,8 @@
       "localImageResourceNightMode": "gem_classic_night_mode",
       "channelName": "gem_classic",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-classic"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-classic",
+      "backupId": "11"
     },
     {
       "id": "12",
@@ -880,7 +885,8 @@
       "localImageResourceNightMode": "gem_drama_night_mode",
       "channelName": "gem_drama",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-drama"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-drama",
+      "backupId": "12"
     },
     {
       "id": "14",
@@ -911,7 +917,8 @@
       "localImageResourceNightMode": "gem_junior_night_mode",
       "channelName": "gem_junior",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/gem-junior"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/gem-junior",
+      "backupId": "14"
     },
     {
       "id": "46",
@@ -942,7 +949,8 @@
       "localImageResourceNightMode": "gem_kids_night_mode",
       "channelName": "gem_kids",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/gem-kids"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/gem-kids",
+      "backupId": "46"
     },
     {
       "id": "47",
@@ -973,7 +981,8 @@
       "localImageResourceNightMode": "gem_food_night_mode",
       "channelName": "gem_food",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/gem-food"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/gem-food",
+      "backupId": "47"
     },
     {
       "id": "49",
@@ -1004,7 +1013,8 @@
       "localImageResourceNightMode": "gem_maxx_night_mode",
       "channelName": "gem_pixel",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-pixel"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-pixel",
+      "backupId": "49"
     },
     {
       "id": "50",
@@ -1035,7 +1045,8 @@
       "localImageResourceNightMode": "gem_river_night_mode",
       "channelName": "gem_river",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-river"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-river",
+      "backupId": "50"
     },
     {
       "id": "51",
@@ -1066,7 +1077,8 @@
       "localImageResourceNightMode": "gem_rubix_night_mode",
       "channelName": "gem_rubix",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-rubix"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-rubix",
+      "backupId": "51"
     },
     {
       "id": "52",
@@ -1097,7 +1109,8 @@
       "localImageResourceNightMode": "gem_travel_night_mode",
       "channelName": "gem_travel",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/gem-travel"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/gem-travel",
+      "backupId": "52"
     },
     {
       "id": "54",
@@ -1128,7 +1141,8 @@
       "localImageResourceNightMode": "gem_crypto_night_mode",
       "channelName": "gem_crypto",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-scientific-tv/gem-crypto"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-scientific-tv/gem-crypto",
+      "backupId": "54"
     },
     {
       "id": "21",
