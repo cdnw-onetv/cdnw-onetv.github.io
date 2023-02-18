@@ -1697,7 +1697,20 @@
       "localImageResource": "royal_time_tv",
       "channelName": "royal_time",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=RoyalTimeTV"
+      "url": "https://www.royaltimetv.com/"
+    },
+    {
+      "id": "120",
+      "title": "Didgah TV",
+      "title_b_fa": "دیدگاه",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "didgah_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/didgah_tv.png",
+      "channelName": "didgah_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.didgah.tv/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87/"
     },
     {
       "id": "71",
