@@ -3285,7 +3285,7 @@
       "localImageResource": "tv_100_turkey_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/sd94keSra6A"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/sd94keSra6A"
     },
     {
       "id": "689",
