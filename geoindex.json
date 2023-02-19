@@ -3334,7 +3334,7 @@
       "localImageResource": "arti_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/arti_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCxVicskgBc8OD66iLKc7Uaw/live"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xpoetRCJKqY"
     },
     {
       "id": "654",
@@ -8518,6 +8518,9 @@
       "serverName": "",
       "url": ""
     }
+  ],
+  "user_recordings_tv": [
+
   ],
   "iptv_tv": [
 
