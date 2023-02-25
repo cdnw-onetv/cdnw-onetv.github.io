@@ -5140,7 +5140,10 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/cbc_news_explore.png",
       "streamingUrlReferer": "https://www.cbc.ca/player/play/2049722435757",
       "streamingUrlOrigin": "https://www.cbc.ca",
-      "url": "https://streamer.cbcrc.ca/prod/gem/cbc-news/hls/master.m3u8"
+      "channelName": "cbc_news_explore",
+      "serverName": "EmbeddedWebView",
+      "url0": "https://streamer.cbcrc.ca/prod/gem/cbc-news/hls/master.m3u8",
+      "url": "https://www.cbc.ca/player/play/2049722435757"
     },
     {
       "id": "503",
