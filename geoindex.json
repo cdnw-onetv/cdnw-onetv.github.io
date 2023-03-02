@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "64"
+      "description": "65"
     },
     {
       "id": "2001",
@@ -302,9 +302,8 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
       "localImageResource": "navahang",
-      "url": "http://51.210.227.130/hls/stream.m3u8",
+      "url": "https://hls.navahang.live/hls/stream.m3u8",
       "url2": "http://51.210.227.130/hls/stream.m3u8"
     },
     {
@@ -314,7 +313,7 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "navahang",
       "serverName": "EmbeddedWebView",
       "channelName": "navahang_ir",
