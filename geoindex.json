@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "65"
+      "description": "66"
     },
     {
       "id": "2001",
@@ -409,7 +409,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "four_u",
-      "url": "http://51.210.227.153/hls/stream.m3u8"
+      "url": "http://51.210.227.153/hls/stream.m3u8",
+      "backupId": "40043"
     },
     {
       "id": "75",
@@ -577,7 +578,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "oxir_tv",
-      "url": "http://51.254.225.26/hls/stream.m3u8"
+      "url": "http://51.254.225.26/hls/stream.m3u8",
+      "backupId": "40065"
     },
     {
       "id": "7",
@@ -624,7 +626,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "omid_iran",
-      "url": "http://51.210.199.38/hls/stream.m3u8"
+      "url": "http://51.210.199.38/hls/stream.m3u8",
+      "backupId": "40064"
     },
     {
       "id": "19",
@@ -644,7 +647,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "ava_series",
-      "url": "http://51.210.199.4/hls/stream.m3u8"
+      "url": "http://51.210.199.4/hls/stream.m3u8",
+      "backupId": "40020"
     },
     {
       "id": "66",
@@ -654,7 +658,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "vox_1",
-      "url": "http://51.210.199.8/hls/stream.m3u8"
+      "url": "http://51.210.199.8/hls/stream.m3u8",
+      "backupId": "40066"
     },
     {
       "id": "40008",
@@ -1316,7 +1321,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "maah_tv",
-      "url": "http://51.210.199.33/hls/stream.m3u8"
+      "url": "http://51.210.199.33/hls/stream.m3u8",
+      "backupId": "40056"
     },
     {
       "id": "58",
@@ -1422,7 +1428,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "fx_tv",
-      "url": "http://51.210.199.13/hls/stream.m3u8"
+      "url": "http://51.210.199.13/hls/stream.m3u8",
+      "backupId": "40055"
     },
     {
       "id": "79",
@@ -1435,7 +1442,8 @@
       "localImageResourceNightMode": "family_24_tv_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/family_24_tv.png",
       "url": "http://51.210.199.15/hls/stream.m3u8",
-      "url0": "http://51.210.199.40/hls/stream.m3u8"
+      "url0": "http://51.210.199.40/hls/stream.m3u8",
+      "backupId": "40079"
     },
     {
       "id": "95",
@@ -5964,6 +5972,16 @@
       "url": "https://ca-rt.onetv.app/AVASeries/index-0.m3u8"
     },
     {
+      "id": "40065",
+      "title": "Oxir TV (Backup)",
+      "title_b_fa": "اکسیر تی وی (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "oxir_tv",
+      "url": "https://ca-rt.onetv.app/Oxir/index-0.m3u8"
+    },
+    {
       "id": "40066",
       "title": "VOX 1 (Backup)",
       "title_b_fa": "وی او ایکس یک (جایگزین)",
@@ -5972,6 +5990,16 @@
       "language_code": "fa",
       "localImageResource": "vox_1",
       "url": "https://ca-rt.onetv.app/VOX1/index-0.m3u8"
+    },
+    {
+      "id": "40064",
+      "title": "Omid Iran (Backup)",
+      "title_b_fa": "امید ایران (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "omid_iran",
+      "url": "https://ca-rt.onetv.app/OmidEIran/index-0.m3u8"
     },
     {
       "id": "40021",
@@ -6076,6 +6104,39 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/damac_tv.png",
       "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/damac_tv_night_mode.png",
       "url": "http://51.210.227.166/hls/stream.m3u8"
+    },
+    {
+      "id": "40056",
+      "title": "Maah TV (Backup)",
+      "title_b_fa": "ماه (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "maah_tv",
+      "url": "https://ca-rt.onetv.app/MaahTV/index-0.m3u8",
+      "backupId": "40056"
+    },
+    {
+      "id": "40055",
+      "title": "FX TV (Backup)",
+      "title_b_fa": "اف ایکس (جایگزین)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "fx_tv",
+      "url": "https://ca-rt.onetv.app/FXTV/index-0.m3u8"
+    },
+    {
+      "id": "40079",
+      "title": "Family 24 TV (Backup)",
+      "title_b_fa": "فامیلی ۲۴ (جایگزین)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "family_24_tv",
+      "localImageResourceNightMode": "family_24_tv_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/family_24_tv.png",
+      "url": "https://ca-rt.onetv.app/PrimaTV/index-0.m3u8"
     },
     {
       "id": "40093",
