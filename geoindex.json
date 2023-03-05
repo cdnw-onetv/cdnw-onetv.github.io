@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "66"
+      "description": "67"
     },
     {
       "id": "2001",
@@ -303,8 +303,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "navahang",
-      "url": "https://hls.navahang.live/hls/stream.m3u8",
-      "url2": "http://51.210.227.130/hls/stream.m3u8"
+      "url": "https://hls.navahang.live/hls/stream.m3u8"
     },
     {
       "id": "9004",
@@ -315,23 +314,9 @@
       "language_code": "fa",
       "geo_restrictions": "",
       "localImageResource": "navahang",
-      "serverName": "EmbeddedWebView",
-      "channelName": "navahang_ir",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/navahang-live-tv"
-    },
-    {
-      "id": "90004",
-      "title": "Navahang (Proxy)",
-      "title_b_fa": "نواهنگ",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "navahang",
       "streamingUrlExpireTime": "10",
       "url9": "http://site.onetvapi.ml/ng/",
-      "url": "https://ng.onetv.app/hls/stream.m3u8",
-      "url2": "http://51.210.227.130/hls/stream.m3u8"
+      "url": "https://ng.onetv.app/hls/stream.m3u8"
     },
     {
       "id": "5",
@@ -356,10 +341,7 @@
       "favorite": "Yes",
       "geo_restrictions": "@IR",
       "localImageResource": "pmc",
-      "channelName": "pmc_backup",
-      "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/pmc",
-      "backupId": "80005"
+      "url": "https://pmc.onetv.app/hls/stream.m3u8"
     },
     {
       "id": "44",
@@ -395,11 +377,8 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "radio_javan",
-      "maxBitRate": "800000",
-      "streamingUrlExpireTime": "10",
-      "url9": "http://site.onetvapi.ml/ro-jn",
-      "url": "http://51.210.199.6/hls/stream.m3u8",
-      "url0": "https://ro-jn.onetv.app/live/smil:rjtv.smil/playlist.m3u8"
+      "maxBitRate": "1000000",
+      "url": "https://ro-jn.onetv.app/live/smil:rjtv.smil/playlist.m3u8"
     },
     {
       "id": "43",
@@ -409,7 +388,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "four_u",
-      "url": "http://51.210.227.153/hls/stream.m3u8",
+      "url": "https://hls.4utv.live/hls/stream.m3u8",
       "backupId": "40043"
     },
     {
@@ -447,8 +426,8 @@
       "streamingUrlOrigin": "https://tvitn.com",
       "streamingUrlReferer": "https://tvitn.com",
       "channelName2": "itn_main",
-      "url": "https://ca-rt.onetv.app/ITN/index-0.m3u8",
-      "url2": "https://tvitn.com/%d8%aa%d9%85%d8%a7%d8%b4%d8%a7%db%8c-%d8%b2%d9%86%d8%af%d9%87-%d8%b4%d8%a8%da%a9%d9%87-%d8%aa%d9%84%d9%88%db%8c%d8%b2%db%8c%d9%88%d9%86-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-itn/",
+      "url": "https://itnhls.wns.live/hls/stream.m3u8",
+      "url0": "https://ca-rt.onetv.app/ITN/index-0.m3u8",
       "backupId": "40018"
     },
     {
@@ -520,7 +499,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "pmc",
-      "url": "http://51.210.199.29/hls/stream.m3u8"
+      "url": "https://rohls.pmc.live/hls/stream.m3u8"
     },
     {
       "id": "203",
@@ -578,7 +557,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "oxir_tv",
-      "url": "http://51.254.225.26/hls/stream.m3u8",
+      "url": "https://hls.oxir.live/hls/stream.m3u8",
       "backupId": "40065"
     },
     {
@@ -626,7 +605,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "omid_iran",
-      "url": "http://51.210.199.38/hls/stream.m3u8",
+      "url": "https://oitnhls.wns.live/hls/stream.m3u8",
       "backupId": "40064"
     },
     {
@@ -647,7 +626,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "ava_series",
-      "url": "http://51.210.199.4/hls/stream.m3u8",
+      "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
       "backupId": "40020"
     },
     {
@@ -658,7 +637,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "vox_1",
-      "url": "http://51.210.199.8/hls/stream.m3u8",
+      "url": "https://hls.vox1.live/hls/stream.m3u8",
       "backupId": "40066"
     },
     {
@@ -1321,7 +1300,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "maah_tv",
-      "url": "http://51.210.199.33/hls/stream.m3u8",
+      "url": "https://hls.maahtv.live/hls/stream.m3u8",
       "backupId": "40056"
     },
     {
@@ -1428,7 +1407,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "fx_tv",
-      "url": "http://51.210.199.13/hls/stream.m3u8",
+      "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
       "backupId": "40055"
     },
     {
@@ -1441,8 +1420,7 @@
       "localImageResource": "family_24_tv",
       "localImageResourceNightMode": "family_24_tv_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/family_24_tv.png",
-      "url": "http://51.210.199.15/hls/stream.m3u8",
-      "url0": "http://51.210.199.40/hls/stream.m3u8",
+      "url": "https://family24hls.wns.live/hls/stream.m3u8",
       "backupId": "40079"
     },
     {
@@ -1454,7 +1432,7 @@
       "language_code": "fa",
       "localImageResource": "icc_plus_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/icc_plus_tv.png",
-      "url": "http://51.210.227.156/hls/stream.m3u8"
+      "url": "https://icchls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "109",
@@ -1475,7 +1453,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "sl_1",
-      "url": "http://51.210.199.3/hls/stream.m3u8"
+      "url": "https://slonehls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "69",
@@ -1485,7 +1463,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "sl_2",
-      "url": "http://51.210.199.2/hls/stream.m3u8"
+      "url": "https://sltwohls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "118",
@@ -1496,7 +1474,7 @@
       "language_code": "fa",
       "localImageResource": "today_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/today_tv.png",
-      "url": "http://51.210.227.162/hls/stream.m3u8"
+      "url": "https://todayhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "87",
@@ -1520,8 +1498,6 @@
       "localImageResource": "grand_cinema",
       "channelName": "grand_cinema",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/grand_cinema.png",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
       "url": "https://ca-rt.onetv.app/GrandCinema/index-0.m3u8",
       "url2": "http://www.elahmad.com/tv/iran-tv-online.php?id=GrandCinema"
     },
@@ -1535,8 +1511,6 @@
       "localImageResource": "cine_film",
       "channelName": "cine_film",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/cine_film.png",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
       "url": "https://ca-rt.onetv.app/CineFilm/index-0.m3u8",
       "url2": "http://www.elahmad.com/tv/iran-tv-online.php?id=CineFilm"
     },
@@ -1570,7 +1544,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "tm_tv",
-      "url": "http://51.210.227.151/hls/stream.m3u8"
+      "url": "https://hls.tmtv.live/hls/stream.m3u8"
     },
     {
       "id": "30",
@@ -1594,7 +1568,7 @@
       "language_code": "fa",
       "localImageResource": "kanal_jadid",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/kanal_jadid.png",
-      "url": "http://51.210.227.136/hls/stream.m3u8"
+      "url": "https://kjhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "103",
@@ -1692,7 +1666,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "channel_one_persian",
-      "url": "http://51.210.227.140/hls/stream.m3u8",
+      "url": "https://ch1hls.wns.live/hls/stream.m3u8",
       "backupId": "40094"
     },
     {
@@ -1728,7 +1702,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "bravo_farsi",
-      "url": "http://51.210.199.16/hls/stream.m3u8"
+      "url": "https://bravoohls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "73",
@@ -5499,7 +5473,7 @@
       "country_code": "AF",
       "language_code": "fa",
       "localImageResource": "rta_news",
-      "url": "http://51.210.227.133/hls/stream.m3u8"
+      "url": "https://hls.rta.live/hls/stream.m3u8"
     },
     {
       "id": "3005",
@@ -5541,7 +5515,7 @@
       "country_code": "AF",
       "language_code": "fa",
       "localImageResource": "rta_news",
-      "url": "http://51.210.227.143/hls/stream.m3u8"
+      "url": "https://hls.rtasport.live/hls/stream.m3u8"
     },
     {
       "id": "3008",
@@ -5692,7 +5666,7 @@
       "country_code": "AF",
       "language_code": "fa",
       "localImageResource": "donyai_new",
-      "url": "http://51.210.199.45/hls/stream.m3u8"
+      "url": "https://dunyanhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "3022",
@@ -5712,7 +5686,7 @@
       "country_code": "AF",
       "language_code": "fa",
       "localImageResource": "eslah_tv",
-      "url": "http://51.210.199.49/hls/stream.m3u8"
+      "url": "https://eslahtvhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "3024",
@@ -5888,18 +5862,6 @@
       "language_code": "fa",
       "localImageResource": "voa_persian",
       "url": "https://voa-ingest.akamaized.net/dash/live/2033877/tvmc07/manifest.mpd"
-    },
-    {
-      "id": "80005",
-      "title": "PMC (Backup 2)",
-      "title_b_fa": "پی ام سی (جایگزین ۲)",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "pmc",
-      "channelName": "pmc_backup_2",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=PMCMusic"
     },
     {
       "id": "40016",
