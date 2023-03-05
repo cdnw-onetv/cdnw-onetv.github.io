@@ -1881,6 +1881,17 @@
       "url": "https://tva.tv/channels/kids"
     },
     {
+      "id": "121",
+      "title": "Ganje Hozour",
+      "title_b_fa": "گنج حضور",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "ganje_hozour",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/ganje_hozour.png",
+      "url": "https://topfi.ios.internapcdn.net/topfi/live_1/Test/playlist.m3u8"
+    },
+    {
       "id": "200",
       "title": "Radio Hamrah",
       "title_b_fa": "رادیو همراه",
