@@ -691,7 +691,7 @@
       "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
@@ -724,7 +724,7 @@
       "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
@@ -755,7 +755,7 @@
       "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
@@ -786,7 +786,7 @@
       "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_film",
       "localImageResourceNightMode": "gem_film_night_mode",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
@@ -819,7 +819,7 @@
       "localImageResource": "gem_classic",
       "localImageResourceNightMode": "gem_classic_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
@@ -851,7 +851,7 @@
       "localImageResource": "gem_drama",
       "localImageResourceNightMode": "gem_drama_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
@@ -883,7 +883,7 @@
       "localImageResource": "gem_junior",
       "localImageResourceNightMode": "gem_junior_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
@@ -915,7 +915,7 @@
       "localImageResource": "gem_kids",
       "localImageResourceNightMode": "gem_kids_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8",
@@ -947,7 +947,7 @@
       "localImageResource": "gem_food",
       "localImageResourceNightMode": "gem_food_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
@@ -979,7 +979,7 @@
       "localImageResource": "gem_maxx",
       "localImageResourceNightMode": "gem_maxx_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
@@ -1011,7 +1011,7 @@
       "localImageResource": "gem_river",
       "localImageResourceNightMode": "gem_river_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/river/index.m3u8",
@@ -1043,7 +1043,7 @@
       "localImageResource": "gem_rubix",
       "localImageResourceNightMode": "gem_rubix_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
@@ -1075,7 +1075,7 @@
       "localImageResource": "gem_travel",
       "localImageResourceNightMode": "gem_travel_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8",
@@ -1107,7 +1107,7 @@
       "localImageResource": "gem_crypto",
       "localImageResourceNightMode": "gem_crypto_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
@@ -2441,7 +2441,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kanal_d",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8?live=true&app=com.kanald&min=0&max=1250",
@@ -4201,9 +4201,11 @@
       "localImageResource": "irib_1",
       "channelName": "tv1",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/tv1/live/playlist.m3u8",
-      "backupId": "41020"
+      "castUrl": "https://cdn-azd204f.telewebion.com/tv1/live/playlist.m3u8?isp=NA&city=NA",
+      "backupId": "41020",
+      "castBackupId": "41020"
     },
     {
       "id": "1021",
@@ -4214,9 +4216,11 @@
       "language_code": "fa",
       "localImageResource": "irib_2",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/tv2/live/playlist.m3u8",
-      "backupId": "41021"
+      "castUrl1": "https://live.aionet.ir/hls/tv2/tv2.m3u8",
+      "backupId": "41021",
+      "castBackupId": "41021"
     },
     {
       "id": "1022",
@@ -4228,12 +4232,14 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_3",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/tv3/live/playlist.m3u8",
-      "backupId": "2023"
+      "castUrl1": "https://live.aionet.ir/hls/tv3/tv3.m3u8",
+      "backupId": "2023",
+      "castBackupId": "41022"
     },
     {
       "id": "41022",
@@ -4249,7 +4255,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "tv3",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/tv3",
@@ -4277,9 +4283,11 @@
       "language_code": "fa",
       "localImageResource": "irib_4",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/tv4/live/playlist.m3u8",
-      "backupId": "41023"
+      "castUrl1": "https://live.aionet.ir/hls/tv4/tv4.m3u8",
+      "backupId": "41023",
+      "castBackupId": "41023"
     },
     {
       "id": "1024",
@@ -4291,7 +4299,9 @@
       "localImageResource": "irib_5",
       "httpTimeout": "500",
       "url": "https://cdnw.telewebion.com/tehran/live/playlist.m3u8",
-      "backupId": "41024"
+      "castUrl1": "https://live.aionet.ir/hls/tv5/tv5.m3u8",
+      "backupId": "41024",
+      "castBackupId": "41024"
     },
     {
       "id": "1025",
@@ -4303,9 +4313,10 @@
       "localImageResource": "irib_khabar",
       "localImageResourceNightMode": "irib_khabar_night_mode",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/irinn/live/playlist.m3u8",
-      "backupId": "41025"
+      "backupId": "41025",
+      "castBackupId": "41025"
     },
     {
       "id": "1026",
@@ -4317,12 +4328,13 @@
       "favorite": "Yes",
       "localImageResource": "irib_varzesh",
       "localImageResourceNightMode": "irib_varzesh_night_mode",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/varzesh/live/playlist.m3u8",
-      "backupId": "2027"
+      "backupId": "2027",
+      "castBackupId": "41026"
     },
     {
       "id": "41026",
@@ -4337,7 +4349,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "Varzesh",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live",
@@ -4354,7 +4366,8 @@
       "streamingUrlReferer": "https://www.aionet.ir/",
       "url": "https://live.aionet.ir/hls/varzesh/varzesh.m3u8",
       "maxBitRate": "2000000",
-      "backupId": "81026"
+      "backupId": "81026",
+      "castBackupId": "41026"
     },
     {
       "id": "41029",
@@ -4369,7 +4382,8 @@
       "httpTimeout": "4000",
       "httpConnectTimeout": "4000",
       "httpReadTimeout": "4000",
-      "url": "https://cdnw.telewebion.com/faratar/live/playlist.m3u8"
+      "url": "https://cdnw.telewebion.com/faratar/live/playlist.m3u8",
+      "castBackupId": "90041029"
     },
     {
       "id": "90041029",
@@ -4385,7 +4399,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "uhd",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live"
@@ -4399,9 +4413,10 @@
       "language_code": "fa",
       "localImageResource": "irib_tamasha",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/hdtest/live/playlist.m3u8",
-      "backupId": "41027"
+      "backupId": "41027",
+      "castBackupId": "41027"
     },
     {
       "id": "1028",
@@ -4412,9 +4427,10 @@
       "language_code": "fa",
       "localImageResource": "irib_nasim",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/nasim/live/playlist.m3u8",
-      "backupId": "41028"
+      "backupId": "41028",
+      "castBackupId": "41028"
     },
     {
       "id": "1050",
@@ -4426,9 +4442,10 @@
       "localImageResource": "irib_amouzesh",
       "localImageResourceNightMode": "irib_amouzesh_night_mode",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/amouzesh/live/playlist.m3u8",
-      "backupId": "41050"
+      "backupId": "41050",
+      "castBackupId": "41057"
     },
     {
       "id": "1051",
@@ -4439,9 +4456,10 @@
       "language_code": "fa",
       "localImageResource": "irib_ifilmfa",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/ifilm/live/playlist.m3u8",
-      "backupId": "41051"
+      "backupId": "41051",
+      "castBackupId": "41051"
     },
     {
       "id": "1094",
@@ -4454,9 +4472,10 @@
       "serverName": "EmbeddedWebView",
       "channelName": "ifilmen",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
+      "maxBitRate": "1200000",
       "url": "https://sepehrtv.ir/live/ifilmen",
       "backupId": "41094"
     },
@@ -4471,9 +4490,10 @@
       "serverName": "EmbeddedWebView",
       "channelName": "ifilmdari",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
+      "maxBitRate": "1200000",
       "url": "https://sepehrtv.ir/live/ifilmdari",
       "backupId": "41095"
     },
@@ -4488,9 +4508,10 @@
       "serverName": "EmbeddedWebView",
       "channelName": "filmarabic",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
+      "maxBitRate": "1200000",
       "url": "https://sepehrtv.ir/live/filmarabic",
       "backupId": "41096"
     },
@@ -4503,9 +4524,10 @@
       "language_code": "fa",
       "localImageResource": "irib_mostanad",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/mostanad/live/playlist.m3u8",
-      "backupId": "41053"
+      "backupId": "41053",
+      "castBackupId": "41053"
     },
     {
       "id": "1054",
@@ -4516,9 +4538,10 @@
       "language_code": "fa",
       "localImageResource": "irib_namayesh",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/namayesh/live/playlist.m3u8",
-      "backupId": "41054"
+      "backupId": "41054",
+      "castBackupId": "41054"
     },
     {
       "id": "1032",
@@ -4529,9 +4552,10 @@
       "language_code": "fa",
       "localImageResource": "irib_quran",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/quran/live/playlist.m3u8",
-      "backupId": "41032"
+      "backupId": "41032",
+      "castBackupId": "41032"
     },
     {
       "id": "1055",
@@ -4542,9 +4566,10 @@
       "language_code": "fa",
       "localImageResource": "irib_ofogh",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/ofogh/live/playlist.m3u8",
-      "backupId": "41055"
+      "backupId": "41055",
+      "castBackupId": "41055"
     },
     {
       "id": "1056",
@@ -4555,9 +4580,10 @@
       "language_code": "fa",
       "localImageResource": "irib_omid",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/omid/live/playlist.m3u8",
-      "backupId": "41056"
+      "backupId": "41056",
+      "castBackupId": "41056"
     },
     {
       "id": "1057",
@@ -4568,9 +4594,10 @@
       "language_code": "fa",
       "localImageResource": "irib_pouya",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/pooya/live/playlist.m3u8",
-      "backupId": "41057"
+      "backupId": "41057",
+      "castBackupId": "41057"
     },
     {
       "id": "1058",
@@ -4581,9 +4608,10 @@
       "language_code": "fa",
       "localImageResource": "irib_salamat",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/salamat/live/playlist.m3u8",
-      "backupId": "41058"
+      "backupId": "41058",
+      "castBackupId": "41058"
     },
     {
       "id": "1060",
@@ -4594,9 +4622,10 @@
       "language_code": "fa",
       "localImageResource": "irib_sepehr",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/sepehr/live/playlist.m3u8",
-      "backupId": "41060"
+      "backupId": "41060",
+      "castBackupId": "41060"
     },
     {
       "id": "1097",
@@ -4607,9 +4636,10 @@
       "language_code": "fa",
       "localImageResource": "irib_javaneh",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/javaneh/live/playlist.m3u8",
-      "backupId": "41097"
+      "backupId": "41097",
+      "castBackupId": "41097"
     },
     {
       "id": "1098",
@@ -4620,9 +4650,10 @@
       "language_code": "fa",
       "localImageResource": "irib_ara",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/ara/live/playlist.m3u8",
-      "backupId": "41098"
+      "backupId": "41098",
+      "castBackupId": "41098"
     },
     {
       "id": "1099",
@@ -4633,9 +4664,10 @@
       "language_code": "fa",
       "localImageResource": "irib_jaam",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/jam/live/playlist.m3u8",
-      "backupId": "41099"
+      "backupId": "41099",
+      "castBackupId": "41099"
     },
     {
       "id": "1030",
@@ -4646,9 +4678,10 @@
       "language_code": "fa",
       "localImageResource": "irib_nama",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/nama/live/playlist.m3u8",
-      "backupId": "41030"
+      "backupId": "41030",
+      "castBackupId": "41030"
     },
     {
       "id": "1031",
@@ -4659,9 +4692,55 @@
       "language_code": "fa",
       "localImageResource": "irib_nava",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/nava/live/playlist.m3u8",
-      "backupId": "41031"
+      "backupId": "41031",
+      "castBackupId": "41031"
+    },
+    {
+      "id": "1033",
+      "title": "Jame Jam 1",
+      "title_b_fa": "جام جم ۱",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "jame_jam",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/jame_jam.png",
+      "httpTimeout": "500",
+      "maxBitRate": "1400000",
+      "url": "https://cdnw.telewebion.com/jjtv1/live/playlist.m3u8",
+      "backupId": "41033",
+      "castBackupId": "41033"
+    },
+    {
+      "id": "1034",
+      "title": "Jame Jam 2",
+      "title_b_fa": "جام جم ۲",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "jame_jam",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/jame_jam.png",
+      "httpTimeout": "500",
+      "maxBitRate": "1400000",
+      "url": "https://cdnw.telewebion.com/jjtv2/live/playlist.m3u8",
+      "backupId": "41034",
+      "castBackupId": "41034"
+    },
+    {
+      "id": "1035",
+      "title": "Jame Jam 3",
+      "title_b_fa": "جام جم ۳",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "jame_jam",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/jame_jam.png",
+      "httpTimeout": "500",
+      "maxBitRate": "1400000",
+      "url": "https://cdnw.telewebion.com/jjtv3/live/playlist.m3u8",
+      "backupId": "41035",
+      "castBackupId": "41035"
     },
     {
       "id": "1061",
@@ -4672,7 +4751,7 @@
       "language_code": "fa",
       "localImageResource": "abadan",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/abadan/live/playlist.m3u8"
     },
     {
@@ -4684,7 +4763,7 @@
       "language_code": "fa",
       "localImageResource": "aflak",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/aflak/live/playlist.m3u8"
     },
     {
@@ -4696,7 +4775,7 @@
       "language_code": "fa",
       "localImageResource": "aftab",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/aftab/live/playlist.m3u8"
     },
     {
@@ -4708,7 +4787,7 @@
       "language_code": "tr",
       "localImageResource": "azarbayjan",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/azarbayjangharbi/live/playlist.m3u8"
     },
     {
@@ -4720,7 +4799,7 @@
       "language_code": "fa",
       "localImageResource": "alborz",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/alborz/live/playlist.m3u8"
     },
     {
@@ -4732,7 +4811,7 @@
       "language_code": "fa",
       "localImageResource": "baran",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/baran/live/playlist.m3u8"
     },
     {
@@ -4744,7 +4823,7 @@
       "language_code": "fa",
       "localImageResource": "bushehr",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/bushehr/live/playlist.m3u8"
     },
     {
@@ -4756,7 +4835,7 @@
       "language_code": "fa",
       "localImageResource": "dena",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/dena/live/playlist.m3u8"
     },
     {
@@ -4768,7 +4847,7 @@
       "language_code": "fa",
       "localImageResource": "esfahan",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/esfahan/live/playlist.m3u8"
     },
     {
@@ -4780,7 +4859,7 @@
       "language_code": "fa",
       "localImageResource": "eshragh",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/eshragh/live/playlist.m3u8"
     },
     {
@@ -4792,7 +4871,7 @@
       "language_code": "fa",
       "localImageResource": "fars",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/fars/live/playlist.m3u8"
     },
     {
@@ -4804,7 +4883,7 @@
       "language_code": "fa",
       "localImageResource": "golestan",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/sabz/live/playlist.m3u8"
     },
     {
@@ -4816,7 +4895,7 @@
       "language_code": "fa",
       "localImageResource": "hamedan",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/sina/live/playlist.m3u8"
     },
     {
@@ -4828,7 +4907,7 @@
       "language_code": "fa",
       "localImageResource": "hamoon",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/hamoon/live/playlist.m3u8"
     },
     {
@@ -4840,7 +4919,7 @@
       "language_code": "fa",
       "localImageResource": "ilam",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/ilam/live/playlist.m3u8"
     },
     {
@@ -4852,7 +4931,7 @@
       "language_code": "fa",
       "localImageResource": "jahanbin",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/jahanbin/live/playlist.m3u8"
     },
     {
@@ -4864,7 +4943,7 @@
       "language_code": "fa",
       "localImageResource": "kerman",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/kerman/live/playlist.m3u8"
     },
     {
@@ -4876,7 +4955,7 @@
       "language_code": "fa",
       "localImageResource": "kermanshah",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/zagros/live/playlist.m3u8"
     },
     {
@@ -4888,7 +4967,7 @@
       "language_code": "fa",
       "localImageResource": "khalijefars",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/khalijefars/live/playlist.m3u8"
     },
     {
@@ -4900,7 +4979,7 @@
       "language_code": "fa",
       "localImageResource": "khorasanjonoobi",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/khavaran/live/playlist.m3u8"
     },
     {
@@ -4912,7 +4991,7 @@
       "language_code": "fa",
       "localImageResource": "khorasanrazavi",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/khorasanrazavi/live/playlist.m3u8"
     },
     {
@@ -4924,7 +5003,7 @@
       "language_code": "fa",
       "localImageResource": "khorasanshomali",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/atrak/live/playlist.m3u8"
     },
     {
@@ -4936,7 +5015,7 @@
       "language_code": "fa",
       "localImageResource": "khoozestan",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/khoozestan/live/playlist.m3u8"
     },
     {
@@ -4948,7 +5027,7 @@
       "language_code": "fa",
       "localImageResource": "kish",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/kish/live/playlist.m3u8"
     },
     {
@@ -4960,7 +5039,7 @@
       "language_code": "ku",
       "localImageResource": "kordestan",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/kordestan/live/playlist.m3u8"
     },
     {
@@ -4972,7 +5051,7 @@
       "language_code": "ku",
       "localImageResource": "mahabad",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/mahabad/live/playlist.m3u8"
     },
     {
@@ -4984,7 +5063,7 @@
       "language_code": "fa",
       "localImageResource": "mazandaran",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/tabarestan/live/playlist.m3u8"
     },
     {
@@ -4996,7 +5075,7 @@
       "language_code": "fa",
       "localImageResource": "noor",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/noor/live/playlist.m3u8"
     },
     {
@@ -5008,7 +5087,7 @@
       "language_code": "fa",
       "localImageResource": "qazvin",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/qazvin/live/playlist.m3u8"
     },
     {
@@ -5020,7 +5099,7 @@
       "language_code": "fa",
       "localImageResource": "sabalan",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/sabalan/live/playlist.m3u8"
     },
     {
@@ -5032,7 +5111,7 @@
       "language_code": "fa",
       "localImageResource": "sahand",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/sahand/live/playlist.m3u8"
     },
     {
@@ -5044,7 +5123,7 @@
       "language_code": "fa",
       "localImageResource": "semnan",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/semnan/live/playlist.m3u8"
     },
     {
@@ -5056,7 +5135,7 @@
       "language_code": "fa",
       "localImageResource": "taban",
       "httpTimeout": "500",
-      "maxBitRate": "2000000",
+      "maxBitRate": "1400000",
       "url": "https://cdnw.telewebion.com/taban/live/playlist.m3u8"
     }
   ],
@@ -6219,11 +6298,13 @@
       "localImageResource": "irib_1",
       "serverName": "EmbeddedWebView",
       "channelName": "tv1",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/tv1",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/tv1/live/playlist.m3u8"
     },
     {
@@ -6236,11 +6317,13 @@
       "localImageResource": "irib_2",
       "serverName": "EmbeddedWebView",
       "channelName": "tv2",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/tv2",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/tv2/live/playlist.m3u8"
     },
     {
@@ -6253,11 +6336,13 @@
       "localImageResource": "irib_4",
       "serverName": "EmbeddedWebView",
       "channelName": "tv4",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/tv4",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/tv4/live/playlist.m3u8"
     },
     {
@@ -6270,11 +6355,13 @@
       "localImageResource": "irib_5",
       "serverName": "EmbeddedWebView",
       "channelName": "tv5",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/tv5",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/tehran/live/playlist.m3u8"
     },
     {
@@ -6288,11 +6375,13 @@
       "localImageResourceNightMode": "irib_khabar_night_mode",
       "serverName": "EmbeddedWebView",
       "channelName": "irinn",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/irinn",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/irinn/live/playlist.m3u8"
     },
     {
@@ -6305,11 +6394,13 @@
       "localImageResource": "irib_tamasha",
       "serverName": "EmbeddedWebView",
       "channelName": "tamasha",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/tamasha",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/hdtest/live/playlist.m3u8"
     },
     {
@@ -6322,11 +6413,13 @@
       "localImageResource": "irib_nasim",
       "serverName": "EmbeddedWebView",
       "channelName": "Nasim",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/Nasim",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/nasim/live/playlist.m3u8"
     },
     {
@@ -6340,11 +6433,13 @@
       "localImageResourceNightMode": "irib_amouzesh_night_mode",
       "serverName": "EmbeddedWebView",
       "channelName": "amouzesh",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/amouzesh",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/amouzesh/live/playlist.m3u8"
     },
     {
@@ -6357,11 +6452,13 @@
       "localImageResource": "irib_ifilmfa",
       "serverName": "EmbeddedWebView",
       "channelName": "ifilmfa",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/ifilmfa",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/ifilm/live/playlist.m3u8"
     },
     {
@@ -6374,11 +6471,13 @@
       "localImageResource": "irib_ifilmen",
       "serverName": "EmbeddedWebView",
       "channelName": "ifilmen",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/ifilmen"
+      "url": "https://sepehrtv.ir/live/ifilmen",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41095",
@@ -6390,11 +6489,13 @@
       "localImageResource": "irib_ifilmdari",
       "serverName": "EmbeddedWebView",
       "channelName": "ifilmdari",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/ifilmdari"
+      "url": "https://sepehrtv.ir/live/ifilmdari",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41096",
@@ -6406,11 +6507,13 @@
       "localImageResource": "irib_ifilmarabic",
       "serverName": "EmbeddedWebView",
       "channelName": "filmarabic",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/filmarabic"
+      "url": "https://sepehrtv.ir/live/filmarabic",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41053",
@@ -6422,11 +6525,13 @@
       "localImageResource": "irib_mostanad",
       "serverName": "EmbeddedWebView",
       "channelName": "mostanad",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/mostanad",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/mostanad/live/playlist.m3u8"
     },
     {
@@ -6439,11 +6544,13 @@
       "localImageResource": "irib_namayesh",
       "serverName": "EmbeddedWebView",
       "channelName": "namayesh",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/namayesh",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/namayesh/live/playlist.m3u8"
     },
     {
@@ -6456,11 +6563,13 @@
       "localImageResource": "irib_quran",
       "serverName": "EmbeddedWebView",
       "channelName": "quran",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/quran"
+      "url": "https://sepehrtv.ir/live/quran",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41055",
@@ -6472,11 +6581,13 @@
       "localImageResource": "irib_ofogh",
       "serverName": "EmbeddedWebView",
       "channelName": "ofogh",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/ofogh"
+      "url": "https://sepehrtv.ir/live/ofogh",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41056",
@@ -6488,11 +6599,13 @@
       "localImageResource": "irib_omid",
       "serverName": "EmbeddedWebView",
       "channelName": "omid",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/omid"
+      "url": "https://sepehrtv.ir/live/omid",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41057",
@@ -6504,11 +6617,13 @@
       "localImageResource": "irib_pouya",
       "serverName": "EmbeddedWebView",
       "channelName": "pouya",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/liv/pouye"
+      "url": "https://sepehrtv.ir/live/pouya",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41058",
@@ -6520,11 +6635,13 @@
       "localImageResource": "irib_salamat",
       "serverName": "EmbeddedWebView",
       "channelName": "salamat",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/salamat"
+      "url": "https://sepehrtv.ir/live/salamat",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41060",
@@ -6536,11 +6653,13 @@
       "localImageResource": "irib_sepehr",
       "serverName": "EmbeddedWebView",
       "channelName": "sepehr",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/sepehr"
+      "url": "https://sepehrtv.ir/live/sepehr",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41097",
@@ -6552,10 +6671,12 @@
       "localImageResource": "irib_javaneh",
       "serverName": "EmbeddedWebView",
       "channelName": "javaneh",
-       "httpTimeout": "1000",
+      "streamingUrlExpireTime": "60",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/javaneh"
+      "url": "https://sepehrtv.ir/live/javaneh",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41098",
@@ -6567,11 +6688,13 @@
       "localImageResource": "irib_ara",
       "serverName": "EmbeddedWebView",
       "channelName": "ara",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/ara"
+      "url": "https://sepehrtv.ir/live/ara",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41099",
@@ -6583,11 +6706,13 @@
       "localImageResource": "irib_jaam",
       "serverName": "EmbeddedWebView",
       "channelName": "jam",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/jaam",
+      "url": "https://sepehrtv.ir/live/jam",
+      "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/jam/live/playlist.m3u8"
     },
     {
@@ -6600,11 +6725,13 @@
       "localImageResource": "irib_nama",
       "serverName": "EmbeddedWebView",
       "channelName": "nama",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/nama"
+      "url": "https://sepehrtv.ir/live/nama",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41031",
@@ -6616,11 +6743,73 @@
       "localImageResource": "irib_nava",
       "serverName": "EmbeddedWebView",
       "channelName": "nava",
+      "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
-       "httpTimeout": "1000",
+      "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/nava"
+      "url": "https://sepehrtv.ir/live/nava",
+      "maxBitRate": "1200000"
+    },
+    {
+      "id": "41033",
+      "title": "Jame Jam 1 (Backup)",
+      "title_b_fa": "جام جم ۱ (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "jame_jam",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/jame_jam.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "jjtvn1",
+      "streamingUrlExpireTime": "60",
+      "streamingUrlReferer": "https://sepehrtv.ir/",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "url": "https://sepehrtv.ir/live/jjtvn1",
+      "maxBitRate": "1200000",
+      "backupUrl": "https://cdnw.telewebion.com/jjtv1/live/playlist.m3u8"
+    },
+    {
+      "id": "41034",
+      "title": "Jame Jam 2 (Backup)",
+      "title_b_fa": "جام جم ۲ (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "jame_jam",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/jame_jam.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "jjtvn2",
+      "streamingUrlExpireTime": "60",
+      "streamingUrlReferer": "https://sepehrtv.ir/",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "url": "https://sepehrtv.ir/live/jjtvn2",
+      "maxBitRate": "1200000",
+      "backupUrl": "https://cdnw.telewebion.com/jjtv2/live/playlist.m3u8"
+    },
+    {
+      "id": "41035",
+      "title": "Jame Jam 3 (Backup)",
+      "title_b_fa": "جام جم ۳ (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "jame_jam",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/jame_jam.png",
+      "serverName": "EmbeddedWebView",
+      "channelName": "jjtvn3",
+      "streamingUrlExpireTime": "60",
+      "streamingUrlReferer": "https://sepehrtv.ir/",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "url": "https://sepehrtv.ir/live/jjtvn1",
+      "maxBitRate": "1200000",
+      "backupUrl": "https://cdnw.telewebion.com/jjtv3/live/playlist.m3u8"
     },
     {
       "id": "2023",
