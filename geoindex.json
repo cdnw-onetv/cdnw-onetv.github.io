@@ -4283,7 +4283,7 @@
       "language_code": "fa",
       "localImageResource": "irib_4",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/tv4/live/playlist.m3u8",
       "castUrl1": "https://live.aionet.ir/hls/tv4/tv4.m3u8",
       "backupId": "41023",
@@ -4298,6 +4298,7 @@
       "language_code": "fa",
       "localImageResource": "irib_5",
       "httpTimeout": "500",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/tehran/live/playlist.m3u8",
       "castUrl1": "https://live.aionet.ir/hls/tv5/tv5.m3u8",
       "backupId": "41024",
@@ -4442,7 +4443,7 @@
       "localImageResource": "irib_amouzesh",
       "localImageResourceNightMode": "irib_amouzesh_night_mode",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/amouzesh/live/playlist.m3u8",
       "backupId": "41050",
       "castBackupId": "41057"
@@ -4580,7 +4581,7 @@
       "language_code": "fa",
       "localImageResource": "irib_omid",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/omid/live/playlist.m3u8",
       "backupId": "41056",
       "castBackupId": "41056"
@@ -4608,7 +4609,7 @@
       "language_code": "fa",
       "localImageResource": "irib_salamat",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/salamat/live/playlist.m3u8",
       "backupId": "41058",
       "castBackupId": "41058"
@@ -4622,7 +4623,7 @@
       "language_code": "fa",
       "localImageResource": "irib_sepehr",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/sepehr/live/playlist.m3u8",
       "backupId": "41060",
       "castBackupId": "41060"
@@ -4636,7 +4637,7 @@
       "language_code": "fa",
       "localImageResource": "irib_javaneh",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/javaneh/live/playlist.m3u8",
       "backupId": "41097",
       "castBackupId": "41097"
@@ -4650,7 +4651,7 @@
       "language_code": "fa",
       "localImageResource": "irib_ara",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/ara/live/playlist.m3u8",
       "backupId": "41098",
       "castBackupId": "41098"
@@ -4664,7 +4665,7 @@
       "language_code": "fa",
       "localImageResource": "irib_jaam",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/jam/live/playlist.m3u8",
       "backupId": "41099",
       "castBackupId": "41099"
@@ -4678,7 +4679,7 @@
       "language_code": "fa",
       "localImageResource": "irib_nama",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/nama/live/playlist.m3u8",
       "backupId": "41030",
       "castBackupId": "41030"
@@ -4692,7 +4693,7 @@
       "language_code": "fa",
       "localImageResource": "irib_nava",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/nava/live/playlist.m3u8",
       "backupId": "41031",
       "castBackupId": "41031"
@@ -4707,7 +4708,7 @@
       "localImageResource": "jame_jam",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/jame_jam.png",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/jjtv1/live/playlist.m3u8",
       "backupId": "41033",
       "castBackupId": "41033"
@@ -4722,7 +4723,7 @@
       "localImageResource": "jame_jam",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/jame_jam.png",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/jjtv2/live/playlist.m3u8",
       "backupId": "41034",
       "castBackupId": "41034"
@@ -4737,7 +4738,7 @@
       "localImageResource": "jame_jam",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/jame_jam.png",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/jjtv3/live/playlist.m3u8",
       "backupId": "41035",
       "castBackupId": "41035"
@@ -4751,7 +4752,7 @@
       "language_code": "fa",
       "localImageResource": "abadan",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/abadan/live/playlist.m3u8"
     },
     {
@@ -4763,7 +4764,7 @@
       "language_code": "fa",
       "localImageResource": "aflak",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/aflak/live/playlist.m3u8"
     },
     {
@@ -4775,7 +4776,7 @@
       "language_code": "fa",
       "localImageResource": "aftab",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/aftab/live/playlist.m3u8"
     },
     {
@@ -4787,7 +4788,7 @@
       "language_code": "tr",
       "localImageResource": "azarbayjan",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/azarbayjangharbi/live/playlist.m3u8"
     },
     {
@@ -4799,7 +4800,7 @@
       "language_code": "fa",
       "localImageResource": "alborz",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/alborz/live/playlist.m3u8"
     },
     {
@@ -4811,7 +4812,7 @@
       "language_code": "fa",
       "localImageResource": "baran",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/baran/live/playlist.m3u8"
     },
     {
@@ -4823,7 +4824,7 @@
       "language_code": "fa",
       "localImageResource": "bushehr",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/bushehr/live/playlist.m3u8"
     },
     {
@@ -4835,7 +4836,7 @@
       "language_code": "fa",
       "localImageResource": "dena",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/dena/live/playlist.m3u8"
     },
     {
@@ -4847,7 +4848,7 @@
       "language_code": "fa",
       "localImageResource": "esfahan",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/esfahan/live/playlist.m3u8"
     },
     {
@@ -4859,7 +4860,7 @@
       "language_code": "fa",
       "localImageResource": "eshragh",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/eshragh/live/playlist.m3u8"
     },
     {
@@ -4871,7 +4872,7 @@
       "language_code": "fa",
       "localImageResource": "fars",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/fars/live/playlist.m3u8"
     },
     {
@@ -4883,7 +4884,7 @@
       "language_code": "fa",
       "localImageResource": "golestan",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/sabz/live/playlist.m3u8"
     },
     {
@@ -4895,7 +4896,7 @@
       "language_code": "fa",
       "localImageResource": "hamedan",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/sina/live/playlist.m3u8"
     },
     {
@@ -4907,7 +4908,7 @@
       "language_code": "fa",
       "localImageResource": "hamoon",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/hamoon/live/playlist.m3u8"
     },
     {
@@ -4919,7 +4920,7 @@
       "language_code": "fa",
       "localImageResource": "ilam",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/ilam/live/playlist.m3u8"
     },
     {
@@ -4931,7 +4932,7 @@
       "language_code": "fa",
       "localImageResource": "jahanbin",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/jahanbin/live/playlist.m3u8"
     },
     {
@@ -4943,7 +4944,7 @@
       "language_code": "fa",
       "localImageResource": "kerman",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/kerman/live/playlist.m3u8"
     },
     {
@@ -4955,7 +4956,7 @@
       "language_code": "fa",
       "localImageResource": "kermanshah",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/zagros/live/playlist.m3u8"
     },
     {
@@ -4967,7 +4968,7 @@
       "language_code": "fa",
       "localImageResource": "khalijefars",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/khalijefars/live/playlist.m3u8"
     },
     {
@@ -4979,7 +4980,7 @@
       "language_code": "fa",
       "localImageResource": "khorasanjonoobi",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/khavaran/live/playlist.m3u8"
     },
     {
@@ -4991,7 +4992,7 @@
       "language_code": "fa",
       "localImageResource": "khorasanrazavi",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/khorasanrazavi/live/playlist.m3u8"
     },
     {
@@ -5003,7 +5004,7 @@
       "language_code": "fa",
       "localImageResource": "khorasanshomali",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/atrak/live/playlist.m3u8"
     },
     {
@@ -5015,7 +5016,7 @@
       "language_code": "fa",
       "localImageResource": "khoozestan",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/khoozestan/live/playlist.m3u8"
     },
     {
@@ -5027,7 +5028,7 @@
       "language_code": "fa",
       "localImageResource": "kish",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/kish/live/playlist.m3u8"
     },
     {
@@ -5039,7 +5040,7 @@
       "language_code": "ku",
       "localImageResource": "kordestan",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/kordestan/live/playlist.m3u8"
     },
     {
@@ -5051,7 +5052,7 @@
       "language_code": "ku",
       "localImageResource": "mahabad",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/mahabad/live/playlist.m3u8"
     },
     {
@@ -5063,7 +5064,7 @@
       "language_code": "fa",
       "localImageResource": "mazandaran",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/tabarestan/live/playlist.m3u8"
     },
     {
@@ -5075,7 +5076,7 @@
       "language_code": "fa",
       "localImageResource": "noor",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/noor/live/playlist.m3u8"
     },
     {
@@ -5087,7 +5088,7 @@
       "language_code": "fa",
       "localImageResource": "qazvin",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/qazvin/live/playlist.m3u8"
     },
     {
@@ -5099,7 +5100,7 @@
       "language_code": "fa",
       "localImageResource": "sabalan",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/sabalan/live/playlist.m3u8"
     },
     {
@@ -5111,7 +5112,7 @@
       "language_code": "fa",
       "localImageResource": "sahand",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/sahand/live/playlist.m3u8"
     },
     {
@@ -5123,7 +5124,7 @@
       "language_code": "fa",
       "localImageResource": "semnan",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/semnan/live/playlist.m3u8"
     },
     {
@@ -5135,7 +5136,7 @@
       "language_code": "fa",
       "localImageResource": "taban",
       "httpTimeout": "500",
-      "maxBitRate": "1400000",
+      "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/taban/live/playlist.m3u8"
     }
   ],
