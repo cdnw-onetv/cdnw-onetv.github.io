@@ -6896,6 +6896,20 @@
       "url2": "https://www.persianleague.com/iran-live-tv/video/78-78-sports-2"
     },
     {
+      "id": "40122",
+      "title": "Aio Sport 2",
+      "title_b_fa": "آیو اسپرت ۲",
+      "description": "Sports",
+      "country_code": "IR",
+      "geo_restrictions": "IR,IQ,CA,GE,IT,FR,UK,AF",
+      "language_code": "fa",
+      "localImageResource": "aio_sport_2",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_sport_2.png",
+      "channelName": "aio_sport_2",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/aio-sport-2"
+    },
+    {
       "id": "99",
       "title": "Persiana Sports",
       "title_b_fa": "پرشیانا اسپرت",
