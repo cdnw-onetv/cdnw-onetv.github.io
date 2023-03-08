@@ -326,7 +326,6 @@
       "country_code": "IR",
       "language_code": "fa",
       "favorite": "Yes",
-      "geo_restrictions": "!IR",
       "localImageResource": "pmc",
       "url": "https://hls.pmchd.live/hls/stream.m3u8",
       "backupId": "40005"
@@ -339,7 +338,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "favorite": "Yes",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "pmc",
       "url": "https://pmc.onetv.app/hls/stream.m3u8"
     },
@@ -361,7 +360,6 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
       "localImageResource": "radio_javan",
       "localImageResourceNightMode22": "radio_javan_night_mode",
       "maxBitRate": "2000000",
@@ -375,7 +373,7 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "radio_javan",
       "maxBitRate": "1000000",
       "url": "https://ro-jn.onetv.app/live/smil:rjtv.smil/playlist.m3u8"
