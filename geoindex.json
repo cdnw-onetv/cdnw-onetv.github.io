@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "67"
+      "description": "68"
     },
     {
       "id": "2001",
@@ -159,6 +159,7 @@
       "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "url1": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "backupUrl": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
+      "castUrl": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
       "backupId": "40002"
     },
     {
@@ -178,7 +179,8 @@
       "url1": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd",
       "url2": "https://bc-pn.onetv.app/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
       "backupUrl2": "https://bc-pn.onetv.app/x=3/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv5/b=437056/main.m3u8",
-      "backupId": "40002"
+      "backupId": "40002",
+      "castBackupId": "40002"
     },
     {
       "id": "3",
@@ -445,6 +447,7 @@
       "description": "Music",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "",
       "tags": "آسیا موزیک, Asia Music Channel",
       "localImageResource": "amc_music",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/amc_music.png",
@@ -1309,7 +1312,7 @@
       "language_code": "fa",
       "localImageResource": "mtc_tv_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/mtc_tv_1.png",
-      "url": "http://51.210.227.128/hls/stream.m3u8"
+      "url": "https://mtchls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "96",
@@ -1318,12 +1321,9 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
       "localImageResource": "khatereh_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/khatereh_tv.png",
-      "channelName": "khatereh_tv",
-      "serverName": "EmbeddedWebView",
-      "url": "https://khatereh.online/",
+      "url": "https://khaterehhls.wns.live/hls/stream.m3u8",
       "backupId": "4096"
     },
     {
@@ -1333,13 +1333,12 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "khatereh_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/khatereh_tv.png",
       "channelName": "khatereh_tv_backup",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/khatereh-tv",
-      "url0": "http://51.210.227.165/hls/stream.m3u8",
+      "url": "https://khaterehhls.wns.live/hls/stream.m3u8",
       "backupId": "4096"
     },
     {
@@ -1385,7 +1384,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "toonix_tv",
-      "url": "http://51.210.227.134/hls/stream.m3u8"
+      "url": "https://toonixhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "76",
@@ -1395,7 +1394,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "persian_film_tv",
-      "url": "http://51.210.227.135/hls/stream.m3u8"
+      "url": "https://pfilmhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "55",
@@ -1627,7 +1626,7 @@
       "language_code": "fa",
       "localImageResource": "iran_e_farda",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_e_farda.png",
-      "url": "http://51.210.227.159/hls/stream.m3u8",
+      "url": "https://hls.iranfarda.live/hls/stream.m3u8",
       "backupId": "40093"
     },
     {
@@ -1996,7 +1995,7 @@
       "localImageResource": "kurdmax_music",
       "streamingUrlExpireTime": "200",
       "maxBitRate": "1000000",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/kurdmaxmusic/live",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@kurdmaxmusic/live",
       "url3": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
       "backupId": "4305"
@@ -5146,8 +5145,7 @@
       "description": "Music",
       "language_code": "fa",
       "localImageResource": "mtc_tv",
-      "url": "http://51.210.227.128/hls/stream.m3u8",
-      "url2":"https://dk13.dk14.footballii.ir/hls2/scoreboard1.m3u8",
+      "url":"https://dk13.dk14.footballii.ir/hls2/scoreboard1.m3u8",
       "url3": "https://fcae1-usea.streaming.media.azure.net/1a81c7d2-2391-4a2a-ae0b-daaf000cf65f/1.ism/QualityLevels(200000)/Manifest(video,format=m3u8-aapl)",
       "url4": "https://videodelivery.net/7c7565e50cf211d09637bc9d24d49020/manifest/video.m3u8",
       "url5": "https://fcae1-usea.streaming.media.azure.net/1a81c7d2-2391-4a2a-ae0b-daaf000cf65f/1.ism/QualityLevels(200000)/Manifest(video,format=m3u8-aapl)",
