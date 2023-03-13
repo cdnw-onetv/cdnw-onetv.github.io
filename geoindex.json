@@ -5702,7 +5702,18 @@
       "country_code": "AF",
       "language_code": "fa",
       "localImageResource": "onetv_afghanistan",
-      "url": "http://51.210.227.142/hls/stream.m3u8"
+      "url": "http://51.210.227.142/hls/stream.m3u8",
+      "backupId": "43026"
+    },
+    {
+      "id": "43026",
+      "title": "1TV Afghanistan (Backup)",
+      "title_b_fa": "تلویزیون یک",
+      "description": "General",
+      "country_code": "AF",
+      "language_code": "fa",
+      "localImageResource": "onetv_afghanistan",
+      "url": "https://ca-rt.onetv.app/NetTV/index-0.m3u8"
     },
     {
       "id": "3017",
