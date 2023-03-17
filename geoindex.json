@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "69"
+      "description": "71"
     },
     {
       "id": "2001",
@@ -2000,6 +2000,7 @@
       "description": "Music",
       "country_code": "IQ",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "kurdmax_music",
       "streamingUrlExpireTime": "200",
       "maxBitRate": "1000000",
