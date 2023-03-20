@@ -426,6 +426,16 @@
       "backupId": "40015"
     },
     {
+      "id": "80015",
+      "title": "Tapesh TV (Backup)",
+      "title_b_fa": "تپش (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "tapesh",
+      "url": "https://ca-rt.onetv.app/TapeshAmerica/index-0.m3u8"
+    },
+    {
       "id": "18",
       "title": "ITN",
       "title_b_fa": "آی تی ان",
@@ -439,6 +449,16 @@
       "url": "https://itnhls.wns.live/hls/stream.m3u8",
       "url0": "https://ca-rt.onetv.app/ITN/index-0.m3u8",
       "backupId": "40018"
+    },
+    {
+      "id": "80018",
+      "title": "ITN (Backup)",
+      "title_b_fa": "آی تی ان (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "itn",
+      "url": "https://ca-rt.onetv.app/ITN/index-0.m3u8"
     },
     {
       "id": "61",
@@ -5990,33 +6010,6 @@
       "language_code": "fa",
       "localImageResource": "caltex_music",
       "url": "https://video.caltexmusic.com/hls/caltextv.m3u8"
-    },
-    {
-      "id": "40015",
-      "title": "Tapesh TV (Backup)",
-      "title_b_fa": "تپش (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "tapesh",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
-      "channelName": "tapesh_backup",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=TAPESH"
-    },
-    {
-      "id": "40018",
-      "title": "ITN (Backup)",
-      "title_b_fa": "آی تی ان (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "itn",
-      "channelName": "itn_backup",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=ITN",
-      "backupId": "80018"
     },
     {
       "id": "80018",
