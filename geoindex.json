@@ -2011,12 +2011,10 @@
       "description": "Music",
       "country_code": "IQ",
       "language_code": "ku",
-      "geo_restrictions": "",
       "localImageResource": "kurdmax_music",
       "streamingUrlExpireTime": "200",
       "maxBitRate": "1000000",
-      "url": "https://ca-rt.onetv.app/KurdmaxShow/index-0.m3u8",
-      "urlX": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@kurdmaxmusic/live",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@kurdmaxmusic/live",
       "url3": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
       "backupId": "4305"
