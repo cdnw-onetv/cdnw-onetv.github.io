@@ -421,9 +421,8 @@
       "language_code": "fa",
       "geo_restrictions": "!IR",
       "localImageResource": "tapesh",
-      "maxBitRate": "1000000",
-      "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8",
-      "backupId": "40015"
+      "url": "https://ca-rt.onetv.app/TapeshAmerica/index-0.m3u8",
+      "backupId": "80015"
     },
     {
       "id": "40015",
@@ -432,8 +431,11 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "@IR",
       "localImageResource": "tapesh",
-      "url": "https://ca-rt.onetv.app/TapeshAmerica/index-0.m3u8"
+      "maxBitRate": "1000000",
+      "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8",
+      "backupId": "80015"
     },
     {
       "id": "18",
@@ -448,17 +450,7 @@
       "channelName2": "itn_main",
       "url": "https://itnhls.wns.live/hls/stream.m3u8",
       "url0": "https://ca-rt.onetv.app/ITN/index-0.m3u8",
-      "backupId": "40018"
-    },
-    {
-      "id": "40018",
-      "title": "ITN (Backup)",
-      "title_b_fa": "آی تی ان (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "itn",
-      "url": "https://ca-rt.onetv.app/ITN/index-0.m3u8"
+      "backupId": "80018"
     },
     {
       "id": "61",
@@ -6010,6 +6002,16 @@
       "language_code": "fa",
       "localImageResource": "caltex_music",
       "url": "https://video.caltexmusic.com/hls/caltextv.m3u8"
+    },
+    {
+      "id": "40018",
+      "title": "ITN (Backup)",
+      "title_b_fa": "آی تی ان (جایگزین)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "itn",
+      "url": "https://ca-rt.onetv.app/ITN/index-0.m3u8"
     },
     {
       "id": "80018",
