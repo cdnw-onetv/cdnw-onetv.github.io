@@ -2598,8 +2598,8 @@
       "localImageResource": "kanal_d",
       "channelName": "kanal_d",
       "serverName": "EmbeddedWebView",
-      "url": "https://ecanlitvizle.sitecozum.net/kanal-d-canli-izle-hd/",
-      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=kanal-d-canli-izle-hd"
+      "url": "https://ecanlitvizle.video/kanal-d-canli-izle-hd/",
+      "url2": "https://ecanlitvizle.video/embed.php?kanal=kanal-d-canli-izle-hd"
     },
     {
       "id": "4635",
@@ -2611,8 +2611,8 @@
       "localImageResource": "tv8_turkish",
       "serverName": "EmbeddedWebView",
       "channelName": "tv8_turkish_backup",
-      "url": "https://ecanlitvizle.sitecozum.net/tv-8-canli-yayin-izle-15/",
-      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=tv-8-canli-yayin-izle-15"
+      "url": "https://ecanlitvizle.video/tv-8-canli-yayin-izle-15/",
+      "url2": "https://ecanlitvizle.video/embed.php?kanal=tv-8-canli-yayin-izle-15"
     },
     {
       "id": "628",
@@ -3098,8 +3098,8 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tlc_tv.png",
       "serverName": "Embedded",
       "channelName": "tlc_turkey_tv",
-      "streamingUrlReferer2": "https://ecanlitvizle.sitecozum.net/tlc-tv-canli/",
-      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=tlc-tv-canli",
+      "streamingUrlReferer2": "https://ecanlitvizle.video/tlc-tv-canli/",
+      "url2": "https://ecanlitvizle.video/embed.php?kanal=tlc-tv-canli",
       "streamingUrlReferer": "https://www.tlctv.com.tr",
       "streamingUrlOrigin": "https://www.tlctv.com.tr",
       "url": "https://www.tlctv.com.tr/canli-izle",
@@ -3475,6 +3475,18 @@
       "url": "http://85.132.81.184:8080/atv/index.m3u8"
     },
     {
+      "id": "40631",
+      "title": "Azad TV (Backup)",
+      "country_code": "AZ",
+      "language_code": "az",
+      "title_b_fa": "آزاد تی وی",
+      "description": "General",
+      "localImageResource": "azad_tv",
+      "serverName": "EmbeddedWebView",
+      "channelName": "azad_tv_backup",
+      "url": "https://canlitv.center/atv-azad-tv"
+    },
+    {
       "id": "666",
       "title": "Azad TV -2H",
       "country_code": "AZ",
@@ -3504,8 +3516,8 @@
       "localImageResource": "arb_tv",
       "channelName": "arb_tv_az",
       "serverName": "EmbeddedWebView",
-      "url": "https://ecanlitvizle.sitecozum.net/arb-az-canli/",
-      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=arb-az-canli",
+      "url": "https://canlitv.center/arb-tv",
+      "url2": "https://ecanlitvizle.video/embed.php?kanal=arb-az-canli",
       "backupId": "4669"
     },
     {
@@ -3516,7 +3528,20 @@
       "title_b_fa": "ای آر بی ۲۴ تی وی",
       "description": "General",
       "localImageResource": "arb_24_tv",
-      "url": "http://85.132.81.184:8080/arb24/live1/index.m3u8"
+      "url": "http://85.132.81.184:8080/arb24/live1/index.m3u8",
+      "backupId": "40670"
+    },
+    {
+      "id": "40670",
+      "title": "ARB 24 TV (Backup)",
+      "country_code": "AZ",
+      "language_code": "az",
+      "title_b_fa": "ای آر بی ۲۴ تی وی",
+      "description": "General",
+      "localImageResource": "arb_24_tv",
+      "channelName": "arb_24_tv_az",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.center/arb-24"
     },
     {
       "id": "671",
@@ -3528,8 +3553,22 @@
       "localImageResource": "arb_gunes_tv",
       "channelName": "arb-gunes",
       "serverName": "EmbeddedWebView",
-      "url": "https://ecanlitvizle.sitecozum.net/arb-gunes/",
-      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=arb-gunes",
+      "url0": "https://canlitv.center/arb-gunes-tv",
+      "url": "https://ecanlitvizle.video/arb-gunes",
+      "url2": "https://ecanlitvizle.video/embed.php?kanal=arb-gunes",
+      "backupUrl": "http://149.255.152.199/arbgunes.m3u8"
+    },
+    {
+      "id": "40671",
+      "title": "ARB Gunes TV (Backup)",
+      "country_code": "AZ",
+      "language_code": "az",
+      "title_b_fa": "ای آر بی تی وی",
+      "description": "Kids",
+      "localImageResource": "arb_gunes_tv",
+      "channelName": "arb-gunes",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.center/arb-gunes-tv",
       "backupUrl": "http://149.255.152.199/arbgunes.m3u8"
     },
     {
@@ -3563,8 +3602,22 @@
       "localImageResource": "az_tv",
       "channelName": "az_tv_az",
       "serverName": "EmbeddedWebView",
-      "url": "https://ecanlitvizle.sitecozum.net/az-tv-azerbaycan-tv-izle/",
-      "url2": "https://ecanlitvizle.sitecozum.net/az-tv-azerbaycan-tv-izle/"
+      "url": "https://ecanlitvizle.video/az-tv-azerbaycan-tv-izle/",
+      "url2": "https://ecanlitvizle.video/az-tv-azerbaycan-tv-izle/",
+      "backupId": "40674"
+    },
+    {
+      "id": "40674",
+      "title": "AZ TV (Backup)",
+      "country_code": "AZ",
+      "language_code": "az",
+      "title_b_fa": "آز تی وی",
+      "description": "General",
+      "localImageResource": "az_tv",
+      "channelName": "az_tv_az",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.center/az-tv",
+      "url2": "https://ecanlitvizle.video/az-tv-azerbaycan-tv-izle/"
     },
     {
       "id": "675",
@@ -3574,19 +3627,22 @@
       "title_b_fa": "باکو تی وی",
       "description": "General",
       "localImageResource": "baku_tv",
+      "maxBitRate": "2000000",
       "url": "https://rtmp.baku.tv/streams/bakutv.m3u8"
     },
     {
       "id": "676",
-      "title": "CBC  Sport AZ",
+      "title": "CBC Sport AZ",
       "country_code": "AZ",
       "language_code": "az",
-      "geo_restrictions": "!US,IN,CA",
+      "geo_restrictions": "!US,IN",
       "title_b_fa": "سی بی سی اسپرت",
       "description": "Sport",
       "localImageResource": "cbc_sport_az_tv",
-      "streamingUrlReferer": "http://www.cbcsport.az/",
-      "url": "https://s31795.cdn.ngenix.net/s31795-media-origin/lvs/cbcsport/tracks-v1a1/mono.m3u8"
+      "channelName": "cbc_sport_az",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.center/cbc-sport",
+      "backupUrl": "https://s31795.cdn.ngenix.net/s31795-media-origin/lvs/cbcsport/tracks-v1a1/mono.m3u8"
     },
     {
       "id": "677",
@@ -3597,7 +3653,8 @@
       "description": "General",
       "localImageResource": "cbc_az_tv",
       "streamingUrlReferer": "http://cbc.az/",
-      "url": "http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8"
+      "url": "http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8",
+      "backupId": "40677"
     },
     {
       "id": "678",
@@ -3609,8 +3666,8 @@
       "localImageResource": "el_tv_az",
       "channelName": "el-tv-az",
       "serverName": "EmbeddedWebView",
-      "url": "https://ecanlitvizle.sitecozum.net/el-tv-az-canli/",
-      "url2": "https://ecanlitvizle.sitecozum.net/el-tv-az-canli/"
+      "url": "https://ecanlitvizle.video/el-tv-az-canli/",
+      "url2": "https://ecanlitvizle.video/el-tv-az-canli/"
     },
     {
       "id": "679",
@@ -3632,8 +3689,20 @@
       "localImageResource": "ictimai_tv",
       "channelName": "iktimai_tv",
       "serverName": "EmbeddedWebView",
-      "url": "https://ecanlitvizle.sitecozum.net/ictimai-tv-canli-izle/",
-      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=ictimai-tv-canli-izle"
+      "url": "https://ecanlitvizle.video/ictimai-tv-canli-izle/",
+      "url2": "https://ecanlitvizle.video/embed.php?kanal=ictimai-tv-canli-izle"
+    },
+    {
+      "id": "40680",
+      "title": "Ictimai TV (Backup)",
+      "country_code": "AZ",
+      "language_code": "az",
+      "title_b_fa": "اکتیمای تی وی",
+      "description": "General",
+      "localImageResource": "ictimai_tv",
+      "channelName": "iktimai_tv_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.center/ictimai-tv"
     },
     {
       "id": "681",
@@ -3645,6 +3714,31 @@
       "localImageResource": "idman_tv",
       "channelName": "idman_tv",
       "url": "http://109.205.166.68/server124/idman_az/index.m3u8"
+    },
+    {
+      "id": "40681",
+      "title": "Idman TV (Backup)",
+      "country_code": "AZ",
+      "language_code": "az",
+      "title_b_fa": "یادمان تی وی",
+      "description": "Sports",
+      "localImageResource": "idman_tv",
+      "channelName": "idman_tv_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.center/idman-tv"
+    },
+    {
+      "id": "707",
+      "title": "Xezer TV",
+      "country_code": "AZ",
+      "language_code": "az",
+      "title_b_fa": "خزر تی وی",
+      "description": "General",
+      "localImageResource": "xezer_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/xezer_tv.png",
+      "channelName": "xezer_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.center/xezer-tv"
     },
     {
       "id": "682",
@@ -3669,8 +3763,34 @@
       "localImageResource": "medeniyet_tv",
       "serverName": "EmbeddedWebView",
       "channelName": "medeniyet_tv",
-      "url": "https://ecanlitvizle.sitecozum.net/medeniyet-tv-az/",
-      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=medeniyet-tv-az"
+      "url": "https://ecanlitvizle.video/medeniyet-tv-az/",
+      "url2": "https://ecanlitvizle.video/embed.php?kanal=medeniyet-tv-az",
+      "backupId": "40626"
+    },
+    {
+      "id": "40626",
+      "title": "Medeniyet TV (Backup)",
+      "title_b_fa": "مدنییت",
+      "description": "General",
+      "country_code": "AZ",
+      "language_code": "az",
+      "localImageResource": "medeniyet_tv",
+      "serverName": "EmbeddedWebView",
+      "channelName": "medeniyet_tv_backup",
+      "url": "https://canlitv.center/medeniyyet-tv"
+    },
+    {
+      "id": "708",
+      "title": "Space TV",
+      "country_code": "AZ",
+      "language_code": "az",
+      "title_b_fa": "خزر تی وی",
+      "description": "General",
+      "localImageResource": "space_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/space_tv.png",
+      "channelName": "space_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.center/space-tv"
     },
     {
       "id": "683",
@@ -3707,7 +3827,21 @@
       "serverName": "EmbeddedWebView",
       "streamingUrlExpireTime": "200",
       "url": "https://canlitvizle.com/real-tv-az",
-      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/RLqXabqah4M"
+      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@REALTVXEBERLE/live",
+      "backupId": "40685"
+    },
+    {
+      "id": "40685",
+      "title": "Real TV AZ (Backup)",
+      "title_b_fa": "کی آر تی تی وی",
+      "description": "News",
+      "country_code": "AZ",
+      "language_code": "az",
+      "localImageResource": "real_tv_az",
+      "channelName": "real_tv_az_backup",
+      "serverName": "EmbeddedWebView",
+      "streamingUrlExpireTime": "200",
+      "url": "https://canlitv.center/real-tv"
     },
     {
       "id": "686",
@@ -7461,8 +7595,8 @@
       "localImageResource": "startv",
       "serverName": "EmbeddedWebView",
       "channelName": "startv_backup",
-      "url": "https://ecanlitvizle.sitecozum.net/star-tv-canli-izle-10/",
-      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=star-tv-canli-izle-10"
+      "url": "https://ecanlitvizle.video/star-tv-canli-izle-10/",
+      "url2": "https://ecanlitvizle.video/embed.php?kanal=star-tv-canli-izle-10"
     },
     {
       "id": "655",
@@ -7487,8 +7621,8 @@
       "localImageResource": "ntv_turk",
       "serverName": "EmbeddedWebView",
       "channelName": "ntv_turk_backup",
-      "url": "https://ecanlitvizle.sitecozum.net/ntv-canli-full-hd-izle",
-      "url2": "https://ecanlitvizle.sitecozum.net/embed.php?kanal=ntv-canli-full-hd-izle"
+      "url": "https://ecanlitvizle.video/ntv-canli-full-hd-izle",
+      "url2": "https://ecanlitvizle.video/embed.php?kanal=ntv-canli-full-hd-izle"
     },
     {
       "id": "1166",
