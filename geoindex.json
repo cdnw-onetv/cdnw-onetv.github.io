@@ -484,9 +484,24 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "t2_music",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/t2_music.png",
       "url": "https://ca-rt.onetv.app/T2/index-0.m3u8",
+      "url2": "http://radio.persianvip.com:8888/;",
+      "backupId": "40016"
+    },
+    {
+      "id": "90016",
+      "title": "T2 (IR)",
+      "title_b_fa": "تپش دو",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "t2_music",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/t2_music.png",
+      "url": "https://ca-rt.onetvapi.win/T2/index-0.m3u8",
       "url2": "http://radio.persianvip.com:8888/;",
       "backupId": "40016"
     },
@@ -497,9 +512,23 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "t2_music",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/t2_music.png",
       "url": "https://ca-rt.onetv.app/T2International/index-0.m3u8",
+      "url2": "http://radio.persianvip.com:8888/;"
+    },
+    {
+      "id": "900110",
+      "title": "T2 International (IR)",
+      "title_b_fa": "تپش دو",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "t2_music",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/t2_music.png",
+      "url": "https://ca-rt.onetvapi.win/T2International/index-0.m3u8",
       "url2": "http://radio.persianvip.com:8888/;"
     },
     {
