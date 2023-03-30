@@ -829,7 +829,8 @@
       "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
-      "url": "https://gm.onetv.app/live/gem/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gem/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gem/index.m3u8"
     },
     {
       "id": "9008",
@@ -861,7 +862,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
-      "url": "https://gm.onetv.app/live/gemseries/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
     {
       "id": "80010",
@@ -892,7 +894,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
-      "url": "https://gm.onetv.app/live/gembollywood/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gembollywood/index.m3u8"
     },
     {
       "id": "80053",
@@ -924,7 +927,8 @@
       "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
-      "url": "https://gm.onetv.app/live/gemfilm/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gemfilm/index.m3u8"
     },
     {
       "id": "9009",
@@ -956,7 +960,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
-      "url": "https://gm.onetv.app/live/gemclassic/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gemclassic/index.m3u8"
     },
     {
       "id": "90011",
@@ -988,7 +993,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
-      "url": "https://gm.onetv.app/live/gemdrama/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gemdrama/index.m3u8"
     },
     {
       "id": "90012",
@@ -1020,7 +1026,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
-      "url": "https://gm.onetv.app/live/gemjunior/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gemjunior/index.m3u8"
     },
     {
       "id": "90014",
@@ -1052,7 +1059,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8",
-      "url": "https://gm.onetv.app/live/gemkids/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemkids/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gemkids/index.m3u8"
     },
     {
       "id": "90046",
@@ -1084,7 +1092,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
-      "url": "https://gm.onetv.app/live/gemfood/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemfood/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gemfood/index.m3u8"
     },
     {
       "id": "90047",
@@ -1116,7 +1125,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
-      "url": "https://gm.onetv.app/live/gemmaxx/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemmaxx/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gemmaxx/index.m3u8"
     },
     {
       "id": "90049",
@@ -1148,7 +1158,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/river/index.m3u8",
-      "url": "https://gm.onetv.app/live/river/index.m3u8"
+      "url": "https://ca-rt.onetv.app/river/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/river/index.m3u8"
     },
     {
       "id": "90050",
@@ -1180,7 +1191,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
-      "url": "https://gm.onetv.app/live/rubix/index.m3u8"
+      "url": "https://ca-rt.onetv.app/rubix/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/rubix/index.m3u8"
     },
     {
       "id": "90051",
@@ -1212,7 +1224,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8",
-      "url": "https://gm.onetv.app/live/gemtravel/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemtravel/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gemtravel/index.m3u8"
     },
     {
       "id": "90052",
@@ -1244,7 +1257,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "url": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemcrypto/index-0.m3u8",
+      "backupUrl": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
     },
     {
       "id": "90054",
@@ -2239,7 +2253,7 @@
       "maxBitRate": "1000000",
       "serverName": "YouTubeHls",
       "channelName": "kurdmax_music",
-      "url": "https://www.youtube.com/@kurdmaxmusic/live",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@kurdmaxmusic/live",
       "url3": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
       "backupId": "4305"
