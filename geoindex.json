@@ -829,8 +829,8 @@
       "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gem/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gem/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gem/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gem/index.m3u8"
     },
     {
       "id": "9008",
@@ -862,8 +862,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gemseries/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
     {
       "id": "80010",
@@ -894,8 +894,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gembollywood/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gembollywood/index.m3u8"
     },
     {
       "id": "80053",
@@ -909,8 +909,8 @@
       "localImageResourceNightMode": "gem_bollywood_night_mode",
       "channelName": "gem_bollywood",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-bollywood",
-      "backupId": "53"
+      "url1": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-bollywood",
+      "url": "53"
     },
     {
       "id": "9",
@@ -927,8 +927,8 @@
       "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gemfilm/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gemfilm/index.m3u8"
     },
     {
       "id": "9009",
@@ -960,8 +960,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gemclassic/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gemclassic/index.m3u8"
     },
     {
       "id": "90011",
@@ -993,8 +993,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gemdrama/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gemdrama/index.m3u8"
     },
     {
       "id": "90012",
@@ -1008,8 +1008,8 @@
       "localImageResourceNightMode": "gem_drama_night_mode",
       "channelName": "gem_drama",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-drama",
-      "backupId": "12"
+      "url1": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-drama",
+      "url": "12"
     },
     {
       "id": "14",
@@ -1026,8 +1026,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gemjunior/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gemjunior/index.m3u8"
     },
     {
       "id": "90014",
@@ -1041,8 +1041,8 @@
       "localImageResourceNightMode": "gem_junior_night_mode",
       "channelName": "gem_junior",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/gem-junior",
-      "backupId": "14"
+      "url1": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/gem-junior",
+      "url": "14"
     },
     {
       "id": "46",
@@ -1059,8 +1059,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gemkids/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gemkids/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gemkids/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gemkids/index.m3u8"
     },
     {
       "id": "90046",
@@ -1092,8 +1092,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gemfood/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gemfood/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gemfood/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gemfood/index.m3u8"
     },
     {
       "id": "90047",
@@ -1125,8 +1125,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gemmaxx/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gemmaxx/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gemmaxx/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gemmaxx/index.m3u8"
     },
     {
       "id": "90049",
@@ -1158,8 +1158,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/river/index.m3u8",
-      "url": "https://ca-rt.onetv.app/river/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/river/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/river/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/river/index.m3u8"
     },
     {
       "id": "90050",
@@ -1191,8 +1191,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
-      "url": "https://ca-rt.onetv.app/rubix/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/rubix/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/rubix/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/rubix/index.m3u8"
     },
     {
       "id": "90051",
@@ -1224,8 +1224,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gemtravel/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gemtravel/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gemtravel/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gemtravel/index.m3u8"
     },
     {
       "id": "90052",
@@ -1257,8 +1257,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gemcrypto/index-0.m3u8",
-      "backupUrl": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
+      "url1": "https://ca-rt.onetv.app/gemcrypto/index-0.m3u8",
+      "url": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
     },
     {
       "id": "90054",
