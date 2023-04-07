@@ -2271,11 +2271,23 @@
       "title": "NRT",
       "title_b_fa": "ان آر تی",
       "title_b_ku": "ئێن ئاڕ تی",
-      "description": "General",
+      "description": "News",
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "nrt_tv",
       "url": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8"
+    },
+    {
+      "id": "335",
+      "title": "NRT 2",
+      "title_b_fa": "ان آر تی ۲",
+      "title_b_ku": "ئێن ئاڕ تی ۲",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "nrt_2",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/nrt_2.png",
+      "url": "https://ca-rt.onetvapi.win/NRT2/index-0.m3u8"
     },
     {
       "id": "309",
