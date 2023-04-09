@@ -833,6 +833,20 @@
       "url": "https://gm.onetv.app/live/gem/index.m3u8"
     },
     {
+      "id": "40008",
+      "title": "Gem TV (Backup)",
+      "title_b_fa": "جم تی وی",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "gem_tv",
+      "localImageResourceNightMode": "gem_tv_night_mode",
+      "channelName": "gem_tv_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-tv",
+      "backupId": "8"
+    },
+    {
       "id": "9008",
       "title": "Gem TV (IR)",
       "title_b_fa": "جم تی وی",
@@ -864,7 +878,21 @@
       "url": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
     {
-      "id": "80010",
+      "id": "40010",
+      "title": "Gem Series (Backup)",
+      "title_b_fa": "جم سریز ",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "gem_series",
+      "localImageResourceNightMode": "gem_series_night_mode",
+      "channelName": "gem_series_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-series",
+      "backupId": "10"
+    },
+    {
+      "id": "90010",
       "title": "Gem Series (IR)",
       "title_b_fa": "جم سریز ",
       "description": "Series",
@@ -894,7 +922,21 @@
       "url": "https://gm.onetv.app/live/gembollywood/index.m3u8"
     },
     {
-      "id": "80053",
+      "id": "40053",
+      "title": "Gem Bollywood (Backup)",
+      "title_b_fa": "جم بالیوود",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "gem_bollywood",
+      "localImageResourceNightMode": "gem_bollywood_night_mode",
+      "channelName": "gem_bollywood_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-bollywood",
+      "backupId": "53"
+    },
+    {
+      "id": "90053",
       "title": "Gem Bollywood (IR)",
       "title_b_fa": "جم بالیوود",
       "description": "Movies",
