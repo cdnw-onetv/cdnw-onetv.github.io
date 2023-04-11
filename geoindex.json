@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "71"
+      "description": "72"
     },
     {
       "id": "2001",
@@ -755,7 +755,8 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!TR,UA,IR",
+      "geo_restrictions1": "!TR,UA,IR",
+      "geo_restrictions": "",
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
       "url": "https://ca-ge.onetv.app/gem/index.m3u8",
@@ -768,7 +769,8 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
+      "geo_restrictions1": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
       "url": "https://ca-ge.onetvapi.win/gem/index.m3u8",
@@ -781,7 +783,8 @@
       "description": "Series",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!TR,UA,IR",
+      "geo_restrictions1": "!TR,UA,IR",
+      "geo_restrictions": "",
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
       "url": "https://ca-ge.onetv.app/gemseries/index.m3u8",
@@ -794,7 +797,8 @@
       "description": "Series",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
+      "geo_restrictions1": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
       "url": "https://ca-ge.onetvapi.win/gemseries/index.m3u8",
@@ -829,8 +833,8 @@
       "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gem/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gem/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gem/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gem/index.m3u8"
     },
     {
       "id": "9008",
@@ -843,7 +847,8 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_tv",
       "localImageResourceNightMode": "gem_tv_night_mode",
-      "url": "https://gm.onetvapi.win/live/gem/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gem/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/gem/index.m3u8",
       "backupId": "8"
     },
     {
@@ -860,8 +865,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gemseries/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
     {
       "id": "90010",
@@ -873,7 +878,8 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_series",
       "localImageResourceNightMode": "gem_series_night_mode",
-      "url": "https://gm.onetvapi.win/live/gemseries/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemseries/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/gemseries/index.m3u8",
       "backupId": "10"
     },
     {
@@ -890,8 +896,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gembollywood/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gembollywood/index.m3u8"
     },
     {
       "id": "90053",
@@ -903,7 +909,8 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_bollywood",
       "localImageResourceNightMode": "gem_bollywood_night_mode",
-      "url": "https://gm.onetvapi.win/live/gembollywood/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gembollywood/index-0.m3u8",
+      "ur2l": "https://gm.onetvapi.win/live/gembollywood/index.m3u8",
       "backupId": "53"
     },
     {
@@ -921,8 +928,8 @@
       "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gemfilm/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gemfilm/index.m3u8"
     },
     {
       "id": "9009",
@@ -934,7 +941,8 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_film",
       "localImageResourceNightMode": "gem_film_night_mode",
-      "url": "https://gm.onetvapi.win/live/gemfilm/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemfilm/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/gemfilm/index.m3u8",
       "backupId": "9"
     },
     {
@@ -952,8 +960,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gemclassic/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gemclassic/index.m3u8"
     },
     {
       "id": "90011",
@@ -965,7 +973,8 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_classic",
       "localImageResourceNightMode": "gem_classic_night_mode",
-      "url": "https://gm.onetvapi.win/live/gemclassic/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemclassic/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/gemclassic/index.m3u8",
       "backupId": "11"
     },
     {
@@ -983,8 +992,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gemdrama/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8",
+      "url1": "https://gm.onetv.app/live/gemdrama/index.m3u8"
     },
     {
       "id": "90012",
@@ -996,7 +1005,8 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_drama",
       "localImageResourceNightMode": "gem_drama_night_mode",
-      "url": "https://gm.onetvapi.win/live/gemdrama/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemdrama/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/gemdrama/index.m3u8",
       "backupId": "12"
     },
     {
@@ -1014,8 +1024,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gemjunior/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gemjunior/index.m3u8"
     },
     {
       "id": "90014",
@@ -1027,7 +1037,8 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_junior",
       "localImageResourceNightMode": "gem_junior_night_mode",
-      "url": "https://gm.onetvapi.win/live/gemjunior/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemjunior/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/gemjunior/index.m3u8",
       "backupId": "14"
     },
     {
@@ -1045,8 +1056,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gemkids/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gemkids/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemkids/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gemkids/index.m3u8"
     },
     {
       "id": "90046",
@@ -1058,7 +1069,8 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_kids",
       "localImageResourceNightMode": "gem_kids_night_mode",
-      "url": "https://gm.onetvapi.win/live/gemkids/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemkids/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/gemkids/index.m3u8",
       "backupId": "46"
     },
     {
@@ -1076,8 +1088,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gemfood/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gemfood/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemfood/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gemfood/index.m3u8"
     },
     {
       "id": "90047",
@@ -1089,14 +1101,15 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_food",
       "localImageResourceNightMode": "gem_food_night_mode",
-      "url": "https://gm.onetvapi.win/live/gemfood/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemfood/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/gemfood/index.m3u8",
       "backupId": "47"
     },
     {
       "id": "49",
-      "title": "Gem Pixel",
-      "title_b_fa": "جم پیکسل",
-      "description": "General",
+      "title": "Gem Mifa",
+      "title_b_fa": "جم میفا",
+      "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!TR,UA,IR",
@@ -1107,20 +1120,21 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gemmaxx/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gemmaxx/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemmifa/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gemmaxx/index.m3u8"
     },
     {
       "id": "90049",
-      "title": "Gem Pixel (IR)",
-      "title_b_fa": "جم پیکسل",
+      "title": "Gem Mifa (IR)",
+      "title_b_fa": "جم میفا",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "gem_maxx",
       "localImageResourceNightMode": "gem_maxx_night_mode",
-      "url": "https://gm.onetvapi.win/live/gemmaxx/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemmifa/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/gemmaxx/index.m3u8",
       "backupId": "49"
     },
     {
@@ -1138,8 +1152,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/river/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/river/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/river/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemriver/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/river/index.m3u8"
     },
     {
       "id": "90050",
@@ -1151,7 +1165,8 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_river",
       "localImageResourceNightMode": "gem_river_night_mode",
-      "url": "https://gm.onetvapi.win/live/river/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemriver/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/river/index.m3u8",
       "backupId": "50"
     },
     {
@@ -1169,8 +1184,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/rubix/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/rubix/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemrubix/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/rubix/index.m3u8"
     },
     {
       "id": "90051",
@@ -1182,7 +1197,8 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_rubix",
       "localImageResourceNightMode": "gem_rubix_night_mode",
-      "url": "https://gm.onetvapi.win/live/rubix/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemrubix/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/rubix/index.m3u8",
       "backupId": "51"
     },
     {
@@ -1200,8 +1216,8 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gemtravel/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gemtravel/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemtravel/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gemtravel/index.m3u8"
     },
     {
       "id": "90052",
@@ -1213,13 +1229,14 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_travel",
       "localImageResourceNightMode": "gem_travel_night_mode",
-      "url": "https://gm.onetvapi.win/live/gemtravel/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemtravel/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/gemtravel/index.m3u8",
       "backupId": "52"
     },
     {
       "id": "54",
-      "title": "Gem Crypto",
-      "title_b_fa": "جم کریپتو",
+      "title": "Gem Nature",
+      "title_b_fa": "جم طبیعت",
       "description": "Business",
       "country_code": "IR",
       "language_code": "fa",
@@ -1231,20 +1248,21 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "url1": "https://ca-rt.onetv.app/gemcrypto/index-0.m3u8",
-      "url": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
+      "url": "https://ca-rt.onetv.app/gemnature/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
     },
     {
       "id": "90054",
-      "title": "Gem Crypto (IR)",
-      "title_b_fa": "جم کریپتو",
+      "title": "Gem Nature (IR)",
+      "title_b_fa": "جم طبیعت",
       "description": "Business",
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "gem_crypto",
       "localImageResourceNightMode": "gem_crypto_night_mode",
-      "url": "https://gm.onetvapi.win/live/gemcrypto/index.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemnature/index-0.m3u8",
+      "url2": "https://gm.onetvapi.win/live/gemcrypto/index.m3u8",
       "backupId": "54"
     },
     {
