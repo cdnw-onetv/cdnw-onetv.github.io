@@ -1288,7 +1288,7 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "url": "https://ca-rt.onetv.app/gemnature/index-0.m3u8",
+      "url": "https://ca-rt.onetv.app/gemlife/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
     },
     {
@@ -1301,7 +1301,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "gem_life",
       "localImageResourceNightMode": "gem_life_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemnature/index-0.m3u8",
+      "url": "https://ca-rt.onetvapi.win/gemlife/index-0.m3u8",
       "url2": "https://gm.onetvapi.win/live/gemcrypto/index.m3u8",
       "backupId": "54"
     },
