@@ -805,19 +805,6 @@
       "maxBitRate": "300000"
     },
     {
-      "id": "40053",
-      "title": "Gem Bollywood (Test)",
-      "title_b_fa": "جم بالیوود (آزمایشی)",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_bollywood",
-      "localImageResourceNightMode": "gem_bollywood_night_mode",
-      "url": "https://ca-ge.onetv.app/gembollywood/index.m3u8",
-      "maxBitRate": "300000"
-    },
-    {
       "id": "8",
       "title": "Gem TV",
       "favorite": "Yes",
@@ -2603,7 +2590,8 @@
       "maxBitRate": "1000000",
       "serverName": "YouTubeHls",
       "channelName": "kurdmax_music",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@kurdmaxmusic/live",
+      "url": "https://www.youtube.com/@kurdmaxmusic/live",
+      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/QyO7qUp78FE",
       "url3": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
       "backupId": "4305"
