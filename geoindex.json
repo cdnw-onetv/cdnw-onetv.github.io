@@ -216,7 +216,7 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "iran_international",
       "serverName": "Embedded",
       "channelName": "iran_int_backup_1",
