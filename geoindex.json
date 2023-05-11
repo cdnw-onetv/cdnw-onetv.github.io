@@ -2622,7 +2622,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_music",
-      "geo_restrictions": "",
+      "geo_restrictions1": "",
       "streamingUrlExpireTime": "200",
       "maxBitRate": "1000000",
       "serverName2": "YouTubeHls",
