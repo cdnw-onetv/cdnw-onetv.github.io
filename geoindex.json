@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "73"
+      "description": "74"
     },
     {
       "id": "2001",
@@ -28,7 +28,7 @@
     {
       "id": "2004",
       "title": "iptv_version",
-      "description": "9"
+      "description": "10"
     },
     {
       "id": "2005",
@@ -6361,6 +6361,7 @@
       "description": "News",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "atn_news",
       "url": "https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8"
     },
@@ -6392,6 +6393,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "ariana_afghanistan",
       "url": "https://iptv.arianaafgtv.com/ariana/playlist.m3u8"
     },
@@ -6418,22 +6420,13 @@
       "urlAudio": "https://fflivelemar.b-cdn.net/media_0.m3u8"
     },
     {
-      "id": "3027",
-      "title": "RTA Sport",
-      "title_b_fa": "ملی ورزش",
-      "description": "Sports",
-      "country_code": "AF",
-      "language_code": "fa",
-      "localImageResource": "rta_news",
-      "url": "https://hls.rtasport.live/hls/stream.m3u8"
-    },
-    {
       "id": "3008",
       "title": "Pamir TV",
       "title_b_fa": "پامیر تی وی",
       "description": "Music",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "pamir_tv",
       "url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
     },
@@ -6455,6 +6448,7 @@
       "description": "Music",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "sohail_tv",
       "url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8"
     },
@@ -6465,6 +6459,7 @@
       "description": "Music",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "kayhan_tv",
       "url": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
     },
@@ -6485,6 +6480,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "payame_afghan",
       "url": "http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8"
     },
@@ -6495,6 +6491,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "afghan_nobel_tv",
       "url": "https://59d39900ebfb8.streamlock.net/8572/8572/playlist.m3u8"
     },
@@ -6515,6 +6512,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "shamshad_afghan",
       "url": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
     },
@@ -6525,6 +6523,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "onetv_afghanistan",
       "url": "http://51.210.227.142/hls/stream.m3u8",
       "backupId": "43026"
@@ -6536,6 +6535,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "onetv_afghanistan",
       "url": "https://ca-rt.onetv.app/NetTV/index-0.m3u8"
     },
@@ -6546,6 +6546,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "hasti_tv",
       "url": "https://live.hastitv.com/hls/livetv.m3u8"
     },
@@ -6556,6 +6557,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "bahar_tv",
       "url": "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8"
     },
@@ -7724,7 +7726,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!FR,UA,QA",
+      "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "persiana_sports",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sports.png",
       "streamingUrlReferer": "http://sport.persiana.live/",
@@ -7740,7 +7742,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!FR,UA,QA,CH",
+      "geo_restrictions": "!FR,UA,QA,CH,US,IN",
       "localImageResource": "persiana_sports",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sports.png",
       "serverName": "EmbeddedWebView",
@@ -7757,7 +7759,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!FR,UA,QA,CH",
+      "geo_restrictions": "!FR,UA,QA,CH,US,IN",
       "localImageResource": "persiana_sports",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sports.png",
       "serverName": "Embedded",
@@ -7765,18 +7767,6 @@
       "streamingUrlReferer": "https://www.persianleague.com/",
       "streamingUrlOrigin": "https://www.persianleague.com",
       "url": "https://persianleague.com/iran-live-tv/video/21-sports-2"
-    },
-    {
-      "id": "106",
-      "title": "Persiana Poker TV",
-      "title_b_fa": "پرشیانا پوکر تی وی",
-      "description": "Sports",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA,QA",
-      "localImageResource": "persiana_poker_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_poker_tv.png",
-      "url": "http://51.210.199.17/hls/stream.m3u8"
     },
     {
       "id": "4302",
