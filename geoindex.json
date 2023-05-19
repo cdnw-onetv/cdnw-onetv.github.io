@@ -6341,6 +6341,7 @@
       "description": "News",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "afghanistan_international",
       "url": "https://hls.afintl.com/hls/stream.m3u8"
     },
@@ -6351,6 +6352,7 @@
       "description": "News",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "ariana_news",
       "url": "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8"
     },
@@ -6372,6 +6374,7 @@
       "description": "News",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "tolo_news",
       "url": "https://fflivetolonews.b-cdn.net/media_0.m3u8",
       "urlAudio": "https://fflivetolonews.b-cdn.net/media_3.m3u8"
@@ -6383,6 +6386,7 @@
       "description": "News",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "rta_news",
       "url": "https://hls.rta.live/hls/stream.m3u8"
     },
@@ -6404,6 +6408,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "tolo_tv",
       "url": "https://fflivetolotv.b-cdn.net/media_0.m3u8",
       "urlAudio": "https://fflivetolotv.b-cdn.net/media_3.m3u8"
@@ -6415,6 +6420,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "lemar_tv",
       "url": "https://fflivelemar.b-cdn.net/media_3.m3u8",
       "urlAudio": "https://fflivelemar.b-cdn.net/media_0.m3u8"
@@ -6437,6 +6443,7 @@
       "description": "Music",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "tolo_music",
       "url": "https://fflivetolomusic.b-cdn.net/media_0.m3u8",
       "urlAudio": "https://fflivetolomusic.b-cdn.net/media_3.m3u8"
@@ -6470,6 +6477,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "watane_maa",
       "url": "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
     },
@@ -6502,6 +6510,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "afghan_nobel_tv",
       "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
     },
@@ -6568,6 +6577,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "iman_tv",
       "url": "https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8"
     },
@@ -6578,6 +6588,7 @@
       "description": "Religious",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "maarif_tv",
       "url": "http://51.210.199.51/hls/stream.m3u8"
     },
@@ -6588,6 +6599,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "donyai_new",
       "url": "https://dunyanhls.wns.live/hls/stream.m3u8"
     },
@@ -6598,6 +6610,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "solh_tv",
       "url": "http://51.210.199.42/hls/stream.m3u8"
     },
@@ -6608,6 +6621,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "eslah_tv",
       "url": "https://eslahtvhls.wns.live/hls/stream.m3u8"
     },
@@ -6618,6 +6632,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "barya_tv",
       "url": "http://51.210.199.56/hls/stream.m3u8"
     },
@@ -6628,6 +6643,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "mogham_tv",
       "url": "http://51.210.227.139/hls/stream.m3u8"
     }
