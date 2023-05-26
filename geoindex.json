@@ -362,7 +362,7 @@
       "language_code": "fa",
       "localImageResource": "avang",
       "localImageResourceNightMode22": "avang_night_mode",
-      "url": "http://51.210.227.149/hls/stream.m3u8"
+      "url": "https://hls.avang.live/hls/stream.m3u8"
     },
     {
       "id": "6",
