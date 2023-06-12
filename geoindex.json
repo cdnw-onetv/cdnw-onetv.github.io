@@ -821,6 +821,26 @@
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
       "url": "https://ca-rt.onetv.app/gem/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gem/index.m3u8",
+      "backupId": "80008"
+    },
+    {
+      "id": "80008",
+      "title": "Gem TV (Backup)",
+      "title_b_fa": "جم تی وی",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!TR,UA,IR",
+      "localImageResource": "gem_tv",
+      "localImageResourceNightMode": "gem_tv_night_mode",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "channelName": "gem_tv_backup",
+      "serverName": "EmbeddedWebView",
+      "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-tv",
       "url2": "https://gm.onetv.app/live/gem/index.m3u8"
     },
     {
@@ -853,6 +873,25 @@
       "httpReadTimeout": "1000",
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "url": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gemseries/index.m3u8",
+      "backupId": "80010"
+    },
+    {
+      "id": "80010",
+      "title": "Gem Series (Backup)",
+      "title_b_fa": "جم سریز",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!TR,UA",
+      "localImageResource": "gem_series",
+      "localImageResourceNightMode": "gem_series_night_mode",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "channelName": "gem_series_backup",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-series",
       "url2": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
     {
