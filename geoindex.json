@@ -2282,7 +2282,7 @@
       "localImageResource": "royal_time_tv",
       "channelName": "royal_time",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.royaltimetv.com/"
+      "url": "https://www.parsatv.com/name=Royal-Time-TV#persian"
     },
     {
       "id": "120",
@@ -2351,7 +2351,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "IR,IQ,CA,GE,IT,FR,UK",
+      "geo_restrictions": "IR,IQ",
       "recording_geo_restrictions": "CA",
       "localImageResource": "lenz_sport",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_sport.png",
@@ -2366,7 +2366,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "IR,IQ",
+      "geo_restrictions": "",
       "localImageResource": "tva_sport_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_sport_1.png",
       "serverName": "EmbeddedWebView",
@@ -2380,7 +2380,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "IR,IQ",
+      "geo_restrictions": "",
       "localImageResource": "tva_sport_2",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_sport_2.png",
       "serverName": "EmbeddedWebView",
@@ -2409,6 +2409,7 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "IR",
       "localImageResource": "lenz_film",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_film.png",
       "streamingUrlReferer": "http://lenzsport.ir/",
@@ -2423,6 +2424,7 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "tva_film",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_film.png",
       "serverName": "EmbeddedWebView",
@@ -2451,6 +2453,7 @@
       "description": "Kids",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "tva_koodak",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_koodak.png",
       "serverName": "EmbeddedWebView",
@@ -2487,7 +2490,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "radio_yar",
-      "url": "http://192.34.153.102:8000/RadioYAR.mp3"
+      "url": "https://shoutcast.glwiz.com/RadioYAR.mp3",
+      "backupUrl": "https://stream.zeno.fm/rkd0a9e5rm0uv?type=mp3"
     },
     {
       "id": "202",
@@ -2564,7 +2568,6 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
-      "geo_restrictions": "!IR",
       "localImageResource": "kurdmax_tv",
       "url": "https://ca-rt.onetv.app/KurdMax/index-0.m3u8",
       "backupId": "4303"
@@ -2576,7 +2579,7 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "kurdmax_tv",
       "url": "https://ca-rt.onetvapi.win/KurdMax/index-0.m3u8",
       "backupId": "4303"
@@ -2600,7 +2603,6 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
-      "geo_restrictions": "!IR",
       "localImageResource": "kurdmax_show_tv",
       "url": "https://ca-rt.onetv.app/KurdmaxShow/index-0.m3u8",
       "backupId": "4304"
@@ -2612,7 +2614,7 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "kurdmax_show_tv",
       "url": "https://ca-rt.onetvapi.win/KurdmaxShow/index-0.m3u8",
       "backupId": "4304"
@@ -2727,7 +2729,7 @@
       "language_code": "ku",
       "localImageResource": "speda_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/speda_tv.png",
-      "url": "http://speda.dwasat.com:8880/live/speda084k/chunklist.m3u8"
+      "url": "http://speda.dwasat.com/upload/images/spedahd.m3u8"
     },
     {
       "id": "330",
@@ -2739,12 +2741,7 @@
       "geo_restrictions": "",
       "localImageResource": "net_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/net_tv.png",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
-      "channelName": "net_tv",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=NetTV",
-      "backupId": "40330"
+      "url": "https://ca-rt.onetv.app/NetTV/index-0.m3u8"
     },
     {
       "id": "310",
@@ -2838,7 +2835,6 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
-      "geo_restrictions": "!IR",
       "localImageResource": "waar_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/waar_tv.png",
       "streamingUrlReferer": "http://www.elahmad.com",
@@ -2855,7 +2851,7 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "waar_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/waar_tv.png",
       "streamingUrlReferer": "http://www.elahmad.com",
@@ -2963,7 +2959,7 @@
       "country_code": "TR",
       "language_code": "ku",
       "localImageResource": "ashursat",
-      "url": "https://5afd52b55ff79.streamlock.net/AshurSat/myStream2022/playlist.m3u8"
+      "url": "https://5afd52b55ff79.streamlock.net/AshurSat/_definst_/myStream2023-05/playlist.m3u8"
     },
     {
       "id": "324",
@@ -5022,19 +5018,6 @@
       "castBackupId": "41020"
     },
     {
-      "id": "2020",
-      "title": "IRIB 1 (Backup 2)",
-      "title_b_fa": "شبکه یک (جایگزین ۲)",
-      "localImageResource": "irib_1",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://live.aionet.ir/hls/tv1/tv1.m3u8",
-      "maxBitRate": "1000000",
-      "backupId": "41020"
-    },
-    {
       "id": "1021",
       "title": "IRIB 2",
       "title_b_fa": "شبکه دو",
@@ -6145,7 +6128,7 @@
       "geo_restrictions": "@CA,IR,IQ",
       "localImageResource": "sky_news",
       "url": "https://siloh.pluto.tv/lilo/production/SkyNews/master_4.m3u8",
-      "backupUrl": "https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8"
+      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=9Auq9mYxFEE"
     },
     {
       "id": "511",
@@ -6167,8 +6150,8 @@
       "language_code": "en",
       "localImageResource": "tvo_kids",
       "streamingUrlExpireTime": "200",
-      "url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8",
-      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw/live"
+      "url0": "https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XYoMkJc1N6w"
     },
     {
       "id": "525",
@@ -6194,90 +6177,6 @@
       "url": "https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8"
     },
     {
-      "id": "519",
-      "title": "Bein Sports English 1",
-      "title_b_fa": "بین اسپورت انگلیسی ۱",
-      "title_b_ar": "بین سبورت انجليزي ۱",
-      "description": "Sports",
-      "country_code": "QA",
-      "language_code": "en",
-      "geo_restrictions": "",
-      "localImageResource": "bein_sports_english_1",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_english_1.png",
-      "streamingUrlReferer": "https://eplayer.click/",
-      "url": "https://webudit.onlinewebtv.lol/lb/premium61/playlist.m3u8"
-    },
-    {
-      "id": "520",
-      "title": "Sky Sports",
-      "title_b_fa": "اسکای اسپورت",
-      "title_b_ar": "سكاي سبورت",
-      "description": "Sports",
-      "country_code": "UK",
-      "language_code": "en",
-      "geo_restrictions": "IR,IQ",
-      "localImageResource": "sky_sports",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sky_sports.png",
-      "streamingUrlReferer": "https://eplayer.click/",
-      "url": "https://webudit.onlinewebtv.lol/lb/premium60/playlist.m3u8"
-    },
-    {
-      "id": "521",
-      "title": "ESPN 2",
-      "title_b_fa": "ای اس پی ان ۲",
-      "description": "Sports",
-      "country_code": "US",
-      "language_code": "en",
-      "geo_restrictions": "IR,IQ",
-      "localImageResource": "espn_2",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/espn_2.png",
-      "channelName": "espn_2",
-      "serverName": "EmbeddedWebView",
-      "url": "https://tv247.us/espn2/"
-    },
-    {
-      "id": "522",
-      "title": "ESPN U",
-      "title_b_fa": "ای اس پی ان یو",
-      "description": "Sports",
-      "country_code": "US",
-      "language_code": "en",
-      "geo_restrictions": "IR,IQ",
-      "localImageResource": "espn_u",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/espn_u.png",
-      "channelName": "espn_u",
-      "serverName": "EmbeddedWebView",
-      "url": "https://tv247.us/espnu/"
-    },
-    {
-      "id": "523",
-      "title": "Fox",
-      "title_b_fa": "فاکس",
-      "description": "Sports",
-      "country_code": "US",
-      "language_code": "en",
-      "geo_restrictions": "IR,IQ",
-      "localImageResource": "fox_channel",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/fox_channel.png",
-      "channelName": "fox_channel",
-      "serverName": "EmbeddedWebView",
-      "url": "https://tv247.us/watch-fox-channel-live-stream/"
-    },
-    {
-      "id": "524",
-      "title": "Fox Sports 2",
-      "title_b_fa": "فاکس اسپورت ۲",
-      "description": "Sports",
-      "country_code": "US",
-      "language_code": "en",
-      "geo_restrictions": "IR,IQ",
-      "localImageResource": "fox_sports_2",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/fox_sports_2.png",
-      "channelName": "fox_sports_2",
-      "serverName": "EmbeddedWebView",
-      "url": "https://tv247.us/fox-sports-2/"
-    },
-    {
       "id": "512",
       "title": "CBS News",
       "title_b_fa": "سی بی اس نیوز",
@@ -6297,21 +6196,20 @@
       "title_b_fa": "آهنگ های برتر ۲۰۲۲",
       "description": "Music",
       "language_code": "en",
-      "geo_restrictions": "@CA,IR,IQ",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WFF1eRTJOYw",
-      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9qr4fem8L5HEx0IDoktEpw/live"
+      "url": "https://ythls.onrender.com/video/R24sxuY9NQk.m3u8",
+      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R24sxuY9NQk"
     },
     {
       "id": "516",
-      "title": "Beautiful Places On Earth",
+      "title": "Beautiful Places on Earth",
       "title_b_fa": "مکانهای دیدنی زمین",
       "description": "Music",
       "language_code": "en",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/_-WWwNt8AzU"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=rw7bxTqkYYs"
     },
     {
       "id": "514",
@@ -6321,8 +6219,7 @@
       "language_code": "en",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/channel/UCvbKGLFg-bgjWvAglehxOFw.m3u8",
-      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvbKGLFg-bgjWvAglehxOFw/live"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvbKGLFg-bgjWvAglehxOFw/live"
     },
     {
       "id": "526",
@@ -6332,8 +6229,7 @@
       "language_code": "en",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/video/RbJg7YLqJk8.m3u8",
-      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RbJg7YLqJk8"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=36YnV9STBqc"
     }
   ],
   "afghan_tv": [
@@ -7150,6 +7046,7 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "tva_nava",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tva_nava.png",
       "serverName": "EmbeddedWebView",
@@ -7678,6 +7575,19 @@
       "url": "https://sepehrtv.ir/live/jjtvn1",
       "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/jjtv3/live/playlist.m3u8"
+    },
+    {
+      "id": "2020",
+      "title": "IRIB 1 (Backup 2)",
+      "title_b_fa": "شبکه یک (جایگزین ۲)",
+      "localImageResource": "irib_1",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "streamingUrlReferer": "https://www.aionet.ir/",
+      "url": "https://live.aionet.ir/hls/tv1/tv1.m3u8",
+      "maxBitRate": "1000000",
+      "backupId": "41020"
     },
     {
       "id": "2023",
@@ -8680,6 +8590,90 @@
       "channelName": "idman_tv",
       "serverName": "EmbeddedWebView",
       "url": "https://tr.canlitv.services/idman-tv-izle"
+    },
+    {
+      "id": "519",
+      "title": "Bein Sports English 1",
+      "title_b_fa": "بین اسپورت انگلیسی ۱",
+      "title_b_ar": "بین سبورت انجليزي ۱",
+      "description": "Sports",
+      "country_code": "QA",
+      "language_code": "en",
+      "geo_restrictions": "",
+      "localImageResource": "bein_sports_english_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_english_1.png",
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webudit.onlinewebtv.lol/lb/premium61/playlist.m3u8"
+    },
+    {
+      "id": "520",
+      "title": "Sky Sports",
+      "title_b_fa": "اسکای اسپورت",
+      "title_b_ar": "سكاي سبورت",
+      "description": "Sports",
+      "country_code": "UK",
+      "language_code": "en",
+      "geo_restrictions": "IR,IQ",
+      "localImageResource": "sky_sports",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/sky_sports.png",
+      "streamingUrlReferer": "https://eplayer.click/",
+      "url": "https://webudit.onlinewebtv.lol/lb/premium60/playlist.m3u8"
+    },
+    {
+      "id": "521",
+      "title": "ESPN 2",
+      "title_b_fa": "ای اس پی ان ۲",
+      "description": "Sports",
+      "country_code": "US",
+      "language_code": "en",
+      "geo_restrictions": "IR,IQ",
+      "localImageResource": "espn_2",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/espn_2.png",
+      "channelName": "espn_2",
+      "serverName": "EmbeddedWebView",
+      "url": "https://tv247.us/espn2/"
+    },
+    {
+      "id": "522",
+      "title": "ESPN U",
+      "title_b_fa": "ای اس پی ان یو",
+      "description": "Sports",
+      "country_code": "US",
+      "language_code": "en",
+      "geo_restrictions": "IR,IQ",
+      "localImageResource": "espn_u",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/espn_u.png",
+      "channelName": "espn_u",
+      "serverName": "EmbeddedWebView",
+      "url": "https://tv247.us/espnu/"
+    },
+    {
+      "id": "523",
+      "title": "Fox",
+      "title_b_fa": "فاکس",
+      "description": "Sports",
+      "country_code": "US",
+      "language_code": "en",
+      "geo_restrictions": "IR,IQ",
+      "localImageResource": "fox_channel",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/fox_channel.png",
+      "channelName": "fox_channel",
+      "serverName": "EmbeddedWebView",
+      "url": "https://tv247.us/watch-fox-channel-live-stream/"
+    },
+    {
+      "id": "524",
+      "title": "Fox Sports 2",
+      "title_b_fa": "فاکس اسپورت ۲",
+      "description": "Sports",
+      "country_code": "US",
+      "language_code": "en",
+      "geo_restrictions": "IR,IQ",
+      "localImageResource": "fox_sports_2",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/fox_sports_2.png",
+      "channelName": "fox_sports_2",
+      "serverName": "EmbeddedWebView",
+      "url": "https://tv247.us/fox-sports-2/"
     }
   ],
   "user_defined_tv": [
