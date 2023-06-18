@@ -2738,7 +2738,6 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
-      "geo_restrictions": "",
       "localImageResource": "net_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/net_tv.png",
       "url": "https://ca-rt.onetv.app/NetTV/index-0.m3u8"
@@ -2947,8 +2946,8 @@
       "localImageResource": "medya_haber_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/medya_haber_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/channel/UCGLJKPv82FfPQQ-2Wk8EK7w.m3u8",
-      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGLJKPv82FfPQQ-2Wk8EK7w/live",
+      "url": "https://ythls.onrender.com/video/AKwAGzZJkmg.m3u8",
+      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AKwAGzZJkmg",
       "backupUrl": "https://muzkurd.com/Medya/live15/playlist.m3u8"
     },
     {
