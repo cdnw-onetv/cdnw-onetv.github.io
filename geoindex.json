@@ -2738,6 +2738,7 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "net_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/net_tv.png",
       "url": "https://ca-rt.onetv.app/NetTV/index-0.m3u8"
