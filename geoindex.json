@@ -909,7 +909,6 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "",
       "localImageResource": "gem_film",
       "localImageResourceNightMode": "gem_film_night_mode",
       "httpTimeout": "1000",
