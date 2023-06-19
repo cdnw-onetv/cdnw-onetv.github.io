@@ -2632,9 +2632,9 @@
       "maxBitRate": "1000000",
       "serverName2": "YouTubeHls",
       "channelName": "kurdmax_music",
-      "url": "https://ythls.onrender.com/video/uOYTyW7XT7c.m3u8",
+      "url": "https://ythls.onrender.com/video/UfFtBsVn0qo.m3u8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@kurdmaxmusic/live",
-      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/QyO7qUp78FE",
+      "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/UfFtBsVn0qo",
       "url3": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
       "backupId": "4305"
