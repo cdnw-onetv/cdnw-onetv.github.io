@@ -941,7 +941,7 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "",
+      "geo_restrictions": "!TR,UA",
       "localImageResource": "gem_classic",
       "localImageResourceNightMode": "gem_classic_night_mode",
       "streamingUrlHeaders": "OneToken:abcxyz",
