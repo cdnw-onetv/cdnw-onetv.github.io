@@ -2253,11 +2253,10 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "",
       "localImageResource": "iran_aryaee",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_aryaee.png",
-      "channelName": "channel_yek",
-      "serverName": "Embedded",
+      "channelName": "iran_aryaei",
+      "serverName": "EmbeddedWebView",
       "url": "https://livestream.com/iranaryaeetv/events/3752117",
       "backupId": "40104"
     },
