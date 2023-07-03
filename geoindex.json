@@ -552,7 +552,8 @@
       "language_code": "fa",
       "localImageResource": "pmc",
       "geo_restrictions1": "!IR",
-      "url": "https://ca-ge.onetv.app/pmc/index.m3u8",
+      "url1": "https://ca-ge.onetv.app/pmc/index.m3u8",
+      "url": "https://ca-rt.onetv.app/PMCMusic/index-0.m3u8",
       "maxBitRate": "300000",
       "backupId": "60005"
     },
