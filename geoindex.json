@@ -210,21 +210,6 @@
       "backupId": "80003"
     },
     {
-      "id": "40003",
-      "title": "Iran International (Backup)",
-      "title_b_fa": "ایران اینترنشنال (جایگزین)",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "iran_international",
-      "serverName": "Embedded",
-      "channelName": "iran_int_backup_1",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-news-tv/iran-international-live",
-      "maxBitRate": "900000",
-      "backupId": "80003"
-    },
-    {
       "id": "9003",
       "title": "Iran International (IR)",
       "title_b_fa": "ایران اینترنشنال",
@@ -244,6 +229,21 @@
       "backupId": "40003"
     },
     {
+      "id": "40003",
+      "title": "Iran International (Backup)",
+      "title_b_fa": "ایران اینترنشنال (جایگزین)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "iran_international",
+      "serverName": "Embedded",
+      "channelName": "iran_int_backup_1",
+      "url": "https://aparat.onetvapi.win/iran-live-tv/farsi-news-tv/iran-international-live",
+      "maxBitRate": "900000",
+      "backupId": "80003"
+    },
+    {
       "id": "240003",
       "title": "Iran International (Radio)",
       "title_b_fa": "ایران اینترنشنال (راديو)",
@@ -255,24 +255,6 @@
       "httpConnectTimeout": "5000",
       "httpReadTimeout": "5000",
       "url": "http://n09.radiojar.com/dfnrphnr5f0uv?type=mp3"
-    },
-    {
-      "id": "168880003",
-      "title": "Iran International (Test)",
-      "title_b_fa": "ایران اینترنشنال",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "iran_international",
-      "allowInsecureSsl": "true",
-      "maxBitRate": "600000",
-      "httpTimeout": "5000",
-      "httpConnectTimeout": "5000",
-      "httpReadTimeout": "5000",
-      "streamingUrlHeaders": "Host:d234zyvf3b6a4t.cloudfront.net",
-      "url0": "https://radio.iraninternational.app/iintl_c?mp3=mp3",
-      "url": "http://intl-cname.onetvapi.ml/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8"
     },
     {
       "id": "29",
@@ -340,20 +322,6 @@
       "backupId": "40005"
     },
     {
-      "id": "9005",
-      "title": "PMC (Backup)",
-      "title_b_fa": "پی ام سی (جایگزین)",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "pmc",
-      "channelName": "pmc_backup",
-      "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/pmc",
-      "backupId": "40005"
-    },
-    {
       "id": "44",
       "title": "Avang",
       "title_b_fa": "آونگ",
@@ -362,7 +330,8 @@
       "language_code": "fa",
       "localImageResource": "avang",
       "localImageResourceNightMode22": "avang_night_mode",
-      "url": "https://hls.avang.live/hls/stream.m3u8"
+      "url": "https://hls.avang.live/hls/stream.m3u8",
+      "backupId": "40044"
     },
     {
       "id": "6",
@@ -388,7 +357,8 @@
       "geo_restrictions": "@IR",
       "localImageResource": "radio_javan",
       "maxBitRate": "1000000",
-      "url": "https://rjtvhls.wns.live/hls/stream.m3u8"
+      "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
+      "backupId": "40006"
     },
     {
       "id": "43",
@@ -422,18 +392,6 @@
       "geo_restrictions1": "",
       "localImageResource": "tapesh",
       "url": "https://ca-rt.onetv.app/TapeshAmerica/index-0.m3u8",
-      "backupId": "80015"
-    },
-    {
-      "id": "90015",
-      "title": "Tapesh TV (IR)",
-      "title_b_fa": "تپش",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "tapesh",
-      "url": "https://ca-rt.onetvapi.win/TapeshAmerica/index-0.m3u8",
       "backupId": "80015"
     },
     {
@@ -504,20 +462,6 @@
       "backupId": "40016"
     },
     {
-      "id": "90016",
-      "title": "T2 (IR)",
-      "title_b_fa": "تپش دو",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "t2_music",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/t2_music.png",
-      "url": "https://ca-rt.onetvapi.win/T2/index-0.m3u8",
-      "url2": "http://radio.persianvip.com:8888/;",
-      "backupId": "40016"
-    },
-    {
       "id": "110",
       "title": "T2 International",
       "title_b_fa": "تپش دو",
@@ -528,19 +472,6 @@
       "localImageResource": "t2_music",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/t2_music.png",
       "url": "https://ca-rt.onetv.app/T2International/index-0.m3u8",
-      "url2": "http://radio.persianvip.com:8888/;"
-    },
-    {
-      "id": "900110",
-      "title": "T2 International (IR)",
-      "title_b_fa": "تپش دو",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "t2_music",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/t2_music.png",
-      "url": "https://ca-rt.onetvapi.win/T2International/index-0.m3u8",
       "url2": "http://radio.persianvip.com:8888/;"
     },
     {
@@ -558,17 +489,27 @@
       "backupId": "60005"
     },
     {
-      "id": "90040005",
-      "title": "PMC (Test, IR)",
-      "title_b_fa": "پی ام سی (آزمایشی)",
+      "id": "40044",
+      "title": "Avang (Test)",
+      "title_b_fa": "آونگ",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "pmc",
-      "url": "https://ca-ge.onetvapi.win/pmc/index.m3u8",
-      "maxBitRate": "300000",
-      "backupId": "60005"
+      "localImageResource": "avang",
+      "localImageResourceNightMode22": "avang_night_mode",
+      "url": "https://ca-rt.onetv.app/Avang/index-0.m3u8"
+    },
+    {
+      "id": "40006",
+      "title": "RadioJavan (Test, IR)",
+      "title_b_fa": "رادیو جوان",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "radio_javan",
+      "maxBitRate": "1000000",
+      "url": "https://ca-rt.onetv.app/RJTV/index-0.m3u8"
     },
     {
       "id": "57",
@@ -599,26 +540,11 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions1": "!IR",
       "localImageResource": "manoto_plus_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/manoto_plus_1.png",
       "localImageResourceNightMode": "manoto_plus_1_night_mode",
       "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/manoto_plus_1_night_mode.png",
       "url": "https://ca-rt.onetv.app/ManotoPlus1/index-0.m3u8"
-    },
-    {
-      "id": "900112",
-      "title": "Manoto + 1 (IR)",
-      "title_b_fa": "من و تو پلاس ۱",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "manoto_plus_1",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/manoto_plus_1.png",
-      "localImageResourceNightMode": "manoto_plus_1_night_mode",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/manoto_plus_1_night_mode.png",
-      "url": "https://ca-rt.onetvapi.win/ManotoPlus1/index-0.m3u8"
     },
     {
       "id": "113",
@@ -627,26 +553,11 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions1": "!IR",
       "localImageResource": "manoto_plus_2",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/manoto_plus_2.png",
       "localImageResourceNightMode": "manoto_plus_2_night_mode",
       "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/manoto_plus_2_night_mode.png",
       "url": "https://ca-rt.onetv.app/ManotoPlus2/index-0.m3u8"
-    },
-    {
-      "id": "900113",
-      "title": "Manoto + 2 (IR)",
-      "title_b_fa": "من و تو پلاس ۲",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "manoto_plus_2",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/manoto_plus_2.png",
-      "localImageResourceNightMode": "manoto_plus_2_night_mode",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/manoto_plus_2_night_mode.png",
-      "url": "https://ca-rt.onetvapi.win/ManotoPlus2/index-0.m3u8"
     },
     {
       "id": "60",
@@ -750,62 +661,6 @@
       "backupId": "40066"
     },
     {
-      "id": "40008",
-      "title": "Gem TV (Test)",
-      "title_b_fa": "جم تی وی (آزمایشی)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions1": "!TR,UA,IR",
-      "geo_restrictions": "",
-      "localImageResource": "gem_tv",
-      "localImageResourceNightMode": "gem_tv_night_mode",
-      "url": "https://ca-ge.onetv.app/gem/index.m3u8",
-      "maxBitRate": "300000"
-    },
-    {
-      "id": "90040008",
-      "title": "Gem TV (Test, IR)",
-      "title_b_fa": "جم تی وی (آزمایشی)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions1": "@IR",
-      "geo_restrictions": "",
-      "localImageResource": "gem_tv",
-      "localImageResourceNightMode": "gem_tv_night_mode",
-      "url": "https://ca-ge.onetvapi.win/gem/index.m3u8",
-      "maxBitRate": "300000"
-    },
-    {
-      "id": "40010",
-      "title": "Gem Series (Test)",
-      "title_b_fa": "جم سریز (آزمایشی)",
-      "description": "Series",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions1": "!TR,UA,IR",
-      "geo_restrictions": "",
-      "localImageResource": "gem_series",
-      "localImageResourceNightMode": "gem_series_night_mode",
-      "url": "https://ca-ge.onetv.app/gemseries/index.m3u8",
-      "maxBitRate": "300000"
-    },
-    {
-      "id": "90040010",
-      "title": "Gem Series (Test, IR)",
-      "title_b_fa": "جم سریز (آزمایشی)",
-      "description": "Series",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions1": "@IR",
-      "geo_restrictions": "",
-      "localImageResource": "gem_series",
-      "localImageResourceNightMode": "gem_series_night_mode",
-      "url": "https://ca-ge.onetvapi.win/gemseries/index.m3u8",
-      "maxBitRate": "300000"
-    },
-    {
       "id": "8",
       "title": "Gem TV",
       "favorite": "Yes",
@@ -826,21 +681,6 @@
       "backupId": "80008"
     },
     {
-      "id": "9008",
-      "title": "Gem TV (IR)",
-      "title_b_fa": "جم تی وی",
-      "description": "General",
-      "favorite": "Yes",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_tv",
-      "localImageResourceNightMode": "gem_tv_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gem/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gem/index.m3u8",
-      "backupId": "8"
-    },
-    {
       "id": "10",
       "title": "Gem Series",
       "title_b_fa": "جم سریز",
@@ -859,20 +699,6 @@
       "backupId": "80010"
     },
     {
-      "id": "90010",
-      "title": "Gem Series (IR)",
-      "title_b_fa": "جم سریز ",
-      "description": "Series",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_series",
-      "localImageResourceNightMode": "gem_series_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemseries/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemseries/index.m3u8",
-      "backupId": "10"
-    },
-    {
       "id": "53",
       "title": "Gem Bollywood",
       "title_b_fa": "جم بالیوود",
@@ -888,20 +714,6 @@
       "url0": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
       "url": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gembollywood/index.m3u8"
-    },
-    {
-      "id": "90053",
-      "title": "Gem Bollywood (IR)",
-      "title_b_fa": "جم بالیوود",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_bollywood",
-      "localImageResourceNightMode": "gem_bollywood_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gembollywood/index-0.m3u8",
-      "ur2l": "https://gm.onetvapi.win/live/gembollywood/index.m3u8",
-      "backupId": "53"
     },
     {
       "id": "9",
@@ -922,20 +734,6 @@
       "url2": "https://gm.onetv.app/live/gemfilm/index.m3u8"
     },
     {
-      "id": "9009",
-      "title": "Gem Film (IR)",
-      "title_b_fa": "جم فیلم",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_film",
-      "localImageResourceNightMode": "gem_film_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemfilm/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemfilm/index.m3u8",
-      "backupId": "9"
-    },
-    {
       "id": "11",
       "title": "Gem Classic",
       "title_b_fa": "جم کلاسیک",
@@ -952,20 +750,6 @@
       "url0": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
       "url": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gemclassic/index.m3u8"
-    },
-    {
-      "id": "90011",
-      "title": "Gem Classic (IR)",
-      "title_b_fa": "جم کلاسیک",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_classic",
-      "localImageResourceNightMode": "gem_classic_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemclassic/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemclassic/index.m3u8",
-      "backupId": "11"
     },
     {
       "id": "12",
@@ -986,20 +770,6 @@
       "url1": "https://gm.onetv.app/live/gemdrama/index.m3u8"
     },
     {
-      "id": "90012",
-      "title": "Gem Drama (IR)",
-      "title_b_fa": "جم دراما",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_drama",
-      "localImageResourceNightMode": "gem_drama_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemdrama/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemdrama/index.m3u8",
-      "backupId": "12"
-    },
-    {
       "id": "14",
       "title": "Gem Junior",
       "title_b_fa": "جم جونیور",
@@ -1016,20 +786,6 @@
       "url0": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
       "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gemjunior/index.m3u8"
-    },
-    {
-      "id": "90014",
-      "title": "Gem Junior (IR)",
-      "title_b_fa": "جم جونیور",
-      "description": "Kids",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_junior",
-      "localImageResourceNightMode": "gem_junior_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemjunior/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemjunior/index.m3u8",
-      "backupId": "14"
     },
     {
       "id": "46",
@@ -1050,20 +806,6 @@
       "url2": "https://gm.onetv.app/live/gemkids/index.m3u8"
     },
     {
-      "id": "90046",
-      "title": "Gem Kids (IR)",
-      "title_b_fa": "جم کیدز",
-      "description": "Kids",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_kids",
-      "localImageResourceNightMode": "gem_kids_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemkids/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemkids/index.m3u8",
-      "backupId": "46"
-    },
-    {
       "id": "47",
       "title": "Gem Food",
       "title_b_fa": "جم فود",
@@ -1080,20 +822,6 @@
       "url0": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
       "url": "https://ca-rt.onetv.app/gemfood/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gemfood/index.m3u8"
-    },
-    {
-      "id": "90047",
-      "title": "Gem Food (IR)",
-      "title_b_fa": "جم فود",
-      "description": "Cooking",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_food",
-      "localImageResourceNightMode": "gem_food_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemfood/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemfood/index.m3u8",
-      "backupId": "47"
     },
     {
       "id": "49",
@@ -1116,22 +844,6 @@
       "url2": "https://gm.onetv.app/live/gemmaxx/index.m3u8"
     },
     {
-      "id": "90049",
-      "title": "Gem Mifa (IR)",
-      "title_b_fa": "جم میفا",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_mifa",
-      "localImageResourceNightMode": "gem_mifa_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/gem_mifa.png",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/gem_mifa_night_mode.png",
-      "url": "https://ca-rt.onetvapi.win/gemmifa/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemmaxx/index.m3u8",
-      "backupId": "49"
-    },
-    {
       "id": "50",
       "title": "Gem River",
       "title_b_fa": "جم ریور",
@@ -1150,20 +862,6 @@
       "url2": "https://gm.onetv.app/live/river/index.m3u8"
     },
     {
-      "id": "90050",
-      "title": "Gem River (IR)",
-      "title_b_fa": "جم ریور",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_river",
-      "localImageResourceNightMode": "gem_river_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemriver/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/river/index.m3u8",
-      "backupId": "50"
-    },
-    {
       "id": "51",
       "title": "Gem Rubix",
       "title_b_fa": "جم روبیکس",
@@ -1180,20 +878,6 @@
       "url0": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
       "url": "https://ca-rt.onetv.app/gemrubix/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/rubix/index.m3u8"
-    },
-    {
-      "id": "90051",
-      "title": "Gem Rubix (IR)",
-      "title_b_fa": "جم روبیکس",
-      "description": "Series",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_rubix",
-      "localImageResourceNightMode": "gem_rubix_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemrubix/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/rubix/index.m3u8",
-      "backupId": "51"
     },
     {
       "id": "129",
@@ -1216,22 +900,6 @@
       "url2": "https://gm.onetv.app/live/rubix/index.m3u8"
     },
     {
-      "id": "900129",
-      "title": "Gem Comedy (IR)",
-      "title_b_fa": "جم کمدی",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_comedy",
-      "localImageResourceNightMode": "gem_comedy_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/gem_comedy.png",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/gem_comedy_night_mode.png",
-      "url": "https://ca-rt.onetvapi.win/gemcomedy/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/rubix/index.m3u8",
-      "backupId": "51"
-    },
-    {
       "id": "130",
       "title": "Gem Academy",
       "title_b_fa": "جم آکادمی",
@@ -1252,22 +920,6 @@
       "url2": "https://gm.onetv.app/live/rubix/index.m3u8"
     },
     {
-      "id": "900130",
-      "title": "Gem Academy (IR)",
-      "title_b_fa": "جم آکادمی",
-      "description": "Science",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_academy",
-      "localImageResourceNightMode": "gem_academy_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/gem_academy.png",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/gem_academy_night_mode.png",
-      "url": "https://ca-rt.onetvapi.win/gemacademy/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/rubix/index.m3u8",
-      "backupId": "51"
-    },
-    {
       "id": "52",
       "title": "Gem Travel",
       "title_b_fa": "جم تراول",
@@ -1284,20 +936,6 @@
       "url0": "https://stream-live.gemonline.tv/live/gemtravel/index.m3u8",
       "url": "https://ca-rt.onetv.app/gemtravel/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gemtravel/index.m3u8"
-    },
-    {
-      "id": "90052",
-      "title": "Gem Travel (IR)",
-      "title_b_fa": "جم تراول",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_travel",
-      "localImageResourceNightMode": "gem_travel_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemtravel/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemtravel/index.m3u8",
-      "backupId": "52"
     },
     {
       "id": "54",
@@ -1320,22 +958,6 @@
       "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
     },
     {
-      "id": "90054",
-      "title": "Gem Nature (IR)",
-      "title_b_fa": "جم طبیعت",
-      "description": "Documentary",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_nature",
-      "localImageResourceNightMode": "gem_nature_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/gem_nature.png",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/gem_nature_night_mode.png",
-      "url": "https://ca-rt.onetvapi.win/gemnature/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemcrypto/index.m3u8",
-      "backupId": "54"
-    },
-    {
       "id": "126",
       "title": "Gem Life",
       "title_b_fa": "جم لایف",
@@ -1352,20 +974,6 @@
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
       "url": "https://ca-rt.onetv.app/gemlife/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
-    },
-    {
-      "id": "900126",
-      "title": "Gem Life (IR)",
-      "title_b_fa": "جم لایف",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_life",
-      "localImageResourceNightMode": "gem_life_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemlife/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemcrypto/index.m3u8",
-      "backupId": "54"
     },
     {
       "id": "127",
@@ -1387,22 +995,6 @@
       "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
     },
     {
-      "id": "900127",
-      "title": "Gem Fit (IR)",
-      "title_b_fa": "جم فت",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_fit",
-      "localImageResourceNightMode": "gem_fit_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/gem_fit.png",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/gem_fit_night_mode.png",
-      "url": "https://ca-rt.onetvapi.win/gemfit/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemcrypto/index.m3u8",
-      "backupId": "54"
-    },
-    {
       "id": "131",
       "title": "Gem Onyx",
       "title_b_fa": "جم اونیکس",
@@ -1420,22 +1012,6 @@
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
       "url": "https://ca-rt.onetv.app/gemonyx/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
-    },
-    {
-      "id": "900131",
-      "title": "Gem Onyx (IR)",
-      "title_b_fa": "جم اونیکس",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_onyx",
-      "localImageResourceNightMode": "gem_onyx_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/gem_onyx.png",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/gem_onyx_night_mode.png",
-      "url": "https://ca-rt.onetvapi.win/gemonyx/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemcrypto/index.m3u8",
-      "backupId": "54"
     },
     {
       "id": "132",
@@ -1457,22 +1033,6 @@
       "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
     },
     {
-      "id": "900132",
-      "title": "Gem Latino (IR)",
-      "title_b_fa": "جم لاتین",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_latino",
-      "localImageResourceNightMode": "gem_latino_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/gem_latino.png",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/gem_latino_night_mode.png",
-      "url": "https://ca-rt.onetvapi.win/gemlatino/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemcrypto/index.m3u8",
-      "backupId": "54"
-    },
-    {
       "id": "123",
       "title": "Gem TV Plus",
       "title_b_fa": "جم تی وی پلاس",
@@ -1489,21 +1049,6 @@
       "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
       "url": "https://ca-rt.onetv.app/gemtvplus/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gem/index.m3u8"
-    },
-    {
-      "id": "900123",
-      "title": "Gem TV Plus (IR)",
-      "title_b_fa": "جم تی وی پلاس",
-      "description": "General",
-      "favorite": "Yes",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_tv",
-      "localImageResourceNightMode": "gem_tv_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemtvplus/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gem/index.m3u8",
-      "backupId": "8"
     },
     {
       "id": "124",
@@ -1523,20 +1068,6 @@
       "url2": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
     {
-      "id": "900124",
-      "title": "Gem Series Plus (IR)",
-      "title_b_fa": "جم سریز پلاس",
-      "description": "Series",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_series",
-      "localImageResourceNightMode": "gem_series_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemseriesplus/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemseries/index.m3u8",
-      "backupId": "10"
-    },
-    {
       "id": "125",
       "title": "Gem Drama Plus",
       "title_b_fa": "جم دراما پلاس",
@@ -1553,20 +1084,6 @@
       "url0": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
       "url": "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8",
       "url1": "https://gm.onetv.app/live/gemdrama/index.m3u8"
-    },
-    {
-      "id": "900125",
-      "title": "Gem Drama Plus (IR)",
-      "title_b_fa": "جم دراما پلاس",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_drama",
-      "localImageResourceNightMode": "gem_drama_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemdramaplus/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/gemdrama/index.m3u8",
-      "backupId": "12"
     },
     {
       "id": "133",
@@ -1622,20 +1139,6 @@
       "url0": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
       "url": "https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/rubix/index.m3u8"
-    },
-    {
-      "id": "900128",
-      "title": "Gem Rubix Plus (IR)",
-      "title_b_fa": "جم روبیکس پلاس",
-      "description": "Series",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "gem_rubix",
-      "localImageResourceNightMode": "gem_rubix_night_mode",
-      "url": "https://ca-rt.onetvapi.win/gemrubixplus/index-0.m3u8",
-      "url2": "https://gm.onetvapi.win/live/rubix/index.m3u8",
-      "backupId": "51"
     },
     {
       "id": "21",
@@ -6578,19 +6081,6 @@
       "backupId": "120001"
     },
     {
-      "id": "120001",
-      "title": "Manoto TV (Backup 3)",
-      "title_b_fa": "من و تو (جایگزین ۳)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "manoto",
-      "localImageResourceNightMode": "manoto_night_mode",
-      "serverName": "EmbeddedWebView",
-      "channelName": "manoto_backup_3",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=Manoto"
-    },
-    {
       "id": "40002",
       "title": "BBC Persian (Backup)",
       "title_b_fa": "بی بی سی فارسی (جایگزین)",
@@ -6616,21 +6106,7 @@
       "serverName": "Embedded",
       "channelName": "bbc_persian_backup_2",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-news-tv/bbc-farsi-live-tv",
-      "maxBitRate": "900000",
-      "backupId": "120002"
-    },
-    {
-      "id": "120002",
-      "title": "BBC Persian (Backup 3)",
-      "title_b_fa": "بی بی سی فارسی (جایگزین ۳)",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "bbc_persian",
-      "localImageResourceNightMode": "bbc_persian_night_mode_test",
-      "serverName": "EmbeddedWebView",
-      "channelName": "bbc_persian_backup_3",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=BBCPersian"
+      "maxBitRate": "900000"
     },
     {
       "id": "80003",
@@ -6643,20 +6119,7 @@
       "maxBitRate": "700000",
       "serverName": "Embedded",
       "channelName": "iran_int_backup_2",
-      "url": "https://www.persianleague.com/iran-live-tv/video/58-iran-international-live",
-      "backupId": "120003"
-    },
-    {
-      "id": "120003",
-      "title": "Iran International (Backup 3)",
-      "title_b_fa": "ایران اینترنشنال (جایگزین ۳)",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "iran_international",
-      "serverName": "EmbeddedWebView",
-      "channelName": "iran_int_backup_3",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=IranInternational"
+      "url": "https://www.persianleague.com/iran-live-tv/video/58-iran-international-live"
     },
     {
       "id": "160003",
