@@ -9264,6 +9264,39 @@
       "localImageResourceNightMode": "setting_visible_lists_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_visible_lists.png",
       "description": ""
+    },
+    {
+      "id": "2207",
+      "title": "OneTV",
+      "title_b_fa": "وان تی وی",
+      "geo_restrictions": "!IR",
+      "localImageResource": "app_banner_transparent_black",
+      "localImageResourceNightMode": "app_banner_transparent",
+      "description": "",
+      "url": "https://dev-onetv.github.io/download?WebView=2"
+    },
+    {
+      "id": "2208",
+      "title": "OneTV",
+      "title_b_fa": "وان تی وی",
+      "geo_restrictions": "@IR",
+      "localImageResource": "app_banner_transparent_black",
+      "localImageResourceNightMode": "app_banner_transparent",
+      "description": "",
+      "url": "https://dev-onetv.github.io/download/index_fa?WebView=2"
+    },
+    {
+      "id": "2209",
+      "title": "Telegram Channel",
+      "title_b_fa": "کانال تلگرام",
+      "title_b_ku": "کەناڵی تێلێگرام",
+      "title_b_tr": "Telegram Kanalı",
+      "title_b_ar": "قناة تيليجرام",
+      "localImageResource": "onetv_telegram",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/onetv_telegram.png",
+      "device_restrictions": "phone",
+      "description": "",
+      "url": "https://t.me/onetv_persian?WebView=2"
     }
   ]
 }
