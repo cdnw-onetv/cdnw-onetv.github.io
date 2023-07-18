@@ -2135,7 +2135,7 @@
       "maxBitRate": "1000000",
       "serverName2": "YouTubeHls",
       "channelName": "kurdmax_music",
-      "url": "https://ythls.onrender.com/video/UfFtBsVn0qo.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/UfFtBsVn0qo",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@kurdmaxmusic/live",
       "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/UfFtBsVn0qo",
       "url3": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
@@ -2450,7 +2450,7 @@
       "localImageResource": "medya_haber_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/medya_haber_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/video/AKwAGzZJkmg.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/AKwAGzZJkmg",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AKwAGzZJkmg",
       "backupUrl": "https://muzkurd.com/Medya/live15/playlist.m3u8"
     },
@@ -2568,7 +2568,7 @@
       "streamingUrlExpireTime": "200",
       "serverName2": "YouTubeHls",
       "channelName": "a_tv",
-      "url": "https://ythls.onrender.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
       "maxBitRate": "3000000",
       "backupId": "4622"
@@ -2585,7 +2585,7 @@
       "localImageResource": "fox_turkey",
       "streamingUrlExpireTime": "200",
       "channelName": "fox_turkey_1",
-      "url": "https://ythls.onrender.com/channel/UCJe13zu6MyE6Oueac41KAqg.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live",
       "backupId": "705"
     },
@@ -3111,7 +3111,7 @@
       "language_code": "tr",
       "localImageResource": "kral_tv",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/video/A49bKX8gb-8.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/A49bKX8gb-8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=A49bKX8gb-8",
       "backupUrl1": "https://www.youtube.com/watch?v=Z8-NunA-0aM&theme=dark&mode=theater&modestbranding=1&controls=0"
     },
@@ -3124,7 +3124,7 @@
       "language_code": "tr",
       "localImageResource": "kral_pop_tv",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/video/GuFTuKoXepw.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/GuFTuKoXepw",
       "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GuFTuKoXepw",
       "backupUrl1": "https://www.youtube.com/watch?v=GuFTuKoXepw&theme=dark&mode=theater"
     },
@@ -3365,7 +3365,7 @@
       "serverName0": "YouTubeHls",
       "channelName": "Ulke",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/channel/UCi65FGbYYj-OzJm2luB_fNQ.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCi65FGbYYj-OzJm2luB_fNQ/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCi65FGbYYj-OzJm2luB_fNQ/live",
       "backupId": "4630"
     },
@@ -3380,7 +3380,7 @@
       "channelName": "tele_1_tv",
       "streamingUrlReferer": "https://canlitv.com/tele1-tv",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live"
     },
     {
@@ -3405,7 +3405,7 @@
       "language_code": "tr",
       "localImageResource": "krt_tv",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/channel/UCT1QJrOPtGWYyWkXry8uT4w.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCT1QJrOPtGWYyWkXry8uT4w/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCT1QJrOPtGWYyWkXry8uT4w/live"
     },
     {
@@ -3429,7 +3429,7 @@
       "serverName0": "YouTubeHls",
       "channelName": "tgrt_haber",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/channel/UCzgrZ-CndOoylh2_e72nSBQ.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live",
       "backupId": "4640"
     },
@@ -3455,7 +3455,7 @@
       "channelName": "bloomberg_ht_tv",
       "serverName0": "YouTubeHls",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCApLxl6oYQafxvykuoC2uxQ/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCApLxl6oYQafxvykuoC2uxQ/live",
       "backupId": "4687"
     },
@@ -3469,7 +3469,7 @@
       "localImageResource": "tv_100_turkey_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/video/sd94keSra6A.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/sd94keSra6A",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/sd94keSra6A"
     },
     {
@@ -3494,7 +3494,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "halk_tv",
-      "url": "https://ythls.onrender.com/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCf_ResXZzE-o18zACUEmyvQ/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCf_ResXZzE-o18zACUEmyvQ/live"
     },
     {
@@ -3507,7 +3507,7 @@
       "localImageResource": "arti_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/arti_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/video/xpoetRCJKqY.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/xpoetRCJKqY",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xpoetRCJKqY"
     },
     {
@@ -5701,7 +5701,7 @@
       "language_code": "en",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
-      "url": "https://ythls.onrender.com/video/R24sxuY9NQk.m3u8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/R24sxuY9NQk",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R24sxuY9NQk"
     },
     {
