@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "75"
+      "description": "76"
     },
     {
       "id": "2001",
@@ -28,7 +28,7 @@
     {
       "id": "2004",
       "title": "iptv_version",
-      "description": "10"
+      "description": "11"
     },
     {
       "id": "2005",
@@ -3494,7 +3494,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "halk_tv",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCf_ResXZzE-o18zACUEmyvQ/live",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/video/P6iqNj0OAF0",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCf_ResXZzE-o18zACUEmyvQ/live"
     },
     {
@@ -3507,7 +3507,7 @@
       "localImageResource": "arti_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/arti_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/xpoetRCJKqY",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/z9ZhgZGxqM8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xpoetRCJKqY"
     },
     {
