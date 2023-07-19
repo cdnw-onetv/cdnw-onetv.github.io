@@ -8369,8 +8369,6 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/pl
 https://hls.rta.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/RTarabic.jpg/512px-RTarabic.jpg" tvg-country="RU" tvg-language="Arabic" group-title="News",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="RTASport.af" tvg-logo="https://i.imgur.com/AsqVIp7.png" tvg-country="AF" tvg-language="Pashto" group-title="Sports",RTA Sport
-https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RTB.bf" tvg-logo="https://i.imgur.com/BFfLV0y.png" tvg-country="BF" tvg-language="French" group-title="Undefined",RTB
 https://edge.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
 #EXTINF:-1 tvg-id="RTBAneka.bn" tvg-logo="https://i.imgur.com/MY40GrC.png" tvg-country="BN" tvg-language="English" group-title="Undefined",RTB Aneka
