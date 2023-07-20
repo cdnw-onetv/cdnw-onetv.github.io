@@ -2061,7 +2061,7 @@
       "language_code": "ku",
       "favorite": "Yes",
       "localImageResource": "kurdmax_tv",
-      "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8",
+      "url": "https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8",
       "backupId": "40303"
     },
     {
@@ -2095,7 +2095,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_show_tv",
-      "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW1_all/playlist.m3u8",
+      "url": "https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8",
       "backupUrl": "https://5aa8c7549bfa9.streamlock.net/liveTrans/SHOW1/playlist.m3u8",
       "backupId": "40304"
     },
@@ -2382,7 +2382,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_tv",
-      "url": "https://5aa8c7549bfa9.streamlock.net/liveTrans/KurdmaxBadine0!/playlist.m3u8",
+      "url": "https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxBadine0!/playlist.m3u8",
       "backupUrl": "http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/playlist.m3u8",
       "backupId": "303"
     },
@@ -2394,7 +2394,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_show_tv",
-      "url": "http://31.14.40.139:1935/liveTrans/ngrp:SHOW2_all/playlist.m3u8",
+      "url": "https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8",
       "backupUrl": "https://5aa8c7549bfa9.streamlock.net/liveTrans/SHOW2/playlist.m3u8",
       "backupId": "304"
     },
