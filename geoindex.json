@@ -1518,6 +1518,28 @@
       "url": "https://sltwohls.wns.live/hls/stream.m3u8"
     },
     {
+      "id": "136",
+      "title": "Max TV",
+      "title_b_fa": "تودی تی وی",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "max_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/max_tv.png",
+      "url": "https://maxtvhls.wns.live/hls/stream.m3u8"
+    },
+    {
+      "id": "138",
+      "title": "Meta Film",
+      "title_b_fa": "متا فیلم",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "metafilm_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/metafilm_tv.png",
+      "url": "https://metafilmhls.wns.live/hls/stream.m3u8"
+    },
+    {
       "id": "118",
       "title": "Today TV",
       "title_b_fa": "تودی تی وی",
@@ -6478,6 +6500,17 @@
       "channelName": "channel_yek",
       "serverName": "EmbeddedWebView",
       "url": "https://ch1.cc/live-tv/"
+    },
+    {
+      "id": "137",
+      "title": "TFN TV",
+      "title_b_fa": "تی اف ان تی وی",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "tfn_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tfn_tv.png",
+      "url": "https://tfnhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "83",
