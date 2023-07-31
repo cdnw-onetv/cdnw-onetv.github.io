@@ -3086,10 +3086,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "number1_tv",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "nr1_tv",
-      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
-      "url": "https://www.dailymotion.com/player/metadata/video/x67c77j?embedder=https%3A%2F%2Fwww.cxtvlive.com%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3",
+      "url": "https://www.numberone.com.tr/2015/12/18/nr1-tv-canli-yayin",
       "url1": "https://stream-02.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDP2uXAQ7xKn2mA1PSJYJ2Ds)/dm/3/x67c77j/s/live-0.m3u8",
       "url2": "https://stream-02.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDALVJdXy9RV6kK-TGeuNyko)/dm/3/x67c77j/s/live-0.m3u8"
     },
@@ -3101,10 +3100,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "number1_turk",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "nr1_turk",
-      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
-      "url": "https://www.dailymotion.com/player/metadata/video/x67cguc?embedder=https%3A%2F%2Fwww.cxtvlive.com%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3",
+      "url": "https://www.numberone.com.tr/2015/12/20/number1-turk-tv-canli-yayin/",
       "url2": "https://stream-04.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDNP3hJ4V2z78wTX4NIALDYw)/dm/3/x67cguc/s/live-0.m3u8"
     },
     {
@@ -3115,10 +3113,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "number1_ask",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "nr1_ask",
-      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
-      "url": "https://www.dailymotion.com/player/metadata/video/x67ch24?embedder=https%3A%2F%2Fwww.cxtvlive.com%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3",
+      "url": "https://www.numberone.com.tr/2017/10/05/nr1-ask-tv-canli-yayin-izle/",
       "url2": "https://stream-02.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHsimd655L9oK4F6VnS_nCc)/dm/3/x67ch24/s/live-0.m3u8"
     },
     {
@@ -3129,10 +3126,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "number1_dance",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "nr1_dance",
-      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
-      "url": "https://www.dailymotion.com/player/metadata/video/x67chco?embedder=https%3A%2F%2Fwww.cxtvlive.com%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3",
+      "url": "https://www.numberone.com.tr/2017/10/03/number1-dance-ty-canli-yayin-izle/",
       "url2": "https://stream-04.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDMckHNSYoPBzixJArDVEoDc)/dm/3/x67ch8g/s/live-0.m3u8"
     },
     {
@@ -3143,10 +3139,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "number1_damar",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "nr1_damar",
-      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
-      "url": "https://www.dailymotion.com/player/metadata/video/x67ch8g?embedder=https%3A%2F%2Fwww.cxtvlive.com%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3",
+      "url": "https://www.numberone.com.tr/2017/10/05/number1-damartv-canli-yayin-izle/",
       "url2": "https://stream-04.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDMckHNSYoPBzixJArDVEoDc)/dm/3/x67ch8g/s/live-0.m3u8"
     },
     {
