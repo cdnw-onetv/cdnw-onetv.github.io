@@ -1365,19 +1365,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/khatereh_tv.png",
       "channelName": "khatereh_tv",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/khatereh-tv",
-      "backupId": "4096"
-    },
-    {
-      "id": "4096",
-      "title": "Khatereh TV (Backup)",
-      "title_b_fa": "خاطره (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "khatereh_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/khatereh_tv.png",
-      "url": "https://ca-rt.onetv.app/Khatereh/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app/khaterehtv/index-0.m3u8"
     },
     {
       "id": "115",
