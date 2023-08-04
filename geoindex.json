@@ -489,17 +489,6 @@
       "backupId": "60005"
     },
     {
-      "id": "40044",
-      "title": "Avang (Test)",
-      "title_b_fa": "آونگ",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "avang",
-      "localImageResourceNightMode22": "avang_night_mode",
-      "url": "https://ca-rt.onetv.app/Avang/index-0.m3u8"
-    },
-    {
       "id": "40006",
       "title": "RadioJavan (Test, IR)",
       "title_b_fa": "رادیو جوان",
