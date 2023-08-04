@@ -1365,7 +1365,8 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/khatereh_tv.png",
       "channelName": "khatereh_tv",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/khatereh-tv"
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/khatereh-tv",
+      "backupId": "4096"
     },
     {
       "id": "4096",
