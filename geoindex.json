@@ -433,20 +433,6 @@
       "url": "http://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
     },
     {
-      "id": "111",
-      "title": "AMC",
-      "title_b_fa": "ای ام  سی",
-      "description": "Music",
-      "country_code": "AF",
-      "language_code": "fa",
-      "tags": "آسیا موزیک, Asia Music Channel",
-      "localImageResource": "amc_music",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/amc_music.png",
-      "url": "https://amchls.wns.live/hls/stream.m3u8",
-      "url0": "https://ca-rt.onetv.app/AMC/index-0.m3u8",
-      "url2": "http://radio.persianvip.com:8888/;"
-    },
-    {
       "id": "16",
       "title": "T2",
       "title_b_fa": "تپش دو",
@@ -5856,6 +5842,20 @@
       "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "pamir_tv",
       "url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+    },
+    {
+      "id": "3027",
+      "title": "AMC",
+      "title_b_fa": "ای ام  سی",
+      "description": "Music",
+      "country_code": "AF",
+      "language_code": "fa",
+      "tags": "آسیا موزیک, Asia Music Channel",
+      "localImageResource": "amc_music",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/amc_music.png",
+      "url": "https://amchls.wns.live/hls/stream.m3u8",
+      "url0": "https://ca-rt.onetv.app/AMC/index-0.m3u8",
+      "url2": "http://radio.persianvip.com:8888/;"
     },
     {
       "id": "3009",
