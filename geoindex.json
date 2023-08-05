@@ -439,11 +439,10 @@
       "description": "Music",
       "country_code": "AF",
       "language_code": "fa",
-      "geo_restrictions": "",
       "tags": "آسیا موزیک, Asia Music Channel",
       "localImageResource": "amc_music",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/amc_music.png",
-      "url": "http://51.210.227.161/hls/stream.m3u8",
+      "url": "https://amchls.wns.live/hls/stream.m3u8",
       "url0": "https://ca-rt.onetv.app/AMC/index-0.m3u8",
       "url2": "http://radio.persianvip.com:8888/;"
     },
@@ -5795,8 +5794,9 @@
       "language_code": "fa",
       "geo_restrictions": "!IN",
       "localImageResource": "tolo_news",
-      "url": "https://fflivetolonews.b-cdn.net/media_0.m3u8",
-      "urlAudio": "https://fflivetolonews.b-cdn.net/media_3.m3u8"
+      "url": "https://ca-rt.onetv.app/tolonews/index-0.m3u8",
+      "url2": "https://fflivetolonews.b-cdn.net/media_0.m3u8",
+      "urlAudio2": "https://fflivetolonews.b-cdn.net/media_3.m3u8"
     },
     {
       "id": "3004",
@@ -5829,8 +5829,9 @@
       "language_code": "fa",
       "geo_restrictions": "!IN",
       "localImageResource": "tolo_tv",
-      "url": "https://fflivetolotv.b-cdn.net/media_0.m3u8",
-      "urlAudio": "https://fflivetolotv.b-cdn.net/media_3.m3u8"
+      "url": "https://ca-rt.onetv.app/tolotv/index-0.m3u8",
+      "url2": "https://fflivetolotv.b-cdn.net/media_0.m3u8",
+      "urlAudio2": "https://fflivetolotv.b-cdn.net/media_3.m3u8"
     },
     {
       "id": "3007",
@@ -5841,8 +5842,9 @@
       "language_code": "fa",
       "geo_restrictions": "!IN",
       "localImageResource": "lemar_tv",
-      "url": "https://fflivelemar.b-cdn.net/media_3.m3u8",
-      "urlAudio": "https://fflivelemar.b-cdn.net/media_0.m3u8"
+      "url": "https://ca-rt.onetv.app/lemartv/index-0.m3u8",
+      "url2": "https://fflivelemar.b-cdn.net/media_3.m3u8",
+      "urlAudio2": "https://fflivelemar.b-cdn.net/media_0.m3u8"
     },
     {
       "id": "3008",
@@ -5948,24 +5950,13 @@
       "id": "3026",
       "title": "1TV Afghanistan",
       "title_b_fa": "تلویزیون یک",
-      "description": "General",
+      "description": "News",
       "country_code": "AF",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "onetv_afghanistan",
-      "url": "http://51.210.227.142/hls/stream.m3u8",
-      "backupId": "43026"
-    },
-    {
-      "id": "43026",
-      "title": "1TV Afghanistan (Backup)",
-      "title_b_fa": "تلویزیون یک",
-      "description": "General",
-      "country_code": "AF",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA,QA,US,IN",
-      "localImageResource": "onetv_afghanistan",
-      "url": "https://ca-rt.onetv.app/NetTV/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app/1tvnews/index-0.m3u8",
+      "ur2": "http://51.210.227.142/hls/stream.m3u8"
     },
     {
       "id": "3017",
@@ -6007,7 +5998,7 @@
       "description": "Religious",
       "country_code": "AF",
       "language_code": "fa",
-      "geo_restrictions": "!IN",
+      "geo_restrictions": "",
       "localImageResource": "maarif_tv",
       "url": "http://51.210.199.51/hls/stream.m3u8"
     },
@@ -6051,7 +6042,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
-      "geo_restrictions": "!IN",
+      "geo_restrictions": "",
       "localImageResource": "barya_tv",
       "url": "http://51.210.199.56/hls/stream.m3u8"
     },
@@ -6062,7 +6053,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
-      "geo_restrictions": "!IN",
+      "geo_restrictions": "",
       "localImageResource": "mogham_tv",
       "url": "http://51.210.227.139/hls/stream.m3u8"
     }
