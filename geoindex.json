@@ -695,7 +695,7 @@
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-ge.onetv.app/gembollywood/index-0.m3u8",
+      "url": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gembollywood/index.m3u8"
     },
     {
@@ -1066,7 +1066,7 @@
       "httpReadTimeout": "1000",
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8",
+      "url": "https://ca-ge.onetv.app/gemseriesplus/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
     {
