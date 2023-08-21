@@ -656,8 +656,9 @@
       "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
+      "maxBitRate": "900000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-ge.onetv.app/gem/index-0.m3u8",
+      "url": "https://ca-ge.onetv.app/gem/playlist.m3u8",
       "url2": "https://gm.onetv.app/live/gem/index.m3u8",
       "backupId": "80008"
     },
@@ -675,8 +676,9 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
+      "maxBitRate": "900000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-ge.onetv.app/gemseries/index-0.m3u8",
+      "url": "https://ca-ge.onetv.app/gemseries/playlist.m3u8",
       "url2": "https://gm.onetv.app/live/gemseries/index.m3u8",
       "backupId": "80010"
     },
@@ -1065,8 +1067,9 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
+      "maxBitRate": "900000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-ge.onetv.app/gemseriesplus/index-0.m3u8",
+      "url": "https://ca-ge.onetv.app/gemseriesplus/playlist.m3u8",
       "url2": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
     {
