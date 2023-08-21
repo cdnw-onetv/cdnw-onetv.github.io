@@ -389,12 +389,26 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions1": "",
+      "geo_restrictions": "!IR",
+      "localImageResource": "tapesh",
+      "maxBitRate": "1000000",
+      "streamingUrlReferer": "https://onetv200.app",
+      "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8",
+      "backupId": "40015"
+    },
+    {
+      "id": "90015",
+      "title": "Tapesh TV",
+      "title_b_fa": "تپش",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
       "localImageResource": "tapesh",
       "maxBitRate": "1000000",
       "streamingUrlReferer": "https://onetv200.app",
       "url": "https://ca-rt.onetv.app/TapeshAmerica/index-0.m3u8",
-      "backupId": "80015"
+      "backupId": "40015"
     },
     {
       "id": "40015",
