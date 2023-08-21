@@ -658,7 +658,7 @@
       "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
       "maxBitRate": "900000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-ge.onetv.app/gem/playlist.m3u8",
+      "url": "https://ca-rt.onetv.app/gem/playlist.m3u8",
       "url2": "https://gm.onetv.app/live/gem/index.m3u8",
       "backupId": "80008"
     },
@@ -678,7 +678,7 @@
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "maxBitRate": "900000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-ge.onetv.app/gemseries/playlist.m3u8",
+      "url": "https://ca-rt.onetv.app/gemseries/playlist.m3u8",
       "url2": "https://gm.onetv.app/live/gemseries/index.m3u8",
       "backupId": "80010"
     },
@@ -1069,7 +1069,7 @@
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "maxBitRate": "900000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-ge.onetv.app/gemseriesplus/playlist.m3u8",
+      "url": "https://ca-rt.onetv.app/gemseriesplus/playlist.m3u8",
       "url2": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
     {
