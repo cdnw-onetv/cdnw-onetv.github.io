@@ -4855,6 +4855,24 @@
       "castBackupId": "41051"
     },
     {
+      "id": "1095",
+      "title": "Ifilm 2",
+      "title_b_fa": "آی فیلم ۲",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "irib_ifilmdari",
+      "serverName": "EmbeddedWebView",
+      "channelName": "ifilmdari",
+      "streamingUrlReferer": "https://sepehrtv.ir/",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "maxBitRate": "1200000",
+      "url": "https://sepehrtv.ir/live/ifilmdari",
+      "backupId": "41095"
+    },
+    {
       "id": "1094",
       "title": "Ifilm English",
       "title_b_fa": "آی فیلم انگلیسی",
@@ -4871,24 +4889,6 @@
       "maxBitRate": "1200000",
       "url": "https://sepehrtv.ir/live/ifilmen",
       "backupId": "41094"
-    },
-    {
-      "id": "1095",
-      "title": "Ifilm Dari",
-      "title_b_fa": "آی فیلم دری",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_ifilmdari",
-      "serverName": "EmbeddedWebView",
-      "channelName": "ifilmdari",
-      "streamingUrlReferer": "https://sepehrtv.ir/",
-      "httpTimeout": "1000",
-      "httpConnectTimeout": "1000",
-      "httpReadTimeout": "1000",
-      "maxBitRate": "1200000",
-      "url": "https://sepehrtv.ir/live/ifilmdari",
-      "backupId": "41095"
     },
     {
       "id": "1096",
