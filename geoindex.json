@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "81"
+      "description": "82"
     },
     {
       "id": "2001",
@@ -2854,6 +2854,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "a_spor",
+      "geo_restrictions": "!IN,US",
       "serverName": "Embedded",
       "channelName": "a_spor",
       "url": "https://securevideotoken.tmgrup.com.tr/webtv/secure?266240&url=https%3A%2F%2Ftrkvz-beta.daioncdn.net%2Faspor%2Faspor.m3u8%3Fce%3D3%26app%3D45f847c4-04e8-419a-a561-2ebf87084765",
@@ -2867,6 +2868,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "trt_sport",
+      "geo_restrictions": "!IN,US",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport.png",
       "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
       "backupId": "4624"
@@ -2880,6 +2882,7 @@
       "language_code": "tr",
       "localImageResource": "trt_sport_yildiz",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/trt_sport_yildiz.png",
+      "geo_restrictions": "!IN,US",
       "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
       "backupId": "4625"
     },
@@ -2949,6 +2952,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "trt_1",
+      "geo_restrictions": "!IN",
       "channelName": "trt_1",
       "serverName": "EmbeddedWebView",
       "url": "https://www.trtizle.com/canli/tv/trt-1",
@@ -3389,6 +3393,7 @@
       "localImageResource": "fenerbahce_tv",
       "serverName": "Embedded",
       "channelName": "fenerbahce_tv",
+      "geo_restrictions": "!IN",
       "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
       "url": "https://www.dailymotion.com/player/metadata/video/x21oo10?embedder=https%3A%2F%2Fwww.parsatv.com%2F&referer=&syndication=193822&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3"
     },
@@ -3400,6 +3405,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "galatasaray_tv",
+      "geo_restrictions": "!IN",
       "serverName": "Embedded",
       "channelName": "galatasaray_tv.",
       "url": "https://galatasaray.com/"
@@ -3878,6 +3884,7 @@
       "description": "General",
       "localImageResource": "cbc_az_tv",
       "streamingUrlReferer": "http://cbc.az/",
+      "geo_restrictions": "!IN",
       "url": "http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8",
       "backupId": "40677"
     },
@@ -3936,7 +3943,9 @@
       "language_code": "az",
       "title_b_fa": "یادمان تی وی",
       "description": "Sports",
+      "description": "Sports",
       "localImageResource": "idman_tv",
+      "geo_restrictions": "!IN,US",
       "channelName": "idman_tv",
       "url": "http://109.205.166.68/server124/idman_az/index.m3u8"
     },
@@ -3948,6 +3957,7 @@
       "title_b_fa": "یادمان تی وی",
       "description": "Sports",
       "localImageResource": "idman_tv",
+      "geo_restrictions": "!IN,US",
       "channelName": "idman_tv_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://canlitv.center/idman-tv"
@@ -4497,6 +4507,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!IN,US",
       "localImageResource": "dubai_sport_1",
       "url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/media.m3u8"
     },
@@ -4508,6 +4519,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!IN,US",
       "localImageResource": "dubai_sport_2",
       "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/media.m3u8"
     },
@@ -4519,6 +4531,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!IN,US",
       "localImageResource": "dubai_sport_3",
       "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/media.m3u8"
     },
@@ -4530,6 +4543,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!IN,US",
       "localImageResource": "ad_sport_1",
       "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8"
     },
@@ -4541,6 +4555,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!IN,US",
       "localImageResource": "ad_sport_2",
       "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8"
     },
@@ -4552,6 +4567,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!IN,US",
       "localImageResource": "ad_sport_3",
       "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8"
     },
@@ -4563,6 +4579,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!IN,US",
       "localImageResource": "dubai_racing_tv",
       "url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8"
     },
@@ -4574,6 +4591,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!IN,US",
       "localImageResource": "yas_tv",
       "url": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8"
     }
@@ -4620,6 +4638,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_3",
+      "geo_restrictions": "!IN",
       "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
@@ -4716,6 +4735,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "favorite": "Yes",
+      "geo_restrictions": "!IN",
       "localImageResource": "irib_varzesh",
       "localImageResourceNightMode": "irib_varzesh_night_mode",
       "httpTimeout": "1000",
@@ -4736,6 +4756,7 @@
       "geo_restrictions": "@IR",
       "localImageResource": "irib_varzesh",
       "localImageResourceNightMode": "irib_varzesh_night_mode",
+      "geo_restrictions": "!IN",
       "serverName": "EmbeddedWebView",
       "channelName": "Varzesh",
       "streamingUrlReferer": "https://sepehrtv.ir/",
@@ -4753,6 +4774,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "streamingUrlReferer": "https://www.aionet.ir/",
       "url": "https://live.aionet.ir/hls/varzesh/varzesh.m3u8",
       "maxBitRate": "2000000",
@@ -4769,6 +4791,7 @@
       "tags": "Sport,4k,faratar,پیشران",
       "localImageResource": "irib_uhd",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/irib_uhd.png",
+      "geo_restrictions": "IR",
       "httpTimeout": "4000",
       "httpConnectTimeout": "4000",
       "httpReadTimeout": "4000",
@@ -4786,6 +4809,7 @@
       "tags": "Sport,4k,faratar,پیشران",
       "localImageResource": "irib_uhd",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/irib_uhd.png",
+      "geo_restrictions": "IR",
       "serverName": "EmbeddedWebView",
       "channelName": "uhd",
       "streamingUrlReferer": "https://sepehrtv.ir/",
@@ -5058,6 +5082,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_jaam",
+      "geo_restrictions": "!IN",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
       "url": "https://cdnw.telewebion.com/jam/live/playlist.m3u8",
@@ -5751,6 +5776,7 @@
       "description": "Sports",
       "country_code": "QA",
       "language_code": "en",
+      "geo_restrictions": "!IN",
       "localImageResource": "bein_sports_extra",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_extra.png",
       "url": "https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8"
@@ -7048,6 +7074,7 @@
       "localImageResource": "irib_jaam",
       "serverName": "EmbeddedWebView",
       "channelName": "jam",
+      "geo_restrictions": "!IN",
       "streamingUrlExpireTime": "60",
       "streamingUrlReferer": "https://sepehrtv.ir/",
       "httpTimeout": "1000",
@@ -7215,6 +7242,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "channelName": "varzesh_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://www.persianleague.com/iran-live-tv/video/12-live-varzesh-tv",
@@ -7227,6 +7255,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "localImageResource": "irib_varzesh",
       "serverName": "EmbeddedWebView",
       "channelName": "varzesh_backup_4",
@@ -7719,7 +7748,7 @@
       "tags": "Sport",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!QA",
+      "geo_restrictions": "!QA,IN",
       "localImageResource": "irib_3",
       "serverName": "EmbeddedWebView",
       "channelName": "irib_3_backup_5",
@@ -7735,6 +7764,7 @@
       "tags": "Sport",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IN",
       "channelName": "irib_3_backup_6",
       "serverName": "EmbeddedWebView",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
@@ -8144,6 +8174,7 @@
       "title_b_fa": "لنز اسپرت پلاس",
       "description": "Sports",
       "localImageResource": "lenz_sport",
+      "geo_restrictions": "!IN",
       "streamingUrlReferer": "http://lenzsport.ir/",
       "url": "http://178.22.122.36:1935/plus/plus/playlist.m3u8",
       "backupUrl": "https://tv.lenzsport.ir/plus/plus/playlist.m3u8"
@@ -8154,6 +8185,7 @@
       "title_b_fa": "لنز اسپرت",
       "description": "Sports",
       "localImageResource": "lenz_sport",
+      "geo_restrictions": "!IN",
       "streamingUrlReferer": "http://lenzsport.ir/",
       "url": "http://178.22.122.36:1935/sport/sport/playlist.m3u8",
       "backupUrl": "https://tv.lenzsport.ir/sport/sport/playlists.m3u8"
@@ -8166,6 +8198,7 @@
       "title_b_fa": "یادمان تی وی",
       "description": "Sports",
       "localImageResource": "idman_tv",
+      "geo_restrictions": "!IN",
       "channelName": "idman_tv",
       "serverName": "EmbeddedWebView",
       "url": "https://tr.canlitv.services/idman-tv-izle"
