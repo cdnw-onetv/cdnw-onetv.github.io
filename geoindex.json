@@ -456,6 +456,7 @@
       "geo_restrictions1": "!IR",
       "localImageResource": "t2_music",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/t2_music.png",
+      "streamingUrlReferer": "https://onetv200.app",
       "url": "https://ca-rt.onetv.app/T2America/index-0.m3u8",
       "url2": "http://radio.persianvip.com:8888/;",
       "backupId": "40016"
