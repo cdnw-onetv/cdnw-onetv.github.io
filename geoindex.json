@@ -4729,6 +4729,25 @@
       "castBackupId": "41025"
     },
     {
+      "id": "1036",
+      "title": "Khabar 2",
+      "title_b_fa": "خبر دو",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "irib_khabar",
+      "localImageResourceNightMode": "irib_khabar_night_mode",
+      "serverName": "EmbeddedWebView",
+      "channelName": "irinn2",
+      "streamingUrlExpireTime": "60",
+      "streamingUrlReferer": "https://sepehrtv.ir/",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "url": "https://sepehrtv.ir/live/irinn2",
+      "maxBitRate": "1200000"
+    },
+    {
       "id": "1026",
       "title": "Varzesh",
       "title_b_fa": "ورزش",
