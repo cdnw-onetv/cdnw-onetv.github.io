@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "83"
+      "description": "84"
     },
     {
       "id": "2001",
@@ -372,17 +372,6 @@
       "backupId": "40043"
     },
     {
-      "id": "75",
-      "title": "Farsi TV",
-      "title_b_fa": "فارسی تی وی",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "farsi_tv",
-      "maxBitRate": "2000000",
-      "url": "https://live.farsitv.us/live/stream.m3u8"
-    },
-    {
       "id": "15",
       "title": "Tapesh TV",
       "title_b_fa": "تپش",
@@ -642,17 +631,6 @@
       "localImageResource": "ava_series",
       "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
       "backupId": "40020"
-    },
-    {
-      "id": "66",
-      "title": "VOX 1",
-      "title_b_fa": "وی او ایکس یک",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "vox_1",
-      "url": "https://hls.vox1.live/hls/stream.m3u8",
-      "backupId": "40066"
     },
     {
       "id": "8",
@@ -1035,7 +1013,7 @@
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!TR,UA",
+      "geo_restrictions": "",
       "localImageResource": "gem_latino",
       "localImageResourceNightMode": "gem_latino_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/gem_latino.png",
@@ -1398,7 +1376,7 @@
       "localImageResource": "khatereh_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/khatereh_tv.png",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/khatereh/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app/Khatereh/index-0.m3u8"
     },
     {
       "id": "40096",
@@ -1452,17 +1430,7 @@
       "language_code": "fa",
       "localImageResource": "amg_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/amg_tv.png",
-      "url": "https://nl.livekadeh.com/hls2/AMG_src.m3u8"
-    },
-    {
-      "id": "59",
-      "title": "Toonix",
-      "title_b_fa": "تونیکس",
-      "description": "Kids",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "toonix_tv",
-      "url": "https://toonixhls.wns.live/hls/stream.m3u8"
+      "url": "https://ca-rt.onetv.app/AMG/index-0.m3u8"
     },
     {
       "id": "76",
@@ -1476,8 +1444,8 @@
     },
     {
       "id": "55",
-      "title": "FX TV",
-      "title_b_fa": "اف ایکس",
+      "title": "FX.1 TV",
+      "title_b_fa": "اف ایکس ۱",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
@@ -1486,12 +1454,23 @@
       "backupId": "40055"
     },
     {
+      "id": "59",
+      "title": "FX.2 TV",
+      "title_b_fa": "اف ایکس ۲",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "fx_tv",
+      "url": "https://toonixhls.wns.live/hls/stream.m3u8"
+    },
+    {
       "id": "79",
       "title": "Family 24 TV",
       "title_b_fa": "فامیلی ۲۴",
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "family_24_tv",
       "localImageResourceNightMode": "family_24_tv_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/family_24_tv.png",
@@ -1547,6 +1526,7 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "max_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/max_tv.png",
       "url": "https://maxtvhls.wns.live/hls/stream.m3u8"
@@ -1607,54 +1587,12 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
       "localImageResource": "grand_cinema",
       "channelName": "grand_cinema",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/grand_cinema.png",
-      "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/GrandCinema/index-0.m3u8",
+      "streamingUrlReferer2": "https://onetv200.app",
+      "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
       "url2": "http://www.elahmad.com/tv/iran-tv-online.php?id=GrandCinema"
-    },
-    {
-      "id": "900101",
-      "title": "Grand Cinema (IR)",
-      "title_b_fa": "گراند سینما",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "grand_cinema",
-      "channelName": "grand_cinema",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/grand_cinema.png",
-      "url": "https://ca-rt.onetvapi.win/GrandCinema/index-0.m3u8"
-    },
-    {
-      "id": "107",
-      "title": "Cine Film",
-      "title_b_fa": "سینه فیلم",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!IR",
-      "localImageResource": "cine_film",
-      "channelName": "cine_film",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/cine_film.png",
-      "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/CineFilm/index-0.m3u8",
-      "url2": "http://www.elahmad.com/tv/iran-tv-online.php?id=CineFilm"
-    },
-    {
-      "id": "900107",
-      "title": "Cine Film (IR)",
-      "title_b_fa": "سینه فیلم",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "cine_film",
-      "channelName": "cine_film",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/cine_film.png",
-      "url": "https://ca-rt.onetvapi.win/CineFilm/index-0.m3u8"
     },
     {
       "id": "114",
@@ -1929,7 +1867,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "IR,IQ",
+      "geo_restrictions": "",
       "recording_geo_restrictions": "CA",
       "localImageResource": "lenz_sport",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_sport.png",
@@ -1972,6 +1910,7 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "aio_network",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
       "streamingUrlReferer": "https://www.aionet.ir/",
@@ -1987,7 +1926,7 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "IR",
+      "geo_restrictions": "",
       "localImageResource": "lenz_film",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_film.png",
       "streamingUrlReferer": "http://lenzsport.ir/",
@@ -2016,6 +1955,7 @@
       "description": "Kids",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "aio_network",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_network.png",
       "streamingUrlReferer": "https://www.aionet.ir/",
@@ -2068,7 +2008,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "radio_yar",
-      "url": "https://shoutcast.glwiz.com/RadioYAR.mp3",
+      "url": "http://192.34.153.102:8000/RadioYAR.mp3",
+      "url3": "https://shoutcast.glwiz.com/RadioYAR.mp3",
       "backupUrl": "https://stream.zeno.fm/rkd0a9e5rm0uv?type=mp3"
     },
     {
@@ -2239,7 +2180,7 @@
       "id": "306",
       "title": "4 Kurd",
       "title_b_fa": "فور کورد",
-      "description": "Music",
+      "description": "General",
       "language_code": "ku",
       "localImageResource": "four_kurd",
       "url": "http://51.210.199.23/hls/stream.m3u8"
@@ -6374,6 +6315,28 @@
       "url": "https://ca-rt.onetv.app/Oxir/index-0.m3u8"
     },
     {
+      "id": "75",
+      "title": "Farsi TV",
+      "title_b_fa": "فارسی تی وی",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "farsi_tv",
+      "maxBitRate": "2000000",
+      "url": "https://live.farsitv.us/live/stream.m3u8"
+    },
+    {
+      "id": "66",
+      "title": "VOX 1",
+      "title_b_fa": "وی او ایکس یک",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "vox_1",
+      "url": "https://hls.vox1.live/hls/stream.m3u8",
+      "backupId": "40066"
+    },
+    {
       "id": "40066",
       "title": "VOX 1 (Backup)",
       "title_b_fa": "وی او ایکس یک (جایگزین)",
@@ -7752,7 +7715,7 @@
       "description": "Sports",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "IR,IQ,CA,GE,IT,FR,UK",
+      "geo_restrictions": "",
       "recording_geo_restrictions": "",
       "localImageResource": "lenz_sport",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/lenz_sport.png",
