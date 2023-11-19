@@ -2797,9 +2797,9 @@
       "language_code": "tr",
       "localImageResource": "a_spor",
       "geo_restrictions": "!IN,US",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "a_spor",
-      "url": "https://securevideotoken.tmgrup.com.tr/webtv/secure?266240&url=https%3A%2F%2Ftrkvz-beta.daioncdn.net%2Faspor%2Faspor.m3u8%3Fce%3D3%26app%3D45f847c4-04e8-419a-a561-2ebf87084765",
+      "url": "https://www.aspor.com.tr/webtv/canli-yayin",
       "url2": "https://stream-02.nyc.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyHpD_Ei6p3I-WchA1FxQT70)/dm/3/x648uq8/s/live-0.m3u8"
     },
     {
@@ -3099,7 +3099,7 @@
     },
     {
       "id": "619",
-      "title": "NR1 Dance",
+      "title": "NR1 Fashion",
       "title_b_fa": "نامبر وان دنس",
       "description": "Music",
       "country_code": "TR",
@@ -3107,7 +3107,7 @@
       "localImageResource": "number1_dance",
       "serverName": "EmbeddedWebView",
       "channelName": "nr1_dance",
-      "url": "https://www.numberone.com.tr/2017/10/03/number1-dance-ty-canli-yayin-izle/",
+      "url": "https://www.numberone.com.tr/2015/12/18/fashionone-tv-canli-yayin/",
       "url2": "https://stream-04.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDMckHNSYoPBzixJArDVEoDc)/dm/3/x67ch8g/s/live-0.m3u8"
     },
     {
@@ -3157,7 +3157,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "tempo_tv",
-      "url": "https://waw1.artiyerelmedya.net/tempotv/bant1/chunks.m3u8"
+      "serverName": "EmbeddedWebView",
+      "channelName": "tempo_tv",
+      "url": "https://www.temponetworks.com/live-tv/"
     },
     {
       "id": "606",
@@ -3223,7 +3225,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/vatan_tv.png",
       "serverName": "EmbeddedWebView",
       "channelName": "vatan_tv",
-      "url": "https://www.canlitv.me/vatan-tv"
+      "url": "https://canlitv.center/vatan-tv"
     },
     {
       "id": "691",
@@ -3236,7 +3238,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bizimev_tv.png",
       "serverName": "EmbeddedWebView",
       "channelName": "bizimev_tv",
-      "url": "https://canlitv.center/bizimev-tv"
+      "url": "https://m.beyaztv.com.tr/canli-yayin/"
     },
     {
       "id": "690",
@@ -3385,10 +3387,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "ulke_tv",
-      "serverName0": "YouTubeHls",
+      "serverName": "EmbeddedWebView",
       "channelName": "Ulke",
-      "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCi65FGbYYj-OzJm2luB_fNQ/live",
+      "url": "https://www.ulketv.com.tr/canli-yayin",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCi65FGbYYj-OzJm2luB_fNQ/live",
       "backupId": "4630"
     },
@@ -3492,7 +3493,7 @@
       "localImageResource": "tv_100_turkey_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/sd94keSra6A",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/19_SoT4wZPg",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/sd94keSra6A"
     },
     {
@@ -3517,7 +3518,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "halk_tv",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/video/P6iqNj0OAF0",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/video/L6fDpTMoyP8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCf_ResXZzE-o18zACUEmyvQ/live"
     },
     {
@@ -3530,7 +3531,7 @@
       "localImageResource": "arti_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/arti_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/z9ZhgZGxqM8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/C3jHvg2qxv8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xpoetRCJKqY"
     },
     {
@@ -3564,7 +3565,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "vizyon58_tv",
-      "url": "https://waw3.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8"
+      "channelName": "vizyon58_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.center/vizyon-58"
     },
     {
       "id": "641",
@@ -3605,7 +3608,7 @@
       "language_code": "tr",
       "localImageResource": "malatya_vuslat_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/malatya_vuslat_tv.png",
-      "url": "https://waw1.artiyerelmedya.net/vuslattv/bant1/playlist.m3u8"
+      "url": "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8"
     },
     {
       "id": "647",
@@ -3615,6 +3618,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "bursa_tv",
+      "geo_restrictions": "",
       "url": "https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8"
     },
     {
@@ -3635,7 +3639,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kanal_z",
-      "url": "https://waw3.artiyerelmedya.net/kanalz/bant1/playlist.m3u8"
+      "channelName": "kanal_z",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.com/kanal-z"
     },
     {
       "id": "631",
@@ -3645,11 +3651,12 @@
       "title_b_fa": "آزاد تی وی",
       "description": "General",
       "localImageResource": "azad_tv",
+      "geo_restrictions": "",
       "url": "http://85.132.81.184:8080/atv/index.m3u8"
     },
     {
       "id": "40631",
-      "title": "Azad TV (Backup)",
+      "title": "Azad TV",
       "country_code": "AZ",
       "language_code": "az",
       "title_b_fa": "آزاد تی وی",
@@ -3667,6 +3674,7 @@
       "title_b_fa": "آزاد تی وی ۲-",
       "description": "General",
       "localImageResource": "azad_tv",
+      "geo_restrictions": "",
       "url": "http://85.132.81.184:8080/atv-2/index.m3u8"
     },
     {
@@ -3677,6 +3685,7 @@
       "title_b_fa": "آزاد تی وی ۴-",
       "description": "General",
       "localImageResource": "azad_tv",
+      "geo_restrictions": "",
       "url": "http://85.132.81.184:8080/atv-4/index.m3u8"
     },
     {
@@ -4041,7 +4050,7 @@
       "country_code": "UK",
       "language_code": "ar",
       "localImageResource": "bbc_arabic",
-      "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
+      "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
       "backupUrl": "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8"
     },
     {
@@ -4098,7 +4107,7 @@
       "description": "General",
       "language_code": "ar",
       "localImageResource": "alrayyan_tv",
-      "url": "https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8"
+      "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8"
     },
     {
       "id": "1103",
@@ -4108,7 +4117,7 @@
       "description": "News",
       "language_code": "ar",
       "localImageResource": "alhurra_tv",
-      "url": "https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/merge.m3u8"
+      "url": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8"
     },
     {
       "id": "1104",
@@ -4128,7 +4137,7 @@
       "description": "News",
       "language_code": "ar",
       "localImageResource": "alarabye_news",
-      "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8"
+      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
     },
     {
       "id": "1106",
@@ -4148,7 +4157,7 @@
       "description": "News",
       "language_code": "ar",
       "localImageResource": "alray_tv",
-      "url": "https://media.streambrothers.com:1936/8724/8724/playlist.m3u8"
+      "url": "https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8"
     },
     {
       "id": "1109",
@@ -4190,11 +4199,9 @@
       "language_code": "ar",
       "localImageResource": "syrian_news",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/syrian_news.png",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "syrian_news",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/alikhbariya-syria.php"
+      "url": "https://alikhbaria.net/"
     },
     {
       "id": "1178",
@@ -4220,7 +4227,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/syria_drama.png",
       "channelName": "sham_fm_tv",
       "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/arabic-tv-online.php?id=syriadrama"
+      "url": "https://www.ortas.online/DramaTV/"
     },
     {
       "id": "1177",
@@ -4243,7 +4250,9 @@
       "description": "General",
       "language_code": "ar",
       "localImageResource": "alarabye_2",
-      "url": "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8"
+      "channelName": "alarabye_2",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.alaraby2.com/"
     },
     {
       "id": "1158",
@@ -4451,7 +4460,7 @@
       "language_code": "ar",
       "geo_restrictions": "!IN,US",
       "localImageResource": "dubai_sport_1",
-      "url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/media.m3u8"
+      "url": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8"
     },
     {
       "id": "1144",
@@ -4509,7 +4518,7 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "!IN,US",
+      "geo_restrictions": "",
       "localImageResource": "ad_sport_3",
       "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8"
     },
@@ -4523,7 +4532,7 @@
       "language_code": "ar",
       "geo_restrictions": "!IN,US",
       "localImageResource": "dubai_racing_tv",
-      "url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8"
+      "url": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8"
     },
     {
       "id": "1149",
