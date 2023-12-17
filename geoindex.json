@@ -345,7 +345,7 @@
       "localImageResourceNightMode22": "radio_javan_night_mode",
       "maxBitRate": "2000000",
       "url": "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8",
-      "backupId": "https://rjtvhls.wns.live/hls/stream.m3u8"
+      "backupUrl": "https://rjtvhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "9006",
