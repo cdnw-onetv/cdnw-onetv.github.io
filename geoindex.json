@@ -3380,6 +3380,17 @@
       "url": "https://www.dailymotion.com/player/metadata/video/x4kopfq?embedder=https%3A%2F%2Fwww.parsatv.com%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3"
     },
     {
+      "id": "701",
+      "title": "Teleon TV",
+      "title_b_fa": "تلون تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "teleon_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/teleon_tv.png",
+      "url": "https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/playlist.m3u8"
+    },
+    {
       "id": "630",
       "title": "Ulke TV",
       "title_b_fa": "اولکه تی وی",
