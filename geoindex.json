@@ -1444,7 +1444,7 @@
     },
     {
       "id": "55",
-      "title": "FX.1 TV",
+      "title": "FX 1 TV",
       "title_b_fa": "اف ایکس ۱",
       "description": "Movies",
       "country_code": "IR",
@@ -1455,7 +1455,7 @@
     },
     {
       "id": "59",
-      "title": "FX.2 TV",
+      "title": "FX 2 TV",
       "title_b_fa": "اف ایکس ۲",
       "description": "Movies",
       "country_code": "IR",
@@ -1987,7 +1987,7 @@
       "language_code": "fa",
       "localImageResource": "ganje_hozour",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/ganje_hozour.png",
-      "url": "https://topfi.ios.internapcdn.net/topfi/live_1/Test/playlist.m3u8"
+      "url": "https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8"
     },
     {
       "id": "200",
