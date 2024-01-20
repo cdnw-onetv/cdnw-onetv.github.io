@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "85"
+      "description": "86"
     },
     {
       "id": "2001",
@@ -3020,7 +3020,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/minika_go.png",
       "channelName": "minika_go",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.canlitv.me/minika-go-9"
+      "url": "https://www.minikago.com.tr/webtv/canli-yayin"
     },
     {
       "id": "612",
@@ -3209,10 +3209,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "cem_tv",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "cem_tv",
-      "streamingUrlReferer": "https://canlitv.com/tele1-tv",
-      "url": "https://canlitv.com/player/index.php?id=837"
+      "url": "https://canlitv.com/cem-tv"
     },
     {
       "id": "698",
@@ -3268,6 +3267,7 @@
       "streamingUrlReferer": "https://www.tlctv.com.tr",
       "streamingUrlOrigin": "https://www.tlctv.com.tr",
       "url": "https://www.tlctv.com.tr/canli-izle",
+      "backupUrl": "https://dogus-blackout.daioncdn.net/tlctv_geoblock.smil/playlist.m3u8",
       "backupId": "4692"
     },
     {
@@ -3350,9 +3350,9 @@
       "language_code": "tr",
       "localImageResource": "galatasaray_tv",
       "geo_restrictions": "!IN",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "galatasaray_tv.",
-      "url": "https://galatasaray.com/"
+      "url": "https://canlitv.center/gs-tv-izle"
     },
     {
       "id": "634",
@@ -3401,7 +3401,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "Ulke",
       "url": "https://www.ulketv.com.tr/canli-yayin",
-      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCi65FGbYYj-OzJm2luB_fNQ/live",
+      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=VKSZLO9iYHY",
       "backupId": "4630"
     },
     {
@@ -3426,10 +3426,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "can_tv",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "can_tv",
-      "streamingUrlReferer": "https://canlitv.com/tele1-tv",
-      "url": "https://canlitv.com/player/index.php?id=12996"
+      "url": "https://cantv.tv/canli-yayin/"
     },
     {
       "id": "662",
@@ -3440,7 +3439,7 @@
       "language_code": "tr",
       "localImageResource": "krt_tv",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCT1QJrOPtGWYyWkXry8uT4w/live",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@KRTCANLI/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCT1QJrOPtGWYyWkXry8uT4w/live"
     },
     {
@@ -3504,7 +3503,7 @@
       "localImageResource": "tv_100_turkey_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/19_SoT4wZPg",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@tv100/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/sd94keSra6A"
     },
     {
@@ -3529,7 +3528,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "halk_tv",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/video/L6fDpTMoyP8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@Halktvkanali/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCf_ResXZzE-o18zACUEmyvQ/live"
     },
     {
@@ -3542,7 +3541,7 @@
       "localImageResource": "arti_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/arti_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/C3jHvg2qxv8",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@ArtTv_Resmi/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xpoetRCJKqY"
     },
     {
@@ -3606,6 +3605,7 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
+      "geo_restrictions": "",
       "localImageResource": "kanal_avrupa",
       "url": "http://51.15.2.151/hls/kanalavrupa.m3u8",
       "backupId": "4665"
@@ -3709,7 +3709,7 @@
       "localImageResource": "arb_tv",
       "channelName": "arb_tv_az",
       "serverName": "EmbeddedWebView",
-      "url": "https://canlitv.center/arb-tv",
+      "url": "https://www.volotv.com/arb-tv-az-izle/",
       "url2": "https://ecanlitvizle.video/embed.php?kanal=arb-az-canli",
       "backupId": "4669"
     },
@@ -3721,7 +3721,9 @@
       "title_b_fa": "ای آر بی ۲۴ تی وی",
       "description": "General",
       "localImageResource": "arb_24_tv",
-      "url": "http://85.132.81.184:8080/arb24/live1/index.m3u8",
+      "channelName": "arv_24_az_1",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.hdtvlertv.com/arb-24-tv-azerbaycan-canli-yayim/",
       "backupId": "40670"
     },
     {
@@ -3773,7 +3775,8 @@
       "description": "General",
       "localImageResource": "arb_kepez_tv",
       "channelName": "arb-kepez",
-      "url": "http://85.132.81.184:8080/arbkepez/live/index.m3u8"
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.com/kepez-tv"
     },
     {
       "id": "673",
@@ -3845,9 +3848,10 @@
       "title_b_fa": "سی بی سی آز تی وی",
       "description": "General",
       "localImageResource": "cbc_az_tv",
-      "streamingUrlReferer": "http://cbc.az/",
       "geo_restrictions": "!IN",
-      "url": "http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8",
+      "channelName": "cbc_az1",
+      "serverName": "EmbeddedWebView",
+      "url": "https://canlitv.com/cbc-tv",
       "backupId": "40677"
     },
     {
@@ -3860,7 +3864,7 @@
       "localImageResource": "el_tv_az",
       "channelName": "el-tv-az",
       "serverName": "EmbeddedWebView",
-      "url": "https://ecanlitvizle.video/el-tv-az-canli/",
+      "url": "https://canlitv.com/el-tv",
       "url2": "https://ecanlitvizle.video/el-tv-az-canli/"
     },
     {
@@ -3908,8 +3912,9 @@
       "description": "Sports",
       "localImageResource": "idman_tv",
       "geo_restrictions": "!IN,US",
-      "channelName": "idman_tv",
-      "url": "http://109.205.166.68/server124/idman_az/index.m3u8"
+      "channelName": "idman_tv_1",
+      "serverName": "EmbeddedWebView",
+      "url": "https://idmantv.az/canli/canli.htm"
     },
     {
       "id": "40681",
@@ -3944,6 +3949,7 @@
       "language_code": "az",
       "title_b_fa": "ینتراز تی وی",
       "description": "General",
+      "geo_restrictions": "",
       "localImageResource": "interaz_tv",
       "channelName": "interaz_tv",
       "serverName": "EmbeddedWebView",
@@ -3996,6 +4002,7 @@
       "language_code": "az",
       "title_b_fa": "مگان تی وی",
       "description": "General",
+      "geo_restrictions": "",
       "localImageResource": "mugan_tv",
       "url": "https://cdn-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8"
     },
@@ -4010,7 +4017,7 @@
       "streamingUrlReferer": "http://canli.naxcivantv.az/",
       "channelName": "naxivan_tv",
       "serverName": "EmbeddedWebView",
-      "url": "http://canli.naxcivantv.az/"
+      "url": "https://live.ntv.az/"
     },
     {
       "id": "685",
@@ -9760,6 +9767,456 @@
       "title": "",
       "description": "",
       "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_159.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6160",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_160.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6161",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_161.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6162",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_162.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6163",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_163.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6164",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_164.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6165",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_165.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6166",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_166.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6167",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_167.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6168",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_168.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6169",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_169.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6164",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_164.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6170",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_170.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6171",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_172.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6173",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_173.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6174",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_174.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6175",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_175.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6176",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_176.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6177",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_177.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6178",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_178.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6179",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_179.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6180",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_180.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6181",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_181.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6182",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_182.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6183",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_183.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6184",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_184.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6185",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_185.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6186",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_186.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6187",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_187.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6188",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_188.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6189",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_189.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6190",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_190.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6191",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_191.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6192",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_192.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6193",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_193.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6194",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_194.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6195",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_195.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6196",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_196.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6197",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_197.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6198",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_198.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6199",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_199.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6200",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_200.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6201",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_202.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6202",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_202.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6203",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_203.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6204",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_204.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6205",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_205.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6206",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_206.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6207",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_207.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6208",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_208.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6209",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_209.png",
       "channelName": "",
       "serverName": "",
       "url": ""
