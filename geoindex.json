@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "86"
+      "description": "87"
     },
     {
       "id": "2001",
@@ -111,7 +111,7 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
+      "geo_restrictions": "",
       "favorite": "Yes",
       "localImageResource": "manoto",
       "localImageResourceNightMode": "manoto_night_mode",
@@ -132,7 +132,7 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "favorite": "Yes",
       "localImageResource": "manoto",
       "localImageResourceNightMode": "manoto_night_mode",
@@ -521,6 +521,7 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "manoto_plus_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/manoto_plus_1.png",
       "localImageResourceNightMode": "manoto_plus_1_night_mode",
@@ -535,6 +536,7 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "manoto_plus_2",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/manoto_plus_2.png",
       "localImageResourceNightMode": "manoto_plus_2_night_mode",
@@ -6156,6 +6158,7 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "manoto",
       "localImageResourceNightMode": "manoto_night_mode",
       "serverName": "Embedded",
@@ -6171,6 +6174,7 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "manoto",
       "localImageResourceNightMode": "manoto_night_mode",
       "serverName": "EmbeddedWebView",
