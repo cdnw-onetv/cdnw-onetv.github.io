@@ -4652,6 +4652,19 @@
       "backupId": "2023"
     },
     {
+      "id": "20242024",
+      "title": "AFC CUP 2024",
+      "title_b_fa": "جام ملت های آسیا ۲۰۲۴",
+      "localImageResource": "afc_cup_2024",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/afc_cup_2024.png",
+      "description": "Sport",
+      "tags": "Sport",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!IR",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@AFCAsianCup/live"
+    },
+    {
       "id": "1023",
       "title": "IRIB 4",
       "title_b_fa": "شبکه چهار",
