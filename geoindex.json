@@ -4663,6 +4663,7 @@
       "language_code": "fa",
       "geo_restrictions": "!IR",
       "maxBitRate": "2000000",
+      "streamingUrlExpireTime": "60",
       "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@AFCAsianCup/live"
     },
     {
