@@ -678,6 +678,27 @@
       "backupId": "80010"
     },
     {
+      "id": "40010",
+      "title": "Gem Series (Server 2)",
+      "title_b_fa": "جم سریز (سرور ۲)",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!TR,UA",
+      "localImageResource": "gem_series",
+      "localImageResourceNightMode": "gem_series_night_mode",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
+      "maxBitRate": "900000",
+      "streamingUrlReferer": "https://onetv200.app",
+      "url": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
+      "backupUrl": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gemseries/index.m3u8",
+      "backupId": "80010"
+    },
+    {
       "id": "53",
       "title": "Gem Bollywood",
       "title_b_fa": "جم بالیوود",
