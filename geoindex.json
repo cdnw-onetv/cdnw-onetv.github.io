@@ -2088,7 +2088,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdsat_tv",
-      "url": "http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest.m3u8",
+      "url": "https://kurdsat.akamaized.net/hls/kurdsat.m3u8",
       "url2": "https://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklist_b3128000.m3u8",
       "backupId": "4302"
     },
