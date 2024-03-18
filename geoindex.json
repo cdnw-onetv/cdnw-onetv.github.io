@@ -621,7 +621,18 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "ava_family",
-      "url": "https://familyhls.avatv.live/hls/stream.m3u8"
+      "url": "https://familyhls.avatv.live/hls/stream.m3u8",
+      "backupId": "40019"
+    },
+    {
+      "id": "40019",
+      "title": "AVA Family (Server 2)",
+      "title_b_fa": "آوا فامیلی (سرور ۲)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "ava_family",
+      "url": "https://ca-rt.onetv.app/AVAFamily/index-0.m3u8"
     },
     {
       "id": "20",
