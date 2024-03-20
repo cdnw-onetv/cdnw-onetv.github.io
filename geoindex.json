@@ -383,21 +383,19 @@
       "localImageResource": "tapesh",
       "maxBitRate": "1000000",
       "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8",
-      "backupId": "40015"
+      "backupId": "80015"
     },
     {
-      "id": "90015",
-      "title": "Tapesh TV",
-      "title_b_fa": "تپش",
+      "id": "80015",
+      "title": "Tapesh TV (Server 2)",
+      "title_b_fa": "تپش (سرور ۲)",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
       "localImageResource": "tapesh",
       "maxBitRate": "1000000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/TapeshAmerica/index-0.m3u8",
-      "backupId": "40015"
+      "url": "https://ca-rt.onetv.app/TAPESH/index-0.m3u8",
     },
     {
       "id": "40015",
@@ -406,10 +404,22 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "tapesh",
       "maxBitRate": "1000000",
       "url": "http://iptv.tapesh.tv/tapeshiran/playlist.m3u8",
-      "backupId": "80015"
+      "backupId": "120015"
+    },
+    {
+      "id": "120015",
+      "title": "Tapesh TV (Plus, Server 2)",
+      "title_b_fa": "تپش (پلاس، سرور ۲)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "tapesh",
+      "maxBitRate": "1000000",
+      "url": "https://ca-rt.onetv.app/TapeshAmerica/index-0.m3u8"
     },
     {
       "id": "18",
@@ -429,7 +439,7 @@
     {
       "id": "40018",
       "title": "ITN (Server 2)",
-      "title_b_fa": "آی تی ان (سرور )",
+      "title_b_fa": "آی تی ان (سرور ۲)",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -6309,18 +6319,6 @@
       "language_code": "fa",
       "localImageResource": "voa_persian",
       "url": "https://voa-ingest.akamaized.net/dash/live/2033877/tvmc07/manifest.mpd"
-    },
-    {
-      "id": "40016",
-      "title": "Tapesh 2 (Backup)",
-      "title_b_fa": "تپش دو (جایگزین)",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "tapesh_2",
-      "channelName": "tapesh_2_backup",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/iran-tv-online.php?id=T2International"
     },
     {
       "id": "42",
