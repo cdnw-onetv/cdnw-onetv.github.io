@@ -6333,17 +6333,6 @@
       "url": "https://video.caltexmusic.com/hls/caltextv.m3u8"
     },
     {
-      "id": "40018",
-      "title": "ITN (Backup)",
-      "title_b_fa": "آی تی ان (جایگزین)",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "itn",
-      "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/ITN/index-0.m3u8"
-    },
-    {
       "id": "80018",
       "title": "ITN (Backup 2)",
       "title_b_fa": "آی تی ان (جایگزین ۲)",
