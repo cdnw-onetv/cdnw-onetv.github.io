@@ -392,10 +392,11 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "IR",
       "localImageResource": "tapesh",
       "maxBitRate": "1000000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/TAPESH/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app/TapeshAmerica/index-0.m3u8"
     },
     {
       "id": "40015",
@@ -417,9 +418,10 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "IR",
       "localImageResource": "tapesh",
       "maxBitRate": "1000000",
-      "url": "https://ca-rt.onetv.app/TapeshAmerica/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app/TAPESH/index-0.m3u8"
     },
     {
       "id": "18",
@@ -489,8 +491,8 @@
     },
     {
       "id": "40005",
-      "title": "PMC (Test)",
-      "title_b_fa": "پی ام سی (آزمایشی)",
+      "title": "PMC (Server 2)",
+      "title_b_fa": "پی ام سی (سرور ۲)",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
@@ -504,7 +506,7 @@
     },
     {
       "id": "40006",
-      "title": "RadioJavan (Test, IR)",
+      "title": "RadioJavan (Server 2, IR)",
       "title_b_fa": "رادیو جوان",
       "description": "Music",
       "country_code": "IR",
@@ -2140,27 +2142,14 @@
     },
     {
       "id": "40303",
-      "title": "Kurdmax (Test)",
+      "title": "Kurdmax (Server 2)",
       "title_b_fa": "کوردماکس",
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_tv",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/KurdMax/index-0.m3u8",
-      "backupId": "4303"
-    },
-    {
-      "id": "90040303",
-      "title": "Kurdmax (Test, IR)",
-      "title_b_fa": "کوردماکس",
-      "description": "General",
-      "country_code": "IQ",
-      "language_code": "ku",
-      "geo_restrictions": "",
-      "localImageResource": "kurdmax_tv",
-      "url": "https://ca-rt.onetvapi.win/KurdMax/index-0.m3u8",
-      "backupId": "4303"
+      "url": "https://ca-rt.onetv.app/KurdMax/index-0.m3u8"
     },
     {
       "id": "304",
@@ -2176,27 +2165,14 @@
     },
     {
       "id": "40304",
-      "title": "Kurdmax Show (Test)",
+      "title": "Kurdmax Show (Server 2)",
       "title_b_fa": "کوردماکس شو",
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_show_tv",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/KurdmaxShow/index-0.m3u8",
-      "backupId": "4304"
-    },
-    {
-      "id": "90040304",
-      "title": "Kurdmax Show (Test, IR)",
-      "title_b_fa": "کوردماکس شو",
-      "description": "General",
-      "country_code": "IQ",
-      "language_code": "ku",
-      "geo_restrictions": "",
-      "localImageResource": "kurdmax_show_tv",
-      "url": "https://ca-rt.onetvapi.win/KurdmaxShow/index-0.m3u8",
-      "backupId": "4304"
+      "url": "https://ca-rt.onetv.app/KurdmaxShow/index-0.m3u8"
     },
     {
       "id": "305",
@@ -2216,22 +2192,6 @@
       "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/UfFtBsVn0qo",
       "url3": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
-      "backupId": "4305"
-    },
-    {
-      "id": "40305",
-      "title": "Kurdmax Music (Backup)",
-      "title_b_fa": "کوردماکس موزیک",
-      "description": "Music",
-      "country_code": "IQ",
-      "language_code": "ku",
-      "geo_restrictions": "",
-      "localImageResource": "kurdmax_music",
-      "channelName": "kurdmaxMusic_backup",
-      "serverName": "EmbeddedWebView",
-      "maxBitRate": "1000000",
-      "url": "https://ku.karwan.tv/kurdmax-music.html",
-      "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
       "backupId": "4305"
     },
     {
@@ -3265,7 +3225,10 @@
       "language_code": "tr",
       "localImageResource": "teleon_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/teleon_tv.png",
-      "url": "https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultrahd_lisansli/playlist.m3u8"
+      "maxBitRate": "2000000",
+      "serverName": "EmbeddedWebView",
+      "channelName": "teleon_tv",
+      "url": "https://vipotv.com/teleon-tv/"
     },
     {
       "id": "660",
@@ -4694,8 +4657,8 @@
     },
     {
       "id": "241022",
-      "title": "IRIB 3 (Test)",
-      "title_b_fa": "شبکه سه (آزمایشی)",
+      "title": "IRIB 3 (Server 2)",
+      "title_b_fa": "شبکه سه (سرور ۲)",
       "localImageResource": "irib_3",
       "description": "General",
       "tags": "Sport",
@@ -7395,20 +7358,6 @@
       "channelName": "kurdsat_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://ku.karwan.tv/kurdsat-tv.html"
-    },
-    {
-      "id": "4303",
-      "title": "Kurdmax (Backup)",
-      "title_b_fa": "کوردماکس (جایگزین)",
-      "description": "General",
-      "country_code": "IQ",
-      "language_code": "ku",
-      "localImageResource": "kurdmax_tv",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
-      "channelName": "kurdmax_backup",
-      "serverName": "EmbeddedWebView",
-      "url": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=KurdMax"
     },
     {
       "id": "4304",
