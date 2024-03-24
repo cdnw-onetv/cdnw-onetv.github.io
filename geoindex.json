@@ -2245,6 +2245,7 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "ava_tv",
       "url": "https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8",
       "url2": "http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_3310000/chunklist.m3u8"
@@ -2386,21 +2387,17 @@
       "url2": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=Waar"
     },
     {
-      "id": "900336",
-      "title": "Waar TV (IR)",
-      "title_b_fa": "وار تی وی",
-      "title_b_ku": "وار تیڤی",
+      "id": "40336",
+      "title": "Waar Radio",
+      "title_b_fa": "وار راديو",
+      "title_b_ku": "وار راديو",
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
-      "geo_restrictions": "",
       "localImageResource": "waar_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/waar_tv.png",
-      "streamingUrlReferer": "http://www.elahmad.com",
-      "streamingUrlOrigin": "http://www.elahmad.com",
       "channelName": "waar_tv",
-      "url": "https://ca-rt.onetvapi.win/Waar/index-0.m3u8",
-      "url2": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=Waar"
+      "url": "https://c2.radioboss.fm:18564/stream?type=mp3"
     },
     {
       "id": "328",
