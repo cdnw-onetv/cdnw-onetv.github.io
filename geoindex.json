@@ -2509,7 +2509,7 @@
       "country_code": "TR",
       "language_code": "ku",
       "localImageResource": "ashursat",
-      "url": "https://5afd52b55ff79.streamlock.net/MISTV_Music/Stream3/playlist.m3u8"
+      "url": "https://5afd52b55ff79.streamlock.net/MISTV_Music/AshurSat_Music/playlist.m3u8"
     },
     {
       "id": "319",
@@ -2518,6 +2518,7 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "denge_zelal_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/denge_zelal_tv.png",
       "url": "https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8",
@@ -2531,7 +2532,7 @@
       "country_code": "TR",
       "language_code": "ku",
       "localImageResource": "med_muzik",
-      "url": "http://137.74.205.201/medmuzik/MedStream/playlist.m3u8"
+      "url": "https://med-musik.icdndhcp.com/live3/live3.m3u8"
     },
     {
       "id": "318",
