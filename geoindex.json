@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "88"
+      "description": "89"
     },
     {
       "id": "2001",
@@ -578,6 +578,19 @@
       "language_code": "fa",
       "localImageResource": "tin_tv",
       "url": "http://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8"
+    },
+    {
+      "id": "139",
+      "title": "Novin TV",
+      "title_b_fa": "نوین تی وی",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "novintv",
+      "localImageResourceNightMode": "novintv_night_mode",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/novintv.png",
+      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/novintv_night_mode.png",
+      "url": "https://novin-tv.icdndhcp.com/hls/playlist.m3u8"
     },
     {
       "id": "65",
@@ -1488,6 +1501,7 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "amg_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/amg_tv.png",
       "url": "https://ca-rt.onetv.app/AMG/index-0.m3u8"
