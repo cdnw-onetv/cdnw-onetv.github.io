@@ -3240,7 +3240,10 @@
       "localImageResource": "teleon_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/teleon_tv.png",
       "maxBitRate": "2000000",
-      "serverName": "EmbeddedWebView",
+      "streamingUrlReferer": "https://ok.ru/live/6863507889672",
+      "streamingUrlOrigin": "https://ok.ru",
+      "streamingUrlPattern": "https:([^\"\';]*?).mpd([^\"';]*?)[\\\"\'&]",
+      "serverName": "Embedded",
       "channelName": "teleon_tv",
       "url": "https://ok.ru/video/6863507889672"
     },
