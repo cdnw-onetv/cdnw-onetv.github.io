@@ -2636,7 +2636,8 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/now_tv.png",
       "serverName": "EmbeddedWebView",
       "channelName": "now_tv",
-      "url": "https://www.nowtv.com.tr/canli-yayin"
+      "url": "https://www.nowtv.com.tr/canli-yayin",
+      "backupId": "4601"
     },
     {
       "id": "602",
