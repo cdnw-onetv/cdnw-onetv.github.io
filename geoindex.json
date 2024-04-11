@@ -2986,16 +2986,6 @@
       "backupId": "4614"
     },
     {
-      "id": "656",
-      "title": "TRT Eba Ilkokul",
-      "title_b_fa": "تی آر تی ابا دبستان",
-      "description": "Education",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "trt_eba_ilkokul",
-      "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8"
-    },
-    {
       "id": "657",
       "title": "TRT Eba Ortaokul",
       "title_b_fa": "تی آر تی ابا راهنمایی",
@@ -3004,16 +2994,6 @@
       "language_code": "tr",
       "localImageResource": "trt_eba_ortaokul",
       "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
-    },
-    {
-      "id": "658",
-      "title": "TRT Eba Lise",
-      "title_b_fa": "تی آر تی ابا دبیرستان",
-      "description": "Education",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "trt_eba_lise",
-      "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8"
     },
     {
       "id": "613",
@@ -3272,19 +3252,6 @@
       "serverName": "EmbeddedWebView",
       "channelName": "vatan_tv",
       "url": "https://canlitv.center/vatan-tv"
-    },
-    {
-      "id": "691",
-      "title": "Bizimev TV",
-      "title_b_fa": "بیزیمو تی وی",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "localImageResource": "bizimev_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/bizimev_tv.png",
-      "serverName": "EmbeddedWebView",
-      "channelName": "bizimev_tv",
-      "url": "https://m.beyaztv.com.tr/canli-yayin/"
     },
     {
       "id": "690",
