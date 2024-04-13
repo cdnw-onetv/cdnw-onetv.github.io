@@ -3219,7 +3219,7 @@
       "language_code": "tr",
       "localImageResource": "teleon_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/teleon_tv.png",
-      "maxBitRate": "2000000",
+      "maxBitRate": "4000000",
       "streamingUrlReferer": "https://ok.ru/live/6863507889672",
       "streamingUrlOrigin": "https://ok.ru",
       "streamingUrlPattern": "https:([^\"\';]*?).mpd([^\"';]*?)[\\\"\'&]",
