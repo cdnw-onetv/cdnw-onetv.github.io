@@ -3222,7 +3222,7 @@
       "maxBitRate": "4000000",
       "streamingUrlReferer": "https://ok.ru/live/6863507889672",
       "streamingUrlOrigin": "https://ok.ru",
-      "streamingUrlPattern": "https:([^\"\';]*?).mpd([^\"';]*?)[\\\"\'&]",
+      "streamingUrlPattern": "https:([^\"';]*?).mpd([^\"';]*?)[\\\"'&]",
       "serverName": "Embedded",
       "channelName": "teleon_tv",
       "url": "https://ok.ru/video/6863507889672"
