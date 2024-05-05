@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "91"
+      "description": "92"
     },
     {
       "id": "2001",
@@ -3225,7 +3225,7 @@
       "streamingUrlPattern": "https:([^\"';]*?).m3u8([^\"';]*?)[\\\"'&]",
       "serverName": "Embedded",
       "channelName": "teleon_tv",
-      "url": "https://ok.ru/videoembed/6863507889672?autoplay=1"
+      "url": "https://ok.ru/live/6863507889672"
     },
     {
       "id": "660",
