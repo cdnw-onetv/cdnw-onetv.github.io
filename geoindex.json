@@ -2774,6 +2774,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "now_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/now_tv.png",
       "channelName": "now_tv_backup",
       "serverName": "EmbeddedWebView",
       "url": "https://canlitv.center/fox-tv-canli"
@@ -3234,6 +3235,7 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
+      "geo_restrictions": "",
       "localImageResource": "cem_tv",
       "serverName": "EmbeddedWebView",
       "channelName": "cem_tv",
@@ -3378,7 +3380,7 @@
       "localImageResource": "istanbul_tv",
       "channelName": "istanbul_tv",
       "serverName": "EmbeddedWebView",
-      "url": "http://stream.flexmmp.com:81/msyapi.php"
+      "url": "https://www.parsatv.com/name=Istanbul-TV"
     },
     {
       "id": "637",
