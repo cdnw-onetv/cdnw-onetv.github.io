@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "94"
+      "description": "96"
     },
     {
       "id": "2001",
@@ -5716,9 +5716,11 @@
       "description": "Business",
       "country_code": "US",
       "language_code": "en",
-      "geo_restrictions": "@CA",
+      "geo_restrictions": "",
       "localImageResource": "yahoo_finance",
-      "url": "https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=7CLDeVfDVbE_-e9zMax6&channelId=5f170f01b898490041b49dd1/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8"
+      "serverName": "Embedded",
+      "channelName": "YahooFinance",
+      "url": "https://finance.yahoo.com/videos/"
     },
     {
       "id": "510",
@@ -5729,7 +5731,9 @@
       "language_code": "en",
       "geo_restrictions": "@CA,IR,IQ",
       "localImageResource": "sky_news",
-      "url": "https://siloh.pluto.tv/lilo/production/SkyNews/master_4.m3u8",
+      "serverName": "EmbeddedWebView",
+      "channelName": "sky_news",
+      "url": "https://news.sky.com/watch-live",
       "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=9Auq9mYxFEE"
     },
     {
@@ -5751,9 +5755,7 @@
       "country_code": "CA",
       "language_code": "en",
       "localImageResource": "tvo_kids",
-      "streamingUrlExpireTime": "200",
-      "url0": "https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XYoMkJc1N6w"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@TVOkids/live"
     },
     {
       "id": "525",
@@ -5762,46 +5764,31 @@
       "description": "Kids",
       "country_code": "US",
       "language_code": "en",
+      "geo_restrictions": "",
       "localImageResource": "pbs_kids",
       "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8",
       "backupUrl": "https://livestream.pbskids.org/out/v1/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd"
     },
     {
-      "id": "527",
-      "title": "Bein Sports Extra",
-      "title_b_fa": "بین اسپورت اکسترا",
-      "title_b_ar": "بین سبورت اکسترا",
-      "description": "Sports",
-      "country_code": "QA",
-      "language_code": "en",
-      "geo_restrictions": "!IN",
-      "localImageResource": "bein_sports_extra",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/bein_sports_extra.png",
-      "url": "https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8"
-    },
-    {
-      "id": "512",
-      "title": "CBS News",
-      "title_b_fa": "سی بی اس نیوز",
-      "description": "News",
-      "country_code": "US",
-      "language_code": "en",
-      "geo_restrictions": "CA,IR,IQ",
-      "localImageResource": "cbs_news",
-      "localImageResourceNightMode": "cbs_news_night_mode",
-      "channelName": "cbs_news",
-      "serverName": "EmbeddedWebView",
-      "url": "https://www.cbsnews.com/live/"
-    },
-    {
       "id": "515",
-      "title": "Top Songs 2022",
-      "title_b_fa": "آهنگ های برتر ۲۰۲۲",
+      "title": "Top Hits 2024",
+      "title_b_fa": "آهنگ های برتر ۲۰۲۴",
       "description": "Music",
       "language_code": "en",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/R24sxuY9NQk",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=HQtFR3mhzOY",
+      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R24sxuY9NQk"
+    },
+    {
+      "id": "530",
+      "title": "Top Songs 2024",
+      "title_b_fa": "آهنگ های برتر ۲۰۲۴",
+      "description": "Music",
+      "language_code": "en",
+      "localImageResource": "music_logo",
+      "streamingUrlExpireTime": "200",
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=uNd5kvrGHjk",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R24sxuY9NQk"
     },
     {
@@ -5812,7 +5799,7 @@
       "language_code": "en",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=rw7bxTqkYYs"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Rse-E5tARaY"
     },
     {
       "id": "514",
@@ -10195,31 +10182,37 @@
     {
       "id": "110001",
       "title": "Free TV",
+      "title_b_fa": "آی پی توی رایگان",
       "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
     },
     {
       "id": "110002",
       "title": "Samsung TV",
+      "title_b_fa": "کانال های سامسونگ",
       "url": "https://i.mjh.nz/SamsungTVPlus/all.m3u8"
     },
     {
       "id": "110003",
       "title": "XUMO",
+      "title_b_fa": "کانال های XUMO",
       "url": "https://www.apsattv.com/xumo.m3u"
     },
     {
       "id": "110004",
       "title": "RedBox TV",
+      "title_b_fa": "کانال های RedBox",
       "url": "https://www.apsattv.com/redbox.m3u"
     },
     {
       "id": "110005",
       "title": "Tubi",
+      "title_b_fa": "کانال های Tubi",
       "url": "https://www.apsattv.com/tubi.m3u"
     },
     {
       "id": "110006",
       "title": "Turkey",
+      "title_b_fa": "کانال های ترکیه",
       "url": "http://stream.tvcdn.net/lists/tr.m3u"
     }
   ],
