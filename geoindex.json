@@ -3232,9 +3232,7 @@
       "streamingUrlReferer": "https://ok.ru/live/6863507889672",
       "streamingUrlOrigin": "https://ok.ru",
       "streamingUrlPattern": "https:([^\"';]*?).m3u8([^\"';]*?)[\\\"'&]",
-      "serverName": "Embedded",
-      "channelName": "teleon_tv",
-      "url": "https://ok.ru/live/6863507889672"
+      "url": "http://live.euromediacenter.com/teleon/video.m3u8"
     },
     {
       "id": "660",
