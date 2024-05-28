@@ -1217,7 +1217,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_one",
+      "localImageResource": "persiana_one_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_one_1.png",
       "url": "https://onehls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.199.21/hls/stream.m3u8"
     },
@@ -1229,8 +1230,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_hd",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_hd.png",
+      "localImageResource": "persiana_hd_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_hd_1.png",
       "url": "https://euhls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.227.147/hls/stream.m3u8"
     },
@@ -1242,7 +1243,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_music",
+      "localImageResource": "persiana_music_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_music_1.png",
       "url": "https://musichls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.199.24/hls/stream.m3u8"
     },
@@ -1254,7 +1256,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_sonnati",
+      "localImageResource": "persiana_sonnati_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sonnati_1.png",
       "url": "https://sonhls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.199.1/hls/stream.m3u8",
       "backupId": "40023"
@@ -1267,8 +1270,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_nostalgia",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_nostalgia.png",
+      "localImageResource": "persiana_nostalgia_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_nostalgia_1.png",
       "url": "https://noshls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.199.20/hls/stream.m3u8"
     },
@@ -1280,8 +1283,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_rap",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_rap.png",
+      "localImageResource": "persiana_rap_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_rap_1.png",
       "url": "https://raphls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.227.163/hls/stream.m3u8"
     },
@@ -1293,25 +1296,11 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_cinema",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_cinema.png",
+      "localImageResource": "persiana_cinema_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_cinema_1.png",
       "url": "https://cinehls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.199.15/hls/stream.m3u8",
       "backupId": "40089"
-    },
-    {
-      "id": "40089",
-      "title": "Persiana Cinema (Backup)",
-      "title_b_fa": "پرشیانا سینما (جایگزین)",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_cinema",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_cinema.png",
-      "channelName": "persian_cinema",
-      "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/persiana-cinema"
     },
     {
       "id": "26",
@@ -1321,7 +1310,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_iranian",
+      "localImageResource": "persiana_iranian_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_iranian_1.png",
       "url": "https://irhls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.199.22/hls/stream.m3u8"
     },
@@ -1333,7 +1323,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_family",
+      "localImageResource": "persiana_family_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_family_1.png",
       "url": "https://familyhls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.199.19/hls/stream.m3u8"
     },
@@ -1345,7 +1336,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_comedy",
+      "localImageResource": "persiana_comedy_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_comedy_1.png",
       "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.199.27/hls/stream.m3u8"
     },
@@ -1357,7 +1349,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_korea",
+      "localImageResource": "persiana_korea_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_korea_1.png",
       "url": "https://korhls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.199.14/hls/stream.m3u8"
     },
@@ -1369,7 +1362,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_junior",
+      "localImageResource": "persiana_junior_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_junior_1.png",
       "url": "https://junhls.persiana.live/hls/stream.m3u8",
       "backupUrl": "http://51.210.199.18/hls/stream.m3u8"
     },
@@ -1381,8 +1375,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "persiana_science",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_science.png",
+      "localImageResource": "persiana_science_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_science_1.png",
       "url": "https://scihls.persiana.live/hls/stream.m3u8"
     },
     {
@@ -1393,9 +1387,33 @@
       "country_code": "IR",
       "language_code": "fa",
       "geo_restrictions": "!FR,UA",
-      "localImageResource": "four_turk",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/four_turk.png",
+      "localImageResource": "persiana_turkiye_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_turkiye_1.png",
       "url": "https://turkhls.persiana.live/hls/stream.m3u8"
+    },
+    {
+      "id": "140",
+      "title": "Persiana Two",
+      "title_b_fa": "پرشیانا دو",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_two_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_two_1.png",
+      "url": "https://twohls.persiana.live/hls/stream.m3u8"
+    },
+    {
+      "id": "141",
+      "title": "Persiana Latino",
+      "title_b_fa": "پرشیانا لاتین",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_latino_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_latino_1.png",
+      "url": "https://latinohls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "119",
@@ -2222,7 +2240,8 @@
       "title_b_fa": "فور کورد",
       "description": "General",
       "language_code": "ku",
-      "localImageResource": "four_kurd",
+      "localImageResource": "persiana_4kurd_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/4kurd.png",
       "url": "https://4kuhls.persiana.live/hls/stream.m3u8"
     },
     {
@@ -6495,6 +6514,20 @@
       "localImageResource": "persiana_junior",
       "streamingUrlReferer": "https://onetv200.app",
       "url": "https://ca-rt.onetv.app/PersianaJunior/index-0.m3u8"
+    },
+    {
+      "id": "40089",
+      "title": "Persiana Cinema (Backup)",
+      "title_b_fa": "پرشیانا سینما (جایگزین)",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!FR,UA",
+      "localImageResource": "persiana_cinema_1",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_cinema_1.png",
+      "channelName": "persian_cinema",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/persiana-cinema"
     },
     {
       "id": "40056",
