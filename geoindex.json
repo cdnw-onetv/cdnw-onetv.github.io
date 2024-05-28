@@ -10219,6 +10219,18 @@
       "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
     },
     {
+      "id": "110007",
+      "title": "Samsung TV Canada",
+      "title_b_fa": "کانال های سامسونگ کانادا",
+      "url": "https://i.mjh.nz/SamsungTVPlus/ca.m3u8"
+    },
+    {
+      "id": "110008",
+      "title": "Samsung TV US",
+      "title_b_fa": "کانال های سامسونگ آمریکا",
+      "url": "https://i.mjh.nz/SamsungTVPlus/us.m3u8"
+    },
+    {
       "id": "110002",
       "title": "Samsung TV",
       "title_b_fa": "کانال های سامسونگ",
