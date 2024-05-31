@@ -548,6 +548,19 @@
       "backupUrl": "https://rfe-ingest.akamaized.net/dash/live/2035291/axia21/manifest.mpd"
     },
     {
+      "id": "900240003",
+      "title": "Iran International (Radio)",
+      "title_b_fa": "ایران اینترنشنال (راديو)",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!IR",
+      "localImageResource": "iran_international",
+      "httpConnectTimeout": "5000",
+      "httpReadTimeout": "5000",
+      "url": "http://n09.radiojar.com/dfnrphnr5f0uv?type=mp3"
+    },
+    {
       "id": "112",
       "title": "Manoto + 1",
       "title_b_fa": "من و تو پلاس ۱",
