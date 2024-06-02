@@ -2259,14 +2259,13 @@
     },
     {
       "id": "337",
-      "title": "Kurd Music",
+      "title": "KMC",
       "title_b_fa": "کورد موزیک",
       "description": "Music",
       "language_code": "ku",
-      "geo_restrictions": "",
-      "localImageResource": "kurd_music",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/kurd_music.png",
-      "url": "http://51.210.227.165/hls/stream.m3u8"
+      "localImageResource": "kmc",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/kmc.png",
+      "url": "https://ca-rt.onetv.app/KMC/index-0.m3u8"
     },
     {
       "id": "308",
