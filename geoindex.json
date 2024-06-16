@@ -307,20 +307,8 @@
       "url": "https://hls.navahang.live/hls/stream.m3u8"
     },
     {
-      "id": "9004",
-      "title": "Navahang (IR)",
-      "title_b_fa": "نواهنگ",
-      "description": "Music",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "navahang",
-      "streamingUrlExpireTime": "10",
-      "url": "https://ng.onetv.app/hls/stream.m3u8"
-    },
-    {
       "id": "5",
-      "title": "PMC",
+      "title": "PMC MUSIC",
       "title_b_fa": "پی ام سی",
       "description": "Music",
       "country_code": "IR",
@@ -499,7 +487,7 @@
     },
     {
       "id": "40005",
-      "title": "PMC (Server 2)",
+      "title": "PMC MUSIC (Server 2)",
       "title_b_fa": "پی ام سی (سرور ۲)",
       "description": "Music",
       "country_code": "IR",
@@ -511,6 +499,16 @@
       "url": "https://ca-rt.onetv.app/PMCMusic/index-0.m3u8",
       "maxBitRate": "300000",
       "backupId": "60005"
+    },
+    {
+      "id": "142",
+      "title": "PMC RADIO",
+      "title_b_fa": "پی ام سی رادیو",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "pmc",
+      "url": "https://radiohls.pmc.live/hls/stream.m3u8"
     },
     {
       "id": "40006",
@@ -527,7 +525,7 @@
     },
     {
       "id": "57",
-      "title": "PMC Royale",
+      "title": "PMC ROYALE",
       "title_b_fa": "پی ام سی رویال",
       "description": "Music",
       "country_code": "IR",
@@ -2112,6 +2110,16 @@
       "localImageResource": "radio_hamrah",
       "url": "http://192.34.153.102:8000/RadioHAMRAH.mp3",
       "url2": "http://streema.com/radios/play/KTWV_HD3?autoplay=true&webview=1"
+    },
+    {
+      "id": "143",
+      "title": "Navahang Radio",
+      "title_b_fa": "نواهنگ رادیو",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "navahang",
+      "url": "http://108.163.204.178:9000/stream?type=mp3"
     },
     {
       "id": "201",
