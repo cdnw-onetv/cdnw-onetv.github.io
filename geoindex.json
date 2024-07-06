@@ -1523,6 +1523,7 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "persian_film_tv",
       "url": "https://pfilmhls.wns.live/hls/stream.m3u8",
       "backupUrl": "https://ca.onetvapi.win/pfilmhls.wns.live/hls/stream.m3u8"
