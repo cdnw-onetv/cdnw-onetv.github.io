@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "97"
+      "description": "98"
     },
     {
       "id": "2001",
@@ -355,6 +355,7 @@
       "localImageResource": "radio_javan",
       "maxBitRate": "1000000",
       "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/rjtvhls.wns.live/hls/stream.m3u8",
       "backupId": "40006"
     },
     {
@@ -366,6 +367,7 @@
       "language_code": "fa",
       "localImageResource": "four_u",
       "url": "https://hls.4utv.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/hls.4utv.live/hls/stream.m3u8",
       "backupId": "40043"
     },
     {
@@ -454,7 +456,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "afn_music",
-      "url": "http://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
+      "url": "http://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
     },
     {
       "id": "16",
@@ -531,7 +534,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "pmc",
-      "url": "https://rohls.pmc.live/hls/stream.m3u8"
+      "url": "https://rohls.pmc.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/rohls.pmc.live/hls/stream.m3u8"
     },
     {
       "id": "203",
@@ -559,36 +563,6 @@
       "url": "http://n09.radiojar.com/dfnrphnr5f0uv?type=mp3"
     },
     {
-      "id": "112",
-      "title": "Manoto + 1",
-      "title_b_fa": "من و تو پلاس ۱",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "manoto_plus_1",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/manoto_plus_1.png",
-      "localImageResourceNightMode": "manoto_plus_1_night_mode",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/manoto_plus_1_night_mode.png",
-      "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/ManotoPlus1/index-0.m3u8"
-    },
-    {
-      "id": "113",
-      "title": "Manoto + 2",
-      "title_b_fa": "من و تو پلاس ۲",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "manoto_plus_2",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/manoto_plus_2.png",
-      "localImageResourceNightMode": "manoto_plus_2_night_mode",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/manoto_plus_2_night_mode.png",
-      "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/ManotoPlus2/index-0.m3u8"
-    },
-    {
       "id": "60",
       "title": "Tin TV",
       "title_b_fa": "تین تی وی",
@@ -596,7 +570,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "tin_tv",
-      "url": "http://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8"
+      "url": "http://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/1gbw5/tintv/tintv/playlist.m3u8"
     },
     {
       "id": "65",
@@ -607,6 +582,7 @@
       "language_code": "fa",
       "localImageResource": "oxir_tv",
       "url": "https://hls.oxir.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/hls.oxir.live/hls/stream.m3u8",
       "backupId": "40065"
     },
     {
@@ -644,7 +620,8 @@
       "geo_restrictions": "",
       "localImageResource": "didar_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/didar_tv.png",
-      "url": "http://51.210.227.132/hls/stream.m3u8"
+      "url": "http://51.210.227.132/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/hls.oxir.live/hls/stream.m3u8"
     },
     {
       "id": "64",
@@ -655,6 +632,7 @@
       "language_code": "fa",
       "localImageResource": "omid_iran",
       "url": "https://oitnhls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/oitnhls.wns.live/hls/stream.m3u8",
       "backupId": "40064"
     },
     {
@@ -687,6 +665,7 @@
       "language_code": "fa",
       "localImageResource": "ava_series",
       "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/avaserieshls.wns.live/hls/stream.m3u8",
       "backupId": "40020"
     },
     {
@@ -1231,7 +1210,8 @@
       "localImageResource": "persiana_one_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_one_1.png",
       "url": "https://onehls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.199.21/hls/stream.m3u8"
+      "streamingUrlHeaders": "Host:onehls.persiana.live",
+      "backupUrl": "https://ca.onetvapi.win/onehls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "88",
@@ -1244,7 +1224,7 @@
       "localImageResource": "persiana_hd_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_hd_1.png",
       "url": "https://euhls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.227.147/hls/stream.m3u8"
+      "backupUrl": "https://ca.onetvapi.win/euhls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "22",
@@ -1257,7 +1237,7 @@
       "localImageResource": "persiana_music_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_music_1.png",
       "url": "https://musichls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.199.24/hls/stream.m3u8"
+      "backupUrl": "https://ca.onetvapi.win/musichls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "23",
@@ -1270,7 +1250,7 @@
       "localImageResource": "persiana_sonnati_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_sonnati_1.png",
       "url": "https://sonhls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.199.1/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/sonhls.persiana.live/hls/stream.m3u8",
       "backupId": "40023"
     },
     {
@@ -1284,7 +1264,7 @@
       "localImageResource": "persiana_nostalgia_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_nostalgia_1.png",
       "url": "https://noshls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.199.20/hls/stream.m3u8"
+      "backupUrl": "https://ca.onetvapi.win/noshls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "100",
@@ -1297,7 +1277,7 @@
       "localImageResource": "persiana_rap_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_rap_1.png",
       "url": "https://raphls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.227.163/hls/stream.m3u8"
+      "backupUrl": "https://ca.onetvapi.win/raphls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "89",
@@ -1310,7 +1290,7 @@
       "localImageResource": "persiana_cinema_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_cinema_1.png",
       "url": "https://cinehls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.199.15/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/cinehhls.persiana.live/hls/stream.m3u8",
       "backupId": "40089"
     },
     {
@@ -1324,7 +1304,7 @@
       "localImageResource": "persiana_iranian_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_iranian_1.png",
       "url": "https://irhls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.199.22/hls/stream.m3u8"
+      "backupUrl": "https://ca.onetvapi.win/irls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "25",
@@ -1337,7 +1317,7 @@
       "localImageResource": "persiana_family_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_family_1.png",
       "url": "https://familyhls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.199.19/hls/stream.m3u8"
+      "backupUrl": "https://ca.onetvapi.win/familyhls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "24",
@@ -1350,7 +1330,7 @@
       "localImageResource": "persiana_comedy_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_comedy_1.png",
       "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.199.27/hls/stream.m3u8"
+      "backupUrl": "https://ca.onetvapi.win/comedyhls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "28",
@@ -1363,7 +1343,7 @@
       "localImageResource": "persiana_korea_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_korea_1.png",
       "url": "https://korhls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.199.14/hls/stream.m3u8"
+      "backupUrl": "https://ca.onetvapi.win/korhls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "78",
@@ -1376,7 +1356,7 @@
       "localImageResource": "persiana_junior_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_junior_1.png",
       "url": "https://junhls.persiana.live/hls/stream.m3u8",
-      "backupUrl": "http://51.210.199.18/hls/stream.m3u8"
+      "backupUrl": "https://ca.onetvapi.win/junhls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "102",
@@ -1388,7 +1368,8 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_science_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_science_1.png",
-      "url": "https://scihls.persiana.live/hls/stream.m3u8"
+      "url": "https://scihls.persiana.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/scihls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "135",
@@ -1400,7 +1381,8 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_turkiye_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_turkiye_1.png",
-      "url": "https://turkhls.persiana.live/hls/stream.m3u8"
+      "url": "https://turkhls.persiana.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/turhls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "140",
@@ -1412,7 +1394,8 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_two_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_two_1.png",
-      "url": "https://twohls.persiana.live/hls/stream.m3u8"
+      "url": "https://twohls.persiana.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/twohls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "141",
@@ -1424,7 +1407,8 @@
       "geo_restrictions": "!FR,UA",
       "localImageResource": "persiana_latino_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_latino_1.png",
-      "url": "https://latinohls.persiana.live/hls/stream.m3u8"
+      "url": "https://latinohls.persiana.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/latinohls.persiana.live/hls/stream.m3u8"
     },
     {
       "id": "119",
@@ -1451,6 +1435,7 @@
       "language_code": "fa",
       "localImageResource": "maah_tv",
       "url": "https://hls.maahtv.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/hls.maahtv.live/hls/stream.m3u8",
       "backupId": "40056"
     },
     {
@@ -1461,7 +1446,8 @@
       "language_code": "fa",
       "localImageResource": "mtc_tv_1",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/mtc_tv_1.png",
-      "url": "https://mtchls.wns.live/hls/stream.m3u8"
+      "url": "https://mtchls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/mtchls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "96",
@@ -1538,7 +1524,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "persian_film_tv",
-      "url": "https://pfilmhls.wns.live/hls/stream.m3u8"
+      "url": "https://pfilmhls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/pfilmhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "55",
@@ -1549,6 +1536,7 @@
       "language_code": "fa",
       "localImageResource": "fx_tv",
       "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/fxtvhls.wns.live/hls/stream.m3u8",
       "backupId": "40055"
     },
     {
@@ -1559,7 +1547,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "fx_tv",
-      "url": "https://toonixhls.wns.live/hls/stream.m3u8"
+      "url": "https://toonixhls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/toonixhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "79",
@@ -1573,6 +1562,7 @@
       "localImageResourceNightMode": "family_24_tv_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/family_24_tv.png",
       "url": "https://family24hls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/family24hls.wns.live/hls/stream.m3u8",
       "backupId": "40079"
     },
     {
@@ -1584,7 +1574,8 @@
       "language_code": "fa",
       "localImageResource": "icc_plus_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/icc_plus_tv.png",
-      "url": "https://icchls.wns.live/hls/stream.m3u8"
+      "url": "https://icchls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/icchls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "109",
@@ -1595,7 +1586,8 @@
       "language_code": "fa",
       "localImageResource": "box_247_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/box_247_tv.png",
-      "url": "https://hls.247box.live/hls/stream.m3u8"
+      "url": "https://hls.247box.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/hls.247box.live/hls/stream.m3u8"
     },
     {
       "id": "68",
@@ -1605,7 +1597,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "sl_1",
-      "url": "https://slonehls.wns.live/hls/stream.m3u8"
+      "url": "https://slonehls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/slonehls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "69",
@@ -1615,7 +1608,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "sl_2",
-      "url": "https://sltwohls.wns.live/hls/stream.m3u8"
+      "url": "https://sltwohls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/sltwohls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "136",
@@ -1627,7 +1621,8 @@
       "geo_restrictions": "",
       "localImageResource": "max_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/max_tv.png",
-      "url": "https://maxtvhls.wns.live/hls/stream.m3u8"
+      "url": "https://maxtvhls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/maxtvhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "138",
@@ -1638,7 +1633,8 @@
       "language_code": "fa",
       "localImageResource": "metafilm_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/metafilm_tv.png",
-      "url": "https://metafilmhls.wns.live/hls/stream.m3u8"
+      "url": "https://metafilmhls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/metafilmhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "118",
@@ -1649,7 +1645,8 @@
       "language_code": "fa",
       "localImageResource": "today_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/today_tv.png",
-      "url": "https://todayhls.wns.live/hls/stream.m3u8"
+      "url": "https://todayhls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/todayhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "87",
@@ -1690,6 +1687,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/grand_cinema.png",
       "streamingUrlReferer2": "https://onetv200.app",
       "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/gcinemahls.wns.live/hls/stream.m3u8",
       "url2": "http://www.elahmad.com/tv/iran-tv-online.php?id=GrandCinema"
     },
     {
@@ -1699,25 +1697,11 @@
       "description": "Movies",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
       "localImageResource": "ekran_movies",
       "channelName": "cine_film",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/ekran_movies.png",
       "streamingUrlReferer": "https://onetv200.app",
       "url": "https://ca-rt.onetv.app/EkranMovies/index-0.m3u8"
-    },
-    {
-      "id": "900114",
-      "title": "Ekran Movies (IR)",
-      "title_b_fa": "اکران موویز",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "ekran_movies",
-      "channelName": "cine_film",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/ekran_movies.png",
-      "url": "https://ca-rt.onetvapi.win/EkranMovies/index-0.m3u8"
     },
     {
       "id": "122",
@@ -1757,25 +1741,11 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
       "localImageResource": "andisheh_tv",
       "streamingUrlReferer": "https://www-andishehlive-com.filesusr.com/",
       "streamingUrlOrigin": "https://www-andishehlive-com.filesusr.com",
       "streamingUrlReferer": "https://onetv200.app",
       "url": "https://ca-rt.onetv.app/Andisheh/index-0.m3u8"
-    },
-    {
-      "id": "90030",
-      "title": "Andisheh (IR)",
-      "title_b_fa": "اندیشه",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "andisheh_tv",
-      "streamingUrlReferer": "https://www-andishehlive-com.filesusr.com/",
-      "streamingUrlOrigin": "https://www-andishehlive-com.filesusr.com",
-      "url": "https://ca-rt.onetvapi.win/Andisheh/index-0.m3u8"
     },
     {
       "id": "108",
@@ -1786,7 +1756,8 @@
       "language_code": "fa",
       "localImageResource": "kanal_jadid",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/kanal_jadid.png",
-      "url": "https://kjhls.wns.live/hls/stream.m3u8"
+      "url": "https://kjhls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/kjhls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "103",
@@ -1884,6 +1855,7 @@
       "language_code": "fa",
       "localImageResource": "channel_one_persian",
       "url": "https://ch1hls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/kjhls.wns.live/hls/stream.m3u8",
       "backupId": "40094"
     },
     {
@@ -1919,7 +1891,8 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "bravo_farsi",
-      "url": "https://bravoohls.wns.live/hls/stream.m3u8"
+      "url": "https://bravoohls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/bravoohls.wns.live/hls/stream.m3u8"
     },
     {
       "id": "73",
