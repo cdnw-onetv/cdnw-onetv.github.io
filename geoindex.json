@@ -1705,6 +1705,28 @@
       "url": "https://ca-rt.onetv.app/EkranMovies/index-0.m3u8"
     },
     {
+      "id": "66",
+      "title": "VOX 1",
+      "title_b_fa": "وی او ایکس یک",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "vox_1",
+      "url": "https://cdn.northtelecom.org/VOX1.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/cdn.northtelecom.org/VOX1.m3u8"
+    },
+    {
+      "id": "67",
+      "title": "VOX 2",
+      "title_b_fa": "وی او ایکس دو",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "vox_2",
+      "url": "https://cdn.northtelecom.org/VOX2.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/cdn.northtelecom.org/VOX2.m3u8"
+    },
+    {
       "id": "122",
       "title": "GLV TV",
       "title_b_fa": "جی ال وی",
@@ -6342,28 +6364,6 @@
       "localImageResource": "farsi_tv",
       "maxBitRate": "2000000",
       "url": "https://live.farsitv.us/live/stream.m3u8"
-    },
-    {
-      "id": "66",
-      "title": "VOX 1",
-      "title_b_fa": "وی او ایکس یک",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "vox_1",
-      "url": "https://hls.vox1.live/hls/stream.m3u8",
-      "backupId": "40066"
-    },
-    {
-      "id": "40066",
-      "title": "VOX 1 (Backup)",
-      "title_b_fa": "وی او ایکس یک (جایگزین)",
-      "description": "Movies",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "vox_1",
-      "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/VOX1/index-0.m3u8"
     },
     {
       "id": "40064",
