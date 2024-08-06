@@ -3269,7 +3269,7 @@
       "streamingUrlReferer": "https://ok.ru/live/6863507889672",
       "streamingUrlOrigin": "https://ok.ru",
       "streamingUrlPattern": "https:([^\"';]*?).m3u8([^\"';]*?)[\\\"'&]",
-      "url": "https://live.euromediacenter.com/teleontv/index.m3u8"
+      "url": "https://panel4.euromediacenter.com:3915/hybrid/play.m3u8"
     },
     {
       "id": "660",
