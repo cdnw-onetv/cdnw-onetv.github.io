@@ -1447,7 +1447,7 @@
       "language_code": "fa",
       "localImageResource": "afra_film",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/afra_film.png",
-      "url": "https://afrafhls.avatv.live/hls/stream.m3u8",
+      "url": "https://afrafhls.wns.live/hls/stream.m3u8",
       "backupUrl": "https://ca.onetvapi.win/afrafhls.wns.live/hls/stream.m3u8"
     },
     {
