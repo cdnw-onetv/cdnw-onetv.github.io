@@ -1439,6 +1439,30 @@
       "backupId": "40056"
     },
     {
+      "id": "144",
+      "title": "Afra Film",
+      "title_b_fa": "افرا فیلم",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "afra_film",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/afra_film.png",
+      "url": "https://afrafhls.avatv.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/afrafhls.wns.live/hls/stream.m3u8"
+    },
+    {
+      "id": "145",
+      "title": "Afra Series",
+      "title_b_fa": "افرا سریز",
+      "description": "Series",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "afra_series",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/afra_series.png",
+      "url": "https://afrashls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win/afrashls.wns.live/hls/stream.m3u8"
+    },
+    {
       "id": "58",
       "title": "MTC",
       "title_b_fa": "ام تی سی",
@@ -2269,6 +2293,7 @@
       "title_b_fa": "کورد موزیک",
       "description": "Music",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "kmc",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/kmc.png",
       "url": "https://ca-rt.onetv.app/KMC/index-0.m3u8"
