@@ -394,7 +394,7 @@
       "localImageResource": "tapesh",
       "maxBitRate": "1000000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/TapeshAmerica/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app:8443/TapeshAmerica/index-0.m3u8"
     },
     {
       "id": "40015",
@@ -419,7 +419,7 @@
       "geo_restrictions": "IR",
       "localImageResource": "tapesh",
       "maxBitRate": "1000000",
-      "url": "https://ca-rt.onetv.app/TAPESH/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app:8443/TAPESH/index-0.m3u8"
     },
     {
       "id": "18",
@@ -445,7 +445,7 @@
       "language_code": "fa",
       "localImageResource": "itn",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/ITN/index-0.m3u8",
+      "url": "https://ca-rt.onetv.app:8443/ITN/index-0.m3u8",
       "backupId": "80018"
     },
     {
@@ -499,7 +499,7 @@
       "geo_restrictions1": "!IR",
       "url1": "https://ca-ge.onetv.app/pmc/index.m3u8",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/PMCMusic/index-0.m3u8",
+      "url": "https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8",
       "maxBitRate": "300000",
       "backupId": "60005"
     },
@@ -524,7 +524,7 @@
       "localImageResource": "radio_javan",
       "maxBitRate": "1000000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/RJTV/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app:8443/RJTV/index-0.m3u8"
     },
     {
       "id": "57",
@@ -654,7 +654,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "ava_family",
-      "url": "https://ca-rt.onetv.app/AVAFamily/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app:8443/AVAFamily/index-0.m3u8"
     },
     {
       "id": "20",
@@ -686,7 +686,28 @@
       "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
       "maxBitRate": "900000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/gem/index-0.m3u8",
+      "url": "https://ca-rt.onetv.app/gemb/index-0.m3u8",
+      "url2": "https://gm.onetv.app/live/gem/index.m3u8",
+      "backupId": "80008"
+    },
+    {
+      "id": "4008",
+      "title": "Gem TV (Server 2)",
+      "title_b_fa": "جم تی وی (سرور ۲)",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!TR,UA",
+      "localImageResource": "gem_tv",
+      "localImageResourceNightMode": "gem_tv_night_mode",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "streamingUrlHeaders": "OneToken:abcxyz",
+      "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
+      "maxBitRate": "900000",
+      "streamingUrlReferer": "https://onetv200.app",
+      "url": "https://ca-rt.onetv.app:8443/gem/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gem/index.m3u8",
       "backupId": "80008"
     },
@@ -727,7 +748,7 @@
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "maxBitRate": "900000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
+      "url": "https://ca-rt.onetv.app:8443/gemseries/index-0.m3u8",
       "backupUrl": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gemseries/index.m3u8",
       "backupId": "80010"
@@ -2230,7 +2251,7 @@
       "language_code": "ku",
       "localImageResource": "kurdmax_tv",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/KurdMax/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app:8443/KurdMax/index-0.m3u8"
     },
     {
       "id": "304",
@@ -2253,7 +2274,7 @@
       "language_code": "ku",
       "localImageResource": "kurdmax_show_tv",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/KurdmaxShow/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app:8443/KurdmaxShow/index-0.m3u8"
     },
     {
       "id": "305",
@@ -4720,7 +4741,7 @@
       "language_code": "fa",
       "geo_restrictions": "!IR",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/IRIBChannel3/index-0.m3u8",
+      "url": "https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8",
       "backupId": "2023"
     },
     {
