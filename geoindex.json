@@ -1884,9 +1884,23 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "iran_e_farda",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_e_farda.png",
       "url": "https://hls.iranfarda.live/hls/stream.m3u8",
+      "backupId": "40093"
+    },
+    {
+      "id": "90093",
+      "title": "Iran-e Farda (IR)",
+      "title_b_fa": "ایران فردا",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "iran_e_farda",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_e_farda.png",
+      "url": "https://ca.onetvapi.win/hls.iranfarda.live/hls/stream.m3u8",
       "backupId": "40093"
     },
     {
@@ -1921,9 +1935,22 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "channel_one_persian",
       "url": "https://ch1hls.wns.live/hls/stream.m3u8",
       "backupUrl": "https://ca.onetvapi.win/kjhls.wns.live/hls/stream.m3u8",
+      "backupId": "40094"
+    },
+    {
+      "id": "90094",
+      "title": "Channel One TV (IR)",
+      "title_b_fa": "کانال یک",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "channel_one_persian",
+      "url": "https://ca.onetvapi.win/kjhls.wns.live/hls/stream.m3u8",
       "backupId": "40094"
     },
     {
@@ -6643,7 +6670,7 @@
       "localImageResource": "channel_one_persian",
       "channelName": "channel_yek",
       "serverName": "EmbeddedWebView",
-      "url": "https://ch1.cc/live-tv/"
+      "url": "https://ch1.cc/live-tv/?nocache"
     },
     {
       "id": "137",
