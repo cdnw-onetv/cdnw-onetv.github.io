@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "99"
+      "description": "100"
     },
     {
       "id": "2001",
@@ -3505,7 +3505,25 @@
       "streamingUrlReferer": "https://ok.ru/live/6863507889672",
       "streamingUrlOrigin": "https://ok.ru",
       "streamingUrlPattern": "https:([^\"';]*?).m3u8([^\"';]*?)[\\\"'&]",
-      "url": "https://panel4.euromediacenter.com:3915/hybrid/play.m3u8"
+      "url": "https://panel4.euromediacenter.com:3915/hybrid/play.m3u8",
+      "backupId": "7009"
+    },
+    {
+      "id": "7009",
+      "title": "Teleon TV (Backup)",
+      "title_b_fa": "تلون تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "teleon_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/teleon_tv.png",
+      "maxBitRate": "4000000",
+      "streamingUrlReferer1": "https://ok.ru/live/6863507889672",
+      "streamingUrlOrigin1": "https://ok.ru",
+      "streamingUrlPattern1": "https:([^\"';]*?).m3u8([^\"';]*?)[\\\"'&]",
+      "serverName": "EmbeddedWebView",
+      "channelName": "teleon_tv",
+      "url": "https://vipotv.com/teleon-tv/"
     },
     {
       "id": "660",
