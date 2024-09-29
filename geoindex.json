@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "102"
+      "description": "103"
     },
     {
       "id": "2001",
@@ -2901,7 +2901,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "a_tv",
       "url": "https://www.atv.com.tr/canli-yayin",
-      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
+      "url0": "http://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8",
       "maxBitRate": "3000000",
       "backupId": "4622"
     },
@@ -3159,7 +3159,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "cnn_turk",
-      "url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8",
+      "serverName": "EmbeddedWebView",
+      "channelName": "cnn_turk_1",
+      "url": "https://www.cnnturk.com/canli-yayin",
       "backupId": "4639"
     },
     {
@@ -3714,7 +3716,7 @@
       "channelName": "tele_1_tv",
       "streamingUrlReferer": "https://canlitv.com/tele1-tv",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live",
+      "url": "https://ythls.armelin.one/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live"
     },
     {
@@ -3738,7 +3740,7 @@
       "language_code": "tr",
       "localImageResource": "krt_tv",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@KRTCANLI/live",
+      "url": "https://ythls.armelin.one/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCT1QJrOPtGWYyWkXry8uT4w/live"
     },
     {
@@ -3762,7 +3764,7 @@
       "serverName0": "YouTubeHls",
       "channelName": "tgrt_haber",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live",
+      "url": "http://ythls.armelin.one/channel/UCzgrZ-CndOoylh2_e72nSBQ.m3u8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live",
       "backupId": "4640"
     },
@@ -3788,7 +3790,7 @@
       "channelName": "bloomberg_ht_tv",
       "serverName0": "YouTubeHls",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCApLxl6oYQafxvykuoC2uxQ/live",
+      "url": "http://ythls.armelin.one/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCApLxl6oYQafxvykuoC2uxQ/live",
       "backupId": "4687"
     },
@@ -3815,9 +3817,8 @@
       "localImageResource": "haber_global_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/haber_global_tv.png",
       "channelName": "haber_global_tv",
-      "serverName": "Embedded",
       "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
-      "url": "https://www.dailymotion.com/player/metadata/video/x81x3cd?embedder=https%3A%2F%2Fhaberglobal.com.tr%2Fcanli-yayin&referer=&GK_PV5_PHOTON=0&geo=1&player-id=x5hzc&dmTs=200296&is_native_app=0&dmV1st=4CD7A811FA2C51EA665DB84501EA9213"
+      "url": "https://ythls.armelin.one/video/6BX-NUzBSp8.m3u8"
     },
     {
       "id": "645",
@@ -3827,7 +3828,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "halk_tv",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@Halktvkanali/live",
+      "url": "http://ythls.armelin.one/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCf_ResXZzE-o18zACUEmyvQ/live"
     },
     {
@@ -3841,7 +3842,7 @@
       "localImageResource": "arti_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/arti_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@ArtTv_Resmi/live",
+      "url": "http://http://ythls.armelin.one/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xpoetRCJKqY"
     },
     {
@@ -6101,7 +6102,7 @@
       "language_code": "en",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvbKGLFg-bgjWvAglehxOFw/live"
+      "url": "http://ythls.armelin.one/channel/UCvbKGLFg-bgjWvAglehxOFw.m3u8"
     },
     {
       "id": "526",
@@ -7748,10 +7749,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "showtv",
-      "serverName": "YouTubeHls",
       "channelName": "showtv_backup",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GpjQbkAEJDk"
+      "url": "http://ythls.armelin.one/video/ouuCjEjyKVI.m3u8"
     },
     {
       "id": "4604",
@@ -7764,7 +7764,7 @@
       "serverName": "YouTubeHls",
       "channelName": "showmax_backup",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9JMe_We017gYrRc7kZHgmg/live"
+      "url": "http://ythls.armelin.one/channel/UC9JMe_We017gYrRc7kZHgmg.m3u8"
     },
     {
       "id": "4605",
@@ -7774,10 +7774,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "showturk",
-      "serverName": "YouTubeHls",
       "channelName": "showturk_backup",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/NaQ67juPhKw"
+      "url": "http://ythls.armelin.one/video/XnvS-RZa4Qw.m3u8"
     },
     {
       "id": "4649",
@@ -7816,16 +7815,16 @@
       "url": "https://www.canlitv.vin/trt-spor-yildiz"
     },
     {
-      "id": "639",
+      "id": "4639",
       "title": "CNN Turk (backcup)",
       "title_b_fa": "سی ان ان  ترک (جایگزین)",
       "description": "News",
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "cnn_turk",
-      "serverName": "YouTubeHls",
+      "channelName": "cnn_turk_backup",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/X_EWYemclKA"
+      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=X_EWYemclKA"
     },
     {
       "id": "4623",
@@ -8050,7 +8049,7 @@
       "localImageResource": "ntv_turk",
       "channelName": "ntv_turk",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9TDTjbOjFB9jADmPhSAPsw/live",
+      "url": "http://ythls.armelin.one/channel/UC9TDTjbOjFB9jADmPhSAPsw.m3u8",
       "backupId": "4655"
     },
     {
