@@ -3042,7 +3042,7 @@
       "language_code": "tr",
       "localImageResource": "a_tv",
       "streamingUrlExpireTime": "200",
-      "serverName2": "Embedded",
+      "serverName": "Embedded",
       "channelName": "a_tv_b2",
       "url": "https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
