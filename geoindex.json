@@ -2782,7 +2782,9 @@
       "localImageResource": "medya_haber_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/medya_haber_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/AKwAGzZJkmg",
+      "serverName": "Embedded",
+      "channelName": "medya_haber_tv",
+      "url": "https://www.youtube.com/live/AKwAGzZJkmg",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AKwAGzZJkmg",
       "backupUrl": "https://muzkurd.com/Medya/live15/playlist.m3u8"
     },
@@ -3040,9 +3042,9 @@
       "language_code": "tr",
       "localImageResource": "a_tv",
       "streamingUrlExpireTime": "200",
-      "serverName2": "YouTubeHls",
+      "serverName2": "Embedded",
       "channelName": "a_tv_b2",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
+      "url": "https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
       "maxBitRate": "3000000"
     },
@@ -3425,7 +3427,9 @@
       "language_code": "tr",
       "localImageResource": "kral_tv",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/A49bKX8gb-8",
+      "serverName": "Embedded",
+      "channelName": "kral_fm",
+      "url": "https://www.youtube.com/live/A49bKX8gb-8",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=A49bKX8gb-8",
       "backupUrl1": "https://www.youtube.com/watch?v=Z8-NunA-0aM&theme=dark&mode=theater&modestbranding=1&controls=0"
     },
@@ -3438,7 +3442,9 @@
       "language_code": "tr",
       "localImageResource": "kral_pop_tv",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/GuFTuKoXepw",
+      "serverName": "Embedded",
+      "channelName": "kral_pop",
+      "url": "https://www.youtube.com/live/GuFTuKoXepw",
       "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GuFTuKoXepw",
       "backupUrl1": "https://www.youtube.com/watch?v=GuFTuKoXepw&theme=dark&mode=theater"
     },
@@ -3808,7 +3814,9 @@
       "localImageResource": "tv_100_turkey_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@tv100/live",
+      "serverName": "Embedded",
+      "channelName": "tv_100_turkey_tv",
+      "url": "https://www.youtube.com/@tv100/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/sd94keSra6A"
     },
     {
@@ -6055,7 +6063,9 @@
       "country_code": "CA",
       "language_code": "en",
       "localImageResource": "tvo_kids",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@TVOkids/live"
+      "serverName": "Embedded",
+      "channelName": "TVOkids",
+      "url": "https://www.youtube.com/@TVOkids/live"
     },
     {
       "id": "525",
@@ -6077,7 +6087,9 @@
       "language_code": "en",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=HQtFR3mhzOY",
+      "serverName": "Embedded",
+      "channelName": "TopHits2024",
+      "url": "https://www.youtube.com/@LiveMusicRadio/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R24sxuY9NQk"
     },
     {
@@ -6088,7 +6100,9 @@
       "language_code": "en",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=uNd5kvrGHjk",
+      "serverName": "Embedded",
+      "channelName": "TopSongs2024",
+      "url": "https://www.youtube.com/watch?v=uNd5kvrGHjk",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R24sxuY9NQk"
     },
     {
@@ -6099,7 +6113,9 @@
       "language_code": "en",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
-      "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Rse-E5tARaY"
+      "serverName": "Embedded",
+      "channelName": "BeautifulPlacesOnEarth",
+      "url": "https://www.youtube.com/@8knaturefilm1620/live"
     },
     {
       "id": "514",
