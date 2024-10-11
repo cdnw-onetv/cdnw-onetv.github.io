@@ -4482,7 +4482,7 @@
       "description": "General",
       "language_code": "ar",
       "localImageResource": "trt_arabic",
-      "url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8"
+      "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
     },
     {
       "id": "1108",
@@ -4492,7 +4492,9 @@
       "description": "News",
       "language_code": "ar",
       "localImageResource": "alray_tv",
-      "url": "https://svs.itworkscdn.net/alraitvlive/alraitv.smil/playlist.m3u8"
+      "channelName": "alrai_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.parsatv.com/name=Alrai-TV#arabic"
     },
     {
       "id": "1109",
@@ -4512,7 +4514,7 @@
       "description": "News",
       "language_code": "ar",
       "localImageResource": "almaghribia_tv",
-      "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8"
+      "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8"
     },
     {
       "id": "1111",
@@ -4532,6 +4534,7 @@
       "description": "News",
       "country_code": "SY",
       "language_code": "ar",
+      "geo_restrictions": "",
       "localImageResource": "syrian_news",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/syrian_news.png",
       "channelName": "syrian_news",
@@ -4558,6 +4561,7 @@
       "description": "Series",
       "country_code": "SY",
       "language_code": "ar",
+      "geo_restrictions": "",
       "localImageResource": "syria_drama",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/syria_drama.png",
       "channelName": "sham_fm_tv",
@@ -4650,7 +4654,7 @@
       "description": "General",
       "language_code": "ar",
       "localImageResource": "laayoune_tv",
-      "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8"
+      "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8"
     },
     {
       "id": "1115",
@@ -4660,7 +4664,7 @@
       "description": "General",
       "language_code": "ar",
       "localImageResource": "tamazight_tv",
-      "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8"
+      "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"
     },
     {
       "id": "1129",
@@ -4680,7 +4684,9 @@
       "description": "News",
       "language_code": "ar",
       "localImageResource": "alahrar_tv",
-      "url": "https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8"
+      "channelName": "alahrar_tv",
+      "serverName": "EmbeddedWebView",
+      "url": "https://libyaalahrar.tv/live/"
     },
     {
       "id": "1168",
@@ -4707,7 +4713,7 @@
       "country_code": "AE",
       "language_code": "ar",
       "localImageResource": "abu_dhabi_tv",
-      "url": "https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8"
+      "url": "https://live.elahmad.net/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8"
     },
     {
       "id": "1132",
@@ -4718,7 +4724,7 @@
       "country_code": "AE",
       "language_code": "ar",
       "localImageResource": "al_emarat_tv",
-      "url": "https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8"
+      "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/stream_01/index.m3u8"
     },
     {
       "id": "1133",
@@ -4738,8 +4744,9 @@
       "description": "General",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!AE,US",
       "localImageResource": "dubaione_tv",
-      "url": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8"
+      "url": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8"
     },
     {
       "id": "1136",
@@ -4749,8 +4756,9 @@
       "description": "General",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!AE,US,SA",
       "localImageResource": "dubai_tv",
-      "url": "https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8"
+      "url": "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8"
     },
     {
       "id": "1139",
@@ -4760,8 +4768,9 @@
       "description": "General",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!AE,US,SA",
       "localImageResource": "sama_dubai_tv",
-      "url": "https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8"
+      "url": "https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8"
     },
     {
       "id": "1140",
@@ -4771,8 +4780,9 @@
       "description": "General",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "!AE,US,SA",
       "localImageResource": "dubai_zaman_tv",
-      "url": "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/media.m3u8"
+      "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
     },
     {
       "id": "1141",
@@ -4782,6 +4792,7 @@
       "description": "General",
       "country_code": "AE",
       "language_code": "ar",
+      "geo_restrictions": "",
       "localImageResource": "noor_dubai_tv",
       "url": "https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8"
     },
@@ -4795,7 +4806,7 @@
       "language_code": "ar",
       "geo_restrictions": "!IN,US",
       "localImageResource": "dubai_sport_1",
-      "url": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8"
+      "url": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u"
     },
     {
       "id": "1144",
@@ -4807,7 +4818,7 @@
       "language_code": "ar",
       "geo_restrictions": "!IN,US",
       "localImageResource": "dubai_sport_2",
-      "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/media.m3u8"
+      "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
     },
     {
       "id": "1145",
@@ -4819,7 +4830,7 @@
       "language_code": "ar",
       "geo_restrictions": "!IN,US",
       "localImageResource": "dubai_sport_3",
-      "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/media.m3u8"
+      "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
     },
     {
       "id": "1146",
@@ -4831,7 +4842,9 @@
       "language_code": "ar",
       "geo_restrictions": "!IN,US",
       "localImageResource": "ad_sport_1",
-      "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8"
+      "channelName": "ad_sport_1",
+      "serverName": "Embedded",
+      "url": "https://adtv.ae/ar/live/Abu%20Dhabi%20Sports%20Channel%201?autoplay=true"
     },
     {
       "id": "1147",
@@ -4843,7 +4856,9 @@
       "language_code": "ar",
       "geo_restrictions": "!IN,US",
       "localImageResource": "ad_sport_2",
-      "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8"
+      "channelName": "ad_sport_2",
+      "serverName": "Embedded",
+      "url": "https://adtv.ae/ar/live/Abu%20Dhabi%20Sports%20Channel%202?autoplay=true"
     },
     {
       "id": "1148",
@@ -4867,7 +4882,7 @@
       "language_code": "ar",
       "geo_restrictions": "!IN,US",
       "localImageResource": "dubai_racing_tv",
-      "url": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8"
+      "url": "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8"
     },
     {
       "id": "1149",
@@ -4877,9 +4892,11 @@
       "description": "Sports",
       "country_code": "AE",
       "language_code": "ar",
-      "geo_restrictions": "!IN,US",
+      "geo_restrictions": "!IN,US,AE",
       "localImageResource": "yas_tv",
-      "url": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8"
+      "channelName": "yas_sports",
+      "serverName": "Embedded",
+      "url": "https://adtv.ae/en/live/YAS%20Sports%20Channel?autoplay=true"
     }
   ],
   "irib_sepehr_tv": [
@@ -10479,6 +10496,375 @@
       "title": "",
       "description": "",
       "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_209.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6210",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_210.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6211",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_202.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6212",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_202.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6213",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_203.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6214",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_204.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6215",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_205.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6216",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_206.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6217",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_207.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6218",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_208.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6219",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_209.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6220",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_210.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6221",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_202.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6222",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_202.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6223",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_203.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6224",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_204.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6225",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_205.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6226",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_206.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6227",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_207.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6228",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_208.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6229",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_209.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6230",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_210.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6231",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_202.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6232",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_202.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6233",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_203.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6234",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_204.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6235",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_205.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6236",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_206.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6237",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_207.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6238",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_208.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6239",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_209.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6240",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_210.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6241",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_202.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6242",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_202.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6243",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_203.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6244",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_204.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6245",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_205.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6246",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_206.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6247",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_207.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6248",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_208.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6249",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_209.png",
+      "channelName": "",
+      "serverName": "",
+      "url": ""
+    },
+    {
+      "id": "6250",
+      "title": "",
+      "description": "",
+      "localImageResource": "https://cdnw-onetv.github.io/logo/user_channel_210.png",
       "channelName": "",
       "serverName": "",
       "url": ""
