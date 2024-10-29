@@ -3512,8 +3512,7 @@
       "maxBitRate": "4000000",
       "streamingUrlReferer": "https://ok.ru/live/6863507889672",
       "streamingUrlOrigin": "https://ok.ru",
-      "streamingUrlPattern": "https:([^\"';]*?).m3u8([^\"';]*?)[\\\"'&]",
-      "url": "https://panel4.euromediacenter.com:3915/hybrid/play.m3u8",
+      "url": "https://live-hz-6.livepush.io/live/emOgcO-lXLBJcAV1O/chunks.m3u8",
       "backupId": "7009"
     },
     {
