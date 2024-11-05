@@ -2565,7 +2565,51 @@
       "language_code": "ku",
       "localImageResource": "speda_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/speda_tv.png",
-      "url": "http://speda.dwasat.com/upload/images/spedahd.m3u8"
+      "url": "https://spedanet.store/upload/images/spedahd.m3u8"
+    },
+    {
+      "id": "338",
+      "title": "Speda Drama",
+      "title_b_fa": "سپێده تی وی",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "speda_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/speda_tv.png",
+      "url": "https://spedanet.online/upload/images/spedadrama.m3u8"
+    },
+    {
+      "id": "339",
+      "title": "Peyam TV",
+      "title_b_fa": "پیام  تی وی",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "peyam_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/peyam_tv.png",
+      "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8"
+    },
+    {
+      "id": "340",
+      "title": "KNN TV",
+      "title_b_fa": "کی ان ان تی وی",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "knn_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/knn_tv.png",
+      "url": "https://silicon.kurdlive.xyz/live/knnHD/playlist.m3u8"
+    },
+    {
+      "id": "341",
+      "title": "Channel 8",
+      "title_b_fa": "کانال ۸ تی وی",
+      "description": "General",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "channel8_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/channel8_tv.png",
+      "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8"
     },
     {
       "id": "330",
@@ -2645,7 +2689,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "afarin_kids",
-      "url": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8"
+      "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8"
     },
     {
       "id": "331",
