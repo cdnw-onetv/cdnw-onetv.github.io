@@ -2565,6 +2565,7 @@
       "language_code": "ku",
       "localImageResource": "speda_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/speda_tv.png",
+      "streamingUrlReferer": "https://www.speda.net/",
       "url": "https://spedanet.store/upload/images/spedahd.m3u8"
     },
     {
@@ -2576,6 +2577,7 @@
       "language_code": "ku",
       "localImageResource": "speda_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/speda_tv.png",
+      "streamingUrlReferer": "https://www.speda.net/",
       "url": "https://spedanet.online/upload/images/spedadrama.m3u8"
     },
     {
@@ -2598,6 +2600,7 @@
       "language_code": "ku",
       "localImageResource": "knn_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/knn_tv.png",
+      "streamingUrlReferer": "https://www.knnc.net/",
       "url": "https://silicon.kurdlive.xyz/live/knnHD/playlist.m3u8"
     },
     {
@@ -2609,6 +2612,7 @@
       "language_code": "ku",
       "localImageResource": "channel8_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/channel8_tv.png",
+      "streamingUrlReferer": "https://live.channel8.com/Channel8-Kurdish/embed.html?autoplay=false",
       "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8"
     },
     {
