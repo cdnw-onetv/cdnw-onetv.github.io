@@ -2582,26 +2582,26 @@
     },
     {
       "id": "339",
-      "title": "Peyam TV",
+      "title": "Payam TV",
       "title_b_fa": "پیام  تی وی",
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
-      "localImageResource": "peyam_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/peyam_tv.png",
+      "localImageResource": "payam_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/payam_tv.png",
       "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8"
     },
     {
       "id": "340",
-      "title": "KNN TV",
-      "title_b_fa": "کی ان ان تی وی",
+      "title": "Azhin TV",
+      "title_b_fa": "آژین تی وی",
+      "title_b_ku": "ئاژین تیڤی",
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
-      "localImageResource": "knn_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/knn_tv.png",
-      "streamingUrlReferer": "https://www.knnc.net/",
-      "url": "https://silicon.kurdlive.xyz/live/knnHD/playlist.m3u8"
+      "localImageResource": "azhin_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/azhin_tv.png",
+      "url": "https://ca-rt.onetv.app/azhintv/index-0.m3u8"
     },
     {
       "id": "341",
@@ -2610,10 +2610,11 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "channel8_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/channel8_tv.png",
       "streamingUrlReferer": "https://live.channel8.com/Channel8-Kurdish/embed.html?autoplay=false",
-      "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8"
+      "url": "https://live.channel8.com/Channel8-Kurdish/tracks-a1/index.fmp4.m3u8"
     },
     {
       "id": "330",
