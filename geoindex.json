@@ -1438,7 +1438,7 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!FR,UA",
+      "geo_restrictions": "",
       "localImageResource": "damac_tv",
       "localImageResourceNightMode": "damac_tv_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/damac_tv.png",
@@ -1905,6 +1905,7 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "glv_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/glv_tv.png",
       "url": "https://38b3095.online-server.cloud/hls/live.m3u8"
@@ -2350,7 +2351,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "navahang",
-      "url": "http://108.163.204.178:9000/stream?type=mp3"
+      "url": "https://navairan.com/;stream.nsv?type=mp3"
     },
     {
       "id": "201",
@@ -5088,15 +5089,11 @@
       "language_code": "fa",
       "localImageResource": "irib_khabar",
       "localImageResourceNightMode": "irib_khabar_night_mode",
-      "serverName": "EmbeddedWebView",
-      "channelName": "irinn2",
-      "streamingUrlExpireTime": "60",
-      "streamingUrlReferer": "https://sepehrtv.ir/",
-      "httpTimeout": "1000",
-      "httpConnectTimeout": "1000",
-      "httpReadTimeout": "1000",
-      "url": "https://sepehrtv.ir/live/irinn2",
-      "maxBitRate": "1200000"
+      "httpTimeout": "500",
+      "maxBitRate": "1400000",
+      "url": "https://cdnw.telewebion.com/irinn2/live/playlist.m3u8",
+      "backupId": "41025",
+      "castBackupId": "41037"
     },
     {
       "id": "1026",
@@ -7114,6 +7111,25 @@
       "url": "https://sepehrtv.ir/live/irinn",
       "maxBitRate": "1200000",
       "backupUrl": "https://cdnw.telewebion.com/irinn/live/playlist.m3u8"
+    },
+    {
+      "id": "41036",
+      "title": "Khabar 2",
+      "title_b_fa": "خبر دو",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "irib_khabar",
+      "localImageResourceNightMode": "irib_khabar_night_mode",
+      "serverName": "EmbeddedWebView",
+      "channelName": "irinn2",
+      "streamingUrlExpireTime": "60",
+      "streamingUrlReferer": "https://sepehrtv.ir/",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "url": "https://sepehrtv.ir/live/irinn2",
+      "maxBitRate": "1200000"
     },
     {
       "id": "41027",
