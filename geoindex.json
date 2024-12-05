@@ -2079,7 +2079,7 @@
       "geo_restrictions": "!IR",
       "localImageResource": "channel_one_persian",
       "url": "https://ch1hls.wns.live/hls/stream.m3u8",
-      "backupUrl": "https://ca.onetvapi.win:8443/kjhls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win:8443/ch1hls.wns.live/hls/stream.m3u8",
       "backupId": "40094"
     },
     {
@@ -2091,7 +2091,7 @@
       "language_code": "fa",
       "geo_restrictions": "@IR",
       "localImageResource": "channel_one_persian",
-      "url": "https://ca.onetvapi.win:8443/kjhls.wns.live/hls/stream.m3u8",
+      "url": "https://ca.onetvapi.win:8443/ch1hls.wns.live/hls/stream.m3u8",
       "backupId": "40094"
     },
     {
