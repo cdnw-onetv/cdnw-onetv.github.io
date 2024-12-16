@@ -1962,11 +1962,24 @@
       "description": "Religious",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "!IR",
       "localImageResource": "kalemeh_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/kalemeh_tv.png",
       "maxBitRate": "1000000",
-      "url": "https://player.kalemeh.tv/live/ngrp:kalemeh_all/playlist.m3u8",
-      "backupUrl": "http://51.210.199.37/hls/stream.m3u8"
+      "url": "https://player.kalemeh.tv/live/ngrp:kalemeh_all/playlist.m3u8"
+    },
+    {
+      "id": "900103",
+      "title": "Kalemeh TV (IR)",
+      "title_b_fa": "کلمه تی وی",
+      "description": "Religious",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "@IR",
+      "localImageResource": "kalemeh_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/kalemeh_tv.png",
+      "maxBitRate": "1000000",
+      "url": "https://ca-rt.onetv.app:8443/KalemehTV/index-0.m3u8"
     },
     {
       "id": "92",
