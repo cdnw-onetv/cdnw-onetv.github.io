@@ -1460,6 +1460,18 @@
       "backupId": "40056"
     },
     {
+      "id": "147",
+      "title": "ITC TV",
+      "title_b_fa": "آی تی سی",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "itc_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/itc_tv.png",
+      "streamingUrlReferer": "https://player.castr.com/",
+      "url": "https://stream.castr.com/6762194902ac17bd275d775c/live_4f894a10bcd811efba81b178a13fa3de/index.m3u8"
+    },
+    {
       "id": "144",
       "title": "Afra Film",
       "title_b_fa": "افرا فیلم",
