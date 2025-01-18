@@ -1991,7 +1991,7 @@
       "localImageResource": "kalemeh_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/kalemeh_tv.png",
       "maxBitRate": "1000000",
-      "url": "https://ca-rt.onetv.app:8443/KalemehTV/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app:8443/kalemehtv/index-0.m3u8"
     },
     {
       "id": "92",
