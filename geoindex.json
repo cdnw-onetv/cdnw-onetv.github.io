@@ -2467,18 +2467,6 @@
       "language_code": "ku",
       "localImageResource": "kurdmax_tv",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app:8443/KurdMaxbb/index-0.m3u8",
-      "backupId": "80303"
-    },
-    {
-      "id": "80303",
-      "title": "Kurdmax (Server 3)",
-      "title_b_fa": "کوردماکس",
-      "description": "General",
-      "country_code": "IQ",
-      "language_code": "ku",
-      "localImageResource": "kurdmax_tv",
-      "streamingUrlReferer": "https://onetv200.app",
       "url": "https://ca-rt.onetv.app:8443/KurdMax/index-0.m3u8"
     },
     {
