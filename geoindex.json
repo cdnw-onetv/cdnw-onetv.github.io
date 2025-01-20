@@ -11236,7 +11236,7 @@
       "localImageResource": "app_banner_transparent_black",
       "localImageResourceNightMode": "app_banner_transparent",
       "description": "",
-      "url": "https://dev-onetv.github.io/download?WebView=2"
+      "url": "https://dev-onetv.github.io/download?WebView=3"
     },
     {
       "id": "2208",
@@ -11246,7 +11246,7 @@
       "localImageResource": "app_banner_transparent_black",
       "localImageResourceNightMode": "app_banner_transparent",
       "description": "",
-      "url": "https://dev-onetv.github.io/download/index_fa?WebView=2"
+      "url": "https://dev-onetv.github.io/download/index_fa?WebView=3"
     },
     {
       "id": "2209",
@@ -11259,7 +11259,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/onetv_telegram.png",
       "device_restrictions": "phone",
       "description": "",
-      "url": "https://t.me/onetv_persian?WebView=2"
+      "url": "https://t.me/onetv_persian?WebView=3"
     }
   ]
 }
