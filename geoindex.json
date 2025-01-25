@@ -149,7 +149,7 @@
       "httpTimeout": "2000",
       "httpConnectTimeout": "2000",
       "httpReadTimeout": "2000",
-      "url": "https://ca-rt.onetv.app:8443/manototv/index-0.m3u8",
+      "url": "https://ca-rt.onetv.app:443/manototv/index-0.m3u8",
       "backupUrl1": "https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8",
       "castUrl2": "https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8",
       "backupUrl2": "https://mo.onetv.app/live_500.m3u8",
@@ -6916,7 +6916,7 @@
       "language_code": "fa",
       "localImageResource": "fx_tv",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/FXTV/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app:8443/FXTV/index-0.m3u8"
     },
     {
       "id": "40079",
@@ -6929,7 +6929,7 @@
       "localImageResourceNightMode": "family_24_tv_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/family_24_tv.png",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/PrimaTV/index-0.m3u8"
+      "url": "https://ca-rt.onetv.app:8443/PrimaTV/index-0.m3u8"
     },
     {
       "id": "40093",
