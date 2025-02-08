@@ -726,9 +726,8 @@
       "httpReadTimeout": "1000",
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "maxBitRate": "900000",
-      "streamingUrlReferer": "https://salintv.com/",
-      "url": "https://glserver.aparatlive.online/live/IhalStgoFDEb5cp6RQTsxQ__/master.m3u8",
-      "url0": "https://ca-rt.onetv.app/gemseriesbb/index-0.m3u8",
+      "streamingUrlReferer": "https://onetv200.app",
+      "url": "https://ca-rt.onetv.app/gemseriesbb/index-0.m3u8",
       "backupUrl": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gemseries/index.m3u8",
       "backupId": "80010"
