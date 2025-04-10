@@ -1433,19 +1433,14 @@
     },
     {
       "id": "119",
-      "title": "Damac TV",
-      "title_b_fa": "داماک",
+      "title": "Didaniha TV",
+      "title_b_fa": "دیدنی ها",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "",
-      "localImageResource": "damac_tv",
-      "localImageResourceNightMode": "damac_tv_night_mode",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/damac_tv.png",
-      "remoteImageResourceNightMode": "https://cdnw-onetv.github.io/logo/damac_tv_night_mode.png",
-      "url": "https://damac-tv.icdndhcp.com/hls/stream.m3u8",
-      "backupUrl": "http://51.210.227.138/hls/stream.m3u8",
-      "url2": "http://51.210.227.166/hls/stream.m3u8"
+      "localImageResource": "didaniha_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/didaniha_tv.png",
+      "url": "https://hls-k8lightn-livepush.akamaized.net/live_cdn/nsXYtVLRDOkagw/emVQ2nB9BvriTNZK/index.m3u8"
     },
     {
       "id": "56",
