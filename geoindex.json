@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "107"
+      "description": "108"
     },
     {
       "id": "2001",
@@ -315,7 +315,7 @@
       "language_code": "fa",
       "favorite": "Yes",
       "localImageResource": "pmc",
-      "url": "https://hls.pmchd.live/hls/stream.m3u8",
+      "url": "https://hls.pmc.live/hls/stream.m3u8",
       "backupId": "40005"
     },
     {
