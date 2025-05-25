@@ -2537,10 +2537,9 @@
       "title_b_fa": "کورد موزیک",
       "description": "Music",
       "language_code": "ku",
-      "geo_restrictions": "",
       "localImageResource": "kmc",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/kmc.png",
-      "url": "https://ca-rt.onetv.app/KMC/index-0.m3u8"
+      "url": "http://172.236.236.87/live/ch1.m3u8"
     },
     {
       "id": "308",
