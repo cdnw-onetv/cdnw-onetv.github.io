@@ -748,8 +748,8 @@
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "maxBitRate": "900000",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app:8443/gemseries/index-0.m3u8",
-      "backupUrl": "https://ca-rt.onetv.app/gemseries/index-0.m3u8",
+      "url": "https://ca-rt.onetv.app:8443/gemseriesb/index-0.m3u8",
+      "backupUrl": "https://ca-rt.onetv.app/gemseriesb/index-0.m3u8",
       "url2": "https://gm.onetv.app/live/gemseries/index.m3u8",
       "backupId": "80010"
     },
