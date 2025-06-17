@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "109"
+      "description": "110"
     },
     {
       "id": "2001",
@@ -5110,6 +5110,17 @@
       "url": "https://ncdn.telewebion.com/irinn/live/playlist.m3u8",
       "backupId": "41025",
       "castBackupId": "41025"
+    },
+    {
+      "id": "90901025",
+      "title": "Khabar (Server 2)",
+      "title_b_fa": "خبر",
+      "description": "News",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "irib_khabar",
+      "streamingUrlReferer": "https://onetv200.app",
+      "url": "https://ca-rt.onetv.app:443/IRINNbb/index-0.m3u8"
     },
     {
       "id": "1036",
