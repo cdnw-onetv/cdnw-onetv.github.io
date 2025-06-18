@@ -5119,6 +5119,7 @@
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "irib_khabar",
+      "localImageResourceNightMode": "irib_khabar_night_mode",
       "streamingUrlReferer": "https://onetv200.app",
       "url": "https://ca-rt.onetv.app:443/IRINNbb/index-0.m3u8"
     },
