@@ -316,7 +316,8 @@
       "language_code": "fa",
       "favorite": "Yes",
       "localImageResource": "pmc",
-      "url": "https://hls.pmc.live/hls/stream.m3u8",
+      "maxBitRate": "2000000",
+      "url": "https://cdn3.wowza.com/1/ZDBESEcyZ3MyMkVo/YTNwTXZ1/hls/live/playlist.m3u8",
       "backupId": "40005"
     },
     {
@@ -506,13 +507,13 @@
     },
     {
       "id": "142",
-      "title": "PMC RADIO",
+      "title": "PMC SELECT",
       "title_b_fa": "پی ام سی رادیو",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "pmc",
-      "url": "https://radiohls.pmc.live/hls/stream.m3u8"
+      "url": "https://www.pmc.tv/assets/intro-desktop.mp4"
     },
     {
       "id": "40006",
