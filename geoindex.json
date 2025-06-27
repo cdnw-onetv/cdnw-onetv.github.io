@@ -508,12 +508,22 @@
     {
       "id": "142",
       "title": "PMC SELECT",
-      "title_b_fa": "پی ام سی رادیو",
+      "title_b_fa": "پی ام سی سلکت",
       "description": "Music",
       "country_code": "IR",
       "language_code": "fa",
       "localImageResource": "pmc",
-      "url": "https://www.pmc.tv/assets/intro-desktop.mp4"
+      "url": "https://s5.radio.co/sf0a1af54c/listen?type=mp3"
+    },
+    {
+      "id": "149",
+      "title": "PMC PLANETA",
+      "title_b_fa": "پی ام سی پلنته",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "pmc",
+      "url": "https://s5.radio.co/s42d095d44/listen?type=mp3"
     },
     {
       "id": "40006",
