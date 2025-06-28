@@ -5130,6 +5130,7 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
+      "geo_restrictions": "",
       "localImageResource": "irib_khabar",
       "localImageResourceNightMode": "irib_khabar_night_mode",
       "streamingUrlReferer": "https://onetv200.app",
