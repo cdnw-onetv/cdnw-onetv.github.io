@@ -606,7 +606,7 @@
       "language_code": "fa",
       "geo_restrictions": "!SA,UA,UK,IR",
       "localImageResource": "mbc_persia",
-      "url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8"
+      "url": "https://hls.mbcpersia.live/hls/stream.m3u8"
     },
     {
       "id": "9007",
@@ -619,7 +619,7 @@
       "localImageResource": "mbc_persia",
       "maxBitRate": "700000",
       "streamingUrlHeaders": "OneToken:abcxyz",
-      "url": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
+      "url": "https://hls.mbcpersia.live/hls/stream.m3u8",
       "backupUrl": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8"
     },
     {
