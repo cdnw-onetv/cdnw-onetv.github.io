@@ -1918,6 +1918,39 @@
       "backupUrl": "https://ca.onetvapi.win:8443/cdn.northtelecom.org/VOX2.m3u8"
     },
     {
+      "id": "150",
+      "title": "Cafe Film",
+      "title_b_fa": "کافه فیلم",
+      "description": "Movies",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "cafe_film",
+      "url": "https://cafefhls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win:8443/cafefhls.wns.live/hls/stream.m3u8"
+    },
+    {
+      "id": "151",
+      "title": "Cafe Trade",
+      "title_b_fa": "کافه ترید",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "cafe_tade",
+      "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win:8443/cafetradehls.wns.live/hls/stream.m3u8"
+    },
+    {
+      "id": "152",
+      "title": "Cafe Trade",
+      "title_b_fa": "کافه ترید",
+      "description": "Music",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "cafe_tade",
+      "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
+      "backupUrl": "https://ca.onetvapi.win:8443/cafetradehls.wns.live/hls/stream.m3u8"
+    },
+    {
       "id": "122",
       "title": "GLV TV",
       "title_b_fa": "جی ال وی",
@@ -2460,7 +2493,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdsat_tv",
-      "url": "https://kurdsat.akamaized.net/hls/kurdsat.m3u8",
+      "url": "https://iko-live.akamaized.net/KurdsatTV/master.m3u8",
       "url2": "https://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklist_b3128000.m3u8",
       "backupId": "4302"
     },
@@ -2739,6 +2772,16 @@
       "language_code": "ku",
       "localImageResource": "afarin_kids",
       "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8"
+    },
+    {
+      "id": "342",
+      "title": "Afarin Baxcha",
+      "title_b_fa": "ئافەرین",
+      "description": "Kids",
+      "country_code": "IQ",
+      "language_code": "ku",
+      "localImageResource": "afarin_kids",
+      "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8"
     },
     {
       "id": "331",
