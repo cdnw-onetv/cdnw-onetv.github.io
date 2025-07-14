@@ -2678,6 +2678,7 @@
       "language_code": "ku",
       "localImageResource": "azhin_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/azhin_tv.png",
+      "streamingUrlReferer": "https://onetv200.app",
       "url": "https://ca-rt.onetv.app/hls/azhintv/index.m3u8"
     },
     {
