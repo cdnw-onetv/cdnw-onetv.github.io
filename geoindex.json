@@ -144,7 +144,7 @@
       "favorite": "Yes",
       "localImageResource": "manoto",
       "localImageResourceNightMode": "manoto_night_mode",
-      "streamingUrlReferer": "https://www.manototv.com/",
+      "streamingUrlReferer": "https://onetv200.app",
       "maxBitRate": "700000",
       "httpTimeout": "2000",
       "httpConnectTimeout": "2000",
