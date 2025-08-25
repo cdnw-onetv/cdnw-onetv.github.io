@@ -2761,7 +2761,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurd_channel",
-      "url": "https://iko-live.akamaized.net/kurdhd/master.m3u8",
+      "url": "https://cdn.northtelecom.org/KurdChannel.m3u8",
       "backupId": "4313"
     },
     {
