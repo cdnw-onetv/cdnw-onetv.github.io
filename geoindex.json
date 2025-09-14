@@ -3642,6 +3642,7 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
+      "geo_restrictions": "",
       "localImageResource": "teleon_tv_new",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/teleon_tv_new.png",
       "maxBitRate": "4000000",
@@ -3652,7 +3653,7 @@
     },
     {
       "id": "7009",
-      "title": "Teleon TV (Backup)",
+      "title": "Teleon TV 4K",
       "title_b_fa": "تلون تی وی",
       "description": "General",
       "country_code": "TR",
