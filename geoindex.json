@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "111"
+      "description": "112"
     },
     {
       "id": "2001",
@@ -3593,7 +3593,7 @@
       "localImageResource": "tempo_tv",
       "serverName": "EmbeddedWebView",
       "channelName": "tempo_tv",
-      "url": "https://www.temponetworks.com/live-tv/"
+      "url": "https://tempo-tv.com/"
     },
     {
       "id": "606",
@@ -3779,6 +3779,7 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
+      "geo_restrictions": "",
       "localImageResource": "cine5_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/cine5_tv.png",
       "url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
@@ -3828,6 +3829,7 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
+      "geo_restrictions": "",
       "localImageResource": "istanbul_tv",
       "channelName": "istanbul_tv",
       "serverName": "EmbeddedWebView",
@@ -3841,7 +3843,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "beyaz_tv",
-      "url": "https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8"
+      "serverName": "EmbeddedWebView",
+      "channelName": "beyaz_tv",
+      "url": "https://beyaztv.com.tr/canli-yayin"
     },
     {
       "id": "630",
@@ -3976,7 +3980,6 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/haber_global_tv.png",
       "channelName": "haber_global_tv",
       "serverName": "Embedded",
-      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
       "url": "https://www.youtube.com/watch?v=6BX-NUzBSp8"
     },
     {
