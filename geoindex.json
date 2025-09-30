@@ -3669,6 +3669,17 @@
       "url": "https://vipotv.com/teleon-tv/"
     },
     {
+      "id": "7010",
+      "title": "Fusion TV",
+      "title_b_fa": "فیوژن تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "fusion_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/fusion_tv.png",
+      "url": "http://208.79.153.42/akamaissh101/ssh101/084952510aa/playlist.m3u8"
+    },
+    {
       "id": "660",
       "title": "Cem TV",
       "title_b_fa": "جم تی وی",
