@@ -3636,22 +3636,6 @@
       "backupId": "8636"
     },
     {
-      "id": "701",
-      "title": "Teleon TV",
-      "title_b_fa": "تلون تی وی",
-      "description": "General",
-      "country_code": "TR",
-      "language_code": "tr",
-      "geo_restrictions": "",
-      "localImageResource": "teleon_tv_new",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/teleon_tv_new.png",
-      "maxBitRate": "4000000",
-      "streamingUrlReferer": "https://ok.ru/live/6863507889672",
-      "streamingUrlOrigin": "https://ok.ru",
-      "url": "https://live-hz-6.livepush.io/live/emiFZhZfWujqXe8_/chunks.m3u8",
-      "backupId": "7009"
-    },
-    {
       "id": "7009",
       "title": "Teleon TV 4K",
       "title_b_fa": "تلون تی وی",
@@ -3667,6 +3651,18 @@
       "serverName": "EmbeddedWebView",
       "channelName": "teleon_tv",
       "url": "https://vipotv.com/teleon-tv/"
+    },
+    {
+      "id": "701",
+      "title": "Bi Kanal",
+      "title_b_fa": "بی کانال",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "bi_kanal",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/bi_kanal.png",
+      "maxBitRate": "4000000",
+      "url": "https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8"
     },
     {
       "id": "7010",
@@ -7055,7 +7051,7 @@
       "localImageResource": "channel_one_persian",
       "channelName": "channel_yek",
       "serverName": "EmbeddedWebView",
-      "url": "https://ch1.cc/live-tv/?nocache"
+      "url": "https://ch1.cc/live/"
     },
     {
       "id": "137",
