@@ -2152,22 +2152,9 @@
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "!IR",
       "localImageResource": "channel_one_persian",
-      "url": "https://ch1hls.wns.live/hls/stream.m3u8",
-      "backupUrl": "https://ca.onetvapi.win:8443/ch1hls.wns.live/hls/stream.m3u8",
-      "backupId": "40094"
-    },
-    {
-      "id": "90094",
-      "title": "Channel One TV (IR)",
-      "title_b_fa": "کانال یک",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions": "@IR",
-      "localImageResource": "channel_one_persian",
-      "url": "https://ca.onetvapi.win:8443/ch1hls.wns.live/hls/stream.m3u8",
+      "streamingUrlReferer": "https://onetv200.app",
+      "url": "https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8",
       "backupId": "40094"
     },
     {
