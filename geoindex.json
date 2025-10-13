@@ -3663,6 +3663,18 @@
       "url": "http://208.79.153.42/akamaissh101/ssh101/084952510aa/playlist.m3u8"
     },
     {
+      "id": "7011",
+      "title": "Tivi 6",
+      "title_b_fa": "تی وی ۶",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "tivi_6",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/tivi_6.png",
+      "maxBitRate": "4000000",
+      "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8"
+    },
+    {
       "id": "660",
       "title": "Cem TV",
       "title_b_fa": "جم تی وی",
