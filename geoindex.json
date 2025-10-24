@@ -3664,6 +3664,18 @@
       "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8"
     },
     {
+      "id": "7012",
+      "title": "ONS TV",
+      "title_b_fa": "اونس تی وی",
+      "description": "General",
+      "country_code": "TR",
+      "language_code": "tr",
+      "localImageResource": "ons_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/ons_tv.png",
+      "maxBitRate": "4000000",
+      "url": "https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8"
+    },
+    {
       "id": "660",
       "title": "Cem TV",
       "title_b_fa": "جم تی وی",
