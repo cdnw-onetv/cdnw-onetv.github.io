@@ -5094,7 +5094,6 @@
       "httpTimeout": "500",
       "maxBitRate": "1400000",
       "url": "https://ncdn.telewebion.com/tv1/live/playlist.m3u8",
-      "castUrl": "https://live.asset.televika.com/9c0354b9d93f1e2c123c8d88b4a4f2a7/tvhls/tv1_s1.m3u8",
       "backupId": "41020",
       "castBackupId": "41020"
     },
@@ -5109,7 +5108,6 @@
       "httpTimeout": "500",
       "maxBitRate": "1400000",
       "url": "https://ncdn.telewebion.com/tv2/live/playlist.m3u8",
-      "castUrl": "https://live.asset.televika.com/9c0354b9d93f1e2c123c8d88b4a4f2a7/tvhls/tv2_s1.m3u8",
       "backupId": "41021",
       "castBackupId": "41021"
     },
@@ -5129,7 +5127,6 @@
       "httpReadTimeout": "1000",
       "maxBitRate": "1400000",
       "url": "https://ncdn.telewebion.com/tv3/live/playlist.m3u8",
-      "castUrl": "https://live.asset.televika.com/9c0354b9d93f1e2c123c8d88b4a4f2a7/tvhls/tv3_s1.m3u8",
       "backupId": "2023",
       "castBackupId": "121022"
     },
@@ -5165,7 +5162,6 @@
       "geo_restrictions": "!IR",
       "streamingUrlReferer": "https://onetv200.app",
       "url": "https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8",
-      "backupUrl": "https://ca-rt.onetv.app/IRIBChannel3/index-0.m3u8",
       "backupId": "2023"
     },
     {
@@ -5179,7 +5175,6 @@
       "httpTimeout": "500",
       "maxBitRate": "1600000",
       "url": "https://ncdn.telewebion.com/tv4/live/playlist.m3u8",
-      "castUrl": "https://live.asset.televika.com/9c0354b9d93f1e2c123c8d88b4a4f2a7/tvhls/tv4_s1.m3u8",
       "backupId": "41023",
       "castBackupId": "41023"
     },
@@ -5194,7 +5189,6 @@
       "httpTimeout": "500",
       "maxBitRate": "1600000",
       "url": "https://ncdn.telewebion.com/tehran/live/playlist.m3u8",
-      "castUrl": "https://live.asset.televika.com/9c0354b9d93f1e2c123c8d88b4a4f2a7/tvhls/tv5_s1.m3u8",
       "backupId": "41024",
       "castBackupId": "41024"
     },
@@ -5209,7 +5203,7 @@
       "localImageResourceNightMode": "irib_khabar_night_mode",
       "httpTimeout": "500",
       "maxBitRate": "1000000",
-      "url": "https://live.asset.televika.com/9c0354b9d93f1e2c123c8d88b4a4f2a7/tvhls/irinn_s1.m3u8",
+      "url": "https://ncdn.telewebion.com/irinn/live/playlist.m3u8",
       "backupId": "90901025",
       "castBackupId": "41025"
     },
