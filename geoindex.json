@@ -11153,6 +11153,7 @@
       "title_b_ku": "بژاردن",
       "title_b_tr": "Düzenle",
       "title_b_ar": "تحرير",
+      "title_b_lrc": "دیاریشتکاری",
       "localImageResource": "setting_add",
       "localImageResourceNightMode": "setting_add_night_mode",
       "description": ""
@@ -11166,6 +11167,7 @@
       "title_b_ku": "ڕێکخستنەکانی لیست",
       "title_b_tr": "Liste Ayarları",
       "title_b_ar": "إعدادات القائمة",
+      "title_b_lrc": "دِستکاری فهرست",
       "localImageResource": "setting_list",
       "localImageResourceNightMode": "setting_list_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_list.png",
@@ -11180,6 +11182,7 @@
       "title_b_ku": "هەموو نیشان بدە",
       "title_b_tr": "Hepsini Göster",
       "title_b_ar": "عرض الكل",
+      "title_b_lrc": "هومنه نشو",
       "localImageResource": "setting_expand_list",
       "localImageResourceNightMode": "setting_expand_list_night_mode",
       "description": ""
@@ -11193,6 +11196,7 @@
       "title_b_ku": "سڕینەوەی لیست",
       "title_b_tr": "Listeyi Sil",
       "title_b_ar": "قائمة الحذف",
+      "title_b_lrc": "پاک کردن لیست",
       "localImageResource": "setting_delete_list",
       "description": ""
     }
@@ -11205,6 +11209,7 @@
       "title_b_ku": "زیاد کردن",
       "title_b_tr": "Ekle",
       "title_b_ar": "يضيف",
+      "title_b_lrc": "هوفه کردن",
       "localImageResource": "setting_add",
       "localImageResourceNightMode": "setting_add_night_mode",
       "description": ""
@@ -11218,6 +11223,7 @@
       "title_b_ku": "ڕێنوێنی",
       "title_b_tr": "Kılavuz",
       "title_b_ar": "إرشاد",
+      "title_b_lrc": "راهنما",
       "localImageResource": "setting_guide",
       "localImageResourceNightMode": "setting_guide_night_mode",
       "description": ""
@@ -11231,6 +11237,7 @@
       "title_b_ku": "بینینی تۆڕ",
       "title_b_tr": "Kılavuz Görünümü",
       "title_b_ar": "عرض الشبكة",
+      "title_b_lrc": "چَشمِه جا",
       "localImageResource": "grid_view_light_black",
       "localImageResourceNightMode": "grid_view_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/grid_view.png",
@@ -11245,6 +11252,7 @@
       "title_b_ku": "ڕێنوێنی",
       "title_b_tr": "Kılavuz",
       "title_b_ar": "إرشاد",
+      "title_b_lrc": "ڕاهنِما",
       "localImageResource": "setting_guide",
       "localImageResourceNightMode": "setting_guide_night_mode",
       "description": ""
@@ -11256,6 +11264,7 @@
       "title_b_ku": "زووم",
       "title_b_tr": "Yakınlaştırma",
       "title_b_ar": "تكبير",
+      "title_b_lrc": "زوم",
       "localImageResource": "setting_scale",
       "localImageResourceNightMode": "setting_scale_night_mode",
       "description": ""
@@ -11267,6 +11276,7 @@
       "title_b_ku": "بینینی تۆڕ",
       "title_b_tr": "Kılavuz Görünümü",
       "title_b_ar": "عرض الشبكة",
+      "title_b_lrc": "نمای تۆڕ",
       "localImageResource": "setting_grid_view",
       "localImageResourceNightMode": "setting_grid_view_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_grid_view.png",
@@ -11279,6 +11289,7 @@
       "title_b_ku": "زمان",
       "title_b_tr": "Dilim",
       "title_b_ar": "لغة",
+      "title_b_lrc": "زوون",
       "localImageResource": "setting_language",
       "localImageResourceNightMode": "setting_language_night_mode",
       "description": ""
@@ -11290,6 +11301,7 @@
       "title_b_ku": "تەوەرەکان",
       "title_b_tr": "Temalar",
       "title_b_ar": "ثيمات",
+      "title_b_lrc": "رەنگ و شیوە",
       "localImageResource": "setting_theme",
       "localImageResourceNightMode": "setting_theme_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_theme.png",
@@ -11302,6 +11314,7 @@
       "title_b_ku": "دۆخی شەو",
       "title_b_tr": "Gece Modu",
       "title_b_ar": "الوضع الليلي",
+      "title_b_lrc": "دۆخ شەو",
       "localImageResource": "setting_night_mode",
       "localImageResourceNightMode": "setting_night_mode_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_night_mode.png",
@@ -11314,6 +11327,7 @@
       "title_b_ku": "زیادکردنی لیستی نوێ",
       "title_b_tr": "Yeni liste",
       "title_b_ar": "قائمة جديدة",
+      "title_b_lrc": "لیست نو",
       "localImageResource": "setting_add_list",
       "localImageResourceNightMode": "setting_add_list_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_add_list.png",
@@ -11326,6 +11340,7 @@
       "title_b_ku": "لیستە بینراوەکان",
       "title_b_tr": "Görünür Listeler",
       "title_b_ar": "القوائم المرئية",
+      "title_b_lrc": "لیست دِیار",
       "localImageResource": "setting_visible_lists",
       "localImageResourceNightMode": "setting_visible_lists_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_visible_lists.png",
@@ -11338,6 +11353,7 @@
       "title_b_ku": "لیستی نوێ M3U",
       "title_b_tr": "Yeni M3U listesi",
       "title_b_ar": "قائمة M3U الجديدة",
+      "title_b_lrc": "لیست نو M3U",
       "localImageResource": "setting_add_m3u_list",
       "localImageResourceNightMode": "setting_add_m3u_list_night_mode",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/setting_add_m3u_list.png",
@@ -11345,7 +11361,7 @@
     },
     {
       "id": "2210",
-      "title": "OneTV",
+      "title": "OneElevate TV",
       "title_b_fa": "وان تی وی",
       "geo_restrictions": "!IR",
       "localImageResource": "app_banner_transparent_black",
@@ -11355,7 +11371,7 @@
     },
     {
       "id": "2208",
-      "title": "OneTV",
+      "title": "OneElevate TV",
       "title_b_fa": "وان تی وی",
       "geo_restrictions": "@IR",
       "localImageResource": "app_banner_transparent_black",
