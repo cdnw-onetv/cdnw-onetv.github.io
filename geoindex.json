@@ -6262,8 +6262,8 @@
       "language_code": "en",
       "localImageResource": "aljazeera",
       "maxBitRate": "2000000",
-      "url": "http://live-hls-web-aje.getaj.net/AJE/index.m3u8",
-      "backupUrl": "http://live-hls-web-aje.getaj.net/AJE/01.m3u8"
+      "url": "https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8",
+      "backupUrl": "https://live-hls-web-aje-gcp.thehlive.com/AJE/AJE/01.m3u8"
     },
     {
       "id": "517",
