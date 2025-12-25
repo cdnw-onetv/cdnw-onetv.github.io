@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "112"
+      "description": "113"
     },
     {
       "id": "2001",
@@ -2502,7 +2502,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdsat_tv",
-      "url": "https://iko-live.akamaized.net/KurdsatTV/master.m3u8",
+      "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
       "url2": "https://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/chunklist_b3128000.m3u8",
       "backupId": "4302"
     },
@@ -2515,7 +2515,7 @@
       "language_code": "ku",
       "favorite": "Yes",
       "localImageResource": "kurdmax_tv",
-      "url": "https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8",
+      "url": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8",
       "backupId": "40303"
     },
     {
@@ -2538,7 +2538,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_show_tv",
-      "url": "https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8",
+      "url": "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8",
       "backupUrl": "https://5aa8c7549bfa9.streamlock.net/liveTrans/SHOW1/playlist.m3u8",
       "backupId": "40304"
     },
@@ -2566,13 +2566,12 @@
       "maxBitRate": "1000000",
       "serverName0": "YouTubeHls",
       "channelName": "kurdmax_music",
-      "url": "https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8",
+      "url": "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8",
       "url32": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@kurdmaxmusic/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@kurdmaxmusic/live",
       "backupUrl": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/live/UfFtBsVn0qo",
       "url3": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live",
-      "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8",
-      "backupId": "4305"
+      "url2": "https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8"
     },
     {
       "id": "306",
@@ -2592,6 +2591,7 @@
       "description": "Music",
       "language_code": "ku",
       "localImageResource": "kmc",
+      "geo_restrictions": "",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/kmc.png",
       "url": "http://172.236.236.87/live/ch1.m3u8"
     },
@@ -2649,6 +2649,7 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "speda_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/speda_tv.png",
       "streamingUrlReferer": "https://www.speda.net/",
@@ -2661,6 +2662,7 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "speda_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/speda_tv.png",
       "streamingUrlReferer": "https://www.speda.net/",
@@ -2685,6 +2687,7 @@
       "description": "General",
       "country_code": "IQ",
       "language_code": "ku",
+      "geo_restrictions": "",
       "localImageResource": "azhin_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/azhin_tv.png",
       "streamingUrlReferer": "https://onetv200.app",
@@ -2723,7 +2726,7 @@
       "description": "General",
       "language_code": "ku",
       "localImageResource": "sterk_tv",
-      "url": "https://muzkurd.com/sterktv/sterk/playlist.m3u8"
+      "url": "https://5dab1db4b25fe.streamlock.net/sterk/sterktv/playlist.m3u8"
     },
     {
       "id": "327",
@@ -2759,7 +2762,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "gali_kurdistan",
-      "url": "https://live.bradosti.net/live/GaliKurdistan/index.m3u8",
+      "url": "https://live.host247.net/gk/gksat/playlist.m3u8",
       "backupId": "4312"
     },
     {
@@ -2822,7 +2825,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/waar_tv.png",
       "channelName": "waar_tv",
       "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/Waar/index-0.m3u8",
+      "url": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
       "url2": "http://www.elahmad.com/tv/kurdish-tv-online.php?id=Waar"
     },
     {
@@ -2857,7 +2860,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_tv",
-      "url": "https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxBadine0!/playlist.m3u8",
+      "url": "https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8",
       "backupUrl": "http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/playlist.m3u8",
       "backupId": "303"
     },
@@ -2869,7 +2872,7 @@
       "country_code": "IQ",
       "language_code": "ku",
       "localImageResource": "kurdmax_show_tv",
-      "url": "https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8",
+      "url": "https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8",
       "backupUrl": "https://5aa8c7549bfa9.streamlock.net/liveTrans/SHOW2/playlist.m3u8",
       "backupId": "304"
     },
@@ -2928,7 +2931,7 @@
       "streamingUrlExpireTime": "200",
       "serverName": "Embedded",
       "channelName": "medya_haber_tv",
-      "url": "https://www.youtube.com/live/AKwAGzZJkmg",
+      "url": "https://www.youtube.com/watch?v=02SCNSav_oc",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AKwAGzZJkmg",
       "backupUrl": "https://muzkurd.com/Medya/live15/playlist.m3u8"
     },
@@ -2995,10 +2998,10 @@
       "localImageResource": "zarok_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/zarok_tv.png",
       "channelName": "zarok_tv",
-      "serverName": "Embedded",
-      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
+      "serverName1": "Embedded",
+      "streamingUrlPattern1": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
       "url2": "https://www.dailymotion.com/embed/video/x63b9ty?autoplay=1",
-      "url": "https://www.dailymotion.com/player/metadata/video/x63b9ty?embedder=https%3A%2F%2Fwww.cxtvlive.com%2F&referer=&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3"
+      "url": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8"
     },
     {
       "id": "321",
@@ -3745,7 +3748,7 @@
       "language_code": "tr",
       "localImageResource": "d_max_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/d_max_tv.png",
-      "url": "https://dogus-live.daioncdn.net/dmax/playlist.m3u8"
+      "url": "https://dogus-blackout.daioncdn.net/tlctv_geoblock.smil/playlist.m3u8"
     },
     {
       "id": "692",
@@ -3834,11 +3837,12 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "fenerbahce_tv",
-      "serverName": "Embedded",
-      "channelName": "fenerbahce_tv",
+      "serverName1": "EmbeddedWebView",
+      "channelName": "fenerbahce_tv1",
       "geo_restrictions": "!IN",
-      "streamingUrlPattern": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
-      "url": "https://www.dailymotion.com/player/metadata/video/x21oo10?embedder=https%3A%2F%2Fwww.parsatv.com%2F&referer=&syndication=193822&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3"
+      "streamingUrlPattern1": "https://www.dailymotion.com/cdn/live/video/([^\"\\']*?).m3u8(.*?)sec=(.*?)[\"\\']",
+      "url2": "https://www.dailymotion.com/player/metadata/video/x21oo10?embedder=https%3A%2F%2Fwww.parsatv.com%2F&referer=&syndication=193822&dmTs=166684&is_native_app=0&dmV1st=E07EA78647AD0493DF928D77FFE0A5E3",
+      "url": "https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8"
     },
     {
       "id": "633",
@@ -3886,10 +3890,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "ulke_tv",
-      "serverName": "EmbeddedWebView",
+      "serverName": "Embedded",
       "channelName": "Ulke",
-      "url": "https://www.ulketv.com.tr/canli-yayin",
-      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=VKSZLO9iYHY",
+      "url0": "https://www.ulketv.com.tr/canli-yayin",
+      "url": "https://www.youtube.com/watch?v=-oNQPFu4WdQ",
       "backupId": "4630"
     },
     {
@@ -3931,8 +3935,8 @@
       "streamingUrlExpireTime": "200",
       "channelName": "krt_tv0",
       "serverName": "Embedded",
-      "url": "https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live",
-      "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live"
+      "url0": "https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live",
+      "url": "https://www.youtube.com/watch?v=sKTq8zmzBvo"
     },
     {
       "id": "638",
@@ -3942,7 +3946,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "turkish_24_tv",
-      "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8"
+      "url0": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
+      "serverName": "EmbeddedWebView",
+      "channelName": "24_tv_turkey",
+      "url": "https://www.canlitv.now/24-tv"
     },
     {
       "id": "640",
@@ -4011,7 +4018,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/haber_global_tv.png",
       "channelName": "haber_global_tv",
       "serverName": "Embedded",
-      "url": "https://www.youtube.com/watch?v=6BX-NUzBSp8"
+      "url": "https://www.youtube.com/watch?v=EqoCJ8BPxtE"
     },
     {
       "id": "645",
@@ -4023,7 +4030,7 @@
       "localImageResource": "halk_tv",
       "serverName": "Embedded",
       "channelName": "halk_tv0",
-      "url": "https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live",
+      "url": "https://www.youtube.com/watch?v=na_jT2Q1rfA",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live"
     },
     {
@@ -4139,7 +4146,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "kanal_3",
-      "url": "https://waw1.artiyerelmedya.net/kanal3/bant1/playlist.m3u8"
+      "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8"
     },
     {
       "id": "650",
@@ -6284,7 +6291,7 @@
     },
     {
       "id": "515",
-      "title": "Top Hits 2024",
+      "title": "Top Hits 2026",
       "title_b_fa": "آهنگ های برتر ۲۰۲۴",
       "description": "Music",
       "language_code": "en",
@@ -6297,7 +6304,7 @@
     },
     {
       "id": "530",
-      "title": "Top Songs 2024",
+      "title": "Top Songs 2026",
       "title_b_fa": "آهنگ های برتر ۲۰۲۴",
       "description": "Music",
       "language_code": "en",
@@ -6305,7 +6312,7 @@
       "streamingUrlExpireTime": "200",
       "serverName": "Embedded",
       "channelName": "TopSongs2024",
-      "url": "https://www.youtube.com/watch?v=uNd5kvrGHjk",
+      "url": "https://www.youtube.com/watch?v=0rYKbMjtnMo",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=R24sxuY9NQk"
     },
     {
@@ -6326,6 +6333,7 @@
       "title_b_fa": "آهنگ",
       "description": "Music",
       "language_code": "en",
+      "geo_restrictions": "",
       "localImageResource": "music_logo",
       "streamingUrlExpireTime": "200",
       "serverName": "Embedded",
@@ -6334,7 +6342,7 @@
     },
     {
       "id": "526",
-      "title": "Music Mix 2",
+      "title": "Music Mix",
       "title_b_fa": "آهنگ",
       "description": "Music",
       "language_code": "en",
@@ -6366,7 +6374,7 @@
       "language_code": "fa",
       "geo_restrictions": "!IN",
       "localImageResource": "ariana_news",
-      "url": "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8"
+      "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-atnnews/index.m3u8"
     },
     {
       "id": "3002",
@@ -6377,7 +6385,7 @@
       "language_code": "fa",
       "geo_restrictions": "!FR,UA,QA,US,IN",
       "localImageResource": "atn_news",
-      "url": "https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8"
+      "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8"
     },
     {
       "id": "3003",
@@ -6388,8 +6396,8 @@
       "language_code": "fa",
       "geo_restrictions": "!IN",
       "localImageResource": "tolo_news",
-      "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/tolonews/index-0.m3u8",
+      "streamingUrlReferer1": "https://onetv200.app",
+      "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8",
       "url2": "https://fflivetolonews.b-cdn.net/media_0.m3u8",
       "urlAudio2": "https://fflivetolonews.b-cdn.net/media_3.m3u8"
     },
@@ -6402,7 +6410,7 @@
       "language_code": "fa",
       "geo_restrictions": "!IN",
       "localImageResource": "rta_news",
-      "url": "https://hls.rta.live/hls/stream.m3u8"
+      "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/variant.m3u8"
     },
     {
       "id": "3005",
@@ -6411,7 +6419,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
-      "geo_restrictions": "!FR,UA,QA,US,IN",
+      "geo_restrictions": "",
       "localImageResource": "ariana_afghanistan",
       "url": "https://iptv.arianaafgtv.com/ariana/playlist.m3u8"
     },
@@ -6424,8 +6432,8 @@
       "language_code": "fa",
       "geo_restrictions": "!IN",
       "localImageResource": "tolo_tv",
-      "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/tolotv/index-0.m3u8",
+      "streamingUrlRefererq": "https://onetv200.app",
+      "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/index.m3u8",
       "url2": "https://fflivetolotv.b-cdn.net/media_0.m3u8",
       "urlAudio2": "https://fflivetolotv.b-cdn.net/media_3.m3u8"
     },
@@ -6438,8 +6446,8 @@
       "language_code": "fa",
       "geo_restrictions": "!IN",
       "localImageResource": "lemar_tv",
-      "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/lemartv/index-0.m3u8",
+      "streamingUrlReferer1": "https://onetv200.app",
+      "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
       "url2": "https://fflivelemar.b-cdn.net/media_3.m3u8",
       "urlAudio2": "https://fflivelemar.b-cdn.net/media_0.m3u8"
     },
@@ -6475,7 +6483,7 @@
       "description": "Music",
       "country_code": "AF",
       "language_code": "fa",
-      "geo_restrictions": "!IN",
+      "geo_restrictions": "",
       "localImageResource": "tolo_music",
       "url": "https://fflivetolomusic.b-cdn.net/media_0.m3u8",
       "urlAudio": "https://fflivetolomusic.b-cdn.net/media_3.m3u8"
@@ -6531,7 +6539,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
-      "geo_restrictions": "!FR,UA,QA,US,IN",
+      "geo_restrictions": "",
       "localImageResource": "afghan_nobel_tv",
       "url": "https://59d39900ebfb8.streamlock.net/8572/8572/playlist.m3u8"
     },
@@ -6542,7 +6550,7 @@
       "description": "General",
       "country_code": "AF",
       "language_code": "fa",
-      "geo_restrictions": "!IN",
+      "geo_restrictions": "",
       "localImageResource": "afghan_nobel_tv",
       "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
     },
@@ -6627,14 +6635,14 @@
     },
     {
       "id": "3022",
-      "title": "Solh TV",
+      "title": "Solh Sports TV",
       "title_b_fa": "صلح",
-      "description": "General",
+      "description": "Sports",
       "country_code": "AF",
       "language_code": "fa",
       "geo_restrictions": "!IN",
       "localImageResource": "solh_tv",
-      "url": "http://51.210.199.42/hls/stream.m3u8"
+      "url": "https://stream.snexus.co/live/SN_WILDLIFE/index.m3u8"
     },
     {
       "id": "3023",
@@ -7909,19 +7917,6 @@
       "channelName": "kurdmaxShow_backup2",
       "serverName": "EmbeddedWebView",
       "url": "http://ku.karwan.tv/kurdmax-show-tv.html"
-    },
-    {
-      "id": "4305",
-      "title": "Kurdmax Music (Repeat)",
-      "title_b_fa": "کوردماکس موزیک (تکرار)",
-      "description": "Music",
-      "country_code": "IQ",
-      "language_code": "ku",
-      "localImageResource": "kurdmax_music",
-      "channelName": "kurdmaxMusic_backup_2",
-      "streamingUrlReferer": "https://onetv200.app",
-      "url": "https://ca-rt.onetv.app/kurdmaxmusic.mp4",
-      "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKHF91NlYF3CqsrboZbFNuA/live"
     },
     {
       "id": "4312",
