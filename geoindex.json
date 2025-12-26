@@ -3674,7 +3674,7 @@
       "localImageResource": "bi_kanal",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bi_kanal.png",
       "maxBitRate": "4000000",
-      "url": "https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8"
+      "url": "https://stream-hls.castr.net/68a8677ab2d7fc28a02e928d/live_a85875d0dc1c11f0852d474dddcbf0da/tracks-v1/index.fmp4.m3u8"
     },
     {
       "id": "7011",
