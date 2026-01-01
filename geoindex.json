@@ -5726,7 +5726,8 @@
       "localImageResource": "abadan",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/abadan/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/abadan/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/abadan?autoplay=1"
     },
     {
       "id": "1062",
@@ -5738,7 +5739,8 @@
       "localImageResource": "aflak",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/aflak/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/aflak/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/aflak?autoplay=1"
     },
     {
       "id": "1063",
@@ -5750,7 +5752,8 @@
       "localImageResource": "aftab",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/aftab/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/aftab/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/aftab?autoplay=1"
     },
     {
       "id": "1064",
@@ -5762,7 +5765,8 @@
       "localImageResource": "azarbayjan",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/azarbayjangharbi/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/azarbayjangharbi/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/azarbayjangharbi?autoplay=1"
     },
     {
       "id": "1065",
@@ -5774,7 +5778,8 @@
       "localImageResource": "alborz",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/alborz/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/alborz/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/alborz?autoplay=1"
     },
     {
       "id": "1066",
@@ -5786,7 +5791,8 @@
       "localImageResource": "baran",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/baran/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/baran/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/baran?autoplay=1"
     },
     {
       "id": "1067",
@@ -5798,7 +5804,8 @@
       "localImageResource": "bushehr",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/bushehr/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/bushehr/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/bushehr?autoplay=1"
     },
     {
       "id": "1068",
@@ -5810,7 +5817,8 @@
       "localImageResource": "dena",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/dena/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/dena/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/dena?autoplay=1"
     },
     {
       "id": "1069",
@@ -5822,7 +5830,8 @@
       "localImageResource": "esfahan",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/esfahan/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/esfahan/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/esfahan?autoplay=1"
     },
     {
       "id": "1070",
@@ -5834,7 +5843,8 @@
       "localImageResource": "eshragh",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/eshragh/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/eshragh/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/eshragh?autoplay=1"
     },
     {
       "id": "1071",
@@ -5846,7 +5856,8 @@
       "localImageResource": "fars",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/fars/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/fars/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/fars?autoplay=1"
     },
     {
       "id": "1072",
@@ -5858,7 +5869,8 @@
       "localImageResource": "golestan",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/sabz/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/sabz/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/sabz?autoplay=1"
     },
     {
       "id": "1073",
@@ -5870,7 +5882,8 @@
       "localImageResource": "hamedan",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/sina/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/sina/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/sina?autoplay=1"
     },
     {
       "id": "1074",
@@ -5882,7 +5895,8 @@
       "localImageResource": "hamoon",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/hamoon/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/hamoon/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/hamoon?autoplay=1"
     },
     {
       "id": "1075",
@@ -5894,7 +5908,8 @@
       "localImageResource": "ilam",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/ilam/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/ilam/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/ilam?autoplay=1"
     },
     {
       "id": "1076",
@@ -5906,7 +5921,8 @@
       "localImageResource": "jahanbin",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/jahanbin/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/jahanbin/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/jahanbin?autoplay=1"
     },
     {
       "id": "1077",
@@ -5918,7 +5934,8 @@
       "localImageResource": "kerman",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/kerman/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/kerman/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/kerman?autoplay=1"
     },
     {
       "id": "1078",
@@ -5930,7 +5947,8 @@
       "localImageResource": "kermanshah",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/zagros/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/zagros/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/zagros?autoplay=1"
     },
     {
       "id": "1079",
@@ -5942,7 +5960,8 @@
       "localImageResource": "khalijefars",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/khalijefars/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/khalijefars/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/khalijefars?autoplay=1"
     },
     {
       "id": "1080",
@@ -5954,7 +5973,8 @@
       "localImageResource": "khorasanjonoobi",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/khavaran/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/khavaran/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/khavaran?autoplay=1"
     },
     {
       "id": "1081",
@@ -5966,7 +5986,8 @@
       "localImageResource": "khorasanrazavi",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/khorasanrazavi/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/khorasanrazavi/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/khorasanrazavi?autoplay=1"
     },
     {
       "id": "1082",
@@ -5978,7 +5999,8 @@
       "localImageResource": "khorasanshomali",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/atrak/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/atrak/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/atrak?autoplay=1"
     },
     {
       "id": "1083",
@@ -5990,7 +6012,8 @@
       "localImageResource": "khoozestan",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/khoozestan/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/khoozestan/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/khoozestan?autoplay=1"
     },
     {
       "id": "1084",
@@ -6002,7 +6025,8 @@
       "localImageResource": "kish",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/kish/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/kish/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/kish?autoplay=1"
     },
     {
       "id": "1085",
@@ -6014,7 +6038,8 @@
       "localImageResource": "kordestan",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/kordestan/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/kordestan/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/kordestan?autoplay=1"
     },
     {
       "id": "1086",
@@ -6026,7 +6051,8 @@
       "localImageResource": "mahabad",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/mahabad/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/mahabad/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/mahabad?autoplay=1"
     },
     {
       "id": "1087",
@@ -6038,7 +6064,8 @@
       "localImageResource": "mazandaran",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/tabarestan/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/tabarestan/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/tabarestan?autoplay=1"
     },
     {
       "id": "1088",
@@ -6050,7 +6077,8 @@
       "localImageResource": "noor",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/noor/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/noor/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/noor?autoplay=1"
     },
     {
       "id": "1089",
@@ -6062,7 +6090,8 @@
       "localImageResource": "qazvin",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/qazvin/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/qazvin/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/qazvin?autoplay=1"
     },
     {
       "id": "1090",
@@ -6074,7 +6103,8 @@
       "localImageResource": "sabalan",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/sabalan/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/sabalan/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/sabalan?autoplay=1"
     },
     {
       "id": "1091",
@@ -6086,7 +6116,8 @@
       "localImageResource": "sahand",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/sahand/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/sahand/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/sahand?autoplay=1"
     },
     {
       "id": "1092",
@@ -6098,7 +6129,8 @@
       "localImageResource": "semnan",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/semnan/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/semnan/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/semnan?autoplay=1"
     },
     {
       "id": "1093",
@@ -6110,7 +6142,8 @@
       "localImageResource": "taban",
       "httpTimeout": "500",
       "maxBitRate": "1600000",
-      "url": "https://ncdn.telewebion.com/taban/live/playlist.m3u8"
+      "url": "https://ncdn.telewebion.com/taban/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/taban?autoplay=1"
     }
   ],
   "other": [
