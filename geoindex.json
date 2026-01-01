@@ -5111,6 +5111,7 @@
       "httpTimeout": "500",
       "maxBitRate": "1400000",
       "url": "https://ncdn.telewebion.com/tv1/live/playlist.m3u8",
+      "embedUrl": "https://sepehrtv.ir/live/tv1",
       "backupId": "41020",
       "castBackupId": "41020"
     },
@@ -5125,6 +5126,7 @@
       "httpTimeout": "500",
       "maxBitRate": "1400000",
       "url": "https://ncdn.telewebion.com/tv2/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/tv2",
       "backupId": "41021",
       "castBackupId": "41021"
     },
@@ -5144,6 +5146,7 @@
       "httpReadTimeout": "1000",
       "maxBitRate": "1400000",
       "url": "https://ncdn.telewebion.com/tv3/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/tv3",
       "backupId": "2023",
       "castBackupId": "121022"
     },
@@ -5192,6 +5195,7 @@
       "httpTimeout": "500",
       "maxBitRate": "1600000",
       "url": "https://ncdn.telewebion.com/tv4/live/playlist.m3u8",
+      "embedUrl": "https://m.telewebion.com/embed/live/tv4",
       "backupId": "41023",
       "castBackupId": "41023"
     },
