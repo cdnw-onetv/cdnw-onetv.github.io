@@ -320,6 +320,7 @@
       "localImageResource": "pmc",
       "maxBitRate": "2000000",
       "url": "https://cdn3.wowza.com/1/ZDBESEcyZ3MyMkVo/YTNwTXZ1/hls/live/playlist.m3u8",
+      "webUrl": "https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8",
       "backupId": "40005"
     },
     {
