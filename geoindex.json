@@ -5111,7 +5111,6 @@
       "httpTimeout": "500",
       "maxBitRate": "1400000",
       "url": "https://ncdn.telewebion.com/tv1/live/playlist.m3u8",
-      "webUrl": "https://ca.onetvapi.win/live-azd1121.telewebion.com/ek/tv1/live/playlist.m3u8",
       "backupId": "41020",
       "castBackupId": "41020"
     },
@@ -5126,7 +5125,6 @@
       "httpTimeout": "500",
       "maxBitRate": "1400000",
       "url": "https://ncdn.telewebion.com/tv2/live/playlist.m3u8",
-      "webUrl": "https://ca.onetvapi.win/live-azd1121.telewebion.com/ek/tv2/live/playlist.m3u8",
       "backupId": "41021",
       "castBackupId": "41021"
     },
@@ -5146,7 +5144,6 @@
       "httpReadTimeout": "1000",
       "maxBitRate": "1400000",
       "url": "https://ncdn.telewebion.com/tv3/live/playlist.m3u8",
-      "webUrl": "https://ca.onetvapi.win/live-azd1121.telewebion.com/ek/tv3/live/playlist.m3u8",
       "backupId": "2023",
       "castBackupId": "121022"
     },
