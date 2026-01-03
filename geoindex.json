@@ -2106,7 +2106,9 @@
       "localImageResource": "simaye_azadi",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/simaye_azadi.png",
       "maxBitRate": "1350000",
-      "url": "https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8"
+      "channelName": "simaye_azadi",
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.iranntv.com/livestream"
     },
     {
       "id": "93",
