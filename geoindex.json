@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "118"
+      "description": "119"
     },
     {
       "id": "2001",
@@ -5242,11 +5242,11 @@
       "description": "News",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "",
+      "geo_restrictions2": "",
       "localImageResource": "irib_khabar",
       "localImageResourceNightMode": "irib_khabar_night_mode",
       "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app:443/IRINNbb/index-0.m3u8?token=onetv202"
+      "url": "https://ca-rt.onetv.app:443/IRINN/index-0.m3u8?token=onetv202"
     },
     {
       "id": "1036",
