@@ -2284,20 +2284,6 @@
       "url": "https://novin-tv.icdndhcp.com/hls/playlist.m3u8"
     },
     {
-      "id": "45",
-      "title": "Aio Sport",
-      "title_b_fa": "آیو اسپرت",
-      "description": "Sports",
-      "country_code": "IR",
-      "geo_restrictions": "IR,IQ,CA,GE,IT,FR,UK",
-      "recording_geo_restrictions": "",
-      "language_code": "fa",
-      "localImageResource": "aio_sport",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://live.aionet.ir/hls/aiosport/aiosport.m3u8",
-      "backupId": "40045"
-    },
-    {
       "id": "70",
       "title": "Lenz Sport Plus",
       "title_b_fa": "لنز اسپرت پلاس",
@@ -5154,7 +5140,7 @@
       "maxBitRate": "1400000",
       "url": "https://ncdn.telewebion.com/tv3/live/playlist.m3u8",
       "embedUrl": "https://telewebion.com/embed/live/tv3?autoplay=1",
-      "backupId": "2023",
+      "backupId": "81022",
       "castBackupId": "121022"
     },
     {
@@ -5175,7 +5161,7 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url": "https://sepehrtv.ir/live/tv3",
-      "backupId": "2023"
+      "backupId": "81022"
     },
     {
       "id": "241022",
@@ -5189,7 +5175,7 @@
       "geo_restrictions": "!IR",
       "streamingUrlReferer": "https://onetv202.app",
       "url": "https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202",
-      "backupId": "2023"
+      "backupId": "81022"
     },
     {
       "id": "1023",
@@ -7801,23 +7787,9 @@
       "backupId": "41020"
     },
     {
-      "id": "2023",
+      "id": "81022",
       "title": "IRIB 3 (Backup 2)",
       "title_b_fa": "شبکه سه (جایگزین ۲)",
-      "localImageResource": "irib_3",
-      "description": "General",
-      "tags": "Sport",
-      "country_code": "IR",
-      "language_code": "fa",
-      "streamingUrlReferer": "https://www.aionet.ir/",
-      "url": "https://live.aionet.ir/hls/tv3/tv3.m3u8",
-      "maxBitRate": "2000000",
-      "backupId": "81022"
-    },
-    {
-      "id": "81022",
-      "title": "IRIB 3 (Backup 3)",
-      "title_b_fa": "شبکه سه (جایگزین ۳)",
       "localImageResource": "irib_3",
       "description": "General",
       "tags": "Sport",
@@ -7830,8 +7802,8 @@
     },
     {
       "id": "121022",
-      "title": "IRIB 3 (Backup 4)",
-      "title_b_fa": "شبکه سه (جایگزین ۴)",
+      "title": "IRIB 3 (Backup 3)",
+      "title_b_fa": "شبکه سه (جایگزین ۳)",
       "description": "General",
       "tags": "Sport",
       "country_code": "IR",
@@ -7867,36 +7839,6 @@
       "serverName": "EmbeddedWebView",
       "channelName": "varzesh_backup_4",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-varzesh-live-tv"
-    },
-    {
-      "id": "40045",
-      "title": "Aio Sport (Backup)",
-      "title_b_fa": "آیو اسپرت (جایگزین)",
-      "description": "Sports",
-      "country_code": "IR",
-      "geo_restrictions": "IR,IQ,CA,GE,IT,FR,UK,AF",
-      "language_code": "fa",
-      "localImageResource": "aio_sport",
-      "channelName": "aio_sport_backup",
-      "serverName": "EmbeddedWebView",
-      "streamingUrlReferer": "https://www.persianleague.com/",
-      "streamingUrlOrigin": "https://www.persianleague.com",
-      "url": "https://www.aparatchi.com/iran-live-tv/aio-sport",
-      "url2": "https://www.persianleague.com/iran-live-tv/video/78-78-sports-2"
-    },
-    {
-      "id": "40122",
-      "title": "Aio Sport 2",
-      "title_b_fa": "آیو اسپرت ۲",
-      "description": "Sports",
-      "country_code": "IR",
-      "geo_restrictions": "IR,IQ,CA,GE,IT,FR,UK,AF",
-      "language_code": "fa",
-      "localImageResource": "aio_sport_2",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/aio_sport_2.png",
-      "channelName": "aio_sport_2",
-      "serverName": "EmbeddedWebView",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/aio-sport-2"
     },
     {
       "id": "99",
