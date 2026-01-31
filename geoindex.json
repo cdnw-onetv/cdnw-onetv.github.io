@@ -2084,6 +2084,7 @@
       "streamingUrlReferer": "https://parstv.tv/",
       "serverName": "EmbeddedWebView",
       "channelName": "pars_tv",
+      "defaultSeekTimeDiff": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/pars-tv"
     },
     {
@@ -6755,6 +6756,7 @@
       "localImageResourceNightMode": "manoto_night_mode",
       "serverName": "Embedded",
       "channelName": "manoto_backup_2",
+      "defaultSeekTimeDiff": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/manoto-live",
       "maxBitRate": "900000",
       "backupId": "80001"
@@ -6799,6 +6801,7 @@
       "localImageResourceNightMode": "bbc_persian_night_mode_test",
       "serverName": "Embedded",
       "channelName": "bbc_persian_backup_2",
+      "defaultSeekTimeDiff": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-news-tv/bbc-farsi-live-tv",
       "maxBitRate": "900000"
     },
@@ -6877,6 +6880,7 @@
       "localImageResource": "itn",
       "channelName": "itn_backup_2",
       "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/itn-tv"
     },
     {
@@ -6949,6 +6953,7 @@
       "httpReadTimeout": "1000",
       "channelName": "gem_tv_backup",
       "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff": "14000",
       "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-tv",
       "url2": "https://gm.onetv.app/live/gem/index.m3u8"
@@ -6968,6 +6973,7 @@
       "httpReadTimeout": "1000",
       "channelName": "gem_series_backup",
       "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-series",
       "url2": "https://gm.onetv.app/live/gemseries/index.m3u8"
     },
@@ -7081,6 +7087,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/persiana_cinema_1.png",
       "channelName": "persian_cinema",
       "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/persiana-cinema"
     },
     {
@@ -7129,6 +7136,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_e_farda.png",
       "channelName": "iran_e_farda_backup",
       "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/politics-live-tv/iran-e-farda"
     },
     {
@@ -7796,6 +7804,7 @@
       "language_code": "fa",
       "channelName": "irib_3_backup",
       "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
       "backupId": "121022"
     },
@@ -7837,6 +7846,7 @@
       "localImageResource": "irib_varzesh",
       "serverName": "EmbeddedWebView",
       "channelName": "varzesh_backup_4",
+      "defaultSeekTimeDiff": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-varzesh-live-tv"
     },
     {
@@ -7869,6 +7879,7 @@
       "channelName": "persian_sport_backup",
       "streamingUrlReferer": "https://www.persianleague.com/",
       "streamingUrlOrigin": "https://www.persianleague.com",
+      "defaultSeekTimeDiff": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports",
       "backupId": "80099"
     },
@@ -8285,6 +8296,7 @@
       "geo_restrictions": "!IN",
       "channelName": "irib_3_backup_6",
       "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
       "backupId": "2027"
     },
