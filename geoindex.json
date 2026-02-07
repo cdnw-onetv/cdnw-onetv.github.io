@@ -3660,18 +3660,16 @@
     },
     {
       "id": "701",
-      "title": "Bi Kanal",
-      "title_b_fa": "بی کانال",
-      "title_b_fa": "بی کانال",
+      "title": "EKOL TV",
+      "title_b_fa": "اکول تی وی",
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "bi_kanal",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/bi_kanal.png",
+      "localImageResource": "ekol_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/ekol_tv.png",
       "maxBitRate": "4000000",
-      "serverName": "EmbeddedWebView",
-      "channelName": "bi_kanal",
-      "url": "https://www.bikanal.com/canli-yayin"
+      "channelName": "ekol_tv",
+      "url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8"
     },
     {
       "id": "7011",
