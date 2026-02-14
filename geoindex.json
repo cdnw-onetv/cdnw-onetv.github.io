@@ -456,6 +456,18 @@
       "backupId": "80018"
     },
     {
+      "id": "154",
+      "title": "Iran Independent TV",
+      "title_b_fa": "ایران مستقل",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "iran_ind_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_ind_tv.png",
+      "streamingUrlReferer": "https://onetv202.app",
+      "url": "https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202"
+    },
+    {
       "id": "61",
       "title": "AFN Music",
       "title_b_fa": "ای اف ان  موزیک",
