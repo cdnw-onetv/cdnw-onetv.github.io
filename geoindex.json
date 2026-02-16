@@ -458,7 +458,7 @@
     {
       "id": "154",
       "title": "Iran Independent TV",
-      "title_b_fa": "ایران مستقل",
+      "title_b_fa": "ایران ایندپندت",
       "description": "General",
       "country_code": "IR",
       "language_code": "fa",
@@ -3094,7 +3094,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "showtv",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "showtv",
       "url": "https://m.showtv.com.tr/canli-yayin",
       "backupId": "4603"
@@ -3107,7 +3107,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "showmax",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "showmax",
       "url": "https://showmax.com.tr/canliyayin",
       "backupId": "4604"
@@ -3120,7 +3120,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "showturk",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebview",
       "channelName": "showturk",
       "url": "https://www.showturk.com.tr/canliyayin",
       "backupId": "4605"
@@ -3190,11 +3190,13 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
+      "geo_restrictions": "",
       "localImageResource": "a_tv",
       "streamingUrlExpireTime": "200",
-      "serverName": "Embedded",
-      "channelName": "a_tv_b2",
-      "url": "https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
+      "serverName2": "Embedded",
+      "channelName2": "a_tv_b2",
+      "url": "https://www.youtube.com/embed/pLI2z0MLOck?autoplay=1&webview=1",
+      "url1": "https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUVZ7T_kwkxDOGFcDlFI-hg/live",
       "maxBitRate": "3000000"
     },
@@ -3210,7 +3212,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/now_tv.png",
       "channelName": "now_tv_backup",
       "serverName": "EmbeddedWebView",
-      "url": "https://canlitv.center/fox-tv-canli"
+      "url": "https://www.canlitv.me/live/nowtvcanlihd"
     },
     {
       "id": "4602",
@@ -3223,7 +3225,7 @@
       "localImageResource": "kanal_d",
       "channelName": "kanal_d",
       "serverName": "EmbeddedWebView",
-      "url": "https://www.kanald.com.tr/canli-yayin",
+      "url": "https://www.canlitv.me/live/kanaldcanli-hd-izle",
       "url2": "https://tv.ecanlitvizle.video/embed.php?kanal=kanal-d-canli-izle-hd"
     },
     {
@@ -3374,6 +3376,7 @@
       "tags": "Sport",
       "country_code": "TR",
       "language_code": "tr",
+      "geo_restrictions": "",
       "localImageResource": "trt_1",
       "channelName": "trt_backup",
       "serverName": "EmbeddedWebView",
@@ -3418,7 +3421,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "trt_belgesel",
-      "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+      "serverName": "EmbeddedWebView",
+      "channelName": "trt_belgesel",
+      "url": "https://www.canlitv.me/live/trtbelgesel-canli-izle",
       "backupId": "4614"
     },
     {
@@ -3575,6 +3580,7 @@
       "description": "Music",
       "country_code": "TR",
       "language_code": "tr",
+      "geo_restrictions": "",
       "localImageResource": "kral_tv",
       "streamingUrlExpireTime": "200",
       "serverName": "Embedded",
@@ -3594,7 +3600,7 @@
       "streamingUrlExpireTime": "200",
       "serverName": "Embedded",
       "channelName": "kral_pop",
-      "url": "https://www.youtube.com/live/GuFTuKoXepw",
+      "url": "https://puhutv.com/kral-pop-tv-canli-yayin",
       "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GuFTuKoXepw",
       "backupUrl1": "https://www.youtube.com/watch?v=GuFTuKoXepw&theme=dark&mode=theater"
     },
@@ -3618,7 +3624,7 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "teve2",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "teve2",
       "url": "https://www.teve2.com.tr/canli-yayin"
     },
@@ -3633,7 +3639,7 @@
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv8_5_turkish.png",
       "serverName": "EmbeddedWebView",
       "channelName": "tv8_5_turkish",
-      "url": "https://www.tv8bucuk.com/tv8-5-canli-yayin",
+      "url": "https://www.canlitv.me/live/foxtvcanli-hd-izle",
       "backupId": "8636"
     },
     {
@@ -3798,7 +3804,9 @@
       "language_code": "tr",
       "localImageResource": "tv4_turkey",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv4_turkey.png",
-      "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
+      "serverName": "EmbeddedWebView",
+      "channelName": "tv4_turkey",
+      "url": "https://www.canlitv.me/live/tv4"
     },
     {
       "id": "694",
@@ -3896,10 +3904,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "ulke_tv",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "Ulke",
       "url0": "https://www.ulketv.com.tr/canli-yayin",
-      "url": "https://www.youtube.com/watch?v=-oNQPFu4WdQ",
+      "url": "https://www.canlitv.me/live/ulke-tv-canli-hd",
       "backupId": "4630"
     },
     {
@@ -3941,9 +3949,9 @@
       "localImageResource": "krt_tv",
       "streamingUrlExpireTime": "200",
       "channelName": "krt_tv0",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "url0": "https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live",
-      "url": "https://www.youtube.com/watch?v=sKTq8zmzBvo"
+      "url": "https://www.canlitv.me/live/krttv"
     },
     {
       "id": "638",
@@ -3966,10 +3974,10 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "tgrt_haber",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "tgrt_haber",
       "streamingUrlExpireTime": "200",
-      "url": "https://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live",
+      "url": "https://www.canlitv.me/live/tgrthabercanli-hd",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live",
       "backupId": "4640"
     },
@@ -3993,9 +4001,9 @@
       "localImageResource": "bloomberg_ht_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/bloomberg_ht_tv.png",
       "channelName": "bloomberg_ht_tv",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "streamingUrlExpireTime": "200",
-      "url": "https://www.youtube.com/channel/UCApLxl6oYQafxvykuoC2uxQ/live",
+      "url": "https://www.canlitv.me/live/bloomberght-hd-live",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCApLxl6oYQafxvykuoC2uxQ/live",
       "backupId": "4687"
     },
@@ -4009,9 +4017,9 @@
       "localImageResource": "tv_100_turkey_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/tv_100_turkey_tv.png",
       "streamingUrlExpireTime": "200",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "tv_100_turkey_tv",
-      "url": "https://www.youtube.com/@tv100/live",
+      "url": "https://www.canlitv.me/live/foxtvcanli-hd-izle",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/sd94keSra6A"
     },
     {
@@ -4024,8 +4032,8 @@
       "localImageResource": "haber_global_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/haber_global_tv.png",
       "channelName": "haber_global_tv",
-      "serverName": "Embedded",
-      "url": "https://www.youtube.com/watch?v=EqoCJ8BPxtE"
+      "serverName": "EmbeddedWebView",
+      "url": "https://www.canlitv.me/live/haberglobal-canli-hd"
     },
     {
       "id": "645",
@@ -4035,9 +4043,9 @@
       "country_code": "TR",
       "language_code": "tr",
       "localImageResource": "halk_tv",
-      "serverName": "Embedded",
+      "serverName": "EmbeddedWebView",
       "channelName": "halk_tv0",
-      "url": "https://www.youtube.com/watch?v=na_jT2Q1rfA",
+      "url": "https://www.canlitv.me/live/halktv-canli-hd",
       "url0": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live"
     },
     {
