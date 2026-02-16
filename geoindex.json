@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "120"
+      "description": "121"
     },
     {
       "id": "2001",
@@ -3598,8 +3598,8 @@
       "language_code": "tr",
       "localImageResource": "kral_pop_tv",
       "streamingUrlExpireTime": "200",
-      "serverName": "Embedded",
-      "channelName": "kral_pop",
+      "serverName": "EmbeddedWebView",
+      "channelName": "kral_pop2",
       "url": "https://puhutv.com/kral-pop-tv-canli-yayin",
       "url2": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GuFTuKoXepw",
       "backupUrl1": "https://www.youtube.com/watch?v=GuFTuKoXepw&theme=dark&mode=theater"
