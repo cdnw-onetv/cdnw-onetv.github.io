@@ -3658,7 +3658,7 @@
     },
     {
       "id": "7009",
-      "title": "Teleon TV 4K",
+      "title": "TELEON TV",
       "title_b_fa": "تلون تی وی",
       "description": "General",
       "country_code": "TR",
@@ -3680,8 +3680,8 @@
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "ekol_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/ekol_tv.png",
+      "localImageResource": "ekol_tv_2",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/ekol_tv_2.png",
       "maxBitRate": "4000000",
       "channelName": "ekol_tv",
       "url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8"
