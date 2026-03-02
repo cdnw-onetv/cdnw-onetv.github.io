@@ -5252,7 +5252,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "irib3temp",
       "url": "http://venolie.com/navo/view/p/irib3.php",
-      "wedUrl": "https://ca-rt.onetv.app:443/khabar/index-0.m3u8?token=onetv202"
+      "embedUrl": "http://azrogo.com/local/gnk4/?ch=374"
     },
     {
       "id": "1023",
@@ -5341,7 +5341,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "khabartemp",
       "url": "http://venolie.com/navo/view/p/irinn.php",
-      "webUrl": "http://azrogo.com/local/gnk4/?ch=264"
+      "webUrl": "https://ca-rt.onetv.app:443/khabar/index-0.m3u8?token=onetv202"
     },
     {
       "id": "90901027",
