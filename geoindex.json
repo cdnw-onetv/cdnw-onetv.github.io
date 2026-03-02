@@ -5274,7 +5274,8 @@
       "localImageResourceNightMode": "irib_khabar_night_mode",
       "serverName": "EmbeddedWebView",
       "channelName": "khabartemp",
-      "url": "http://venolie.com/navo/view/p/irinn.php"
+      "url": "http://venolie.com/navo/view/p/irinn.php",
+      "webUrl": "https://ca-rt.onetv.app:443/khabar/index-0.m3u8?token=onetv202",
     },
     {
       "id": "90901027",
