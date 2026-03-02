@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "125"
+      "description": "126"
     },
     {
       "id": "2001",
@@ -5135,6 +5135,22 @@
       "castBackupId": "41020"
     },
     {
+      "id": "20001020",
+      "title": "IRIB 1 (Server 2)",
+      "title_b_fa": "شبکه یک",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "irib_1",
+      "channelName": "tv1",
+      "httpTimeout": "500",
+      "maxBitRate": "1400000",
+      "serverName": "EmbeddedWebView",
+      "channelName": "irib1temp",
+      "url": "http://venolie.com/navo/view/p/irib1.php",
+      "embedUrl": "http://azrogo.com/local/gnk4/?ch=372"
+    },
+    {
       "id": "1021",
       "title": "IRIB 2",
       "title_b_fa": "شبکه دو",
@@ -5148,6 +5164,21 @@
       "embedUrl": "https://telewebion.ir/embed/live/tv2?autoplay=1",
       "backupId": "41021",
       "castBackupId": "41021"
+    },
+    {
+      "id": "20001021",
+      "title": "IRIB 2 (Server 2)",
+      "title_b_fa": "شبکه دو",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "irib_2",
+      "httpTimeout": "500",
+      "maxBitRate": "1400000",
+      "serverName": "EmbeddedWebView",
+      "channelName": "irib2temp",
+      "url": "http://venolie.com/navo/view/p/irib2.php",
+      "embedUrl": "http://azrogo.com/local/gnk4/?ch=373"
     },
     {
       "id": "1022",
@@ -5204,6 +5235,26 @@
       "backupId": "81022"
     },
     {
+      "id": "20001022",
+      "title": "IRIB 3 (Server 3)",
+      "title_b_fa": "شبکه سه",
+      "title_b_tr": "IRIB 3, Sport",
+      "description": "General",
+      "tags": "Sport",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "irib_3",
+      "geo_restrictions": "!IN",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "maxBitRate": "1400000",
+      "serverName": "EmbeddedWebView",
+      "channelName": "irib3temp",
+      "url": "http://venolie.com/navo/view/p/irib3.php",
+      "embedUrl": "http://azrogo.com/local/gnk4/?ch=374"
+    },
+    {
       "id": "1023",
       "title": "IRIB 4",
       "title_b_fa": "شبکه چهار",
@@ -5217,6 +5268,21 @@
       "embedUrl": "https://telewebion.ir/embed/live/tv4?autoplay=1",
       "backupId": "41023",
       "castBackupId": "41023"
+    },
+    {
+      "id": "20001023",
+      "title": "IRIB 4 (Server 2)",
+      "title_b_fa": "شبکه چهار",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "irib_4",
+      "httpTimeout": "500",
+      "maxBitRate": "1600000",
+      "serverName": "EmbeddedWebView",
+      "channelName": "irib4temp",
+      "url": "http://venolie.com/navo/view/p/irib4.php",
+      "embedUrl": "http://azrogo.com/local/gnk4/?ch=375"
     },
     {
       "id": "1024",
@@ -5275,7 +5341,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "khabartemp",
       "url": "http://venolie.com/navo/view/p/irinn.php",
-      "webUrl": "https://ca-rt.onetv.app:443/khabar/index-0.m3u8?token=onetv202"
+      "webUrl": "http://azrogo.com/local/gnk4/?ch=264"
     },
     {
       "id": "90901027",
