@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "124"
+      "description": "125"
     },
     {
       "id": "2001",
@@ -5272,8 +5272,9 @@
       "geo_restrictions2": "",
       "localImageResource": "irib_khabar",
       "localImageResourceNightMode": "irib_khabar_night_mode",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app:443/khabar/index-0.m3u8?token=onetv202"
+      "serverName": "EmbeddedWebView",
+      "channelName": "khabartemp",
+      "url": "http://venolie.com/navo/view/p/irinn.php"
     },
     {
       "id": "90901027",
