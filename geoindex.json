@@ -5148,7 +5148,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "irib1temp",
       "url": "http://venolie.com/navo/view/p/irib1.php",
-      "embedUrl": "http://azrogo.com/local/gnk4/?ch=372"
+      "hideWeb": "true"
     },
     {
       "id": "1021",
@@ -5178,7 +5178,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "irib2temp",
       "url": "http://venolie.com/navo/view/p/irib2.php",
-      "embedUrl": "http://azrogo.com/local/gnk4/?ch=373"
+      "hideWeb": "true"
     },
     {
       "id": "1022",
@@ -5252,7 +5252,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "irib3temp",
       "url": "http://venolie.com/navo/view/p/irib3.php",
-      "embedUrl": "http://azrogo.com/local/gnk4/?ch=374"
+      "hideWeb": "true"
     },
     {
       "id": "1023",
@@ -5282,7 +5282,7 @@
       "serverName": "EmbeddedWebView",
       "channelName": "irib4temp",
       "url": "http://venolie.com/navo/view/p/irib4.php",
-      "embedUrl": "http://azrogo.com/local/gnk4/?ch=375"
+      "hideWeb": "true"
     },
     {
       "id": "1024",
