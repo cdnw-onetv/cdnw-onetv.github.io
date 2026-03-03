@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "126"
+      "description": "127"
     },
     {
       "id": "2001",
@@ -5147,7 +5147,7 @@
       "maxBitRate": "1400000",
       "serverName": "EmbeddedWebView",
       "channelName": "irib1temp",
-      "url": "http://venolie.com/navo/view/p/irib1.php",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib1-live",
       "hideWeb": "true"
     },
     {
@@ -5177,7 +5177,7 @@
       "maxBitRate": "1400000",
       "serverName": "EmbeddedWebView",
       "channelName": "irib2temp",
-      "url": "http://venolie.com/navo/view/p/irib2.php",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib2-live",
       "hideWeb": "true"
     },
     {
@@ -5251,7 +5251,7 @@
       "maxBitRate": "1400000",
       "serverName": "EmbeddedWebView",
       "channelName": "irib3temp",
-      "url": "http://venolie.com/navo/view/p/irib3.php",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
       "hideWeb": "true"
     },
     {
