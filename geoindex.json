@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "127"
+      "description": "128"
     },
     {
       "id": "2001",
@@ -2508,7 +2508,8 @@
       "favorite": "Yes",
       "localImageResource": "rudaw_tv",
       "localImageResourceNightMode": "rudaw_tv_night_mode",
-      "url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
+      "maxBitRate": "4000000",
+      "url": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8"
     },
     {
       "id": "302",
