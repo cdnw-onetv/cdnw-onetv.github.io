@@ -3713,15 +3713,15 @@
     },
     {
       "id": "7012",
-      "title": "ONS TV",
-      "title_b_fa": "اونس تی وی",
+      "title": "CEM TV",
+      "title_b_fa": "جم تی وی",
       "description": "General",
       "country_code": "TR",
       "language_code": "tr",
-      "localImageResource": "ons_tv",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/ons_tv.png",
+      "localImageResource": "cem_tv",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/cem_tv.png",
       "maxBitRate": "4000000",
-      "url": "https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8"
+      "url": "https://tv.cemtv.net:19360/cemtv/cemtv.m3u8"
     },
     {
       "id": "7013",
