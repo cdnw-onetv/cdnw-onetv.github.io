@@ -601,7 +601,7 @@
       "localImageResource": "iran_national_revolution_tv",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/iran_national_revolution_tv.png",
       "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://rumble.com/live-hls-dvr/73zays/playlist.m3u8"
+      "url": "https://hls.irannrtv.live/hls/stream.m3u8"
     },
     {
       "id": "60",
