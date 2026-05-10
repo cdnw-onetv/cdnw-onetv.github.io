@@ -2057,17 +2057,6 @@
       "backupUrl": "https://ca.onetvapi.win:8443/kjhls.wns.live/hls/stream.m3u8?token=onetv202"
     },
     {
-      "id": "148",
-      "title": "Alternative Shorai",
-      "title_b_fa": "آلترناتیو شورایی",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "alternative_shorai",
-      "remoteImageResource": "https://cdnw-onetv.github.io/logo/alternative_shorai.png",
-      "url": "https://iko-streamline-live1.akamaized.net/Alternative_Shorai_TV/master.m3u8"
-    },
-    {
       "id": "103",
       "title": "Kalemeh TV",
       "title_b_fa": "کلمه تی وی",
@@ -2790,6 +2779,17 @@
       "localImageResource": "kurd_channel",
       "url": "https://cdn.northtelecom.org/KurdChannel.m3u8",
       "backupId": "4313"
+    },
+    {
+      "id": "148",
+      "title": "Alternative Shorai",
+      "title_b_fa": "آلترناتیو شورایی",
+      "description": "General",
+      "country_code": "IR",
+      "language_code": "ku",
+      "localImageResource": "alternative_shorai",
+      "remoteImageResource": "https://cdnw-onetv.github.io/logo/alternative_shorai.png",
+      "url": "https://hlspackager.akamaized.net/live/DB/ALTERNATIVE_SHORAI_TV/HLS/ALTERNATIVE_SHORAI_TV.m3u8"
     },
     {
       "id": "325",
