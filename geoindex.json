@@ -2610,7 +2610,7 @@
       "localImageResource": "kmc",
       "geo_restrictions1": "",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/kmc.png",
-      "url": "http://172.236.236.87/live/ch1.m3u8"
+      "url": "https://ca-rt.onetv.app/kmc/index-0.m3u8?token=onetv202"
     },
     {
       "id": "308",
