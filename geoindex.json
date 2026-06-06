@@ -2609,6 +2609,7 @@
       "language_code": "ku",
       "localImageResource": "kmc",
       "geo_restrictions1": "",
+      "streamingUrlReferer": "https://onetv202.app",
       "remoteImageResource": "https://cdnw-onetv.github.io/logo/kmc.png",
       "url": "https://ca-rt.onetv.app/kmc/index-0.m3u8?token=onetv202"
     },
