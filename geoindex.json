@@ -5136,22 +5136,6 @@
       "castBackupId": "41020"
     },
     {
-      "id": "20001020",
-      "title": "IRIB 1 (Server 2)",
-      "title_b_fa": "شبکه یک",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_1",
-      "channelName": "tv1",
-      "httpTimeout": "500",
-      "maxBitRate": "1400000",
-      "serverName": "EmbeddedWebView",
-      "channelName": "irib1temp",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib1-live",
-      "hideWeb": "true"
-    },
-    {
       "id": "1021",
       "title": "IRIB 2",
       "title_b_fa": "شبکه دو",
@@ -5165,21 +5149,6 @@
       "embedUrl": "https://telewebion.ir/embed/live/tv2?autoplay=1",
       "backupId": "41021",
       "castBackupId": "41021"
-    },
-    {
-      "id": "20001021",
-      "title": "IRIB 2 (Server 2)",
-      "title_b_fa": "شبکه دو",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_2",
-      "httpTimeout": "500",
-      "maxBitRate": "1400000",
-      "serverName": "EmbeddedWebView",
-      "channelName": "irib2temp",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib2-live",
-      "hideWeb": "true"
     },
     {
       "id": "1022",
@@ -5285,21 +5254,6 @@
       "castBackupId": "41023"
     },
     {
-      "id": "20001023",
-      "title": "IRIB 4 (Server 2)",
-      "title_b_fa": "شبکه چهار",
-      "description": "General",
-      "country_code": "IR",
-      "language_code": "fa",
-      "localImageResource": "irib_4",
-      "httpTimeout": "500",
-      "maxBitRate": "1600000",
-      "serverName": "EmbeddedWebView",
-      "channelName": "irib4temp",
-      "url": "http://venolie.com/navo/view/p/irib4.php",
-      "hideWeb": "true"
-    },
-    {
       "id": "1024",
       "title": "IRIB 5",
       "title_b_fa": "شبکه پنج",
@@ -5357,20 +5311,6 @@
       "channelName": "khabartemp",
       "url": "http://venolie.com/navo/view/p/irinn.php",
       "webUrl": "https://ca-rt.onetv.app:443/khabar/index-0.m3u8?token=onetv202"
-    },
-    {
-      "id": "90901027",
-      "title": "Khabar (Server 4)",
-      "title_b_fa": "خبر",
-      "description": "News",
-      "country_code": "IR",
-      "language_code": "fa",
-      "geo_restrictions2": "",
-      "localImageResource": "irib_khabar",
-      "localImageResourceNightMode": "irib_khabar_night_mode",
-      "serverName": "EmbeddedWebView",
-      "channelName": "khabartemp",
-      "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/shabakeh-khabar-live"
     },
     {
       "id": "1036",
