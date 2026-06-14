@@ -5232,13 +5232,26 @@
       "language_code": "fa",
       "geo_restrictions": "!IR",
       "streamingUrlReferer": "https://onetv202.app",
+      "url": "https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202",
+      "backupId": "24241022"
+    },
+    {
+      "id": "24241022",
+      "title": "IRIB 3 (Server 3)",
+      "title_b_fa": "شبکه سه (سرور ۳)",
+      "localImageResource": "irib_3",
+      "description": "General",
+      "tags": "Sport",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!IR",
+      "streamingUrlReferer": "https://onetv202.app",
       "url": "https://ca-rt.onetv.app:443/IRIB3bb/index-0.m3u8?token=onetv202",
-      "backupUrl": "https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202",
       "backupId": "81022"
     },
     {
       "id": "20001022",
-      "title": "IRIB 3 (Server 3)",
+      "title": "IRIB 3 (Server 4)",
       "title_b_fa": "شبکه سه",
       "title_b_tr": "IRIB 3, Sport",
       "description": "General",
