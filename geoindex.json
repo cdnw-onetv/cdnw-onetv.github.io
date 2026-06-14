@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "130"
+      "description": "131"
     },
     {
       "id": "2001",
@@ -819,9 +819,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gembollywood/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gembollywood/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gembollywood/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-bollywood",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "9",
@@ -838,9 +841,12 @@
       "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gemfilm/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemfilm/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemfilm/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-film",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "11",
@@ -857,9 +863,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemclassic/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemclassic/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemclassic/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-classic",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "12",
@@ -876,9 +885,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202",
-      "url1": "https://gm.onetv.app/live/gemdrama/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202",
+      "url1": "https://gm.onetv.app/live/gemdrama/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-drama",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "14",
@@ -895,9 +907,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemjunior/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemjunior/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemjunior/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/gem-junior",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "46",
@@ -914,9 +929,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemkids/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemkids/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemkids/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-kids-tv/gem-kids",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "47",
@@ -933,9 +951,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemfood/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemfood/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemfood/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-cooking-tv/gem-food",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "49",
@@ -954,9 +975,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemmaxx/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemmaxx/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/gem-mifa",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "50",
@@ -973,9 +997,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/river/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/river/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/river/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-general-tv/gem-river",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "51",
@@ -992,9 +1019,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/rubix/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/rubix/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-rubix",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "129",
@@ -1013,9 +1043,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/rubix/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/rubix/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-comedy",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "54",
@@ -1034,9 +1067,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-documentary-tv/gem-nature",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "126",
@@ -1053,9 +1089,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-business-tv/gem-life",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "127",
@@ -1073,9 +1112,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-general-tv/gem-fit",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "131",
@@ -1093,9 +1135,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-onyx",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "153",
@@ -1113,9 +1158,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemsport/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemsport/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-sports-tv/gem-sport",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "52",
@@ -1134,9 +1182,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gementertainment/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemtravel/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemtravel/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-general-tv/gem-entertainment",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "130",
@@ -1155,9 +1206,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/rubix/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/rubix/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/gem-24b",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "132",
@@ -1175,9 +1229,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemcrypto/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemcrypto/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-pixel",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "123",
@@ -1194,9 +1251,12 @@
       "httpReadTimeout": "1000",
       "streamingUrlHeaders": "OneToken:abcxyz",
       "url0": "https://stream-live.gemonline.tv/live/gem/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gem/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gem/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-tv-plus",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "124",
@@ -1213,9 +1273,12 @@
       "httpReadTimeout": "1000",
       "url0": "http://stream-live.gemonline.tv/live/gemseries/index.m3u8",
       "maxBitRate": "900000",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemseries/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemseries/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-series-plus",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "125",
@@ -1232,9 +1295,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemdrama/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202",
-      "url1": "https://gm.onetv.app/live/gemdrama/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202",
+      "url1": "https://gm.onetv.app/live/gemdrama/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-drama-plus",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "133",
@@ -1253,9 +1319,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemmaxx/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemmaxx/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-music-tv/gem-mifa-plus",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "134",
@@ -1271,9 +1340,12 @@
       "httpTimeout": "1000",
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/gemriverplus/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/gemriverplus/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-general-tv/gem-river-plus",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "128",
@@ -1290,9 +1362,12 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "url0": "https://stream-live.gemonline.tv/live/rubix/index.m3u8",
-      "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202",
-      "url2": "https://gm.onetv.app/live/rubix/index.m3u8"
+      "streamingUrlReferer9": "https://onetv202.app",
+      "url9": "https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202",
+      "url2": "https://gm.onetv.app/live/rubix/index.m3u8",
+      "url": "https://www.aparatchi.com/iran-live-tv/farsi-serial-tv/gem-rubix-plus",
+      "serverName": "EmbeddedWebView",
+      "defaultSeekTimeDiff1": "14000"
     },
     {
       "id": "21",
