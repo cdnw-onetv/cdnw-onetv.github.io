@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "129"
+      "description": "130"
     },
     {
       "id": "2001",
@@ -5219,8 +5219,21 @@
       "backupId": "81022"
     },
     {
-      "id": "20001022",
+      "id": "25241022",
       "title": "IRIB 3 (Server 4)",
+      "title_b_fa": "شبکه سه (سرور ۴)",
+      "localImageResource": "irib_3",
+      "description": "General",
+      "tags": "Sport",
+      "country_code": "IR",
+      "language_code": "fa",
+      "geo_restrictions": "!IR",
+      "url": "https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8",
+      "backupId": "81022"
+    },
+    {
+      "id": "20001022",
+      "title": "IRIB 3 (Server 5)",
       "title_b_fa": "شبکه سه",
       "title_b_tr": "IRIB 3, Sport",
       "description": "General",
