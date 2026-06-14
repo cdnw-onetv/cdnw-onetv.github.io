@@ -5232,7 +5232,8 @@
       "language_code": "fa",
       "geo_restrictions": "!IR",
       "streamingUrlReferer": "https://onetv202.app",
-      "url": "https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202",
+      "url": "https://ca-rt.onetv.app:443/IRIB3bb/index-0.m3u8?token=onetv202",
+      "backupUrl": "https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202",
       "backupId": "81022"
     },
     {
