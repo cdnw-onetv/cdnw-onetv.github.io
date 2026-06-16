@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "133"
+      "description": "134"
     },
     {
       "id": "2001",
@@ -5243,7 +5243,7 @@
       "maxBitRate": "1400000",
       "url": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
       "embedUrl": "https://telewebion.ir/embed/live/tv3?autoplay=1",
-      "backupId": "81022",
+      "backupId": "20001022",
       "castBackupId": "121022"
     },
     {
@@ -5255,7 +5255,7 @@
       "tags": "Sport",
       "country_code": "IR",
       "language_code": "fa",
-      "geo_restrictions": "@IR",
+      "geo_restrictions": "",
       "localImageResource": "irib_3",
       "serverName": "EmbeddedWebView",
       "channelName": "tv3",
@@ -5305,7 +5305,7 @@
       "language_code": "fa",
       "geo_restrictions": "!IR",
       "url": "https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8",
-      "backupId": "81022"
+      "backupId": "20001022"
     },
     {
       "id": "20001022",
@@ -5323,14 +5323,14 @@
       "httpReadTimeout": "1000",
       "maxBitRate": "1400000",
       "serverName": "EmbeddedWebView",
-      "channelName": "irib3temp",
+      "channelName": "irib3temp1",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
       "hideWeb": "true",
       "backupId": "200010221"
     },
     {
       "id": "200010221",
-      "title": "World Cup 2026 - IRIB 3",
+      "title": "World Cup 2026",
       "title_b_fa": "شبکه سه",
       "title_b_tr": "IRIB 3, Sport",
       "description": "General",
@@ -5344,14 +5344,14 @@
       "httpReadTimeout": "1000",
       "maxBitRate": "1400000",
       "serverName": "EmbeddedWebView",
-      "channelName": "irib3temp",
+      "channelName": "irib3temp4",
       "url": "https://www.wishtube.com/ch=World-Cup-1",
       "hideWeb": "true",
       "backupId": "200010222"
     },
     {
       "id": "200010222",
-      "title": "World Cup 2026 - IRIB 3",
+      "title": "World Cup 2026",
       "title_b_fa": "شبکه سه",
       "title_b_tr": "IRIB 3, Sport",
       "description": "General",
@@ -8011,7 +8011,7 @@
       "serverName": "EmbeddedWebView",
       "defaultSeekTimeDiff1": "14000",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
-      "backupId": "121022"
+      "backupId": "200010221"
     },
     {
       "id": "121022",
