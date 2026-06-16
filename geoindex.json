@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "132"
+      "description": "133"
     },
     {
       "id": "2001",
@@ -5325,6 +5325,48 @@
       "serverName": "EmbeddedWebView",
       "channelName": "irib3temp",
       "url": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
+      "hideWeb": "true",
+      "backupId": "200010221"
+    },
+    {
+      "id": "200010221",
+      "title": "World Cup 2026 - IRIB 3",
+      "title_b_fa": "شبکه سه",
+      "title_b_tr": "IRIB 3, Sport",
+      "description": "General",
+      "tags": "Sport",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "irib_3",
+      "geo_restrictions": "!IN,IR",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "maxBitRate": "1400000",
+      "serverName": "EmbeddedWebView",
+      "channelName": "irib3temp",
+      "url": "https://www.wishtube.com/ch=World-Cup-1",
+      "hideWeb": "true",
+      "backupId": "200010222"
+    },
+    {
+      "id": "200010222",
+      "title": "World Cup 2026 - IRIB 3",
+      "title_b_fa": "شبکه سه",
+      "title_b_tr": "IRIB 3, Sport",
+      "description": "General",
+      "tags": "Sport",
+      "country_code": "IR",
+      "language_code": "fa",
+      "localImageResource": "irib_3",
+      "geo_restrictions": "!IN,IR",
+      "httpTimeout": "1000",
+      "httpConnectTimeout": "1000",
+      "httpReadTimeout": "1000",
+      "maxBitRate": "1400000",
+      "serverName": "EmbeddedWebView",
+      "channelName": "irib3temp",
+      "url": "https://www.wishtube.com/ch=World-Cup-2",
       "hideWeb": "true"
     },
     {
