@@ -3,7 +3,7 @@
     {
       "id": "2000",
       "title": "version",
-      "description": "134"
+      "description": "135"
     },
     {
       "id": "2001",
@@ -5344,15 +5344,16 @@
       "httpConnectTimeout": "1000",
       "httpReadTimeout": "1000",
       "maxBitRate": "1400000",
-      "serverName": "EmbeddedWebView",
-      "channelName": "irib3temp4",
-      "url": "https://www.wishtube.com/ch=World-Cup-1",
+      "serverName1": "EmbeddedWebView",
+      "channelName1": "irib3temp4q",
+      "streamingUrlReferer": "https://telewebion.com",
+      "url": "https://live-aburayhan1104.telewebion.ir/ek/sport2/live/720p/index.m3u8",
       "hideWeb": "true",
       "backupId": "200010222"
     },
     {
       "id": "200010222",
-      "title": "World Cup 2026",
+      "title": "World Cup 2026 (2)",
       "title_b_fa": "شبکه سه",
       "title_b_tr": "IRIB 3, Sport",
       "description": "General",
